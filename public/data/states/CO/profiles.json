@@ -1,0 +1,391 @@
+{
+  "datasetVersion": "co-profiles-2026-09",
+  "profiles": [
+    {
+      "areaId": "08001",
+      "countySeat": "Brighton",
+      "region": "Front Range",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08003",
+      "countySeat": "Alamosa",
+      "region": "San Luis Valley",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08005",
+      "countySeat": "Littleton",
+      "region": "Front Range",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08007",
+      "countySeat": "Pagosa Springs",
+      "region": "Southwest",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08009",
+      "countySeat": "Springfield",
+      "region": "Eastern Plains",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08011",
+      "countySeat": "Las Animas",
+      "region": "Eastern Plains",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08013",
+      "countySeat": "Boulder",
+      "region": "Front Range",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08014",
+      "countySeat": "Broomfield",
+      "region": "Front Range",
+      "updatedAt": "2026-09-27",
+      "consolidatedCityCounty": true
+    },
+    {
+      "areaId": "08015",
+      "countySeat": "Salida",
+      "region": "Central Mountains",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08017",
+      "countySeat": "Cheyenne Wells",
+      "region": "Eastern Plains",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08019",
+      "countySeat": "Georgetown",
+      "region": "Central Mountains",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08021",
+      "countySeat": "Conejos",
+      "region": "San Luis Valley",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08023",
+      "countySeat": "San Luis",
+      "region": "San Luis Valley",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08025",
+      "countySeat": "Ordway",
+      "region": "Eastern Plains",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08027",
+      "countySeat": "Westcliffe",
+      "region": "Southern Mountains",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08029",
+      "countySeat": "Delta",
+      "region": "Western Slope",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08031",
+      "countySeat": "Denver",
+      "region": "Front Range",
+      "updatedAt": "2026-09-27",
+      "consolidatedCityCounty": true
+    },
+    {
+      "areaId": "08033",
+      "countySeat": "Dove Creek",
+      "region": "Southwest",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08035",
+      "countySeat": "Castle Rock",
+      "region": "Front Range",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08037",
+      "countySeat": "Eagle",
+      "region": "Central Mountains",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08039",
+      "countySeat": "Kiowa",
+      "region": "Eastern Plains",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08041",
+      "countySeat": "Colorado Springs",
+      "region": "Front Range",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08043",
+      "countySeat": "Cañon City",
+      "region": "Southern Mountains",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08045",
+      "countySeat": "Glenwood Springs",
+      "region": "Western Slope",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08047",
+      "countySeat": "Central City",
+      "region": "Central Mountains",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08049",
+      "countySeat": "Hot Sulphur Springs",
+      "region": "Northern Mountains",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08051",
+      "countySeat": "Gunnison",
+      "region": "Central Mountains",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08053",
+      "countySeat": "Lake City",
+      "region": "Southwest",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08055",
+      "countySeat": "Walsenburg",
+      "region": "Southern Mountains",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08057",
+      "countySeat": "Walden",
+      "region": "Northern Mountains",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08059",
+      "countySeat": "Golden",
+      "region": "Front Range",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08061",
+      "countySeat": "Eads",
+      "region": "Eastern Plains",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08063",
+      "countySeat": "Burlington",
+      "region": "Eastern Plains",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08065",
+      "countySeat": "Leadville",
+      "region": "Central Mountains",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08067",
+      "countySeat": "Durango",
+      "region": "Southwest",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08069",
+      "countySeat": "Fort Collins",
+      "region": "Front Range",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08071",
+      "countySeat": "Trinidad",
+      "region": "Southern Mountains",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08073",
+      "countySeat": "Hugo",
+      "region": "Eastern Plains",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08075",
+      "countySeat": "Sterling",
+      "region": "Eastern Plains",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08077",
+      "countySeat": "Grand Junction",
+      "region": "Western Slope",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08079",
+      "countySeat": "Creede",
+      "region": "San Luis Valley",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08081",
+      "countySeat": "Craig",
+      "region": "Northwest",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08083",
+      "countySeat": "Cortez",
+      "region": "Southwest",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08085",
+      "countySeat": "Montrose",
+      "region": "Western Slope",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08087",
+      "countySeat": "Fort Morgan",
+      "region": "Eastern Plains",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08089",
+      "countySeat": "La Junta",
+      "region": "Eastern Plains",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08091",
+      "countySeat": "Ouray",
+      "region": "Southwest",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08093",
+      "countySeat": "Fairplay",
+      "region": "Central Mountains",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08095",
+      "countySeat": "Holyoke",
+      "region": "Eastern Plains",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08097",
+      "countySeat": "Aspen",
+      "region": "Central Mountains",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08099",
+      "countySeat": "Lamar",
+      "region": "Eastern Plains",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08101",
+      "countySeat": "Pueblo",
+      "region": "Front Range",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08103",
+      "countySeat": "Meeker",
+      "region": "Northwest",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08105",
+      "countySeat": "Del Norte",
+      "region": "San Luis Valley",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08107",
+      "countySeat": "Steamboat Springs",
+      "region": "Northern Mountains",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08109",
+      "countySeat": "Saguache",
+      "region": "San Luis Valley",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08111",
+      "countySeat": "Silverton",
+      "region": "Southwest",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08113",
+      "countySeat": "Telluride",
+      "region": "Southwest",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08115",
+      "countySeat": "Julesburg",
+      "region": "Eastern Plains",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08117",
+      "countySeat": "Breckenridge",
+      "region": "Central Mountains",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08119",
+      "countySeat": "Cripple Creek",
+      "region": "Front Range",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08121",
+      "countySeat": "Akron",
+      "region": "Eastern Plains",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08123",
+      "countySeat": "Greeley",
+      "region": "Front Range",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "areaId": "08125",
+      "countySeat": "Wray",
+      "region": "Eastern Plains",
+      "updatedAt": "2026-09-27"
+    }
+  ]
+}

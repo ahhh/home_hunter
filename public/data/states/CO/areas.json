@@ -1,0 +1,1106 @@
+{
+  "state": {
+    "code": "CO",
+    "name": "Colorado",
+    "fips": "08"
+  },
+  "geometry": {
+    "file": "counties.geojson",
+    "sha256": "ecc02b6bf35f67d467c51ec921383b71fd04e789a23bcbe8c3090d29fe18d248",
+    "simplification": "mapshaper -simplify 40% keep-shapes",
+    "dataset": "cb_2023_us_county_5m",
+    "authority": "U.S. Census Bureau, Cartographic Boundary Files",
+    "url": "https://www2.census.gov/geo/tiger/GENZ2023/shp/cb_2023_us_county_5m.zip"
+  },
+  "builtAt": "2026-09-27",
+  "areas": [
+    {
+      "id": "08001",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08001",
+      "name": "Adams County",
+      "centroid": {
+        "lat": 39.87349,
+        "lng": -104.33913
+      },
+      "bounds": {
+        "south": 39.73811,
+        "west": -105.05325,
+        "north": 40.00137,
+        "east": -103.7057
+      }
+    },
+    {
+      "id": "08003",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08003",
+      "name": "Alamosa County",
+      "centroid": {
+        "lat": 37.57285,
+        "lng": -105.78833
+      },
+      "bounds": {
+        "south": 37.3568,
+        "west": -106.03933,
+        "north": 37.75146,
+        "east": -105.45424
+      }
+    },
+    {
+      "id": "08005",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08005",
+      "name": "Arapahoe County",
+      "centroid": {
+        "lat": 39.64959,
+        "lng": -104.33737
+      },
+      "bounds": {
+        "south": 39.56369,
+        "west": -105.05364,
+        "north": 39.74016,
+        "east": -103.70655
+      }
+    },
+    {
+      "id": "08007",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08007",
+      "name": "Archuleta County",
+      "centroid": {
+        "lat": 37.19365,
+        "lng": -107.04819
+      },
+      "bounds": {
+        "south": 36.99243,
+        "west": -107.48213,
+        "north": 37.42294,
+        "east": -106.47628
+      }
+    },
+    {
+      "id": "08009",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08009",
+      "name": "Baca County",
+      "centroid": {
+        "lat": 37.31921,
+        "lng": -102.56011
+      },
+      "bounds": {
+        "south": 36.99308,
+        "west": -103.0861,
+        "north": 37.64428,
+        "east": -102.04158
+      }
+    },
+    {
+      "id": "08011",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08011",
+      "name": "Bent County",
+      "centroid": {
+        "lat": 37.95479,
+        "lng": -103.07215
+      },
+      "bounds": {
+        "south": 37.64342,
+        "west": -103.40434,
+        "north": 38.26697,
+        "east": -102.74046
+      }
+    },
+    {
+      "id": "08013",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08013",
+      "name": "Boulder County",
+      "centroid": {
+        "lat": 40.09243,
+        "lng": -105.35851
+      },
+      "bounds": {
+        "south": 39.91289,
+        "west": -105.69359,
+        "north": 40.26279,
+        "east": -105.0528
+      }
+    },
+    {
+      "id": "08014",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08014",
+      "name": "Broomfield County",
+      "centroid": {
+        "lat": 39.95796,
+        "lng": -105.04893
+      },
+      "bounds": {
+        "south": 39.89979,
+        "west": -105.14714,
+        "north": 40.04414,
+        "east": -104.96107
+      }
+    },
+    {
+      "id": "08015",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08015",
+      "name": "Chaffee County",
+      "centroid": {
+        "lat": 38.74762,
+        "lng": -106.19423
+      },
+      "bounds": {
+        "south": 38.42228,
+        "west": -106.59921,
+        "north": 39.05791,
+        "east": -105.87854
+      }
+    },
+    {
+      "id": "08017",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08017",
+      "name": "Cheyenne County",
+      "centroid": {
+        "lat": 38.82815,
+        "lng": -102.6033
+      },
+      "bounds": {
+        "south": 38.61245,
+        "west": -103.17294,
+        "north": 39.04704,
+        "east": -102.04521
+      }
+    },
+    {
+      "id": "08019",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08019",
+      "name": "Clear Creek County",
+      "centroid": {
+        "lat": 39.68957,
+        "lng": -105.64408
+      },
+      "bounds": {
+        "south": 39.56486,
+        "west": -105.92508,
+        "north": 39.852,
+        "east": -105.39795
+      }
+    },
+    {
+      "id": "08021",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08021",
+      "name": "Conejos County",
+      "centroid": {
+        "lat": 37.20063,
+        "lng": -106.19134
+      },
+      "bounds": {
+        "south": 36.99384,
+        "west": -106.67837,
+        "north": 37.4036,
+        "east": -105.71847
+      }
+    },
+    {
+      "id": "08023",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08023",
+      "name": "Costilla County",
+      "centroid": {
+        "lat": 37.27817,
+        "lng": -105.4278
+      },
+      "bounds": {
+        "south": 36.99517,
+        "west": -105.77139,
+        "north": 37.65814,
+        "east": -105.13857
+      }
+    },
+    {
+      "id": "08025",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08025",
+      "name": "Crowley County",
+      "centroid": {
+        "lat": 38.32644,
+        "lng": -103.78386
+      },
+      "bounds": {
+        "south": 38.11334,
+        "west": -104.05824,
+        "north": 38.52255,
+        "east": -103.50176
+      }
+    },
+    {
+      "id": "08027",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08027",
+      "name": "Custer County",
+      "centroid": {
+        "lat": 38.10894,
+        "lng": -105.36746
+      },
+      "bounds": {
+        "south": 37.89053,
+        "west": -105.7969,
+        "north": 38.26505,
+        "east": -105.04829
+      }
+    },
+    {
+      "id": "08029",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08029",
+      "name": "Delta County",
+      "centroid": {
+        "lat": 38.86145,
+        "lng": -107.86294
+      },
+      "bounds": {
+        "south": 38.6681,
+        "west": -108.37895,
+        "north": 39.21792,
+        "east": -107.50061
+      }
+    },
+    {
+      "id": "08031",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08031",
+      "name": "Denver County",
+      "centroid": {
+        "lat": 39.75937,
+        "lng": -104.8785
+      },
+      "bounds": {
+        "south": 39.61398,
+        "west": -105.10987,
+        "north": 39.90701,
+        "east": -104.59958
+      }
+    },
+    {
+      "id": "08033",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08033",
+      "name": "Dolores County",
+      "centroid": {
+        "lat": 37.75203,
+        "lng": -108.51722
+      },
+      "bounds": {
+        "south": 37.48482,
+        "west": -109.04346,
+        "north": 37.89551,
+        "east": -107.86084
+      }
+    },
+    {
+      "id": "08035",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08035",
+      "name": "Douglas County",
+      "centroid": {
+        "lat": 39.3295,
+        "lng": -104.92921
+      },
+      "bounds": {
+        "south": 39.12949,
+        "west": -105.32944,
+        "north": 39.56609,
+        "east": -104.66016
+      }
+    },
+    {
+      "id": "08037",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08037",
+      "name": "Eagle County",
+      "centroid": {
+        "lat": 39.62803,
+        "lng": -106.69539
+      },
+      "bounds": {
+        "south": 39.34947,
+        "west": -107.11387,
+        "north": 39.92491,
+        "east": -106.17646
+      }
+    },
+    {
+      "id": "08039",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08039",
+      "name": "Elbert County",
+      "centroid": {
+        "lat": 39.28603,
+        "lng": -104.13498
+      },
+      "bounds": {
+        "south": 38.86683,
+        "west": -104.66257,
+        "north": 39.56633,
+        "east": -103.71435
+      }
+    },
+    {
+      "id": "08041",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08041",
+      "name": "El Paso County",
+      "centroid": {
+        "lat": 38.83213,
+        "lng": -104.52562
+      },
+      "bounds": {
+        "south": 38.51956,
+        "west": -105.07218,
+        "north": 39.12978,
+        "east": -104.05157
+      }
+    },
+    {
+      "id": "08043",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08043",
+      "name": "Fremont County",
+      "centroid": {
+        "lat": 38.47313,
+        "lng": -105.43941
+      },
+      "bounds": {
+        "south": 38.25797,
+        "west": -106.01075,
+        "north": 38.69756,
+        "east": -104.94037
+      }
+    },
+    {
+      "id": "08045",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08045",
+      "name": "Garfield County",
+      "centroid": {
+        "lat": 39.59927,
+        "lng": -107.90257
+      },
+      "bounds": {
+        "south": 39.36607,
+        "west": -109.05136,
+        "north": 40.09154,
+        "east": -107.03205
+      }
+    },
+    {
+      "id": "08047",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08047",
+      "name": "Gilpin County",
+      "centroid": {
+        "lat": 39.85664,
+        "lng": -105.52398
+      },
+      "bounds": {
+        "south": 39.74604,
+        "west": -105.69972,
+        "north": 39.93245,
+        "east": -105.39785
+      }
+    },
+    {
+      "id": "08049",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08049",
+      "name": "Grand County",
+      "centroid": {
+        "lat": 40.10309,
+        "lng": -106.11862
+      },
+      "bounds": {
+        "south": 39.68412,
+        "west": -106.65283,
+        "north": 40.48625,
+        "east": -105.62609
+      }
+    },
+    {
+      "id": "08051",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08051",
+      "name": "Gunnison County",
+      "centroid": {
+        "lat": 38.66666,
+        "lng": -107.03203
+      },
+      "bounds": {
+        "south": 38.14707,
+        "west": -107.63504,
+        "north": 39.2576,
+        "east": -106.24536
+      }
+    },
+    {
+      "id": "08053",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08053",
+      "name": "Hinsdale County",
+      "centroid": {
+        "lat": 37.82128,
+        "lng": -107.30038
+      },
+      "bounds": {
+        "south": 37.42267,
+        "west": -107.59137,
+        "north": 38.14727,
+        "east": -107.0006
+      }
+    },
+    {
+      "id": "08055",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08055",
+      "name": "Huerfano County",
+      "centroid": {
+        "lat": 37.68499,
+        "lng": -104.96041
+      },
+      "bounds": {
+        "south": 37.29313,
+        "west": -105.50175,
+        "north": 38.01895,
+        "east": -104.35111
+      }
+    },
+    {
+      "id": "08057",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08057",
+      "name": "Jackson County",
+      "centroid": {
+        "lat": 40.66705,
+        "lng": -106.34416
+      },
+      "bounds": {
+        "south": 40.32338,
+        "west": -106.87058,
+        "north": 41.00266,
+        "east": -105.8523
+      }
+    },
+    {
+      "id": "08059",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08059",
+      "name": "Jefferson County",
+      "centroid": {
+        "lat": 39.58716,
+        "lng": -105.24999
+      },
+      "bounds": {
+        "south": 39.12947,
+        "west": -105.39895,
+        "north": 39.91422,
+        "east": -105.04874
+      }
+    },
+    {
+      "id": "08061",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08061",
+      "name": "Kiowa County",
+      "centroid": {
+        "lat": 38.43279,
+        "lng": -102.74079
+      },
+      "bounds": {
+        "south": 38.26502,
+        "west": -103.50698,
+        "north": 38.61517,
+        "east": -102.04457
+      }
+    },
+    {
+      "id": "08063",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08063",
+      "name": "Kit Carson County",
+      "centroid": {
+        "lat": 39.3053,
+        "lng": -102.60275
+      },
+      "bounds": {
+        "south": 39.03761,
+        "west": -103.16307,
+        "north": 39.57406,
+        "east": -102.04657
+      }
+    },
+    {
+      "id": "08065",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08065",
+      "name": "Lake County",
+      "centroid": {
+        "lat": 39.20243,
+        "lng": -106.34454
+      },
+      "bounds": {
+        "south": 39.05607,
+        "west": -106.58634,
+        "north": 39.38096,
+        "east": -106.13553
+      }
+    },
+    {
+      "id": "08067",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08067",
+      "name": "La Plata County",
+      "centroid": {
+        "lat": 37.28666,
+        "lng": -107.84378
+      },
+      "bounds": {
+        "south": 36.99902,
+        "west": -108.3793,
+        "north": 37.64015,
+        "east": -107.48174
+      }
+    },
+    {
+      "id": "08069",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08069",
+      "name": "Larimer County",
+      "centroid": {
+        "lat": 40.66646,
+        "lng": -105.46134
+      },
+      "bounds": {
+        "south": 40.25788,
+        "west": -106.19537,
+        "north": 40.99817,
+        "east": -104.94337
+      }
+    },
+    {
+      "id": "08071",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08071",
+      "name": "Las Animas County",
+      "centroid": {
+        "lat": 37.31569,
+        "lng": -104.03848
+      },
+      "bounds": {
+        "south": 36.99326,
+        "west": -105.15504,
+        "north": 37.81749,
+        "east": -103.07466
+      }
+    },
+    {
+      "id": "08073",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08073",
+      "name": "Lincoln County",
+      "centroid": {
+        "lat": 38.98787,
+        "lng": -103.51404
+      },
+      "bounds": {
+        "south": 38.51641,
+        "west": -104.05553,
+        "north": 39.56633,
+        "east": -103.15438
+      }
+    },
+    {
+      "id": "08075",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08075",
+      "name": "Logan County",
+      "centroid": {
+        "lat": 40.72468,
+        "lng": -103.11063
+      },
+      "bounds": {
+        "south": 40.43609,
+        "west": -103.58184,
+        "north": 41.00233,
+        "east": -102.65088
+      }
+    },
+    {
+      "id": "08077",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08077",
+      "name": "Mesa County",
+      "centroid": {
+        "lat": 39.01834,
+        "lng": -108.46657
+      },
+      "bounds": {
+        "south": 38.49999,
+        "west": -109.05996,
+        "north": 39.36668,
+        "east": -107.37917
+      }
+    },
+    {
+      "id": "08079",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08079",
+      "name": "Mineral County",
+      "centroid": {
+        "lat": 37.66945,
+        "lng": -106.92407
+      },
+      "bounds": {
+        "south": 37.39241,
+        "west": -107.14514,
+        "north": 37.97504,
+        "east": -106.69352
+      }
+    },
+    {
+      "id": "08081",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08081",
+      "name": "Moffat County",
+      "centroid": {
+        "lat": 40.6184,
+        "lng": -108.20751
+      },
+      "bounds": {
+        "south": 40.22042,
+        "west": -109.05097,
+        "north": 41.00297,
+        "east": -107.31415
+      }
+    },
+    {
+      "id": "08083",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08083",
+      "name": "Montezuma County",
+      "centroid": {
+        "lat": 37.33887,
+        "lng": -108.59696
+      },
+      "bounds": {
+        "south": 36.99908,
+        "west": -109.04599,
+        "north": 37.63959,
+        "east": -107.97009
+      }
+    },
+    {
+      "id": "08085",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08085",
+      "name": "Montrose County",
+      "centroid": {
+        "lat": 38.40239,
+        "lng": -108.26869
+      },
+      "bounds": {
+        "south": 38.15233,
+        "west": -109.06006,
+        "north": 38.66855,
+        "east": -107.50002
+      }
+    },
+    {
+      "id": "08087",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08087",
+      "name": "Morgan County",
+      "centroid": {
+        "lat": 40.26284,
+        "lng": -103.81012
+      },
+      "bounds": {
+        "south": 40.00086,
+        "west": -104.15049,
+        "north": 40.52439,
+        "east": -103.46466
+      }
+    },
+    {
+      "id": "08089",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08089",
+      "name": "Otero County",
+      "centroid": {
+        "lat": 37.90213,
+        "lng": -103.71703
+      },
+      "bounds": {
+        "south": 37.64358,
+        "west": -104.06113,
+        "north": 38.26543,
+        "east": -103.39862
+      }
+    },
+    {
+      "id": "08091",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08091",
+      "name": "Ouray County",
+      "centroid": {
+        "lat": 38.15496,
+        "lng": -107.76924
+      },
+      "bounds": {
+        "south": 37.89241,
+        "west": -108.13238,
+        "north": 38.33215,
+        "east": -107.51088
+      }
+    },
+    {
+      "id": "08093",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08093",
+      "name": "Park County",
+      "centroid": {
+        "lat": 39.11981,
+        "lng": -105.71712
+      },
+      "bounds": {
+        "south": 38.69355,
+        "west": -106.21017,
+        "north": 39.5682,
+        "east": -105.32896
+      }
+    },
+    {
+      "id": "08095",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08095",
+      "name": "Phillips County",
+      "centroid": {
+        "lat": 40.59405,
+        "lng": -102.35734
+      },
+      "bounds": {
+        "south": 40.43847,
+        "west": -102.6648,
+        "north": 40.74959,
+        "east": -102.05129
+      }
+    },
+    {
+      "id": "08097",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08097",
+      "name": "Pitkin County",
+      "centroid": {
+        "lat": 39.21746,
+        "lng": -106.91565
+      },
+      "bounds": {
+        "south": 38.97772,
+        "west": -107.46519,
+        "north": 39.36618,
+        "east": -106.42649
+      }
+    },
+    {
+      "id": "08099",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08099",
+      "name": "Prowers County",
+      "centroid": {
+        "lat": 37.95508,
+        "lng": -102.39329
+      },
+      "bounds": {
+        "south": 37.64364,
+        "west": -102.74771,
+        "north": 38.26875,
+        "east": -102.04158
+      }
+    },
+    {
+      "id": "08101",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08101",
+      "name": "Pueblo County",
+      "centroid": {
+        "lat": 38.17331,
+        "lng": -104.51246
+      },
+      "bounds": {
+        "south": 37.7347,
+        "west": -105.05068,
+        "north": 38.52239,
+        "east": -104.05392
+      }
+    },
+    {
+      "id": "08103",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08103",
+      "name": "Rio Blanco County",
+      "centroid": {
+        "lat": 39.9792,
+        "lng": -108.21742
+      },
+      "bounds": {
+        "south": 39.65016,
+        "west": -109.05104,
+        "north": 40.22537,
+        "east": -107.03736
+      }
+    },
+    {
+      "id": "08105",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08105",
+      "name": "Rio Grande County",
+      "centroid": {
+        "lat": 37.58234,
+        "lng": -106.38302
+      },
+      "bounds": {
+        "south": 37.39935,
+        "west": -106.71162,
+        "north": 37.83524,
+        "east": -106.03841
+      }
+    },
+    {
+      "id": "08107",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08107",
+      "name": "Routt County",
+      "centroid": {
+        "lat": 40.48481,
+        "lng": -106.9916
+      },
+      "bounds": {
+        "south": 39.91867,
+        "west": -107.44259,
+        "north": 41.00344,
+        "east": -106.62611
+      }
+    },
+    {
+      "id": "08109",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08109",
+      "name": "Saguache County",
+      "centroid": {
+        "lat": 38.0805,
+        "lng": -106.28106
+      },
+      "bounds": {
+        "south": 37.74781,
+        "west": -107.00112,
+        "north": 38.45694,
+        "east": -105.42889
+      }
+    },
+    {
+      "id": "08111",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08111",
+      "name": "San Juan County",
+      "centroid": {
+        "lat": 37.76415,
+        "lng": -107.67545
+      },
+      "bounds": {
+        "south": 37.6395,
+        "west": -107.97009,
+        "north": 37.96502,
+        "east": -107.45811
+      }
+    },
+    {
+      "id": "08113",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08113",
+      "name": "San Miguel County",
+      "centroid": {
+        "lat": 38.00402,
+        "lng": -108.406
+      },
+      "bounds": {
+        "south": 37.77414,
+        "west": -109.04312,
+        "north": 38.15496,
+        "east": -107.73331
+      }
+    },
+    {
+      "id": "08115",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08115",
+      "name": "Sedgwick County",
+      "centroid": {
+        "lat": 40.87596,
+        "lng": -102.35204
+      },
+      "bounds": {
+        "south": 40.74935,
+        "west": -102.65346,
+        "north": 41.0026,
+        "east": -102.05129
+      }
+    },
+    {
+      "id": "08117",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08117",
+      "name": "Summit County",
+      "centroid": {
+        "lat": 39.63378,
+        "lng": -106.11545
+      },
+      "bounds": {
+        "south": 39.35743,
+        "west": -106.43451,
+        "north": 39.92491,
+        "east": -105.77597
+      }
+    },
+    {
+      "id": "08119",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08119",
+      "name": "Teller County",
+      "centroid": {
+        "lat": 38.8822,
+        "lng": -105.16167
+      },
+      "bounds": {
+        "south": 38.64746,
+        "west": -105.33038,
+        "north": 39.12978,
+        "east": -104.93896
+      }
+    },
+    {
+      "id": "08121",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08121",
+      "name": "Washington County",
+      "centroid": {
+        "lat": 39.97094,
+        "lng": -103.20154
+      },
+      "bounds": {
+        "south": 39.56565,
+        "west": -103.70707,
+        "north": 40.43845,
+        "east": -102.77996
+      }
+    },
+    {
+      "id": "08123",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08123",
+      "name": "Weld County",
+      "centroid": {
+        "lat": 40.5548,
+        "lng": -104.3932
+      },
+      "bounds": {
+        "south": 40.00025,
+        "west": -105.05672,
+        "north": 41.00172,
+        "east": -103.57373
+      }
+    },
+    {
+      "id": "08125",
+      "type": "county",
+      "stateCode": "CO",
+      "fips": "08125",
+      "name": "Yuma County",
+      "centroid": {
+        "lat": 40.00282,
+        "lng": -102.42453
+      },
+      "bounds": {
+        "south": 39.56784,
+        "west": -102.80377,
+        "north": 40.44001,
+        "east": -102.04981
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "presets": [
+    {
+      "name": "arkansas-valley",
+      "center": "38.74,-106.0",
+      "radius": 60,
+      "types": "land,house,manufactured",
+      "price": ":700k"
+    },
+    {
+      "name": "mountain-land",
+      "center": "38.9,-105.9",
+      "radius": 100,
+      "types": "land",
+      "price": ":300k",
+      "acres": "5:"
+    }
+  ]
+}

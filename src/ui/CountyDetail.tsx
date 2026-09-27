@@ -1,0 +1,183 @@
+import type { Dispatch } from "react";
+import type { AdministrativeArea, CountySearchState, RegulationTopic, SearchState } from "../domain/types";
+import { daysSince } from "../listings/collection";
+import type { StateData } from "../services/data";
+import { searchLinks } from "../sources/sources";
+import type { Action } from "../state/store";
+import { Drawer } from "./Drawer";
+import { shortDate } from "./format";
+
+interface Props {
+  area: AdministrativeArea;
+  data: StateData;
+  search: SearchState;
+  listingCount: number;
+  dispatch: Dispatch<Action>;
+  onClose(): void;
+}
+
+const TOPICS: [keyof RegulationTopics, string][] = [
+  ["zoning", "Zoning and land use"],
+  ["camping", "Camping on your land"],
+  ["rvOccupancy", "Living in an RV or trailer"],
+  ["shortTermRental", "Short-term rentals"],
+  ["longTermRental", "Long-term rentals"],
+  ["dwellingRequirements", "Building a home"],
+];
+type RegulationTopics = Record<"zoning" | "camping" | "rvOccupancy" | "shortTermRental" | "longTermRental" | "dwellingRequirements", RegulationTopic>;
+
+const REVIEW_STALE_DAYS = 365;
+
+export function CountyDetail({ area, data, search, listingCount, dispatch, onClose }: Props) {
+  const profile = data.profiles.get(area.id);
+  const regs = data.regulations.get(area.id);
+  const state = search.counties[area.id];
+  const set = (s: CountySearchState | null) => dispatch({ type: "setCounty", id: area.id, state: s });
+  const google = (q: string) => `https://www.google.com/search?q=${encodeURIComponent(q)}`;
+  const place = `${area.name} ${data.state.name}`;
+  const stale = regs && (regs.status === "stale" || daysSince(regs.reviewedAt) > REVIEW_STALE_DAYS);
+
+  const browse = searchLinks({
+    bounds: area.bounds,
+    countyName: area.name,
+    stateName: data.state.name,
+    stateCode: data.state.code,
+    priceMin: search.filters.priceMin,
+    priceMax: search.filters.priceMax,
+    category: search.filters.category,
+  });
+
+  return (
+    <Drawer label={`${area.name} details`} onClose={onClose} className="county">
+      <header className="detail-head">
+        <h2 tabIndex={-1}>{area.name}</h2>
+        <p className="detail-sub">
+          {[
+            profile?.countySeat && `County seat: ${profile.countySeat}`,
+            profile?.region,
+            profile?.consolidatedCityCounty && "Consolidated city and county",
+          ]
+            .filter(Boolean)
+            .join(". ")}
+        </p>
+        <p className="hint">
+          {listingCount === 0 ? "None of your listings are here yet." : `${listingCount} of your listings ${listingCount === 1 ? "is" : "are"} here.`}
+        </p>
+      </header>
+
+      <div className="seg county-state" role="group" aria-label={`Search setting for ${area.name}`}>
+        <button aria-pressed={!state} onClick={() => set(null)}>
+          Normal
+        </button>
+        <button className="include" aria-pressed={state === "include"} onClick={() => set("include")}>
+          Only this county
+        </button>
+        <button className="exclude" aria-pressed={state === "exclude"} onClick={() => set("exclude")}>
+          Leave out
+        </button>
+      </div>
+      <p className="hint">
+        {state === "include"
+          ? "Listings must be in this county (or any other county marked Only) and inside the circle."
+          : state === "exclude"
+            ? "Listings in this county are hidden, even inside the circle."
+            : "Listings here show when they're inside the circle."}
+      </p>
+
+      <section className="detail-section" aria-labelledby="rules-h">
+        <h3 id="rules-h">County rules</h3>
+        {regs ? (
+          <>
+            <p className={`note ${regs.status === "reviewed" && !stale ? "" : "warn"}`}>
+              {regs.status === "reviewed" ? "Reviewed" : "Not yet reviewed by a person"} {shortDate(regs.reviewedAt)}
+              {stale && ". This summary is over a year old and may be out of date"}.
+              {regs.jurisdictionScope === "county_unincorporated" && " Applies to unincorporated areas (outside town limits)."}
+            </p>
+            {TOPICS.map(([key, title]) => {
+              const t = regs[key];
+              if (!t) return null;
+              return (
+                <div key={key} className="topic">
+                  <h4>{title}</h4>
+                  <p>{t.summary}</p>
+                  <p className="hint">
+                    {t.confidence !== "high" && `${t.confidence === "medium" ? "Moderate" : "Low"} confidence. `}
+                    {t.sourceIds.map((id, i) => {
+                      const s = data.regulationSources.get(id);
+                      return s ? (
+                        <span key={id}>
+                          {i > 0 && ", "}
+                          <a href={s.url} target="_blank" rel="noopener noreferrer">
+                            {s.title}
+                          </a>
+                        </span>
+                      ) : null;
+                    })}
+                  </p>
+                </div>
+              );
+            })}
+            {regs.caveats.length > 0 && (
+              <ul className="caveats">
+                {regs.caveats.map((c, i) => (
+                  <li key={i}>{c}</li>
+                ))}
+              </ul>
+            )}
+          </>
+        ) : (
+          <p className="note">
+            No reviewed summary of zoning, camping, RV or rental rules for {area.name} yet. Check with the county
+            planning department directly.
+          </p>
+        )}
+        <ul className="link-list">
+          <li>
+            <a href={profile?.planningWebsite ?? google(`${place} planning department land use code`)} target="_blank" rel="noopener noreferrer">
+              {profile?.planningWebsite ? "County planning department" : "Find the county planning department"}
+            </a>
+          </li>
+          <li>
+            <a href={google(`${place} RV camping on private property rules`)} target="_blank" rel="noopener noreferrer">
+              Search RV and camping rules
+            </a>
+          </li>
+          <li>
+            <a href={google(`${place} short term rental license`)} target="_blank" rel="noopener noreferrer">
+              Search short-term rental rules
+            </a>
+          </li>
+          {profile?.officialWebsite && (
+            <li>
+              <a href={profile.officialWebsite} target="_blank" rel="noopener noreferrer">
+                Official county website
+              </a>
+            </li>
+          )}
+        </ul>
+        <p className="disclaimer">
+          County-level summary. Rules for a specific parcel may differ based on municipality, zoning district, subdivision
+          covenants, HOA rules, deed restrictions, permits, or other authorities. Verify the parcel with the applicable
+          planning department before relying on this summary.
+        </p>
+      </section>
+
+      <section className="detail-section" aria-labelledby="browse-h">
+        <h3 id="browse-h">Browse this county</h3>
+        <ul className="site-links">
+          {browse.map((l) => (
+            <li key={l.sourceId}>
+              <a href={l.url} target="_blank" rel="noopener noreferrer">
+                <strong>{l.label}</strong>
+                <span>{l.sourceId === "zillow" ? "county map area" : l.scope}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+      <p className="hint">
+        FIPS {area.fips}. Boundary: {data.geometrySource.authority}.
+      </p>
+    </Drawer>
+  );
+}

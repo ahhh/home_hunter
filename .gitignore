@@ -1,0 +1,54 @@
+# ---- Dependencies & build output ----
+node_modules/
+dist/
+.vite/
+coverage/
+*.tsbuildinfo
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# ---- Secrets (e.g. RENTCAST_API_KEY) ----
+.env
+.env.*
+!.env.example
+
+# ---- Generated data that should not live in the app ----
+# Census downloads; `npm run build:geo` fetches them again.
+pipelines/geography/raw/
+
+# Redfin CSVs dropped in for the seed script.
+pipelines/listings/inbox/*
+!pipelines/listings/inbox/.gitkeep
+
+# Seed files from pipelines/listings/seed.py (default output folder, or anywhere via --out).
+pipelines/listings/out/
+seed-*.json
+# To keep a seed permanently, move it here.
+!pipelines/listings/saved/
+!pipelines/listings/saved/**
+
+# RentCast response cache and this computer's monthly call tally.
+pipelines/listings/cache/
+
+# Backup files downloaded from the Share window.
+home-hunter-*.json
+
+# ---- Logs ----
+*.log
+npm-debug.log*
+
+# ---- OS & editors ----
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.swp
+
+# ---- Local Claude Code settings ----
+.claude/settings.local.json
