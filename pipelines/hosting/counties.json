@@ -1,0 +1,820 @@
+{
+  "_about": "Source data for wiki/counties/*.md and public/data/states/CO/hosting.json. Edit here, then run `python3 pipelines/hosting/build.py`. Claims are [text, [source ids]]. A source is primary when it is the government's own document (code, ordinance, official FAQ/form, statute); `read: true` means the cited text was read, not just summarized by a search.",
+  "checkedAt": "2026-09-29",
+  "nextReview": "2027-03-29",
+  "counties": {
+    "Adams": {
+      "signal": "Unclear",
+      "summary": "No camping-specific rule found. The code bars uses that aren't listed, so paid camping needs a written determination from Community & Economic Development.",
+      "planning": "https://adamscountyco.gov/",
+      "sources": {
+        "code": {"title": "Adams County Development Standards and Regulations", "url": "https://adamscounty.municipalcodeonline.com/book?type=temp", "kind": "primary", "read": false},
+        "interp": {"title": "Official Code Interpretations (Jul 2024)", "url": "https://adamscountyco.gov/wp-content/uploads/2025/08/Official-Code-Interpretations_July-2024.pdf", "kind": "primary", "read": false}
+      },
+      "private": [["No camping-specific provision found in this pass.", []]],
+      "commercial": [["Uses not listed as permitted or conditional are not allowed unless the Director finds them similar to a listed use. Ask for a written determination.", ["interp"]]],
+      "notes": "Mostly suburban Front Range. Hipcamp's listing policy says residential/suburban homes generally aren't a fit."
+    },
+    "Alamosa": {
+      "signal": "Campground",
+      "summary": "Paid camping means a campground/RV park: Special Use Permit on 12+ acres of Rural or Commercial land, with water and sewer. RV stays need an installed septic system.",
+      "planning": "https://alamosacounty.colorado.gov/departments/land-use-and-building",
+      "sources": {
+        "faq": {"title": "Alamosa County FAQ: Camping & RV Occupancy", "url": "https://www.alamosacounty.org/Faq.aspx?TID=23", "kind": "primary", "read": true},
+        "amend": {"title": "Campground/RV Park text amendment", "url": "https://alamosacounty.org/DocumentCenter/View/183/Text-Amendment-RV-Park-Campground-Adopted-PDF", "kind": "primary", "read": false}
+      },
+      "private": [
+        ["Temporary/seasonal RV use: needs an installed, permitted OWTS and a legal water source. $125 permit, valid 180 days per calendar year.", ["faq"]],
+        ["RV during home construction: OWTS, well and building permit required. $125, valid as long as the building permit.", ["faq"]],
+        ["An RV, camper or tent may never be a permanent residence. The county enforces with fines and court filings.", ["faq"]]
+      ],
+      "commercial": [
+        ["Campgrounds and RV parks need a Special Use Permit on Rural (RU) or Commercial (C) land of at least 12 acres. Temporary and permanent structures are allowed. Water and sewer infrastructure is required.", ["faq", "amend"]],
+        ["An earlier search reported a moratorium on campground SUPs. The current FAQ doesn't mention one. Confirm with Land Use.", []]
+      ],
+      "notes": "Septic comes first for any overnight stay. Commercial camping has a 12-acre minimum."
+    },
+    "Arapahoe": {
+      "signal": "Unclear",
+      "summary": "No camping-specific rule found. The west side is suburban; only the rural east is plausible.",
+      "planning": "https://www.arapahoeco.gov/your_county/county_departments/public_works_and_development/divisions/planning_and_land_development/land_development_code_and_regulations/land_development_code.php",
+      "sources": {
+        "code": {"title": "Arapahoe County Land Development Code", "url": "https://files.arapahoeco.gov/Public%20Works_Development/zoning/Land%20Development%20Code/LandDevelopmentCodeRev12102024.pdf", "kind": "primary", "read": false}
+      },
+      "private": [["No camping-specific provision found in this pass. The code defines a 'Camping Unit or Recreational Vehicle' as a wheeled unit for temporary living.", ["code"]]],
+      "commercial": [["Not researched.", []]],
+      "notes": ""
+    },
+    "Archuleta": {
+      "signal": "Unclear",
+      "summary": "RVs may be occupied up to 120 days a year with a Temporary Use Permit. Tent camping and paid camping aren't clearly addressed.",
+      "planning": "https://www.archuletacounty.gov/county-government/development-services/planning-department/",
+      "sources": {
+        "lur": {"title": "Archuleta County Land Use Regulations (updated Apr 2025)", "url": "https://www.archuletacounty.gov/wp-content/uploads/2024/11/archuleta-county-land-use-regulations-book.pdf", "kind": "primary", "read": false},
+        "tup": {"title": "Archuleta County RV Temporary Use Permit", "url": "https://www.archuletacounty.gov/county-government/development-services/code-enforcement/temporary-use-permit-rv-tup/", "kind": "primary", "read": false},
+        "sun": {"title": "Pagosa Springs Sun: tent camping on private property", "url": "https://www.pagosasun.com/stories/commission-looks-to-address-tent-camping-on-private-property,16081", "kind": "secondary", "read": false}
+      },
+      "private": [
+        ["With a Temporary Use Permit, an RV (including many tiny homes on wheels) may be occupied up to 120 consecutive days per calendar year on residential property.", ["tup"]],
+        ["Tent camping on private property isn't addressed in the regulations. The commission has discussed adding rules.", ["sun"]],
+        ["Land use permits are only issued for a legal lot (created before Sep 1, 1972, or by subdivision review or exemption).", ["lur"]]
+      ],
+      "commercial": [["Not researched. Ask how paid camping is classified.", []]],
+      "str": ["The county has a short-term rental permit program. Check whether guest structures need one.", ["lur"]],
+      "notes": ""
+    },
+    "Baca": {
+      "signal": "Unclear",
+      "summary": "No camping-specific rule found. No county building department.",
+      "planning": "https://www.bacacountyco.gov/government/county-commissioners/zoning-permits-and-land-use/",
+      "sources": {"code": {"title": "Baca County zoning permits and land use", "url": "https://www.bacacountyco.gov/government/county-commissioners/zoning-permits-and-land-use/", "kind": "primary", "read": false}},
+      "private": [["No camping-specific provision found in this pass.", []]],
+      "commercial": [["Not researched.", []]],
+      "notes": ""
+    },
+    "Bent": {
+      "signal": "Unclear",
+      "summary": "No camping-specific rule found online. Ask the Land Use Office for the Planning & Zoning Manual.",
+      "planning": "https://bentcounty.colorado.gov/government/land-use-permits",
+      "sources": {"code": {"title": "Bent County Land Use permits (Planning & Zoning Manual available from the office, 719-456-2223)", "url": "https://bentcounty.colorado.gov/government/land-use-permits", "kind": "primary", "read": false}},
+      "private": [["No camping-specific provision found in this pass.", []]],
+      "commercial": [["Not researched.", []]],
+      "notes": ""
+    },
+    "Boulder": {
+      "signal": "Restrictive",
+      "summary": "Camping is limited to 14 days a year per parcel, and RVs aren't dwellings. An ongoing Hipcamp listing would need a lodging-use approval.",
+      "planning": "https://bouldercounty.gov/property-and-land/land-use/planning/",
+      "sources": {
+        "faq": {"title": "Boulder County Planning FAQ", "url": "https://bouldercounty.gov/property-and-land/land-use/planning/frequently-asked-questions/", "kind": "primary", "read": true},
+        "art4": {"title": "Boulder County Land Use Code Article 4 (Zoning), incl. 4-507 Lodging Uses", "url": "https://assets.bouldercounty.gov/wp-content/uploads/2017/02/land-use-code-article-04.pdf", "kind": "primary", "read": false},
+        "fire": {"title": "Boulder County Ordinance 2023-1 (fire bans and open burning)", "url": "https://assets.bouldercounty.gov/wp-content/uploads/2023/07/Ordinance-2023-1-Fire-Bans-and-Open-Burning-7.12.23.pdf", "kind": "primary", "read": false}
+      },
+      "private": [
+        ["Land Use Code Art. 4-507 B.5.c allows camping on a parcel for 14 days per year only.", ["faq", "art4"]],
+        ["Travel trailers, fifth wheels and RVs are not dwellings (Art. 18-137). They can't be lived in permanently, during home construction, or on vacant land.", ["faq"]]
+      ],
+      "commercial": [["Campgrounds are one of the lodging uses in Art. 4-507. Read that section for the review path.", ["art4"]]],
+      "notes": "County fire bans are set by Ordinance 2023-1."
+    },
+    "Broomfield": {
+      "signal": "Restrictive",
+      "summary": "Consolidated city and county with urban/suburban zoning. RVs and travel trailers can't be used as ADUs.",
+      "planning": "https://www.broomfield.org/",
+      "sources": {"code": {"title": "Broomfield Municipal Code (Title 17 Zoning, 17-32-160(K))", "url": "https://library.municode.com/co/broomfield", "kind": "primary", "read": false}},
+      "private": [["Mobile homes, travel trailers and RVs are prohibited as accessory dwelling units (17-32-160(K)).", ["code"]]],
+      "commercial": [["Not researched.", []]],
+      "notes": "Hipcamp's listing policy generally excludes residential neighborhoods."
+    },
+    "Chaffee": {
+      "signal": "Pathway",
+      "summary": "Has a dedicated 'Commercial Private Lands Camping' license for agricultural properties: 5-acre minimum, 1 site per 5-10 ac, 2 sites per 10-20 ac, then about 1 per 20 ac, and a caretaker within 60 minutes.",
+      "planning": "https://www.chaffeecounty.org/departments/community_planning_natural_resources/land_use_code.php",
+      "sources": {
+        "luc": {"title": "Chaffee County Land Use Code (eff. 1-1-2025, amended 9-16-2025)", "url": "https://www.chaffeecounty.org/Documents/Departments/Planning%20&%20Zoning/Land%20Use%20Code/Chaffee%20County%20Land%20Use%20Code%20-%20Amended%209-16-25.pdf", "kind": "primary", "read": true, "section": "Sec. 2.3.5.1, 2.3.7.2"},
+        "res": {"title": "Resolution 2022-67, Exhibit A (original ordinance text, hosted by NACo)", "url": "https://www.naco.org/sites/default/files/attachments/Chaffee-County-Commercial-Camping-on-Private-Land-Oct.-2022%20%281%29.pdf", "kind": "primary", "read": true},
+        "naco": {"title": "NACo: Chaffee camping ordinance", "url": "https://www.naco.org/articles/colorado-county-new-camping-ordinance-opens-doors-private-landowners", "kind": "secondary", "read": true}
+      },
+      "private": [
+        ["Vacant land: owners may camp up to 90 days (cumulative) per calendar year without a landowner camping permit.", ["luc"]],
+        ["Improved property (a principal building with permanent water, wastewater, sanitary and refuse facilities): owners and 30+ day lessees may camp without limit, as long as it's not a nuisance.", ["luc"]],
+        ["Camping equipment (tents, RVs, vans, park models, tiny homes not installed to DOH rules, yurts, tipis) can't be permanent habitation.", ["luc"]]
+      ],
+      "commercial": [
+        ["Sec. 2.3.5.1 Commercial Private Lands Camping: a major accessory use license, only on properties whose principal use is agriculture or agritourism.", ["luc"]],
+        ["Density: 5-acre minimum. 5-9.99 ac: 1 site. 10-19.99 ac: 2 sites. 20-100 ac: 2 sites plus 1 per 20 ac. Over 100 ac: 1 per 20 ac. Acreage counts contiguous common ownership.", ["luc"]],
+        ["Owner or caretaker within a 60-minute drive whenever sites are occupied.", ["luc"]],
+        ["Sites: 900 sq ft (RV/van) or 600 sq ft (tent), cleared of vegetation. Setbacks: 50 ft from property lines, 100 ft from neighbors' dwellings, 100 ft from streams and wetlands, 50 ft from floodways. No sites in the 100-year floodplain, fluvial hazard areas or airport overlay.", ["luc"]],
+        ["Sanitation may be off-site (wag bags, RV tanks, portable toilets). Any onsite facility must be permitted under Reg 43. The fire protection district must approve site locations. Fire pits need a permanent structure with a grate.", ["luc"]],
+        ["Quiet hours 10pm-7am. Signs about fire bans, campfire safety, Leave No Trace and quiet hours. Seasonal closures in the top 50-100% of production/winter habitat.", ["luc"]],
+        ["The 2022 resolution also capped licenses at 10 campsites per ownership interest and required annual renewal. Confirm these carried into the 2025 code.", ["res"]]
+      ],
+      "notes": "The county code allows wag bags, but Hipcamp still requires a permitted toilet for tent camping on under 20 acres. Campgrounds and RV parks are a separate, heavier use (Table 2.1.3.4)."
+    },
+    "Cheyenne": {
+      "signal": "Unclear",
+      "summary": "No camping-specific rule found. No county building department.",
+      "planning": "https://www.co.cheyenne.co.us/departments/zoning_planning.html",
+      "sources": {"code": {"title": "Cheyenne County Zoning & Planning", "url": "https://www.co.cheyenne.co.us/departments/zoning_planning.html", "kind": "primary", "read": false}},
+      "private": [["No camping-specific provision found in this pass.", []]],
+      "commercial": [["Not researched.", []]],
+      "notes": ""
+    },
+    "Clear Creek": {
+      "signal": "Campground",
+      "summary": "Paid camping is 'Commercial Camping', allowed only in C-OR (up to 50 sites), C-TR or a Planned Development. 1-50 sites get an administrative permit. Sites must be 100 ft from existing homes, with access from a county-maintained road.",
+      "planning": "https://www.co.clear-creek.co.us/124/Planning",
+      "sources": {
+        "s21": {"title": "Clear Creek County Zoning Regulations, Section 21 (Camping)", "url": "https://www.clearcreekcounty.us/DocumentCenter/View/10359/Section_21", "kind": "primary", "read": true, "section": "2103-2105"},
+        "page": {"title": "Camping in Clear Creek County", "url": "https://www.clearcreekcounty.us/625/Camping", "kind": "primary", "read": true}
+      },
+      "private": [
+        ["Private camping means no money or thing of value is exchanged. Allowed 14 days per year with no permit, plus 30 more days with a Private Camping Permit (approved sanitation required). Longer needs a Special Use Permit.", ["s21"]],
+        ["A new Private Camping Permit can't be issued until 30 days after the previous one expired.", ["s21"]]
+      ],
+      "commercial": [
+        ["Commercial Camping (money or value exchanged) is allowed only in Commercial-Outdoor Recreation (C-OR, max 50 sites), Commercial-Tourism Recreation (C-TR), or a Planned Development that includes it.", ["s21"]],
+        ["1-50 sites: Minor Camping Permit (administrative). 51+ sites: Major Camping Permit (public review).", ["s21"]],
+        ["Standards: nothing within 100 ft of an existing residence; 50 ft from streams (100 ft for structures/sanitary facilities); max 20 sites/acre; legal access from a county-maintained public road; animal-proof trash; no campgrounds in the 100-year floodplain; max 30 days per party per year.", ["s21"]]
+      ],
+      "notes": "Zoning comes first: most residential parcels would need rezoning to C-OR/C-TR."
+    },
+    "Conejos": {
+      "signal": "Unclear",
+      "summary": "A secondary source says RVs aren't allowed on residential property. Confirm with the Land Use Office.",
+      "planning": "https://conejoscounty.colorado.gov/land-use",
+      "sources": {
+        "page": {"title": "Conejos County Land Use", "url": "https://conejoscounty.colorado.gov/land-use", "kind": "primary", "read": false},
+        "perm": {"title": "Conejos construction permit instructions (Nov 2023)", "url": "https://conejoscounty.colorado.gov/sites/conejoscounty/files/documents/ConstructionPermitStepbyStepInstructions11-2023_ADA.pdf", "kind": "primary", "read": false}
+      },
+      "private": [["Reported (search summary): RV use isn't allowed on residential property, and permits are required.", ["perm"]]],
+      "commercial": [["Not researched.", []]],
+      "notes": "Land Use Office: 719-376-2014."
+    },
+    "Costilla": {
+      "signal": "Restrictive",
+      "summary": "Short-term camping is limited to 14 days in any 3 months. Longer RV stays need renewable 60-day permits, capped under 180 days a year.",
+      "planning": "https://www.costillacounty.gov/",
+      "sources": {
+        "luc": {"title": "Costilla County Land Use Code (2013, amended)", "url": "https://www.costillacounty.gov/media/2006", "kind": "primary", "read": false},
+        "atha": {"title": "American Tiny House Assoc.: Costilla long-term camping change", "url": "https://americantinyhouseassociation.org/costilla-county-colorado-long-term-camping-on-private-land-is-no-longer-allowed/", "kind": "secondary", "read": false}
+      },
+      "private": [
+        ["Short-term camping: 14 days total in any 3-month period on the same parcel.", ["luc"]],
+        ["Long-Term RV Camping permit: 60 days, renewable 3 times, under 180 days per person/RV/parcel in 12 months.", ["luc", "atha"]],
+        ["RV during home construction: 90-day permits, renewable up to 18 months.", ["luc"]]
+      ],
+      "commercial": [["Not researched.", []]],
+      "notes": "No county building department. P&Z: 719-937-7668."
+    },
+    "Crowley": {
+      "signal": "Unclear",
+      "summary": "No camping-specific rule found. No county building department.",
+      "planning": "https://crowleycounty.colorado.gov/",
+      "sources": {"code": {"title": "Crowley County", "url": "https://crowleycounty.colorado.gov/", "kind": "primary", "read": false}},
+      "private": [["No camping-specific provision found in this pass.", []]],
+      "commercial": [["Not researched.", []]],
+      "notes": ""
+    },
+    "Custer": {
+      "signal": "Unclear",
+      "summary": "Camping rules weren't confirmed. The county has a short-term rental permit, and the Westcliffe area is a Dark Sky community.",
+      "planning": "https://custercounty-co.gov/departments/planning-zoning/zoning-regulations/",
+      "sources": {
+        "zr": {"title": "Custer County Zoning Resolution (Dec 8, 2025)", "url": "https://custercounty-co.gov/wp-content/uploads/2026/04/Zoning-Resolution-2025-12-08-2.pdf", "kind": "primary", "read": false},
+        "str": {"title": "Custer County Short-Term Rental Permit", "url": "https://custercounty-co.gov/wp-content/uploads/2026/02/Custer-County-Colorado-Short-Term-Rental-Permit-1.pdf", "kind": "primary", "read": false},
+        "fire": {"title": "Custer County Sheriff: guide to fire restrictions", "url": "https://custersheriff.colorado.gov/sites/custersheriff/files/documents/Stage%20Restrictions%20Guide%20%281%29%20%281%29.pdf", "kind": "primary", "read": false}
+      },
+      "private": [["Not confirmed. The Zoning Resolution defines 'self-contained' RVs. Section 7 (uses by right) and Section 9 (special uses) control.", ["zr"]]],
+      "commercial": [["Not researched.", []]],
+      "str": ["Short-Term Rental Permit required (form dated Feb 2026).", ["str"]],
+      "notes": "No county building department."
+    },
+    "Delta": {
+      "signal": "Unclear",
+      "summary": "An RV connected to permanent water, wastewater and power can count as a dwelling here, which is unusual. Hauled-water cisterns generally aren't an adequate water supply for new development.",
+      "planning": "https://www.deltacountyco.gov/680/Land-Use-Regulations",
+      "sources": {
+        "faq": {"title": "Delta County Planning FAQ", "url": "https://www.deltacountyco.gov/789/Frequently-Asked-Questions-FAQs", "kind": "primary", "read": true},
+        "lur": {"title": "Delta County Land Use Regulations", "url": "https://www.deltacountyco.gov/680/Land-Use-Regulations", "kind": "primary", "read": false}
+      },
+      "private": [["Not confirmed for camping specifically.", []]],
+      "commercial": [["Not researched. Home businesses above the LUC thresholds move to Limited or Conditional Use review.", ["faq"]]],
+      "rv": ["One dwelling unit plus one ADU are Allowed Uses. A dwelling unit may be a house, cabin, mobile home or RV connected to permanent water, wastewater and electricity.", ["faq"]],
+      "water": ["Wells must be permitted for the proposed use and can't serve other parcels without an augmentation plan. Hauled-water cisterns generally aren't an adequate supply for new development after Jan 5, 2021, with limited exceptions.", ["faq"]],
+      "notes": "No building codes in unincorporated Delta County (DOH list)."
+    },
+    "Denver": {
+      "signal": "Restrictive",
+      "summary": "Urban city and county. Camping on private property is limited by ordinance. Not a realistic Hipcamp jurisdiction.",
+      "planning": "https://www.denvergov.org/Government/Agencies-Departments-Offices/Community-Planning-and-Development",
+      "sources": {"code": {"title": "Denver Revised Municipal Code (incl. Ch. 59 Zoning, Sec. 38-86.2)", "url": "https://library.municode.com/co/denver/codes/code_of_ordinances?nodeId=TITIIREMUCO_CH59ZO", "kind": "primary", "read": false}},
+      "private": [["Camping on private property without the owner's written consent, or where other city law doesn't allow it, is unlawful (D.R.M.C. 38-86.2).", ["code"]]],
+      "commercial": [["Not researched.", []]],
+      "notes": ""
+    },
+    "Dolores": {
+      "signal": "Unclear",
+      "summary": "No camping-specific rule found online. No county building department.",
+      "planning": "https://dolocnty.colorado.gov/departments",
+      "sources": {"code": {"title": "Dolores County departments (Development and Land Use Regulations on request)", "url": "https://dolocnty.colorado.gov/departments", "kind": "primary", "read": false}},
+      "private": [["No camping-specific provision found in this pass. The Town of Dolores is in Montezuma County and has its own code.", []]],
+      "commercial": [["Not researched.", []]],
+      "notes": ""
+    },
+    "Douglas": {
+      "signal": "Unclear",
+      "summary": "The county camping ban covers county property, not private land. The private-land RV and camping rules are in the Zoning Resolution and weren't confirmed.",
+      "planning": "https://www.douglasco.gov/planning/",
+      "sources": {
+        "zr": {"title": "Douglas County Zoning Resolution", "url": "https://www.douglasco.gov/planning/development-review-regulations/zoning/development-zoning-compliance/", "kind": "primary", "read": false},
+        "ban": {"title": "Douglas County camping/tent ban ordinance (O-024-004)", "url": "https://www.douglas.co.us/camping-tent-ban-ordinance/", "kind": "primary", "read": false}
+      },
+      "private": [["The county camping ban (O-024-004) covers county property, not private land.", ["ban"]]],
+      "commercial": [["Not researched.", []]],
+      "notes": "Planning Services: 303-660-7460."
+    },
+    "Eagle": {
+      "signal": "Unclear",
+      "summary": "The land use regulations are being rewritten. A 2024 draft would limit RV occupancy to 5 days in 30. Check what's actually adopted.",
+      "planning": "https://www.eaglecounty.us/departments___services/community_development/planning/land_use_regulations.php",
+      "sources": {
+        "lur": {"title": "Eagle County Land Use Regulations", "url": "https://online.encodeplus.com/regs/eaglecounty-co/page/land-use-regulations", "kind": "primary", "read": false},
+        "draft": {"title": "ECLUR Module 1 Preliminary Draft (May 27, 2024)", "url": "https://go.boarddocs.com/co/eagleco/Board.nsf/files/D5RMAF5997D9/$file/ECLUR%20Module%201%20Preliminary%20Draft%205-27-2024.pdf", "kind": "primary", "read": false}
+      },
+      "private": [["Draft ECLUR Sec. 2.1.5.6 would let an RV be lived in on private property no more than 5 days in any 30-day period. That's a draft, not confirmed as adopted.", ["draft"]]],
+      "commercial": [["Not researched.", []]],
+      "notes": ""
+    },
+    "Elbert": {
+      "signal": "Unclear",
+      "summary": "RVs, including tiny houses on wheels, are temporary recreational units that can't be lived in year-round. Paid camping wasn't researched.",
+      "planning": "https://www.elbertcounty-co.gov/464/Zoning-Regulations",
+      "sources": {
+        "faq": {"title": "Elbert County FAQ: Can I live in an RV?", "url": "https://www.elbertcounty-co.gov/FAQ.aspx?QID=155", "kind": "primary", "read": true},
+        "zr": {"title": "Elbert County Zoning Regulations", "url": "https://www.elbertcounty-co.gov/464/Zoning-Regulations", "kind": "primary", "read": false}
+      },
+      "private": [["A tiny house on wheels is an RV, regulated by the Land Use Code, not the building code. RVs aren't permanent homes and can't be occupied year-round. They're temporary quarters for recreational, camping, travel or seasonal use, or a temporary dwelling during permitted construction.", ["faq"]]],
+      "commercial": [["Not researched.", []]],
+      "notes": "Zoning Compliance: 303-621-3136."
+    },
+    "El Paso": {
+      "signal": "Restrictive",
+      "summary": "Occupying RVs on private property isn't allowed, except during construction with a building permit and TUP.",
+      "planning": "https://planningdevelopment.elpasoco.com/",
+      "sources": {
+        "ce": {"title": "El Paso County Code Enforcement", "url": "https://planningdevelopment.elpasoco.com/el-paso-county-code-enforcement-2/", "kind": "primary", "read": true},
+        "ldc": {"title": "El Paso County Land Development Code", "url": "https://library.municode.com/co/el_paso_county/codes/land_development_code", "kind": "primary", "read": false}
+      },
+      "private": [["Occupying vehicles, including RVs, on private property isn't allowed. An RV may only be occupied while the permanent dwelling is built, with an active building permit and a temporary use permit.", ["ce"]]],
+      "commercial": [["Not researched. Check campground uses in the LDC use tables.", ["ldc"]]],
+      "notes": ""
+    },
+    "Fremont": {
+      "signal": "Campground",
+      "summary": "Tents and trailers can be occupied up to 3 months a year in R3 and 2 weeks in R1/R2/LDR/HDR, and not at all in business/industrial zones. Paid camping is a 'Campground' use.",
+      "planning": "https://fremontcountyco.gov/planning-and-zoning/planning-and-zoning",
+      "sources": {"zr": {"title": "Fremont County Zoning Regulations (updated Nov 12, 2024)", "url": "https://fremontcountyco.gov/sites/default/files/FC_Zoning_Regulations.pdf", "kind": "primary", "read": true, "section": "Sec. 3.07, 3.08; Ch. 1 def. 45"}},
+      "private": [
+        ["Sec. 3.07: no trailer or tent may be occupied more than 3 months per year in R3, or 2 weeks per year in R1, R2, LDR and HDR. No camping in MHP, RHB, B, IP, I or AIP. Otherwise, using tents and trailers for habitation is prohibited.", ["zr"]],
+        ["Agricultural districts aren't in the 3.07 table. Ask Planning how they're treated.", ["zr"]],
+        ["A self-contained travel trailer may be a temporary dwelling during construction under an Agreement to Abate.", ["zr"]]
+      ],
+      "commercial": [["'Campground' means a tract developed for tent sites, travel trailers, RVs, campers, cabins and other temporary accommodations. Check the use table for which districts allow it and at what review level.", ["zr"]]],
+      "notes": ""
+    },
+    "Garfield": {
+      "signal": "Campground",
+      "summary": "Has a 'Small Camping Facility' use for parcels of 10+ acres: operates May 1-Nov 30, with everything 200 ft from property lines. Larger operations are campgrounds/RV parks.",
+      "planning": "https://www.garfield-county.com/community-development/",
+      "sources": {
+        "art7": {"title": "Garfield County LUDC Article 7 (Standards)", "url": "https://www.garfieldcountyco.gov/community-development/wp-content/uploads/sites/12/Article-7-Updated.pdf", "kind": "primary", "read": true, "section": "7-905, 7-906"},
+        "ludc": {"title": "Garfield County Land Use and Development Code", "url": "https://www.garfield-county.com/community-development/land-use-code/", "kind": "primary", "read": false}
+      },
+      "private": [["Not confirmed.", []]],
+      "commercial": [
+        ["7-906 Small Camping Facility: only on properties of 10+ acres; only May 1-Nov 30; all facilities and activities at least 200 ft from the nearest property line; waterbody setbacks per 7-203; 2 passenger vehicles per tent pad or RV space; 1 RV per RV space.", ["art7"]],
+        ["7-905 covers larger Campground/RV Park uses. The site-count definitions and zone-district review levels are in the LUDC use tables and definitions.", ["art7", "ludc"]]
+      ],
+      "notes": "The best fit for a small Hipcamp in western Colorado. Read the definition in Article 15 for the site cap."
+    },
+    "Gilpin": {
+      "signal": "Campground",
+      "summary": "Renting campsites isn't a use by right anywhere in the county. Campgrounds need a Special Use in RR or commercial zones. Yurts, tiny homes and tents may not be rented out publicly.",
+      "planning": "https://gilpincounty.colorado.gov/departments-offices/community-development/planning-zoning",
+      "sources": {"pz": {"title": "Gilpin County Planning & Zoning", "url": "https://gilpincounty.colorado.gov/departments-offices/community-development/planning-zoning", "kind": "primary", "read": true}},
+      "private": [["Owners may camp on their property up to 30 days per calendar year with a camping permit.", ["pz"]]],
+      "commercial": [
+        ["Public camping on private land, such as renting out campsites on vacant land, isn't a use by right in any zone district.", ["pz"]],
+        ["Campgrounds/RV parks can only be approved by Special Use in RR (Resource Residential) and commercial districts. The county recommends legal or planning help.", ["pz"]],
+        ["Temporary structures such as yurts, tiny homes and tents aren't permitted as permanent structures and may not be rented out publicly.", ["pz"]]
+      ],
+      "notes": ""
+    },
+    "Grand": {
+      "signal": "Campground",
+      "summary": "'Private camping' allows no compensation to the owner and 14 days in any 3 months. Camping areas are a special-review use in several districts.",
+      "planning": "https://www.co.grand.co.us/",
+      "sources": {"zr": {"title": "Grand County Zoning Regulations, Oct 2018 proposed amendment", "url": "https://www.co.grand.co.us/AgendaCenter/ViewFile/Item/251?fileID=7679", "kind": "primary", "read": true, "section": "Sec. 11.8, 14.10"}},
+      "private": [
+        ["Private camping is for non-commercial use of one self-contained RV or tent. There may be no compensation to the owner. Max 14 days in any consecutive 3 months per parcel. No utilities extended to the unit.", ["zr"]],
+        ["The cited text is a 2018 proposed amendment. Confirm the adopted Section 14.10.", []]
+      ],
+      "commercial": [["'Camping areas' are a Use Permitted by Special Review in the Accommodations, Forestry & Open, Tourist and Business districts. Spaces for motor homes, trailers and tents must be at least 1,500 sq ft.", ["zr"]]],
+      "notes": ""
+    },
+    "Gunnison": {
+      "signal": "Unclear",
+      "summary": "A Long-Term Camping Permit is needed if a camping shelter is used more than 14 days in a 3-month period. Includes neighbor listing and sage-grouse review. Paid camping wasn't researched.",
+      "planning": "https://www.gunnisoncounty.org/144/Community-and-Economic-Development",
+      "sources": {
+        "ltc": {"title": "Gunnison County Long-Term Camping Permit Application (Jan 2024)", "url": "https://gunnisoncounty.org/DocumentCenter/View/2095/Long-Term-Camping-Permit-PDF", "kind": "primary", "read": true},
+        "lur": {"title": "Gunnison County Land Use Resolution (amended Mar 5, 2026)", "url": "https://gunnisoncounty.org/DocumentCenter/View/3157", "kind": "primary", "read": false, "section": "Sec. 9-509"}
+      },
+      "private": [
+        ["A Long-Term Camping Permit is required for a camping shelter used more than 14 days in a consecutive 3-month period (LUR Sec. 9-509).", ["ltc", "lur"]],
+        ["The application requires adjacent landowners, a trash plan, a sewage plan approved by Environmental Health, and Gunnison sage-grouse habitat review.", ["ltc"]]
+      ],
+      "commercial": [["Not researched.", []]],
+      "notes": "Community Development: 970-641-0360."
+    },
+    "Hinsdale": {
+      "signal": "Unclear",
+      "summary": "No private-land camping rule found online.",
+      "planning": "https://hinsdalecounty.colorado.gov/",
+      "sources": {"rec": {"title": "Hinsdale County Recreation Regulations 2024 (public facilities)", "url": "https://hinsdalecounty.colorado.gov/sites/hinsdalecounty/files/documents/Recreation%20Regulations%202024.pdf", "kind": "primary", "read": false}},
+      "private": [["No private-camping provision found. The 2024 Recreation Regulations cover public facilities.", ["rec"]]],
+      "commercial": [["Not researched.", []]],
+      "notes": ""
+    },
+    "Huerfano": {
+      "signal": "Restrictive",
+      "summary": "New countywide camping ordinance: staying more than 14 days in a 30-day period needs a permit. Longer camping permits require sanitation and water plans.",
+      "planning": "https://huerfano.us/",
+      "sources": {
+        "ords": {"title": "Huerfano County Code (Municode, via county ordinances page)", "url": "https://huerfano.us/county-ordinances/", "kind": "primary", "read": false},
+        "cp": {"title": "Citizen Portal: county approves camping ordinance", "url": "https://citizenportal.ai/articles/8731620/colorado/huerfano-county/county-approves-ordinance-to-regulate-camping-allowing-citation-or-civil-suits-for-enforcement", "kind": "secondary", "read": false}
+      },
+      "private": [
+        ["The ordinance defines camping as staying more than 14 days in a 30-day period without a permit. Enforced by citation or civil suit.", ["cp"]],
+        ["Reported land-use rule: tents/campers/RVs on parcels with no primary use are allowed up to 7 consecutive and 30 total days a year without a permit. Up to 4 months with a permit on 2+ acres in Rural Residential/Agricultural zones, with sanitation and water plans.", ["ords"]]
+      ],
+      "commercial": [["Not researched.", []]],
+      "notes": "Get the adopted ordinance text from the county code before relying on this."
+    },
+    "Jackson": {
+      "signal": "Unclear",
+      "summary": "No camping-specific rule found.",
+      "planning": "https://jacksoncounty.colorado.gov/",
+      "sources": {"zr": {"title": "Jackson County Zoning Resolution", "url": "https://jacksoncounty.colorado.gov/sites/jacksoncounty/files/documents/FULL-ZONING-RESOLUTION.pdf", "kind": "primary", "read": false}},
+      "private": [["No camping-specific provision found in this pass.", []]],
+      "commercial": [["Not researched.", []]],
+      "notes": ""
+    },
+    "Jefferson": {
+      "signal": "Restrictive",
+      "summary": "Camping on residential property is limited to 2 weeks a year unless the zone district allows it. RVs as dwellings only in Mobile Home Park or PD zones.",
+      "planning": "https://www.jeffco.us/2460/Zoning-Resolution",
+      "sources": {
+        "faq": {"title": "Jeffco FAQ: Can I camp on my own property?", "url": "https://www.jeffco.us/FAQ.aspx?QID=203", "kind": "primary", "read": false},
+        "zr": {"title": "Jefferson County Zoning Resolution", "url": "https://www.jeffco.us/2460/Zoning-Resolution", "kind": "primary", "read": false}
+      },
+      "private": [["Unless camping is a permitted use in the zone district, camping on residential property is allowed only for two weeks (cumulative) per year.", ["faq"]]],
+      "commercial": [["Not researched.", []]],
+      "rv": ["An RV on wheels used as a dwelling must be in a Mobile Home Park zone district or a Planned Development that allows it.", ["zr"]],
+      "notes": "Adopted wildfire resiliency code updates in Mar 2026."
+    },
+    "Kiowa": {
+      "signal": "Unclear",
+      "summary": "No camping-specific rule found. The county has 1041 regulations.",
+      "planning": "https://kiowacounty.colorado.gov/government/departments/land-use",
+      "sources": {"code": {"title": "Kiowa County Land Use (incl. 1041 regulations)", "url": "https://kiowacounty.colorado.gov/government/departments/land-use", "kind": "primary", "read": false}},
+      "private": [["No camping-specific provision found in this pass.", []]],
+      "commercial": [["Not researched.", []]],
+      "notes": "P&Z: 719-438-5810."
+    },
+    "Kit Carson": {
+      "signal": "Unclear",
+      "summary": "No camping-specific rule found. No county building department.",
+      "planning": "https://kitcarsoncounty.colorado.gov/departments/land-use",
+      "sources": {"luc": {"title": "Kit Carson County Land Use Code (Mar 22, 2023)", "url": "https://kitcarsoncounty.colorado.gov/sites/kitcarsoncounty/files/documents/Kit%20Carson%20County%20Land%20Use%20Code%20-%20March%2022%202023.pdf", "kind": "primary", "read": false}},
+      "private": [["No camping-specific provision found in this pass.", []]],
+      "commercial": [["Not researched.", []]],
+      "notes": ""
+    },
+    "La Plata": {
+      "signal": "Unclear",
+      "summary": "You may live in an RV, or keep an RV pad, up to 90 days a year before the LUC's RV rules apply. Paid camping wasn't researched.",
+      "planning": "https://www.lpcgov.org/services/community_development_services/planning/",
+      "sources": {
+        "faq": {"title": "La Plata County Planning FAQ", "url": "https://www.lpcgov.org/services/community_development_services/planning/frequently_asked_questions.php", "kind": "primary", "read": true},
+        "luc": {"title": "La Plata County Land Use Code", "url": "https://www.lpcgov.org/services/community_development_services/planning/land_use_codes_and_plans/", "kind": "primary", "read": false}
+      },
+      "private": [
+        ["You may live in an RV, or have an RV pad, for up to 90 days total per calendar year. After that, the LUC's RV regulations apply.", ["faq"]],
+        ["RV while building a house: allowed if there's no existing dwelling. It must be disconnected or removed before final inspection/CO.", ["faq"]]
+      ],
+      "commercial": [["Not researched.", ["luc"]]],
+      "notes": ""
+    },
+    "Lake": {
+      "signal": "Paused",
+      "summary": "Camping on private land is non-commercial only (5+ acres, up to 15 consecutive and 30 days per 6 months, one unit). A 2026 moratorium paused new campground applications. Check whether it's been extended.",
+      "planning": "https://www.lakecountyco.gov/",
+      "sources": {
+        "faq": {"title": "Lake County Camping Definitions & FAQs (LDC Sec. 5.2.25)", "url": "https://www.lakecountyco.gov/197/Camping-Definitions-FAQs", "kind": "primary", "read": true},
+        "ch5": {"title": "Lake County LDC Chapter 5: Use Regulations", "url": "https://lakecountyco.com/DocumentCenter/View/215/Lake-County-Land-Development-Code-Chapter-5-Use-Regulations-PDF", "kind": "primary", "read": false},
+        "cp": {"title": "Citizen Portal: Alpenflo campground toilet variance", "url": "https://citizenportal.ai/articles/8432412/colorado/lake-county/alpenflo-campground-owners-seek-variance-for-vault-and-composting-toilets-lake-county-board-delays-decision", "kind": "secondary", "read": false}
+      },
+      "private": [
+        ["'Camping on Private Property' means temporary, non-commercial lodging on a parcel of 5+ acres. Stays can't exceed 15 consecutive days or 30 days in a six-month period.", ["faq"]],
+        ["Under 5 acres, camping is an accessory use, allowed only after the primary use (e.g. a home) is established.", ["faq"]],
+        ["Sec. 5.2.25: one camping unit per parcel; nothing permanently affixed; sewage to a facility or system approved by Lake County Environmental Health; bear-resistant trash recommended; nothing polluting within 150 ft of water; fires per IFC 307.", ["faq"]]
+      ],
+      "commercial": [
+        ["Reported: two or more camping units make a campground. RV parks/campgrounds need at least 2 acres and at most 25 units per acre.", ["ch5"]],
+        ["Reported: on Feb 17, 2026 the county approved a 6-month moratorium on new applications for group camps, vacation lodges, guest ranches, RV parks & campgrounds and special-event facilities. Check whether it was extended.", []],
+        ["A campground owner asked for a variance to use vault/composting toilets. The board delayed a decision.", ["cp"]]
+      ],
+      "notes": ""
+    },
+    "Larimer": {
+      "signal": "Campground",
+      "summary": "The Land Use Code has a rewritten campground/RV park section with minimum campsite sanitation, and short-term rental rules. Read the current LUC for the thresholds.",
+      "planning": "https://www.larimer.gov/planning",
+      "sources": {
+        "luc": {"title": "Larimer County Land Use Code", "url": "https://www.larimer.gov/planning/land-use-code", "kind": "primary", "read": false},
+        "p2": {"title": "LUC Phase 2: Campgrounds & RV Parks (adoption draft)", "url": "https://www.larimer.org/sites/default/files/uploads/2021/attachment_c_proposed_adoption_draft_clean.pdf", "kind": "primary", "read": false},
+        "tiny": {"title": "Larimer County 'Tiny Houses' guidance", "url": "https://www.larimer.gov/sites/default/files/uploads/2024/tiny_houses_2023_edits.pdf", "kind": "primary", "read": false}
+      },
+      "private": [["The LUC covers motor homes, travel trailers, truck campers and tiny houses on wheels. Private camping rules weren't confirmed.", ["luc", "tiny"]]],
+      "commercial": [["'Phase 2' amendments (2021-22) rewrote the campground and RV park rules, including minimum campsite sanitary facilities.", ["p2"]]],
+      "str": ["The LUC includes short-term rental rules.", ["luc"]],
+      "notes": ""
+    },
+    "Las Animas": {
+      "signal": "Campground",
+      "summary": "Campgrounds need a special use permit and must meet design standards.",
+      "planning": "https://lasanimascounty.colorado.gov/land-use",
+      "sources": {"lur": {"title": "Las Animas County Land Use Regulations (Jun 16, 2026)", "url": "https://lasanimascounty.colorado.gov/sites/lasanimascounty/files/documents/2026-06-16%20LAC%20land%20use%20on%20web.pdf", "kind": "primary", "read": false}},
+      "private": [["Not confirmed.", []]],
+      "commercial": [["Campgrounds and mobile home parks need a special use permit and must meet design standards. A separate special events permit exists.", ["lur"]]],
+      "notes": "Planning: 719-845-2577."
+    },
+    "Lincoln": {
+      "signal": "Unclear",
+      "summary": "The whole county is zoned agricultural (160-acre conforming lots). Camping rules weren't confirmed.",
+      "planning": "https://lincolncounty.colorado.gov/county-land-use",
+      "sources": {"page": {"title": "Lincoln County Land Use", "url": "https://lincolncounty.colorado.gov/county-land-use", "kind": "primary", "read": false}},
+      "private": [["Not confirmed. All agricultural zoning. Lots under 160 acres need a Development permit, and 35 acres is the minimum reviewable.", ["page"]]],
+      "commercial": [["Not researched.", []]],
+      "notes": "Adopted the 2018 IRC/IBC in June 2023. Land Use: 719-743-2337."
+    },
+    "Logan": {
+      "signal": "Campground",
+      "summary": "'Camping Areas' (organized campgrounds) need a detailed site plan covering drainage, access, parking, sanitation, refuse and fire protection.",
+      "planning": "https://logancounty.colorado.gov/",
+      "sources": {"zr": {"title": "Logan County Zoning Resolution (updated Aug 2019)", "url": "https://logancounty.colorado.gov/sites/logancounty/files/Zoning%20Regulations%20%28Updated%20August%202019%29.pdf", "kind": "primary", "read": false, "section": "Sec. 7.2.I"}},
+      "private": [["Not confirmed.", []]],
+      "commercial": [["Sec. 7.2.I Camping Areas: organized campgrounds for camping vehicles or tents. Site plan at 1\"=50' showing drainage, access drives, parking, campsites, sanitary facilities, sewage/refuse disposal and fire protection.", ["zr"]]],
+      "notes": ""
+    },
+    "Mesa": {
+      "signal": "Restrictive",
+      "summary": "One RV or temporary shelter per property, max 30 consecutive and 180 days a year, only in Rural/Urban Residential zones. Tents and RVs can't be vacation-rental accommodations. Paid camping needs a permitted campground.",
+      "planning": "https://www.mesacounty.us/departments-and-services/community-development/planning",
+      "sources": {
+        "ldc": {"title": "Mesa County 2020 Land Development Code (amended Jun 28, 2022)", "url": "https://www.mesacounty.us/sites/default/files/2022-12/land-development-code-mesa-county-2020-land-development-code-amended-june-28-2022.pdf", "kind": "primary", "read": true, "section": "Sec. 6.04 F (Camping)"},
+        "vr": {"title": "Mesa County: Vacation rentals", "url": "https://www.mesacounty.us/departments-and-services/community-development/hot-topics-community-development/vacation-rentals", "kind": "primary", "read": true},
+        "cur": {"title": "Mesa County current Land Development Code (amended 4-23-24)", "url": "https://www.mesacounty.us/departments-and-services/community-development/planning/current-land-development-code", "kind": "primary", "read": false}
+      },
+      "private": [
+        ["An RV or temporary shelter may be occupied for recreational or vacation purposes in Rural or Urban Residential zones. Under 1 acre needs a principal dwelling; never on under 1/2 acre; not in setbacks.", ["ldc"]],
+        ["One RV or temporary shelter per property at a time. Max 30 consecutive days and 180 days per calendar year.", ["ldc"]],
+        ["In Nonresidential and Mixed Use zones, RV/shelter occupancy is limited to permitted campgrounds and camps.", ["ldc"]]
+      ],
+      "commercial": [["Paid camping points to a permitted campground. Check the use table in the current LDC (another amendment was up for hearings in Oct-Nov 2026).", ["cur"]]],
+      "str": ["Vacation rentals: only permitted single-family homes, townhomes, ADUs and owner-occupied duplexes. 'Tents, recreational vehicles, temporary shelters and other provisions intended for temporary occupancy are not allowed as guest accommodations.' Stays under 30 days, a local representative available at all times, and CO/smoke alarms required.", ["vr"]],
+      "notes": ""
+    },
+    "Mineral": {
+      "signal": "Campground",
+      "summary": "RV parks and campgrounds must be registered with the county and meet site standards. A camping-unit season (May-Nov) was reported for residential zones.",
+      "planning": "https://www.mineralcountycolorado.com/land-use-office/page/land-use-regulations",
+      "sources": {
+        "regs": {"title": "Mineral County Mobile Home Park / RV Park & Campground Regulations", "url": "https://www.mineralcountycolorado.com/media/466", "kind": "primary", "read": false},
+        "lur": {"title": "Mineral County Land Use Regulations", "url": "https://www.mineralcountycolorado.com/land-use-office/page/land-use-regulations", "kind": "primary", "read": false}
+      },
+      "private": [["Reported: a camping unit may be parked and occupied May 1-Nov 15, with limits in residential rural or alpine zones. Units may be stored behind the front setback.", ["lur"]]],
+      "commercial": [["RV parks/campgrounds must be registered with the Clerk & Recorder. Site standards cover drainage, wildlife habitat/corridors and flood/fire hazards.", ["regs"]]],
+      "notes": "No county building department."
+    },
+    "Moffat": {
+      "signal": "Unclear",
+      "summary": "A third-party comparison says the zoning code doesn't mention camping. Confirm with Planning.",
+      "planning": "https://moffatcounty.colorado.gov/",
+      "sources": {
+        "county": {"title": "Moffat County", "url": "https://moffatcounty.colorado.gov/", "kind": "primary", "read": false},
+        "fire": {"title": "Moffat County fire ordinance 2023-0822", "url": "https://moffatcounty.colorado.gov/sites/moffatcounty/files/FireOrd2023-0822_1.pdf", "kind": "primary", "read": false}
+      },
+      "private": [["Reported by a secondary comparison: the zoning regulations don't address camping, and RVs may be stored with any permitted or conditional use.", []]],
+      "commercial": [["Not researched.", []]],
+      "notes": "County fire ordinance 2023-0822."
+    },
+    "Montezuma": {
+      "signal": "Campground",
+      "summary": "Campgrounds and RV parks are regulated uses under a performance-standards code. No residential building code, but permits are required.",
+      "planning": "https://montezumacounty.gov/planning-zoning/",
+      "sources": {
+        "page": {"title": "Montezuma County Planning & Zoning (Land Use Code, Resolution 5-2025)", "url": "https://montezumacounty.gov/planning-zoning/", "kind": "primary", "read": false},
+        "faq": {"title": "Montezuma County Planning FAQ", "url": "https://montezumacounty.org/wp-content/uploads/2020/09/Planning-FAQ.pdf", "kind": "primary", "read": false}
+      },
+      "private": [["Not confirmed.", []]],
+      "commercial": [["Campgrounds and RV parks are regulated uses under the Land Use Code's threshold/performance-standards approach.", ["page"]]],
+      "notes": "Issues no certificates of occupancy and enforces no residential building code, but requires permits before building (DOH)."
+    },
+    "Montrose": {
+      "signal": "Campground",
+      "summary": "Guests may occupy one RV up to 90 days a year. 'Campgrounds' are tent-only, 2+ acres with at least 12 sites, by Special Use. RV parks are a separate Special Use.",
+      "planning": "https://www.montrosecounty.net/228/Zoning-Regulations-Maps",
+      "sources": {
+        "zr": {"title": "Montrose County Zoning Regulations (2022 version, Granicus)", "url": "https://montrosecounty.granicus.com/DocumentViewer.php?file=montrosecounty_96fd53ac9fb3dacd77ce6339a4a502c2.pdf", "kind": "primary", "read": true, "section": "Sec. III.A.1, III.A.7, temporary uses (6)"},
+        "page": {"title": "Montrose County Zoning Regulations & Maps", "url": "https://www.montrosecounty.net/228/Zoning-Regulations-Maps", "kind": "primary", "read": false}
+      },
+      "private": [
+        ["One RV may be temporarily occupied by guests of the owner up to 90 days per calendar year.", ["zr"]],
+        ["One RV may stay up to 180 days per year on 35+ acres in the A district, if hooked to an approved OWTS.", ["zr"]],
+        ["RV during construction: needs an active building permit and an OWTS/sewer connection. 12 months, plus an optional 6-month extension.", ["zr"]]
+      ],
+      "commercial": [["'Campgrounds' (Special Use) are tent-only, at least 2 acres, with at least 12 camping spaces and 1 parking space per site. RVs belong in an 'RV Park' (a separate Special Use). The definition of campground allows rental cabins and tents.", ["zr"]]],
+      "notes": "The copy read has a blank adoption date. Confirm the adopted version on the county page."
+    },
+    "Morgan": {
+      "signal": "Campground",
+      "summary": "The zoning regulations have a full Campground & RV Park section (permits, site area, density, setbacks).",
+      "planning": "https://morgancounty.colorado.gov/",
+      "sources": {"zr": {"title": "Morgan County Zoning Regulations (updated through Mar 2026)", "url": "https://morgancounty.colorado.gov/sites/morgancounty/files/documents/Zoning%20Regulations%20-%20032026.pdf", "kind": "primary", "read": false, "section": "Sec. 4-100 to 4-125"}},
+      "private": [["Not confirmed.", []]],
+      "commercial": [["Campground and RV Park Regulations, Sec. 4-100 to 4-125: permits, site selection, minimum site area, density, perimeter setbacks, campground space requirements.", ["zr"]]],
+      "notes": ""
+    },
+    "Otero": {
+      "signal": "Unclear",
+      "summary": "No camping-specific rule found.",
+      "planning": "https://oterocounty.colorado.gov/departments/land-use",
+      "sources": {"code": {"title": "Otero County Code of Regulations", "url": "https://oterocounty.colorado.gov/code-of-regulations", "kind": "primary", "read": false}},
+      "private": [["No camping-specific provision found in this pass.", []]],
+      "commercial": [["Not researched.", []]],
+      "notes": "Land Use (Rocky Ford Annex): 719-383-3035."
+    },
+    "Ouray": {
+      "signal": "Campground",
+      "summary": "Long-term camping must be non-commercial: 3+ acres, no fee charged, approved sanitation (no compost toilets), and HOA notification. Campgrounds are a Special Use.",
+      "planning": "https://ouraycountyco.gov/214/Land-Use-Code",
+      "sources": {
+        "info": {"title": "Ouray County Long-Term Non-Commercial Camping Information (rev. 08/08/24)", "url": "https://ouraycountyco.gov/DocumentCenter/View/20120/Long-Term-Camping-Info-Sheet", "kind": "primary", "read": true},
+        "sec5": {"title": "Ouray County LUC Section 5: Uses by Special Use Permit", "url": "https://ouraycountyco.gov/DocumentCenter/View/532/Section-05-Uses-Allowed-by-Special-Use-Permit", "kind": "primary", "read": false},
+        "luc": {"title": "Ouray County Land Use Code (Section 11: campgrounds, RV parks)", "url": "https://ouraycountyco.gov/214/Land-Use-Code", "kind": "primary", "read": false}
+      },
+      "private": [
+        ["Long-term non-commercial camping (Ordinance 2014-01): parcel at least 3 acres; no fee charged (except hunting/fishing trespass or outfitter fees); owner's written permission; approved sanitation (no compost toilets); a permit if the stay exceeds 30 days a year; one permit per parcel per year.", ["info"]],
+        ["Also required: HOA notified, sanitation screened from neighbors and roads, potable water source described, bear-proof trash, no graywater discharge, registered RVs.", ["info"]],
+        ["Day limits depend on sanitation: personal porta-potty 30 days (90 for RVs with tanks), May-Dec; commercial porta-potty 180 days, May-Dec; permitted OWTS 180 days, or 365 days for permitted accessory structures with a home.", ["info"]]
+      ],
+      "commercial": [["Campgrounds and RV parks: LUC Section 11 and Section 5 (Special Use Permit).", ["sec5", "luc"]]],
+      "notes": "The county explicitly bars charging a fee for private camping."
+    },
+    "Park": {
+      "signal": "Restrictive",
+      "summary": "In Residential and Mining zones, and on Agricultural parcels under 35 acres, camping by anyone other than the owner and non-paying guests is prohibited. Camping units are limited by parcel size (1/2/4).",
+      "planning": "https://parkcountyco.gov/189/Land-Use-Regulations",
+      "sources": {
+        "regs": {"title": "Park County Camping Regulations 2021 (Resolution 2021-02)", "url": "https://www.parkcountyco.gov/DocumentCenter/View/3673/Park-County-Camping-Regulations", "kind": "primary", "read": true},
+        "faq": {"title": "Park County FAQ: Can I camp on my property?", "url": "https://www.parkcountyco.gov/FAQ.aspx?QID=160", "kind": "primary", "read": true},
+        "fire": {"title": "Park County fire ban ordinance 2021-04", "url": "https://www.parkcountyco.gov/AgendaCenter/ViewFile/Item/10184?fileID=4934", "kind": "primary", "read": false}
+      },
+      "private": [
+        ["Covers all Residential and Mining zones, and Agricultural parcels under 35 acres.", ["regs"]],
+        ["Camping units per parcel: under 1 ac: 1 (14 days/yr only); 1-19.99 ac: 2; 20+ ac: 4.", ["regs"]],
+        ["Vacant land: 14 cumulative days per year without a permit. A permit allows May 1-Oct 31 plus 14 winter days. Storing a unit counts as camping.", ["regs", "faq"]],
+        ["Improved property (home with permanent water and wastewater): non-paying guests and family may camp May 1-Oct 31 plus 14 winter days, with no commercial activity.", ["regs"]],
+        ["Requires a permitted driveway, visible address, zone setbacks, registered road-worthy RVs, and onsite trash management. Sewage goes to an approved off-site facility, a permitted OWTS, or an incinerating, composting or portable toilet.", ["regs"]]
+      ],
+      "commercial": [["'Camping on vacant land by persons other than the property owner and/or their invited, non-paying guests is prohibited.' This covers the Residential, Mining and Ag-under-35-acre areas above. Agricultural 35+ ac and Conservation Recreation parcels aren't covered. Ask Planning about paid camping there.", ["regs"]]],
+      "rv": ["Mobile homes aren't allowed as a primary residence or accessory building outside mobile home park zones.", ["faq"]],
+      "notes": "Planning: 719-836-4292."
+    },
+    "Phillips": {
+      "signal": "Unclear",
+      "summary": "The Land Use Code uses a three-tier land-use-change permit. Camping rules weren't confirmed.",
+      "planning": "https://phillipscounty.colorado.gov/planning-zoning",
+      "sources": {"luc": {"title": "Phillips County Land Use Code (adopted Jun 30, 2023)", "url": "https://phillipscounty.colorado.gov/sites/phillipscounty/files/Final%20Phillips%20County%20Land%20Use%20Code_Adopted.06.30.2023.pdf", "kind": "primary", "read": false}},
+      "private": [["Not confirmed.", []]],
+      "commercial": [["Changes of use need an Administrative, Minor or Major Land Use Permit. The class is decided at application. A single-family home needs no land-use change permit but does need a building permit.", ["luc"]]],
+      "notes": "DOH lists no building department. Confirm who issues building permits. P&Z: 970-854-3778."
+    },
+    "Pitkin": {
+      "signal": "Unclear",
+      "summary": "Private-land camping rule not found. Camping in public rights-of-way is banned.",
+      "planning": "https://pitkincounty.com/196/Land-Use",
+      "sources": {"code": {"title": "Pitkin County Code (incl. Title 9, Land Use Code)", "url": "https://pitkincounty.com/468/County-Code", "kind": "primary", "read": false}},
+      "private": [["Title 9 bans camping and overnight occupancy in public rights-of-way. No private-property rule found in this pass.", ["code"]]],
+      "commercial": [["Not researched.", []]],
+      "notes": "Home-rule county. The Town of Pitkin is in Gunnison County."
+    },
+    "Prowers": {
+      "signal": "Unclear",
+      "summary": "Zoning permits are required for structures. Camping rules weren't confirmed.",
+      "planning": "https://www.prowersco.gov/departments/landuse",
+      "sources": {"zr": {"title": "Prowers County Zoning Regulations (rev. Dec 5, 2023)", "url": "https://www.prowersco.gov/departments/landuse/ZoningRegulationsandInformation", "kind": "primary", "read": false}},
+      "private": [["Not confirmed.", []]],
+      "commercial": [["Not researched. Zoning Permits are required to build, move or alter structures in all districts.", ["zr"]]],
+      "notes": "Land Use: 719-336-8988."
+    },
+    "Pueblo": {
+      "signal": "Restrictive",
+      "summary": "Outside RV parks, RVs can't be stored or lived in on vacant parcels. RVs are temporary housing only during permitted construction.",
+      "planning": "https://county.pueblo.org/planning-and-development-department",
+      "sources": {
+        "faq": {"title": "Pueblo County Planning & Development FAQ (UDC 17.03.050(c), 17.03.020)", "url": "https://county.pueblo.org/planning-and-development-department/planning-and-development-faq", "kind": "primary", "read": false},
+        "fire": {"title": "Pueblo County Ch. 8.24 Open Fire and Open Burning Restriction", "url": "https://county.pueblo.org/county-attorney/chapter-824-open-fire-and-open-burning-restriction", "kind": "primary", "read": false}
+      },
+      "private": [
+        ["UDC 17.03.050(c): an RV can be temporary housing while a dwelling is built or remodeled.", ["faq"]],
+        ["Outside RV parks, RVs may not be stored or used as a residence on a vacant parcel.", ["faq"]]
+      ],
+      "commercial": [["See Table of Allowed Uses, UDC 17.03.020.", ["faq"]]],
+      "notes": "County fire restrictions: Chapter 8.24."
+    },
+    "Rio Blanco": {
+      "signal": "Campground",
+      "summary": "RVs may be occupied Apr 1-Nov 30. More than 120 days needs a Land Use Change Permit. Campgrounds (tent and RV) go through Limited Impact review.",
+      "planning": "https://www.rbc.us/314/Planning",
+      "sources": {
+        "lur": {"title": "Rio Blanco County Land Use Regulations (copy hosted by Colorado Agritourism)", "url": "https://coagritourismbiz.org/wp-content/uploads/2023/10/Land-Use-Code.Rio-Blanco.pdf", "kind": "primary", "read": true, "section": "Use table; Sec. 7-602, 7-610"},
+        "page": {"title": "Rio Blanco County Planning Division", "url": "https://www.rbc.us/314/Planning", "kind": "primary", "read": false}
+      },
+      "private": [
+        ["Sec. 7-610 B: RVs on private legal parcels may be occupied Apr 1-Nov 30. Using one for more than 120 days in that period needs a Land Use Change Permit. This doesn't cover campgrounds.", ["lur"]],
+        ["Sec. 7-610 A: one RV may be occupied during construction under a building permit, with an approved waste disposal plan.", ["lur"]]
+      ],
+      "commercial": [["'Campground (tent and RV)' is a Limited Impact review use in two of the county's zone districts. Sec. 7-602 requires public road access, a well-drained site, landscaped buffers, water/wastewater per the regulations, and fire equipment.", ["lur"]]],
+      "notes": "The copy read is hosted by a third party. Confirm the current version with the Planning Division."
+    },
+    "Rio Grande": {
+      "signal": "Restrictive",
+      "summary": "2024 amendments effectively ban unimproved 'dry camping' for money. Paid camping must meet the full campground/RV park standards.",
+      "planning": "https://riograndecounty.colorado.gov/land-use",
+      "sources": {
+        "ldc": {"title": "Rio Grande County Land Development Code", "url": "https://riograndecounty.colorado.gov/sites/riograndecounty/files/documents/RGC%20Development%20Code.pdf", "kind": "primary", "read": false},
+        "prop": {"title": "RV Park/Campground codebook amendments (Mar 15, 2024 hearing draft)", "url": "https://www.alamosacitizen.com/wp-content/uploads/2024/04/RGC-_-RV-PARK-CAMPGROUND-REGULATIONS-3.15.24.pdf", "kind": "primary", "read": false},
+        "news": {"title": "Alamosa Citizen: Rio Grande County adopts dry camping ban", "url": "https://www.alamosacitizen.com/rio-grande-county-adopts-dry-camping-ban/", "kind": "secondary", "read": false}
+      },
+      "private": [["Owners may camp on their own land. No RV may be inhabited for any length of time without adequate sewage disposal.", ["prop"]]],
+      "commercial": [["Hosting paid camping must meet the general campground/RV park regulations. 'Dry camping' for commercial gain is effectively banned.", ["news", "ldc"]]],
+      "notes": ""
+    },
+    "Routt": {
+      "signal": "Campground",
+      "summary": "Commercial camping is a Special Use in Agriculture/Forestry. 1-3 spaces need a dump station, toilets and potable water. 4+ need hookups and showers. Ads must show the approval code.",
+      "planning": "https://www.co.routt.co.us/189/Planning",
+      "sources": {
+        "udc": {"title": "Routt County Unified Development Code (V5, eff. Jul 28, 2026)", "url": "https://www.co.routt.co.us/DocumentCenter/View/16306/Routt-County-UDC", "kind": "primary", "read": true, "section": "Table 2.22.G-1; Sec. 2.33-2.35"},
+        "fire": {"title": "Routt County 2026 fire ban ordinance", "url": "https://www.co.routt.co.us/AgendaCenter/ViewFile/Item/28040?fileID=27036", "kind": "primary", "read": false}
+      },
+      "private": [
+        ["Sec. 2.33: private non-commercial camping is only for the owner and invited, non-paying personal guests. Max 60 days cumulative per year; no permanent structures; no noise or light at the property line 10pm-7am; shelters removed when not in use.", ["udc"]],
+        ["Sec. 2.34: extended private camping (61-180 days) needs a permit (M in the AF district).", ["udc"]]
+      ],
+      "commercial": [
+        ["Sec. 2.35: Commercial Camping means one or more spaces open to the public, primitive or developed. It's a Special Use (S) in Agriculture/Forestry and allowed (R) in one other district. Check Table 2.22.G-1.", ["udc"]],
+        ["1-3 spaces: dump station plus toilets and potable water. 4+ spaces: 120/240V hookups, dump station, toilets, potable water, showers and screening landscaping. A 'dry campground' (no hookups) must prohibit dumping.", ["udc"]],
+        ["Must shield sites from public roads, use bear-proof trash, follow CDPHE 6 CCR 1010-9, and show the approval project code in all advertising.", ["udc"]]
+      ],
+      "notes": ""
+    },
+    "Saguache": {
+      "signal": "Restrictive",
+      "summary": "You need a county-approved septic system to stay on the property. RV/camper/tent occupancy is tied to an active construction permit. Raw-land Hipcamp is unlikely.",
+      "planning": "https://saguachecounty.colorado.gov/land-use-documents",
+      "sources": {"docs": {"title": "Saguache County Land Use Documents (Land Development Code)", "url": "https://saguachecounty.colorado.gov/land-use-documents", "kind": "primary", "read": false}},
+      "private": [
+        ["A temporary RV permit requires a county-approved OWTS and an active construction permit. Valid for the construction permit's life (3 years).", ["docs"]],
+        ["No RV, camper or tent may be a permanent residence. A county-approved septic system is needed to live or stay on the property.", ["docs"]]
+      ],
+      "commercial": [["Not researched.", []]],
+      "notes": "No county building department."
+    },
+    "San Juan": {
+      "signal": "Unclear",
+      "summary": "Reported: up to 20 days of camping a year without a permit. The Town of Silverton's rules are separate and still changing.",
+      "planning": "https://sanjuancounty.colorado.gov/planning",
+      "sources": {"page": {"title": "San Juan County Planning (Land Use Code revised Jul 10, 2023)", "url": "https://sanjuancounty.colorado.gov/planning", "kind": "primary", "read": false}},
+      "private": [["Reported (search summary): camping up to 20 days per year without a permit.", []]],
+      "commercial": [["Not researched.", []]],
+      "notes": "The Town of Silverton has its own RV/camper rules (workforce-RV ordinances; permit/sticker proposal, 2026)."
+    },
+    "San Miguel": {
+      "signal": "Restrictive",
+      "summary": "Camping is for the owner and guests, non-commercial. RVs, camping spaces and accessory structures can't be rented as short-term rentals. Campgrounds have their own standards.",
+      "planning": "https://www.sanmiguelcountyco.gov/198/Planning",
+      "sources": {
+        "faq": {"title": "San Miguel County FAQ: Camping on Private Property", "url": "https://www.sanmiguelcountyco.gov/FAQ.aspx?QID=361", "kind": "primary", "read": true},
+        "luc": {"title": "San Miguel County Land Use Code (Sec. 5-714, 5-1008, 5-1009)", "url": "https://www.sanmiguelcountyco.gov/243/Land-Use-Code", "kind": "primary", "read": false},
+        "cp": {"title": "Citizen Portal: new rules for private camping and campgrounds", "url": "https://citizenportal.ai/articles/6675097/colorado/san-miguel-county/county-adopts-new-rules-for-private-camping-and-campgrounds-after-split-vote", "kind": "secondary", "read": false}
+      },
+      "private": [
+        ["Non-commercial tents/RVs may be used by the landowner or guests for recreation or vacation (LUC 5-714). Beyond 14 days in a calendar quarter, only one RV or temporary shelter per property at a time.", ["faq"]],
+        ["More than one unit for over 14 days in a quarter needs a Temporary Use Permit (5-301 A).", ["faq"]]
+      ],
+      "commercial": [
+        ["'The rental of accessory structures, recreational vehicles, camping spaces, and other spaces not located in the primary dwelling unit is not allowed as a Short-Term Rental.'", ["faq"]],
+        ["Separate standards for RV parks, trailer parks, commercial campgrounds and semi-primitive campgrounds (5-1008, 5-1009), adopted on a split vote.", ["luc", "cp"]]
+      ],
+      "notes": ""
+    },
+    "Sedgwick": {
+      "signal": "Unclear",
+      "summary": "No camping-specific rule found. No county building department.",
+      "planning": "https://sedgwickcounty.colorado.gov/",
+      "sources": {"zr": {"title": "Sedgwick County Zoning Regulations", "url": "https://sedgwickcounty.colorado.gov/sites/sedgwickcounty/files/Zoning%20Regulations.pdf", "kind": "primary", "read": false}},
+      "private": [["No camping-specific provision found in this pass.", []]],
+      "commercial": [["Not researched.", []]],
+      "notes": "County office: 970-474-3346."
+    },
+    "Summit": {
+      "signal": "Unclear",
+      "summary": "Private-land camping rule not found.",
+      "planning": "https://www.summitcountyco.gov/services/community_development/planning/",
+      "sources": {"ludc": {"title": "Summit County Land Use and Development Code", "url": "https://www.summitcountyco.gov/services/community_development/planning/development_regulations/land_use_development_code.php", "kind": "primary", "read": false}},
+      "private": [["Not found in this pass. (County open space rules cover public land only.)", []]],
+      "commercial": [["Not researched.", ["ludc"]]],
+      "notes": "Planning: 970-668-4200."
+    },
+    "Teller": {
+      "signal": "Unclear",
+      "summary": "Owners may camp up to 60 days a year. A $25 permit is needed for 14+ days on vacant land. Paid camping wasn't researched.",
+      "planning": "https://www.tellercounty.gov/",
+      "sources": {
+        "ord": {"title": "Teller County Ordinance 20: Regulating Camping", "url": "https://www.tellercounty.gov/DocumentCenter/View/837/Regulating-Camping-in-Teller-County---Ordinance-20-PDF", "kind": "primary", "read": false},
+        "koaa": {"title": "KOAA: Teller long-term camping ordinance", "url": "https://www.koaa.com/news/covering-colorado/2019/04/22/new-ordinance-to-prevent-long-term-camping-in-teller-county/", "kind": "secondary", "read": false}
+      },
+      "private": [
+        ["Owners may camp on their property up to 60 days in any 12-month period. A $25 permit is needed for 14+ days on vacant property.", ["ord", "koaa"]],
+        ["A camping unit is an RV, camp trailer, 5th wheel or tent. Trash must be managed onsite. Longer stays need septic, water and a TUP.", ["ord"]]
+      ],
+      "commercial": [["Not researched.", []]],
+      "notes": "The ordinance PDF is a scan (not text-searchable). Planning: 719-687-3048."
+    },
+    "Washington": {
+      "signal": "Unclear",
+      "summary": "No camping-specific rule found. Land-use changes go through the Planning Commission and BOCC.",
+      "planning": "https://washingtoncounty.colorado.gov/departments/administration/planning-and-zoning",
+      "sources": {"page": {"title": "Washington County Planning and Zoning", "url": "https://washingtoncounty.colorado.gov/departments/administration/planning-and-zoning", "kind": "primary", "read": false}},
+      "private": [["Not confirmed. More than one residence on under 35 acres needs health-department septic approval.", ["page"]]],
+      "commercial": [["Changes of land use go to the Planning Commission, then the BOCC.", ["page"]]],
+      "notes": "No county building department."
+    },
+    "Weld": {
+      "signal": "Campground",
+      "summary": "'Camping' is capped at 7 consecutive nights. A 'campground' is commercial RV/tent use for the public. Check the zone-district use lists.",
+      "planning": "https://www.weld.gov/Government/Departments/Planning-and-Zoning",
+      "sources": {
+        "code": {"title": "Weld County Charter and County Code, Ch. 23 (Zoning)", "url": "https://library.municode.com/co/weld_county/codes/charter_and_county_code", "kind": "primary", "read": false},
+        "ag": {"title": "Weld County A-zone guide (lots outside subdivisions)", "url": "https://www.weld.gov/files/sharedassets/public/v/5/departments/planning-and-zoning/documents/code-compliance/ag-zone-outside-sub-townsite.pdf", "kind": "primary", "read": false}
+      },
+      "private": [["'Camping' means up to 7 consecutive nights in a tent, primitive structure, travel trailer or RV at a campsite. Temporary shelter, not a residence.", ["code"]]],
+      "commercial": [["'Campground' means an area for temporary RV/tent placement, operated commercially for the public. Check the A-district use lists.", ["code", "ag"]]],
+      "notes": "Home-rule county."
+    },
+    "Yuma": {
+      "signal": "Unclear",
+      "summary": "The 2024 Land Use Code regulates RV storage and use in residential districts. Details not confirmed.",
+      "planning": "https://yumacounty.net/departments/land-use/",
+      "sources": {"luc": {"title": "Yuma County Land Use Code (2024)", "url": "https://yumacounty.net/wp-content/uploads/2025/10/2024-Yuma-County-Land-Use-Code.pdf", "kind": "primary", "read": false}},
+      "private": [["The code regulates storage, parking and use of RVs and campers in residential districts. Details not confirmed.", ["luc"]]],
+      "commercial": [["Not researched.", []]],
+      "notes": "No county building department. Watch for Yuma County, Arizona results when searching."
+    }
+  }
+}

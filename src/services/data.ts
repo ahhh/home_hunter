@@ -1,4 +1,4 @@
-import type { AdministrativeArea, CountyProfile, RegulationSummary, RegulatorySource } from "../domain/types";
+import type { AdministrativeArea, CountyProfile, HostingSummary, RegulationSummary, RegulatorySource } from "../domain/types";
 import { AreaIndex, type AreaGeometry } from "../geo/geo";
 
 export interface StateData {
@@ -13,6 +13,8 @@ export interface StateData {
   regulations: Map<string, RegulationSummary>;
   regulationSources: Map<string, RegulatorySource>;
   regulationsVersion: string;
+  hosting: Map<string, HostingSummary>;
+  hostingMeta: { checkedAt: string; nextReview: string; wikiBase: string };
 }
 
 async function json(path: string) {
@@ -23,11 +25,12 @@ async function json(path: string) {
 
 export async function loadState(code: string): Promise<StateData> {
   const base = `${import.meta.env.BASE_URL}data/states/${code}/`;
-  const [areasFile, geojson, profiles, regs] = await Promise.all([
+  const [areasFile, geojson, profiles, regs, hosting] = await Promise.all([
     json(`${base}areas.json`),
     json(`${base}counties.geojson`),
     json(`${base}profiles.json`),
     json(`${base}regulations.json`),
+    json(`${base}hosting.json`),
   ]);
   const areas: AdministrativeArea[] = areasFile.areas;
   return {
@@ -42,5 +45,7 @@ export async function loadState(code: string): Promise<StateData> {
     regulations: new Map(regs.records.map((r: RegulationSummary) => [r.areaId, r])),
     regulationSources: new Map(regs.sources.map((s: RegulatorySource) => [s.id, s])),
     regulationsVersion: regs.datasetVersion,
+    hosting: new Map(hosting.records.map((h: HostingSummary) => [h.areaId, h])),
+    hostingMeta: { checkedAt: hosting.checkedAt, nextReview: hosting.nextReview, wikiBase: hosting.wikiBase },
   };
 }

@@ -124,6 +124,22 @@ export interface RegulationSummary {
   caveats: string[];
 }
 
+/** Research signal for hosting paid campers (Hipcamp) in a county. Built from wiki/counties by pipelines/hosting. */
+export type HostingSignal = "Pathway" | "Campground" | "Restrictive" | "Paused" | "Unclear";
+
+export interface HostingSummary {
+  areaId: string;
+  signal: HostingSignal;
+  summary: string;
+  /** verified: every sourced claim was read in a primary source; partial: some were; unverified: none. */
+  evidence: "verified" | "partial" | "unverified";
+  noBuildingDept: boolean;
+  /** Path of the county's wiki page, relative to the dataset's wikiBase. */
+  wikiPath: string;
+  /** Primary (government) sources, the ones actually read first. */
+  sources: { title: string; url: string; section?: string; read: boolean }[];
+}
+
 export interface RegulatorySource {
   id: string;
   title: string;

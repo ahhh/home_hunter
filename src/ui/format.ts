@@ -29,8 +29,13 @@ export function ago(iso: string, now = Date.now()): string {
   return months === 1 ? "a month ago" : `${months} months ago`;
 }
 
+/** A date-only string ("2026-09-29") is read as local midnight, not UTC, so it doesn't show as the day before. */
 export const shortDate = (iso: string) =>
-  new Date(iso).toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" });
+  new Date(/^\d{4}-\d{2}-\d{2}$/.test(iso) ? `${iso}T00:00` : iso).toLocaleDateString("en-US", {
+    month: "short",
+    day: "numeric",
+    year: "numeric",
+  });
 
 /** Parse "250k", "1.2m", "$300,000" into a number; empty → undefined. */
 export function parseMoney(s: string): number | undefined {

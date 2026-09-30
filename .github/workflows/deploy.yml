@@ -26,6 +26,7 @@ jobs:
       - run: npm ci
       - run: npm test
       - run: python3 -m unittest discover -s pipelines/listings -v
+      - run: python3 pipelines/hosting/build.py --check
       - run: npm run build
       - uses: actions/upload-pages-artifact@v3
         with:

@@ -1253,3 +1253,29 @@ form.edit {
     bottom: 12px;
   }
 }
+
+/* ---------- hosting signal (county panel) ---------- */
+
+.signal {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 3px;
+  border-left: 4px solid var(--line);
+  background: var(--granite);
+  font: 600 15px/1.4 var(--font-cond);
+}
+
+.signal-pathway {
+  border-color: var(--pine);
+  background: var(--ok-bg);
+}
+
+.signal-campground {
+  border-color: var(--slate);
+}
+
+.signal-restrictive,
+.signal-paused {
+  border-color: var(--exclude);
+  background: var(--warn-bg);
+}

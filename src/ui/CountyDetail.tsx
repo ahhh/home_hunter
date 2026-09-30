@@ -1,5 +1,12 @@
 import type { Dispatch } from "react";
-import type { AdministrativeArea, CountySearchState, RegulationTopic, SearchState } from "../domain/types";
+import type {
+  AdministrativeArea,
+  CountySearchState,
+  HostingSignal,
+  HostingSummary,
+  RegulationTopic,
+  SearchState,
+} from "../domain/types";
 import { daysSince } from "../listings/collection";
 import type { StateData } from "../services/data";
 import { searchLinks } from "../sources/sources";
@@ -28,9 +35,24 @@ type RegulationTopics = Record<"zoning" | "camping" | "rvOccupancy" | "shortTerm
 
 const REVIEW_STALE_DAYS = 365;
 
+const SIGNAL_LABELS: Record<HostingSignal, string> = {
+  Pathway: "Small-camping permit exists",
+  Campground: "Needs campground-type approval",
+  Restrictive: "Restrictive for paid camping",
+  Paused: "New applications paused",
+  Unclear: "Rules unclear",
+};
+
+const EVIDENCE_LABELS: Record<HostingSummary["evidence"], string> = {
+  verified: "Checked against the county's own documents.",
+  partial: "Partly checked against the county's own documents.",
+  unverified: "Not yet checked against the county's own documents.",
+};
+
 export function CountyDetail({ area, data, search, listingCount, dispatch, onClose }: Props) {
   const profile = data.profiles.get(area.id);
   const regs = data.regulations.get(area.id);
+  const hosting = data.hosting.get(area.id);
   const state = search.counties[area.id];
   const set = (s: CountySearchState | null) => dispatch({ type: "setCounty", id: area.id, state: s });
   const google = (q: string) => `https://www.google.com/search?q=${encodeURIComponent(q)}`;
@@ -83,6 +105,48 @@ export function CountyDetail({ area, data, search, listingCount, dispatch, onClo
             ? "Listings in this county are hidden, even inside the circle."
             : "Listings here show when they're inside the circle."}
       </p>
+
+      {hosting && (
+        <section className="detail-section" aria-labelledby="hosting-h">
+          <h3 id="hosting-h">Hosting campers (Hipcamp)</h3>
+          <p>
+            <span className={`signal signal-${hosting.signal.toLowerCase()}`}>{SIGNAL_LABELS[hosting.signal]}</span>
+          </p>
+          <p>{hosting.summary}</p>
+          <p className={`note ${hosting.evidence === "verified" ? "ok" : "warn"}`}>
+            {EVIDENCE_LABELS[hosting.evidence]} Research notes checked {shortDate(data.hostingMeta.checkedAt)}, not a
+            zoning determination.
+            {hosting.noBuildingDept && " This county has no building department."}
+          </p>
+          {hosting.sources.length > 0 && (
+            <>
+              <h4>County sources</h4>
+              <ul className="link-list">
+                {hosting.sources.map((s) => (
+                  <li key={s.url}>
+                    <a href={s.url} target="_blank" rel="noopener noreferrer">
+                      {s.title}
+                    </a>
+                    {s.section && <span className="hint"> {s.section}</span>}
+                  </li>
+                ))}
+              </ul>
+            </>
+          )}
+          <ul className="link-list">
+            <li>
+              <a href={data.hostingMeta.wikiBase + hosting.wikiPath} target="_blank" rel="noopener noreferrer">
+                Full {area.name} notes, with a source for every rule
+              </a>
+            </li>
+            <li>
+              <a href={data.hostingMeta.wikiBase + "04-property-worksheet.md"} target="_blank" rel="noopener noreferrer">
+                Parcel worksheet: can we host here?
+              </a>
+            </li>
+          </ul>
+        </section>
+      )}
 
       <section className="detail-section" aria-labelledby="rules-h">
         <h3 id="rules-h">County rules</h3>
