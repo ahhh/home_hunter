@@ -138,6 +138,23 @@ export interface HostingSummary {
   wikiPath: string;
   /** Primary (government) sources, the ones actually read first. */
   sources: { title: string; url: string; section?: string; read: boolean }[];
+  incentives: IncentiveSummary;
+}
+
+/** Location-based tax-credit programs in a county. Built from pipelines/incentives by pipelines/hosting. */
+export interface IncentiveSummary {
+  summary: string;
+  /** Enterprise zone name(s) on the 2026-2036 map, or null when the county has none. */
+  enterpriseZone: string | null;
+  /** Share of the county's land inside an enterprise zone, 0-100. */
+  enterpriseZonePct: number;
+  /** "whole county", a description of the part that qualifies, or null. */
+  enhancedRural: string | null;
+  ruralJumpStart: "zone" | "eligible, not joined" | null;
+  /** Opportunity zone tracts on the 2018 map, open through 2028. */
+  oz1Tracts: number;
+  /** Tracts nominated for the 2027 opportunity zone map. */
+  oz2Tracts: { geoid: string; where: string; rural: boolean }[];
 }
 
 export interface RegulatorySource {

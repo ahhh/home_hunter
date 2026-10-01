@@ -1,5 +1,6 @@
 import type { AdministrativeArea, CountyProfile, HostingSummary, RegulationSummary, RegulatorySource } from "../domain/types";
 import { AreaIndex, type AreaGeometry } from "../geo/geo";
+import { TourismModel } from "../tourism/heat";
 
 export interface StateData {
   state: { code: string; name: string; fips: string };
@@ -14,7 +15,7 @@ export interface StateData {
   regulationSources: Map<string, RegulatorySource>;
   regulationsVersion: string;
   hosting: Map<string, HostingSummary>;
-  hostingMeta: { checkedAt: string; nextReview: string; wikiBase: string };
+  hostingMeta: { checkedAt: string; nextReview: string; wikiBase: string; incentivesCheckedAt: string };
 }
 
 async function json(path: string) {
@@ -46,6 +47,24 @@ export async function loadState(code: string): Promise<StateData> {
     regulationSources: new Map(regs.sources.map((s: RegulatorySource) => [s.id, s])),
     regulationsVersion: regs.datasetVersion,
     hosting: new Map(hosting.records.map((h: HostingSummary) => [h.areaId, h])),
-    hostingMeta: { checkedAt: hosting.checkedAt, nextReview: hosting.nextReview, wikiBase: hosting.wikiBase },
+    hostingMeta: {
+      checkedAt: hosting.checkedAt,
+      nextReview: hosting.nextReview,
+      wikiBase: hosting.wikiBase,
+      incentivesCheckedAt: hosting.incentivesCheckedAt,
+    },
   };
+}
+
+const tourism = new Map<string, Promise<TourismModel>>();
+
+/** Tourism heat data, fetched the first time a tourism overlay is turned on. */
+export function loadTourism(code: string): Promise<TourismModel> {
+  let p = tourism.get(code);
+  if (!p) {
+    p = json(`${import.meta.env.BASE_URL}data/states/${code}/tourism.json`).then((d) => new TourismModel(d));
+    p.catch(() => tourism.delete(code)); // let a later toggle retry
+    tourism.set(code, p);
+  }
+  return p;
 }

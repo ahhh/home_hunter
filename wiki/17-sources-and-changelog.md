@@ -26,6 +26,13 @@ page. Record the **jurisdiction, URL, section, date checked and next review date
 | CRS-5 | [HB24-1152 ADUs (DOLA)](https://dlg.colorado.gov/accessory-dwelling-units) | CO | Subject jurisdictions; one ADU per SF lot from 2025-06-30 | Reported | 2026-09-29 | 2027-09-29 |
 | CRS-6 | [HB22-1242 tiny homes](https://leg.colorado.gov/bills/hb22-1242) | CO | Tiny home regulation | Reported | 2026-09-29 | 2027-09-29 |
 | DORA-1 | [Electrical & plumbing permits](https://dpo.colorado.gov/ElectricalPlumbingPermits) | CO | State permits where there's no local program | Reported | 2026-09-29 | 2027-09-29 |
+| OEDIT-1 | [OEDIT: Enterprise Zone Program](https://oedit.colorado.gov/enterprise-zone-program) | CO | EZ credits; enhanced rural counties 2025-2026 | Verified | 2026-09-30 | 2027-01-15 |
+| OEDIT-2 | [OEDIT: Local EZ administrators](https://oedit.colorado.gov/local-enterprise-zone-administrators) | CO | Zone → counties → administrator contacts | Verified | 2026-09-30 | 2027-03-30 |
+| OEDIT-3 | [OEDIT GIS: Enterprise Zones layer](https://services3.arcgis.com/DgjqnJA1rgO92Soi/arcgis/rest/services/Enterprise_Zones/FeatureServer/2) | CO | 2026-2036 zone boundaries (`currentZone='y'`) | Verified | 2026-09-30 | 2027-09-30 |
+| OEDIT-4 | [OEDIT: Rural Jump-Start](https://oedit.colorado.gov/rural-jump-start-program) | CO | Participating and eligible counties; Tier 1 coal communities; deadlines | Verified | 2026-09-30 | 2027-03-30 |
+| OEDIT-5 | [OEDIT: Opportunity Zone Program](https://oedit.colorado.gov/colorado-opportunity-zone-program) | CO / federal | 91 nominated OZ 2.0 tracts; OZ 1.0 rural tracts; H.R. 1 changes | Verified | 2026-09-30 | 2026-12-15 (Treasury certification) |
+| HUD-1 | [HUD: Opportunity Zones layer](https://services.arcgis.com/VTyQ9soqVukalItT/arcgis/rest/services/Opportunity_Zones/FeatureServer/13) | Federal | 126 Colorado OZ 1.0 tracts | Verified | 2026-09-30 | 2027-09-30 |
+| CFR-1 | [26 CFR 1.1400Z2(d)-2](https://www.law.cornell.edu/cfr/text/26/1.1400Z2(d)-2) | Federal | (b)(4)(iv): unimproved land and the 30-month anti-abuse rule | Reported | 2026-09-30 | 2027-09-30 |
 | NACO-1 | [NACo: Chaffee camping ordinance](https://www.naco.org/articles/colorado-county-new-camping-ordinance-opens-doors-private-landowners) | Chaffee | Private land camping ordinance summary | Reported (secondary) | 2026-09-29 | 2027-03-29 |
 
 County sources are listed on each [county page](counties/README.md), numbered and cited next to each claim. Each one is labeled **primary** or **secondary**, and **read** or **not read in full**. Those pages are generated from `pipelines/hosting/counties.json`.

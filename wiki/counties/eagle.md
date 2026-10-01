@@ -50,6 +50,34 @@
 
 —
 
+## Tax-credit zones for land development
+
+> No enterprise zone. No tract eligible for the 2027 opportunity zones. 1 current opportunity zone tract through 2028.
+
+Location-based state and federal incentives that can help pay for building on, improving or doing business on a parcel here. What each program pays for, and how it applies to land, is on [Tax-Credit Zones](../18-incentive-zones.md). Zone lines don't follow parcel lines, so confirm a specific address with the administrator or OEDIT's [enterprise zone map](https://geodata.colorado.gov/maps/COOIT::enterprise-zones/about).
+
+| Program | Here |
+|---|---|
+| Enterprise zone (2026-2036 map) | None. The county isn't in any of the 16 zones on the 2026-2036 map. |
+| Enhanced rural enterprise zone (2025-2026) | No. |
+| Rural Jump-Start | No. |
+| Opportunity zones, current map (through 2028-12-31) | 1 tract. |
+| Opportunity zones, 2027 map (from 2027-01-01) | No eligible tracts. |
+
+### Opportunity zone tracts
+
+| Tract | Where | Size | Current map (to 2028) | 2027 map (nominated) |
+|---|---|---|---|---|
+| [08037000503](https://data.census.gov/profile?g=1400000US08037000503) | Avon | 26.3 sq mi | Yes, rural | — |
+
+The current map uses 2010 tracts and the 2027 map uses 2020 tracts, so a tract number on both maps can have different boundaries. "Rural" is the H.R. 1 definition, which gets the larger 2027 tax break and the lower improvement threshold.
+
+### For a land purchase here
+
+- Opportunity zones reward investing **capital gains** through a qualified opportunity fund. Raw land doesn't have to be doubled in value, but buying it with no plan to improve it within 30 months fails the anti-abuse rule.
+
+Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-zone-administrators), [OEDIT EZ map layer](https://services3.arcgis.com/DgjqnJA1rgO92Soi/arcgis/rest/services/Enterprise_Zones/FeatureServer/2), [OEDIT EZ program](https://oedit.colorado.gov/enterprise-zone-program), [Rural Jump-Start](https://oedit.colorado.gov/rural-jump-start-program), [OEDIT Opportunity Zones (nominated list)](https://oedit.colorado.gov/colorado-opportunity-zone-program), [Treasury eligible tracts](https://docs.google.com/spreadsheets/d/1RAYSjXre7xUF2cbpDGsukz9nroysvwce/edit), [HUD 2018 OZ tracts](https://services.arcgis.com/VTyQ9soqVukalItT/arcgis/rest/services/Opportunity_Zones/FeatureServer/13). All checked 2026-09-30. Zone coverage and town names are measured from those maps and Census 2020 place boundaries by `pipelines/incentives/build.mjs`.
+
 ## Sources
 
 1. [Eagle County Land Use Regulations](https://online.encodeplus.com/regs/eaglecounty-co/page/land-use-regulations) — primary, not read in full

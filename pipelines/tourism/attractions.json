@@ -1,0 +1,1658 @@
+{
+ "_about": "Hand-curated Colorado destinations. topic is the Google Trends topic id (preferred: it merges spellings and old names such as Mount Evans); query is the search term used when there's no good topic. stays is the editorial estimate of where overnight visitors sleep, as shares that add to 1. See pipelines/tourism/README.md.",
+ "bases": {
+  "denver": {
+   "name": "Denver",
+   "lat": 39.7392,
+   "lng": -104.9903
+  },
+  "boulder": {
+   "name": "Boulder",
+   "lat": 40.015,
+   "lng": -105.2705
+  },
+  "golden": {
+   "name": "Golden",
+   "lat": 39.7555,
+   "lng": -105.2211
+  },
+  "lakewood": {
+   "name": "Lakewood",
+   "lat": 39.7047,
+   "lng": -105.0814
+  },
+  "morrison": {
+   "name": "Morrison",
+   "lat": 39.6536,
+   "lng": -105.1911
+  },
+  "evergreen": {
+   "name": "Evergreen",
+   "lat": 39.6333,
+   "lng": -105.3172
+  },
+  "castle-rock": {
+   "name": "Castle Rock",
+   "lat": 39.3722,
+   "lng": -104.8561
+  },
+  "estes-park": {
+   "name": "Estes Park",
+   "lat": 40.3772,
+   "lng": -105.5217
+  },
+  "lyons": {
+   "name": "Lyons",
+   "lat": 40.2247,
+   "lng": -105.2714
+  },
+  "grand-lake": {
+   "name": "Grand Lake",
+   "lat": 40.2522,
+   "lng": -105.8231
+  },
+  "granby": {
+   "name": "Granby",
+   "lat": 40.0861,
+   "lng": -105.9395
+  },
+  "winter-park": {
+   "name": "Winter Park",
+   "lat": 39.8917,
+   "lng": -105.7631
+  },
+  "fraser": {
+   "name": "Fraser",
+   "lat": 39.9447,
+   "lng": -105.8173
+  },
+  "nederland": {
+   "name": "Nederland",
+   "lat": 39.9614,
+   "lng": -105.5108
+  },
+  "idaho-springs": {
+   "name": "Idaho Springs",
+   "lat": 39.7425,
+   "lng": -105.5136
+  },
+  "georgetown": {
+   "name": "Georgetown",
+   "lat": 39.7061,
+   "lng": -105.6975
+  },
+  "black-hawk": {
+   "name": "Black Hawk",
+   "lat": 39.7969,
+   "lng": -105.4936
+  },
+  "central-city": {
+   "name": "Central City",
+   "lat": 39.8019,
+   "lng": -105.5139
+  },
+  "silverthorne": {
+   "name": "Silverthorne",
+   "lat": 39.6297,
+   "lng": -106.0717
+  },
+  "dillon": {
+   "name": "Dillon",
+   "lat": 39.6303,
+   "lng": -106.0434
+  },
+  "frisco": {
+   "name": "Frisco",
+   "lat": 39.5744,
+   "lng": -106.0975
+  },
+  "breckenridge": {
+   "name": "Breckenridge",
+   "lat": 39.4817,
+   "lng": -106.0384
+  },
+  "keystone": {
+   "name": "Keystone",
+   "lat": 39.605,
+   "lng": -105.9545
+  },
+  "copper": {
+   "name": "Copper Mountain",
+   "lat": 39.5022,
+   "lng": -106.1511
+  },
+  "fairplay": {
+   "name": "Fairplay",
+   "lat": 39.2247,
+   "lng": -105.9989
+  },
+  "leadville": {
+   "name": "Leadville",
+   "lat": 39.2508,
+   "lng": -106.2925
+  },
+  "twin-lakes": {
+   "name": "Twin Lakes",
+   "lat": 39.0819,
+   "lng": -106.3797
+  },
+  "vail": {
+   "name": "Vail",
+   "lat": 39.6403,
+   "lng": -106.3742
+  },
+  "avon": {
+   "name": "Avon",
+   "lat": 39.6314,
+   "lng": -106.5222
+  },
+  "edwards": {
+   "name": "Edwards",
+   "lat": 39.645,
+   "lng": -106.5942
+  },
+  "glenwood": {
+   "name": "Glenwood Springs",
+   "lat": 39.5505,
+   "lng": -107.3248
+  },
+  "carbondale": {
+   "name": "Carbondale",
+   "lat": 39.4022,
+   "lng": -107.2112
+  },
+  "basalt": {
+   "name": "Basalt",
+   "lat": 39.3689,
+   "lng": -107.0328
+  },
+  "redstone": {
+   "name": "Redstone",
+   "lat": 39.1836,
+   "lng": -107.237
+  },
+  "marble": {
+   "name": "Marble",
+   "lat": 39.0719,
+   "lng": -107.1892
+  },
+  "snowmass": {
+   "name": "Snowmass Village",
+   "lat": 39.213,
+   "lng": -106.9378
+  },
+  "aspen": {
+   "name": "Aspen",
+   "lat": 39.1911,
+   "lng": -106.8175
+  },
+  "rifle": {
+   "name": "Rifle",
+   "lat": 39.5347,
+   "lng": -107.7831
+  },
+  "steamboat": {
+   "name": "Steamboat Springs",
+   "lat": 40.485,
+   "lng": -106.8317
+  },
+  "craig": {
+   "name": "Craig",
+   "lat": 40.5153,
+   "lng": -107.5464
+  },
+  "rangely": {
+   "name": "Rangely",
+   "lat": 40.0875,
+   "lng": -108.8048
+  },
+  "dinosaur": {
+   "name": "Dinosaur",
+   "lat": 40.2436,
+   "lng": -109.0145
+  },
+  "vernal": {
+   "name": "Vernal, UT",
+   "lat": 40.4555,
+   "lng": -109.5287
+  },
+  "fort-collins": {
+   "name": "Fort Collins",
+   "lat": 40.5853,
+   "lng": -105.0844
+  },
+  "loveland": {
+   "name": "Loveland",
+   "lat": 40.3978,
+   "lng": -105.075
+  },
+  "colorado-springs": {
+   "name": "Colorado Springs",
+   "lat": 38.8339,
+   "lng": -104.8214
+  },
+  "manitou": {
+   "name": "Manitou Springs",
+   "lat": 38.8597,
+   "lng": -104.9172
+  },
+  "woodland-park": {
+   "name": "Woodland Park",
+   "lat": 38.9939,
+   "lng": -105.0569
+  },
+  "cripple-creek": {
+   "name": "Cripple Creek",
+   "lat": 38.7467,
+   "lng": -105.1783
+  },
+  "canon-city": {
+   "name": "Cañon City",
+   "lat": 38.441,
+   "lng": -105.2425
+  },
+  "pueblo": {
+   "name": "Pueblo",
+   "lat": 38.2544,
+   "lng": -104.6091
+  },
+  "westcliffe": {
+   "name": "Westcliffe",
+   "lat": 38.1347,
+   "lng": -105.4658
+  },
+  "la-veta": {
+   "name": "La Veta",
+   "lat": 37.505,
+   "lng": -105.0078
+  },
+  "trinidad": {
+   "name": "Trinidad",
+   "lat": 37.1695,
+   "lng": -104.5005
+  },
+  "salida": {
+   "name": "Salida",
+   "lat": 38.5347,
+   "lng": -105.9989
+  },
+  "buena-vista": {
+   "name": "Buena Vista",
+   "lat": 38.8422,
+   "lng": -106.1311
+  },
+  "gunnison": {
+   "name": "Gunnison",
+   "lat": 38.5458,
+   "lng": -106.9253
+  },
+  "crested-butte": {
+   "name": "Crested Butte",
+   "lat": 38.8697,
+   "lng": -106.9878
+  },
+  "lake-city": {
+   "name": "Lake City",
+   "lat": 38.03,
+   "lng": -107.3153
+  },
+  "montrose": {
+   "name": "Montrose",
+   "lat": 38.4783,
+   "lng": -107.8762
+  },
+  "crawford": {
+   "name": "Crawford",
+   "lat": 38.7047,
+   "lng": -107.6075
+  },
+  "delta": {
+   "name": "Delta",
+   "lat": 38.7422,
+   "lng": -108.069
+  },
+  "cedaredge": {
+   "name": "Cedaredge",
+   "lat": 38.9014,
+   "lng": -107.9259
+  },
+  "ridgway": {
+   "name": "Ridgway",
+   "lat": 38.1528,
+   "lng": -107.7559
+  },
+  "ouray": {
+   "name": "Ouray",
+   "lat": 38.0228,
+   "lng": -107.6714
+  },
+  "telluride": {
+   "name": "Telluride",
+   "lat": 37.9375,
+   "lng": -107.8123
+  },
+  "mountain-village": {
+   "name": "Mountain Village",
+   "lat": 37.9333,
+   "lng": -107.8495
+  },
+  "silverton": {
+   "name": "Silverton",
+   "lat": 37.8119,
+   "lng": -107.6645
+  },
+  "durango": {
+   "name": "Durango",
+   "lat": 37.2753,
+   "lng": -107.8801
+  },
+  "pagosa": {
+   "name": "Pagosa Springs",
+   "lat": 37.2694,
+   "lng": -107.0098
+  },
+  "south-fork": {
+   "name": "South Fork",
+   "lat": 37.6697,
+   "lng": -106.6417
+  },
+  "alamosa": {
+   "name": "Alamosa",
+   "lat": 37.4694,
+   "lng": -105.87
+  },
+  "dunes-entrance": {
+   "name": "Great Sand Dunes entrance",
+   "lat": 37.729,
+   "lng": -105.5137
+  },
+  "crestone": {
+   "name": "Crestone",
+   "lat": 37.9967,
+   "lng": -105.6994
+  },
+  "fort-garland": {
+   "name": "Fort Garland",
+   "lat": 37.4294,
+   "lng": -105.4333
+  },
+  "cortez": {
+   "name": "Cortez",
+   "lat": 37.3489,
+   "lng": -108.5859
+  },
+  "mancos": {
+   "name": "Mancos",
+   "lat": 37.345,
+   "lng": -108.2893
+  },
+  "dolores": {
+   "name": "Dolores",
+   "lat": 37.4747,
+   "lng": -108.5007
+  },
+  "rico": {
+   "name": "Rico",
+   "lat": 37.6922,
+   "lng": -108.0306
+  },
+  "grand-junction": {
+   "name": "Grand Junction",
+   "lat": 39.0639,
+   "lng": -108.5506
+  },
+  "fruita": {
+   "name": "Fruita",
+   "lat": 39.1589,
+   "lng": -108.729
+  },
+  "palisade": {
+   "name": "Palisade",
+   "lat": 39.1103,
+   "lng": -108.3509
+  }
+ },
+ "attractions": [
+  {
+   "id": "rmnp",
+   "name": "Rocky Mountain National Park",
+   "category": "park",
+   "lat": 40.3428,
+   "lng": -105.6836,
+   "query": "Rocky Mountain National Park",
+   "topic": "/m/01p_zv",
+   "stays": {
+    "estes-park": 0.55,
+    "grand-lake": 0.15,
+    "boulder": 0.1,
+    "denver": 0.1,
+    "lyons": 0.05,
+    "granby": 0.05
+   },
+   "topicTitle": "Rocky Mountain National Park (National park in Colorado)"
+  },
+  {
+   "id": "great-sand-dunes",
+   "name": "Great Sand Dunes National Park",
+   "category": "park",
+   "lat": 37.7916,
+   "lng": -105.5943,
+   "query": "Great Sand Dunes National Park",
+   "topic": "/m/02ctjd",
+   "stays": {
+    "alamosa": 0.55,
+    "dunes-entrance": 0.25,
+    "fort-garland": 0.1,
+    "crestone": 0.1
+   },
+   "topicTitle": "Great Sand Dunes National Park and Preserve (National park in Colorado)"
+  },
+  {
+   "id": "mesa-verde",
+   "name": "Mesa Verde National Park",
+   "category": "park",
+   "lat": 37.2309,
+   "lng": -108.4618,
+   "query": "Mesa Verde National Park",
+   "topic": "/m/01q75f",
+   "stays": {
+    "cortez": 0.55,
+    "mancos": 0.2,
+    "durango": 0.25
+   },
+   "topicTitle": "Mesa Verde National Park (National park in Montezuma County, Colorado)"
+  },
+  {
+   "id": "black-canyon",
+   "name": "Black Canyon of the Gunnison National Park",
+   "category": "park",
+   "lat": 38.5754,
+   "lng": -107.7416,
+   "query": "Black Canyon of the Gunnison National Park",
+   "topic": "/m/01wkjw",
+   "stays": {
+    "montrose": 0.75,
+    "crawford": 0.1,
+    "gunnison": 0.15
+   },
+   "topicTitle": "Black Canyon of the Gunnison National Park (National park in Montrose County, Colorado)"
+  },
+  {
+   "id": "colorado-nm",
+   "name": "Colorado National Monument",
+   "category": "park",
+   "lat": 39.0571,
+   "lng": -108.6893,
+   "query": "Colorado National Monument",
+   "topic": "/m/02_fzl",
+   "stays": {
+    "fruita": 0.35,
+    "grand-junction": 0.65
+   },
+   "topicTitle": "Colorado National Monument (Monument in Mesa County, Colorado)"
+  },
+  {
+   "id": "dinosaur-nm",
+   "name": "Dinosaur National Monument",
+   "category": "park",
+   "lat": 40.4,
+   "lng": -109.1,
+   "query": "Dinosaur National Monument",
+   "topic": "/m/02_41x",
+   "stays": {
+    "vernal": 0.6,
+    "dinosaur": 0.1,
+    "rangely": 0.1,
+    "craig": 0.2
+   },
+   "topicTitle": "Dinosaur National Monument (National reserve in the United States of America)"
+  },
+  {
+   "id": "florissant",
+   "name": "Florissant Fossil Beds National Monument",
+   "category": "park",
+   "lat": 38.9139,
+   "lng": -105.2853,
+   "query": "Florissant Fossil Beds National Monument",
+   "topic": "/m/02ql0z",
+   "stays": {
+    "woodland-park": 0.5,
+    "colorado-springs": 0.3,
+    "cripple-creek": 0.2
+   },
+   "topicTitle": "Florissant Fossil Beds National Monument (Park in Teller County, Colorado)"
+  },
+  {
+   "id": "chimney-rock",
+   "name": "Chimney Rock National Monument",
+   "category": "park",
+   "lat": 37.1917,
+   "lng": -107.3069,
+   "query": "Chimney Rock National Monument",
+   "topic": "/m/0fgtf8",
+   "stays": {
+    "pagosa": 0.7,
+    "durango": 0.3
+   },
+   "topicTitle": "Chimney Rock National Monument (Monument in Chimney Rock, Colorado)"
+  },
+  {
+   "id": "canyons-ancients",
+   "name": "Canyons of the Ancients National Monument",
+   "category": "park",
+   "lat": 37.37,
+   "lng": -108.83,
+   "query": "Canyons of the Ancients National Monument",
+   "topic": "/m/0c1_r5",
+   "stays": {
+    "cortez": 0.8,
+    "dolores": 0.2
+   },
+   "topicTitle": "Canyons of the Ancients National Monument (Monument in Colorado)"
+  },
+  {
+   "id": "garden-of-the-gods",
+   "name": "Garden of the Gods",
+   "category": "landmark",
+   "lat": 38.8784,
+   "lng": -104.8698,
+   "query": "Garden of the Gods",
+   "topic": "/m/01ygcb",
+   "stays": {
+    "colorado-springs": 0.65,
+    "manitou": 0.35
+   },
+   "topicTitle": "Garden of the Gods (Park in Colorado Springs, Colorado)"
+  },
+  {
+   "id": "pikes-peak",
+   "name": "Pikes Peak",
+   "category": "landmark",
+   "lat": 38.8409,
+   "lng": -105.0423,
+   "query": "Pikes Peak",
+   "topic": "/m/01fwmz",
+   "stays": {
+    "colorado-springs": 0.55,
+    "manitou": 0.3,
+    "woodland-park": 0.15
+   },
+   "topicTitle": "Pikes Peak (Mountain in Colorado)"
+  },
+  {
+   "id": "royal-gorge",
+   "name": "Royal Gorge Bridge and Park",
+   "category": "landmark",
+   "lat": 38.4613,
+   "lng": -105.325,
+   "query": "Royal Gorge Bridge",
+   "topic": null,
+   "stays": {
+    "canon-city": 0.7,
+    "colorado-springs": 0.2,
+    "salida": 0.1
+   }
+  },
+  {
+   "id": "red-rocks",
+   "name": "Red Rocks Amphitheatre",
+   "category": "landmark",
+   "lat": 39.6654,
+   "lng": -105.2057,
+   "query": "Red Rocks Amphitheatre",
+   "topic": "/m/02bjj5",
+   "stays": {
+    "denver": 0.6,
+    "golden": 0.15,
+    "morrison": 0.1,
+    "lakewood": 0.15
+   },
+   "topicTitle": "Red Rocks Park and Amphitheatre (Amphitheater in Jefferson County, Colorado)"
+  },
+  {
+   "id": "hanging-lake",
+   "name": "Hanging Lake",
+   "category": "hike",
+   "lat": 39.6014,
+   "lng": -107.1916,
+   "query": "Hanging Lake",
+   "topic": "/m/02r2r8s",
+   "stays": {
+    "glenwood": 0.9,
+    "carbondale": 0.1
+   },
+   "topicTitle": "Hanging Lake (Lake in Colorado)"
+  },
+  {
+   "id": "maroon-bells",
+   "name": "Maroon Bells",
+   "category": "hike",
+   "lat": 39.0708,
+   "lng": -106.989,
+   "query": "Maroon Bells",
+   "topic": "/m/06sy3n",
+   "stays": {
+    "aspen": 0.6,
+    "snowmass": 0.25,
+    "basalt": 0.1,
+    "carbondale": 0.05
+   },
+   "topicTitle": "Maroon Bells (Topic)"
+  },
+  {
+   "id": "mount-blue-sky",
+   "name": "Mount Blue Sky",
+   "category": "drive",
+   "lat": 39.5883,
+   "lng": -105.6438,
+   "query": "Mount Blue Sky",
+   "topic": "/m/03jvxf",
+   "stays": {
+    "idaho-springs": 0.4,
+    "denver": 0.4,
+    "evergreen": 0.2
+   },
+   "topicTitle": "Mount Blue Sky (Peak in Colorado)"
+  },
+  {
+   "id": "st-marys-glacier",
+   "name": "St. Mary's Glacier",
+   "category": "hike",
+   "lat": 39.825,
+   "lng": -105.6466,
+   "query": "St. Mary's Glacier",
+   "topic": "/m/03mhwp4",
+   "stays": {
+    "idaho-springs": 0.6,
+    "denver": 0.4
+   },
+   "topicTitle": "St. Mary's Glacier (Glacier in Colorado)"
+  },
+  {
+   "id": "spanish-peaks",
+   "name": "Spanish Peaks",
+   "category": "hike",
+   "lat": 37.3756,
+   "lng": -104.9933,
+   "query": "Spanish Peaks",
+   "topic": "/m/0gsd9v",
+   "stays": {
+    "la-veta": 0.6,
+    "trinidad": 0.4
+   },
+   "topicTitle": "Spanish Peaks (Mountain in Colorado)"
+  },
+  {
+   "id": "breckenridge-ski",
+   "name": "Breckenridge Ski Resort",
+   "category": "ski",
+   "lat": 39.4808,
+   "lng": -106.0667,
+   "query": "Breckenridge Ski Resort",
+   "topic": "/m/0h1nv0",
+   "stays": {
+    "breckenridge": 0.75,
+    "frisco": 0.15,
+    "silverthorne": 0.1
+   },
+   "topicTitle": "Breckenridge Ski Resort (Ski resort in Summit County, Colorado)"
+  },
+  {
+   "id": "vail-ski",
+   "name": "Vail Ski Resort",
+   "category": "ski",
+   "lat": 39.6061,
+   "lng": -106.355,
+   "query": "Vail Ski Resort",
+   "topic": "/m/0h77y7",
+   "stays": {
+    "vail": 0.65,
+    "avon": 0.15,
+    "edwards": 0.1,
+    "frisco": 0.1
+   },
+   "topicTitle": "Vail Ski Resort (Ski resort in Eagle County, Colorado)"
+  },
+  {
+   "id": "beaver-creek",
+   "name": "Beaver Creek Resort",
+   "category": "ski",
+   "lat": 39.6042,
+   "lng": -106.5165,
+   "query": "Beaver Creek Resort",
+   "topic": "/m/091lqh",
+   "stays": {
+    "avon": 0.6,
+    "edwards": 0.25,
+    "vail": 0.15
+   },
+   "topicTitle": "Beaver Creek Resort (Ski resort in Eagle County, Colorado)"
+  },
+  {
+   "id": "keystone-ski",
+   "name": "Keystone Resort",
+   "category": "ski",
+   "lat": 39.5792,
+   "lng": -105.9347,
+   "query": "Keystone Resort",
+   "topic": "/m/04s5t_",
+   "stays": {
+    "keystone": 0.6,
+    "dillon": 0.2,
+    "silverthorne": 0.2
+   },
+   "topicTitle": "Keystone Resort (Ski resort in Summit County, Colorado)"
+  },
+  {
+   "id": "copper-ski",
+   "name": "Copper Mountain",
+   "category": "ski",
+   "lat": 39.5022,
+   "lng": -106.1497,
+   "query": "Copper Mountain",
+   "topic": "/m/09c_dy",
+   "stays": {
+    "copper": 0.5,
+    "frisco": 0.3,
+    "leadville": 0.2
+   },
+   "topicTitle": "Copper Mountain (Ski resort in Copper Mountain, Colorado)"
+  },
+  {
+   "id": "abasin",
+   "name": "Arapahoe Basin",
+   "category": "ski",
+   "lat": 39.6425,
+   "lng": -105.8719,
+   "query": "Arapahoe Basin",
+   "topic": "/m/01hpdw",
+   "stays": {
+    "keystone": 0.4,
+    "dillon": 0.3,
+    "denver": 0.3
+   },
+   "topicTitle": "Arapahoe Basin (Ski area in Summit County, Colorado)"
+  },
+  {
+   "id": "loveland-ski",
+   "name": "Loveland Ski Area",
+   "category": "ski",
+   "lat": 39.68,
+   "lng": -105.8979,
+   "query": "Loveland Ski Area",
+   "topic": "/m/090n4d",
+   "stays": {
+    "georgetown": 0.3,
+    "idaho-springs": 0.2,
+    "denver": 0.4,
+    "silverthorne": 0.1
+   },
+   "topicTitle": "Loveland Ski Area (Ski area in Clear Creek County, Colorado)"
+  },
+  {
+   "id": "winter-park-ski",
+   "name": "Winter Park Resort",
+   "category": "ski",
+   "lat": 39.8868,
+   "lng": -105.7625,
+   "query": "Winter Park Resort",
+   "topic": "/m/08g0dy",
+   "stays": {
+    "winter-park": 0.6,
+    "fraser": 0.25,
+    "granby": 0.15
+   },
+   "topicTitle": "Winter Park Resort (Ski resort in Grand County, Colorado)"
+  },
+  {
+   "id": "steamboat-ski",
+   "name": "Steamboat Ski Resort",
+   "category": "ski",
+   "lat": 40.4572,
+   "lng": -106.8045,
+   "query": "Steamboat Ski Resort",
+   "topic": "/m/077wc8",
+   "stays": {
+    "steamboat": 1
+   },
+   "topicTitle": "Steamboat Ski Resort (Ski area in Routt County, Colorado)"
+  },
+  {
+   "id": "aspen-snowmass",
+   "name": "Aspen Snowmass",
+   "category": "ski",
+   "lat": 39.2,
+   "lng": -106.9,
+   "query": "Aspen Snowmass",
+   "topic": "/m/0b0n60",
+   "stays": {
+    "aspen": 0.5,
+    "snowmass": 0.4,
+    "basalt": 0.1
+   },
+   "topicTitle": "Aspen Snowmass Ski Resort (Ski resort in Snowmass Village, Colorado)"
+  },
+  {
+   "id": "telluride-ski",
+   "name": "Telluride Ski Resort",
+   "category": "ski",
+   "lat": 37.9363,
+   "lng": -107.8466,
+   "query": "Telluride Ski Resort",
+   "topic": "/m/026pgg2",
+   "stays": {
+    "telluride": 0.55,
+    "mountain-village": 0.35,
+    "ridgway": 0.1
+   },
+   "topicTitle": "Telluride Ski Resort (Ski resort in San Miguel County, Colorado)"
+  },
+  {
+   "id": "crested-butte-ski",
+   "name": "Crested Butte Mountain Resort",
+   "category": "ski",
+   "lat": 38.8991,
+   "lng": -106.9658,
+   "query": "Crested Butte Mountain Resort",
+   "topic": "/m/03czmb8",
+   "stays": {
+    "crested-butte": 0.8,
+    "gunnison": 0.2
+   },
+   "topicTitle": "Crested Butte Mountain Resort (Ski resort in Mount Crested Butte, Colorado)"
+  },
+  {
+   "id": "purgatory",
+   "name": "Purgatory Resort",
+   "category": "ski",
+   "lat": 37.6303,
+   "lng": -107.814,
+   "query": "Purgatory Resort",
+   "topic": "/m/03byxkh",
+   "stays": {
+    "durango": 0.85,
+    "silverton": 0.15
+   },
+   "topicTitle": "Purgatory Resort (Ski resort in La Plata County, Colorado)"
+  },
+  {
+   "id": "wolf-creek",
+   "name": "Wolf Creek Ski Area",
+   "category": "ski",
+   "lat": 37.4722,
+   "lng": -106.7933,
+   "query": "Wolf Creek Ski Area",
+   "topic": "/m/0cbt0c",
+   "stays": {
+    "pagosa": 0.6,
+    "south-fork": 0.4
+   },
+   "topicTitle": "Wolf Creek Ski Area (Ski area in Mineral County, Colorado)"
+  },
+  {
+   "id": "monarch",
+   "name": "Monarch Mountain",
+   "category": "ski",
+   "lat": 38.5121,
+   "lng": -106.332,
+   "query": "Monarch Mountain",
+   "topic": "/m/0fx3g5",
+   "stays": {
+    "salida": 0.75,
+    "gunnison": 0.15,
+    "buena-vista": 0.1
+   },
+   "topicTitle": "Monarch Mountain (Ski resort in Chaffee County, Colorado)"
+  },
+  {
+   "id": "eldora",
+   "name": "Eldora Mountain Resort",
+   "category": "ski",
+   "lat": 39.9372,
+   "lng": -105.5827,
+   "query": "Eldora Mountain Resort",
+   "topic": "/m/0h7w_9",
+   "stays": {
+    "nederland": 0.4,
+    "boulder": 0.6
+   },
+   "topicTitle": "Eldora Mountain (Ski area in Boulder County, Colorado)"
+  },
+  {
+   "id": "ski-cooper",
+   "name": "Ski Cooper",
+   "category": "ski",
+   "lat": 39.36,
+   "lng": -106.3014,
+   "query": "Ski Cooper",
+   "topic": "/m/02rmpc2",
+   "stays": {
+    "leadville": 0.8,
+    "buena-vista": 0.2
+   },
+   "topicTitle": "Ski Cooper (Ski resort in Lake County, Colorado)"
+  },
+  {
+   "id": "sunlight",
+   "name": "Sunlight Mountain Resort",
+   "category": "ski",
+   "lat": 39.3995,
+   "lng": -107.3384,
+   "query": "Sunlight Mountain Resort",
+   "topic": "/m/0dkqxk",
+   "stays": {
+    "glenwood": 1
+   },
+   "topicTitle": "Sunlight Mountain Resort (Ski area in Garfield County, Colorado)"
+  },
+  {
+   "id": "powderhorn",
+   "name": "Powderhorn Mountain Resort",
+   "category": "ski",
+   "lat": 39.0694,
+   "lng": -108.1506,
+   "query": "Powderhorn Mountain Resort",
+   "topic": "/m/02x73tt",
+   "stays": {
+    "grand-junction": 0.8,
+    "palisade": 0.2
+   },
+   "topicTitle": "Powderhorn Mountain Resort (Ski resort in Mesa County, Colorado)"
+  },
+  {
+   "id": "silverton-mtn",
+   "name": "Silverton Mountain",
+   "category": "ski",
+   "lat": 37.8847,
+   "lng": -107.6658,
+   "query": "Silverton Mountain",
+   "topic": "/m/0j26n8f",
+   "stays": {
+    "silverton": 0.6,
+    "durango": 0.4
+   },
+   "topicTitle": "Silverton Mountain Ski Area (Ski area in San Juan County, Colorado)"
+  },
+  {
+   "id": "quandary",
+   "name": "Quandary Peak",
+   "category": "hike",
+   "lat": 39.3972,
+   "lng": -106.1064,
+   "query": "Quandary Peak",
+   "topic": "/m/0bxy6z",
+   "stays": {
+    "breckenridge": 0.6,
+    "frisco": 0.2,
+    "fairplay": 0.2
+   },
+   "topicTitle": "Quandary Peak (Summit in Colorado)"
+  },
+  {
+   "id": "mount-elbert",
+   "name": "Mount Elbert",
+   "category": "hike",
+   "lat": 39.1178,
+   "lng": -106.4454,
+   "query": "Mount Elbert",
+   "topic": "/m/01_vsr",
+   "stays": {
+    "leadville": 0.6,
+    "twin-lakes": 0.1,
+    "buena-vista": 0.3
+   },
+   "topicTitle": "Mount Elbert (Summit in Colorado)"
+  },
+  {
+   "id": "longs-peak",
+   "name": "Longs Peak",
+   "category": "hike",
+   "lat": 40.255,
+   "lng": -105.6151,
+   "query": "Longs Peak",
+   "topic": "/m/0173hm",
+   "stays": {
+    "estes-park": 1
+   },
+   "topicTitle": "Longs Peak (Mountain in Colorado)"
+  },
+  {
+   "id": "ice-lake",
+   "name": "Ice Lake Basin",
+   "category": "hike",
+   "lat": 37.81,
+   "lng": -107.8,
+   "query": "Ice Lake Basin",
+   "topic": "/g/1tfh_1lx",
+   "stays": {
+    "silverton": 0.6,
+    "ouray": 0.2,
+    "durango": 0.2
+   },
+   "topicTitle": "Ice Lake Basin (Topic)"
+  },
+  {
+   "id": "blue-lakes",
+   "name": "Blue Lakes Trail",
+   "category": "hike",
+   "lat": 38.01,
+   "lng": -107.8,
+   "query": "Blue Lakes Trail Colorado",
+   "topic": null,
+   "stays": {
+    "ridgway": 0.5,
+    "ouray": 0.4,
+    "telluride": 0.1
+   }
+  },
+  {
+   "id": "manitou-incline",
+   "name": "Manitou Incline",
+   "category": "hike",
+   "lat": 38.8586,
+   "lng": -104.9311,
+   "query": "Manitou Incline",
+   "topic": null,
+   "stays": {
+    "manitou": 0.4,
+    "colorado-springs": 0.6
+   }
+  },
+  {
+   "id": "flatirons",
+   "name": "Flatirons",
+   "category": "hike",
+   "lat": 39.999,
+   "lng": -105.283,
+   "query": "Flatirons",
+   "topic": "/m/06v25v",
+   "stays": {
+    "boulder": 1
+   },
+   "topicTitle": "Flatirons (Mountain in Colorado)"
+  },
+  {
+   "id": "brainard-lake",
+   "name": "Brainard Lake",
+   "category": "hike",
+   "lat": 40.0781,
+   "lng": -105.5675,
+   "query": "Brainard Lake",
+   "topic": "/g/11cs1x500y",
+   "stays": {
+    "nederland": 0.5,
+    "boulder": 0.5
+   },
+   "topicTitle": "Brainard Lake Recreation Area (Park in Boulder County, Colorado)"
+  },
+  {
+   "id": "paint-mines",
+   "name": "Paint Mines Interpretive Park",
+   "category": "hike",
+   "lat": 39.02,
+   "lng": -104.2742,
+   "query": "Paint Mines Interpretive Park",
+   "topic": "/g/11g_vwdyw",
+   "stays": {
+    "colorado-springs": 1
+   },
+   "topicTitle": "Paint Mines Interpretive Park (Park in El Paso County, Colorado)"
+  },
+  {
+   "id": "rifle-falls",
+   "name": "Rifle Falls State Park",
+   "category": "hike",
+   "lat": 39.675,
+   "lng": -107.6997,
+   "query": "Rifle Falls State Park",
+   "topic": "/m/06zs2lz",
+   "stays": {
+    "rifle": 0.6,
+    "glenwood": 0.4
+   },
+   "topicTitle": "Rifle Falls State Park (State park in Garfield County, Colorado)"
+  },
+  {
+   "id": "fish-creek-falls",
+   "name": "Fish Creek Falls",
+   "category": "hike",
+   "lat": 40.479,
+   "lng": -106.772,
+   "query": "Fish Creek Falls",
+   "topic": "/g/1ptz9l6bd",
+   "stays": {
+    "steamboat": 1
+   },
+   "topicTitle": "Fish Creek Falls (Hiking area in Routt County, Colorado)"
+  },
+  {
+   "id": "zapata-falls",
+   "name": "Zapata Falls",
+   "category": "hike",
+   "lat": 37.617,
+   "lng": -105.5571,
+   "query": "Zapata Falls",
+   "topic": "/m/07k94xq",
+   "stays": {
+    "alamosa": 0.6,
+    "dunes-entrance": 0.4
+   },
+   "topicTitle": "Zapata Falls (Waterfall in Colorado)"
+  },
+  {
+   "id": "box-canyon-ouray",
+   "name": "Box Canyon Falls",
+   "category": "hike",
+   "lat": 38.0189,
+   "lng": -107.675,
+   "query": "Box Canyon Falls Ouray",
+   "topic": null,
+   "stays": {
+    "ouray": 0.8,
+    "ridgway": 0.2
+   }
+  },
+  {
+   "id": "bridal-veil-falls",
+   "name": "Bridal Veil Falls (Telluride)",
+   "category": "hike",
+   "lat": 37.92,
+   "lng": -107.77,
+   "query": "Bridal Veil Falls (Telluride)",
+   "topic": "/m/04yh12t",
+   "stays": {
+    "telluride": 0.7,
+    "mountain-village": 0.3
+   },
+   "topicTitle": "Bridal Veil Falls (Waterfall in Colorado)"
+  },
+  {
+   "id": "roxborough",
+   "name": "Roxborough State Park",
+   "category": "hike",
+   "lat": 39.4297,
+   "lng": -105.0689,
+   "query": "Roxborough State Park",
+   "topic": "/m/05_qps",
+   "stays": {
+    "denver": 0.6,
+    "castle-rock": 0.4
+   },
+   "topicTitle": "Roxborough State Park (State park in Douglas County, Colorado)"
+  },
+  {
+   "id": "eldorado-canyon",
+   "name": "Eldorado Canyon State Park",
+   "category": "hike",
+   "lat": 39.931,
+   "lng": -105.293,
+   "query": "Eldorado Canyon State Park",
+   "topic": "/m/02qvjxj",
+   "stays": {
+    "boulder": 1
+   },
+   "topicTitle": "Eldorado Canyon State Park (State park in Boulder County, Colorado)"
+  },
+  {
+   "id": "seven-falls",
+   "name": "Seven Falls",
+   "category": "landmark",
+   "lat": 38.7816,
+   "lng": -104.88,
+   "query": "Seven Falls",
+   "topic": "/m/09r9s9",
+   "stays": {
+    "colorado-springs": 1
+   },
+   "topicTitle": "The Broadmoor Seven Falls (Cascade in Colorado)"
+  },
+  {
+   "id": "crystal-mill",
+   "name": "Crystal Mill",
+   "category": "landmark",
+   "lat": 39.059,
+   "lng": -107.103,
+   "query": "Crystal Mill",
+   "topic": "/m/079cf9",
+   "stays": {
+    "marble": 0.1,
+    "carbondale": 0.5,
+    "redstone": 0.1,
+    "aspen": 0.15,
+    "glenwood": 0.15
+   },
+   "topicTitle": "Crystal Mill (Historical place in Gunnison County, Colorado)"
+  },
+  {
+   "id": "conundrum-hs",
+   "name": "Conundrum Hot Springs",
+   "category": "hot-springs",
+   "lat": 39.0124,
+   "lng": -106.8911,
+   "query": "Conundrum Hot Springs",
+   "topic": "/g/12lvjm8mq",
+   "stays": {
+    "aspen": 1
+   },
+   "topicTitle": "Conundrum Hot Springs (Geothermal spring in Colorado)"
+  },
+  {
+   "id": "glenwood-hot-springs",
+   "name": "Glenwood Hot Springs",
+   "category": "hot-springs",
+   "lat": 39.5497,
+   "lng": -107.3226,
+   "query": "Glenwood Hot Springs",
+   "topic": "/g/11xcbn25q",
+   "stays": {
+    "glenwood": 0.9,
+    "carbondale": 0.1
+   },
+   "topicTitle": "Glenwood Hot Springs Pool (Public swimming pool in Glenwood Springs, Colorado)"
+  },
+  {
+   "id": "iron-mountain-hs",
+   "name": "Iron Mountain Hot Springs",
+   "category": "hot-springs",
+   "lat": 39.553,
+   "lng": -107.337,
+   "query": "Iron Mountain Hot Springs",
+   "topic": "/g/11dzssvcql",
+   "stays": {
+    "glenwood": 1
+   },
+   "topicTitle": "Iron Mountain Hot Springs (Public swimming pool in Glenwood Springs, Colorado)"
+  },
+  {
+   "id": "strawberry-park",
+   "name": "Strawberry Park Hot Springs",
+   "category": "hot-springs",
+   "lat": 40.5594,
+   "lng": -106.8506,
+   "query": "Strawberry Park Hot Springs",
+   "topic": "/g/1tfmnw86",
+   "stays": {
+    "steamboat": 1
+   },
+   "topicTitle": "Strawberry Park Natural Hot Springs (Thermal baths in Routt County, Colorado)"
+  },
+  {
+   "id": "mount-princeton-hs",
+   "name": "Mount Princeton Hot Springs",
+   "category": "hot-springs",
+   "lat": 38.7327,
+   "lng": -106.1617,
+   "query": "Mount Princeton Hot Springs",
+   "topic": "/g/1q67dsg1m",
+   "stays": {
+    "buena-vista": 0.7,
+    "salida": 0.3
+   },
+   "topicTitle": "Mount Princeton Hot Springs (Spring in Colorado)"
+  },
+  {
+   "id": "cottonwood-hs",
+   "name": "Cottonwood Hot Springs",
+   "category": "hot-springs",
+   "lat": 38.813,
+   "lng": -106.2245,
+   "query": "Cottonwood Hot Springs",
+   "topic": "/g/1tk8p13c",
+   "stays": {
+    "buena-vista": 1
+   },
+   "topicTitle": "Cottonwood Hot Springs (Spring in Colorado)"
+  },
+  {
+   "id": "pagosa-hs",
+   "name": "Pagosa Hot Springs",
+   "category": "hot-springs",
+   "lat": 37.265,
+   "lng": -107.0108,
+   "query": "Pagosa Hot Springs",
+   "topic": "/g/11fqxrx8yp",
+   "stays": {
+    "pagosa": 1
+   },
+   "topicTitle": "Pagosa hot springs (Topic)"
+  },
+  {
+   "id": "ouray-hs",
+   "name": "Ouray Hot Springs",
+   "category": "hot-springs",
+   "lat": 38.0277,
+   "lng": -107.6722,
+   "query": "Ouray Hot Springs",
+   "topic": "/g/11vppfndq3",
+   "stays": {
+    "ouray": 0.7,
+    "ridgway": 0.3
+   },
+   "topicTitle": "Ouray Hot Springs (Tourist attraction in Ouray, Colorado)"
+  },
+  {
+   "id": "orvis",
+   "name": "Orvis Hot Springs",
+   "category": "hot-springs",
+   "lat": 38.135,
+   "lng": -107.735,
+   "query": "Orvis Hot Springs",
+   "topic": "/g/1v27vzpw",
+   "stays": {
+    "ridgway": 0.7,
+    "ouray": 0.3
+   },
+   "topicTitle": "Orvis Hot Springs (Hotel in Ouray County, Colorado)"
+  },
+  {
+   "id": "dunton",
+   "name": "Dunton Hot Springs",
+   "category": "hot-springs",
+   "lat": 37.772,
+   "lng": -108.093,
+   "query": "Dunton Hot Springs",
+   "topic": "/g/1w0h7_3h",
+   "stays": {
+    "rico": 0.3,
+    "telluride": 0.4,
+    "dolores": 0.3
+   },
+   "topicTitle": "Dunton Hot Springs (Resort hotel in Dolores County, Colorado)"
+  },
+  {
+   "id": "valley-view-hs",
+   "name": "Valley View Hot Springs",
+   "category": "hot-springs",
+   "lat": 38.1928,
+   "lng": -105.8158,
+   "query": "Valley View Hot Springs",
+   "topic": "/g/1tcx_8wb",
+   "stays": {
+    "salida": 0.6,
+    "alamosa": 0.2,
+    "crestone": 0.2
+   },
+   "topicTitle": "Orient Land Trust/Valley View Hot Springs (Campground in Saguache County, Colorado)"
+  },
+  {
+   "id": "trail-ridge-road",
+   "name": "Trail Ridge Road",
+   "category": "drive",
+   "lat": 40.4413,
+   "lng": -105.754,
+   "query": "Trail Ridge Road",
+   "topic": "/m/02_46m",
+   "stays": {
+    "estes-park": 0.6,
+    "grand-lake": 0.4
+   },
+   "topicTitle": "Trail Ridge Road (Highway in Colorado)"
+  },
+  {
+   "id": "million-dollar-hwy",
+   "name": "Million Dollar Highway",
+   "category": "drive",
+   "lat": 37.8975,
+   "lng": -107.7125,
+   "query": "Million Dollar Highway",
+   "topic": "/g/1ym_k2n8g",
+   "stays": {
+    "ouray": 0.4,
+    "silverton": 0.4,
+    "durango": 0.2
+   },
+   "topicTitle": "Million Dollar Highway (Topic)"
+  },
+  {
+   "id": "independence-pass",
+   "name": "Independence Pass",
+   "category": "drive",
+   "lat": 39.1084,
+   "lng": -106.5642,
+   "query": "Independence Pass",
+   "topic": "/m/05tl7l",
+   "stays": {
+    "aspen": 0.5,
+    "leadville": 0.2,
+    "twin-lakes": 0.1,
+    "buena-vista": 0.2
+   },
+   "topicTitle": "Independence Pass (Mountain pass in Colorado)"
+  },
+  {
+   "id": "durango-silverton-rr",
+   "name": "Durango & Silverton Narrow Gauge Railroad",
+   "category": "drive",
+   "lat": 37.269,
+   "lng": -107.8826,
+   "query": "Durango & Silverton Narrow Gauge Railroad",
+   "topic": "/m/07nldg",
+   "stays": {
+    "durango": 0.85,
+    "silverton": 0.15
+   },
+   "topicTitle": "Durango and Silverton Narrow Gauge Railroad (Railroad)"
+  },
+  {
+   "id": "georgetown-loop",
+   "name": "Georgetown Loop Railroad",
+   "category": "drive",
+   "lat": 39.7027,
+   "lng": -105.6983,
+   "query": "Georgetown Loop Railroad",
+   "topic": "/m/05zs9x",
+   "stays": {
+    "georgetown": 0.6,
+    "idaho-springs": 0.4
+   },
+   "topicTitle": "Georgetown Loop Railroad (Tourist attraction in Clear Creek County, Colorado)"
+  },
+  {
+   "id": "pikes-peak-cog",
+   "name": "Pikes Peak Cog Railway",
+   "category": "drive",
+   "lat": 38.8566,
+   "lng": -104.9324,
+   "query": "Pikes Peak Cog Railway",
+   "topic": "/m/021dms",
+   "stays": {
+    "manitou": 0.5,
+    "colorado-springs": 0.5
+   },
+   "topicTitle": "The Broadmoor Manitou and Pikes Peak Cog Railway (Tourist attraction in Manitou Springs, Colorado)"
+  },
+  {
+   "id": "grand-mesa",
+   "name": "Grand Mesa",
+   "category": "drive",
+   "lat": 39.04,
+   "lng": -107.95,
+   "query": "Grand Mesa",
+   "topic": "/m/063jwc",
+   "stays": {
+    "grand-junction": 0.5,
+    "cedaredge": 0.2,
+    "delta": 0.3
+   },
+   "topicTitle": "Grand Mesa (Mesa in Colorado)"
+  },
+  {
+   "id": "cave-of-the-winds",
+   "name": "Cave of the Winds",
+   "category": "landmark",
+   "lat": 38.8722,
+   "lng": -104.9206,
+   "query": "Cave of the Winds",
+   "topic": "/m/06f68m",
+   "stays": {
+    "manitou": 0.4,
+    "colorado-springs": 0.6
+   },
+   "topicTitle": "Cave of the Winds Mountain Park (Amusement park in El Paso County, Colorado)"
+  },
+  {
+   "id": "glenwood-caverns",
+   "name": "Glenwood Caverns Adventure Park",
+   "category": "landmark",
+   "lat": 39.5585,
+   "lng": -107.3221,
+   "query": "Glenwood Caverns Adventure Park",
+   "topic": "/m/0f_fs3",
+   "stays": {
+    "glenwood": 1
+   },
+   "topicTitle": "Glenwood Caverns Adventure Park (Theme park in Glenwood Springs, Colorado)"
+  },
+  {
+   "id": "stanley-hotel",
+   "name": "Stanley Hotel",
+   "category": "landmark",
+   "lat": 40.3829,
+   "lng": -105.5193,
+   "query": "Stanley Hotel",
+   "topic": "/m/041z64",
+   "stays": {
+    "estes-park": 1
+   },
+   "topicTitle": "The Stanley Hotel (Hotel in Estes Park, Colorado)"
+  },
+  {
+   "id": "bishop-castle",
+   "name": "Bishop Castle",
+   "category": "landmark",
+   "lat": 38.0617,
+   "lng": -105.0928,
+   "query": "Bishop Castle",
+   "topic": "/m/0dv4sr",
+   "stays": {
+    "pueblo": 0.6,
+    "westcliffe": 0.4
+   },
+   "topicTitle": "Bishop Castle (Tourist attraction in Custer County, Colorado)"
+  },
+  {
+   "id": "black-hawk",
+   "name": "Black Hawk casinos",
+   "category": "landmark",
+   "lat": 39.7972,
+   "lng": -105.4936,
+   "query": "Black Hawk casino",
+   "topic": null,
+   "stays": {
+    "black-hawk": 0.6,
+    "central-city": 0.1,
+    "denver": 0.3
+   }
+  },
+  {
+   "id": "cheyenne-mountain-zoo",
+   "name": "Cheyenne Mountain Zoo",
+   "category": "landmark",
+   "lat": 38.7706,
+   "lng": -104.853,
+   "query": "Cheyenne Mountain Zoo",
+   "topic": "/m/03f7cl",
+   "stays": {
+    "colorado-springs": 1
+   },
+   "topicTitle": "Cheyenne Mountain Zoo (Zoological park in Colorado Springs, Colorado)"
+  },
+  {
+   "id": "browns-canyon",
+   "name": "Browns Canyon (Arkansas River rafting)",
+   "category": "water",
+   "lat": 38.655,
+   "lng": -106.06,
+   "query": "Browns Canyon",
+   "topic": null,
+   "stays": {
+    "buena-vista": 0.5,
+    "salida": 0.5
+   }
+  },
+  {
+   "id": "blue-mesa",
+   "name": "Blue Mesa Reservoir",
+   "category": "water",
+   "lat": 38.4628,
+   "lng": -107.2,
+   "query": "Blue Mesa Reservoir",
+   "topic": "/m/0dk3mb",
+   "stays": {
+    "gunnison": 0.8,
+    "lake-city": 0.2
+   },
+   "topicTitle": "Blue Mesa Reservoir (Reservoir in Colorado)"
+  },
+  {
+   "id": "lake-dillon",
+   "name": "Lake Dillon",
+   "category": "water",
+   "lat": 39.614,
+   "lng": -106.056,
+   "query": "Lake Dillon",
+   "topic": "/m/097mck",
+   "stays": {
+    "dillon": 0.4,
+    "frisco": 0.4,
+    "silverthorne": 0.2
+   },
+   "topicTitle": "Dillon Reservoir (Reservoir in Colorado)"
+  },
+  {
+   "id": "horsetooth",
+   "name": "Horsetooth Reservoir",
+   "category": "water",
+   "lat": 40.55,
+   "lng": -105.165,
+   "query": "Horsetooth Reservoir",
+   "topic": "/m/0635cv",
+   "stays": {
+    "fort-collins": 0.8,
+    "loveland": 0.2
+   },
+   "topicTitle": "Horsetooth Reservoir (Reservoir in Colorado)"
+  },
+  {
+   "id": "twin-lakes-lake",
+   "name": "Twin Lakes",
+   "category": "water",
+   "lat": 39.0819,
+   "lng": -106.3797,
+   "query": "Twin Lakes",
+   "topic": "/m/0fjk0b",
+   "stays": {
+    "leadville": 0.5,
+    "twin-lakes": 0.2,
+    "buena-vista": 0.3
+   },
+   "topicTitle": "Twin Lakes (Census-designated place in Colorado)"
+  },
+  {
+   "id": "lake-san-cristobal",
+   "name": "Lake San Cristobal",
+   "category": "water",
+   "lat": 37.99,
+   "lng": -107.29,
+   "query": "Lake San Cristobal",
+   "topic": "/m/09rvfv_",
+   "stays": {
+    "lake-city": 1
+   },
+   "topicTitle": "Lake San Cristobal (Lake in Colorado)"
+  },
+  {
+   "id": "hovenweep",
+   "name": "Hovenweep National Monument",
+   "category": "park",
+   "lat": 37.383,
+   "lng": -109.075,
+   "query": "Hovenweep National Monument",
+   "topic": "/m/05jcyy",
+   "stays": {
+    "cortez": 1
+   },
+   "topicTitle": "Hovenweep National Monument (National reserve in the United States of America)"
+  }
+ ]
+}

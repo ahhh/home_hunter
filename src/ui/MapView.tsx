@@ -5,9 +5,10 @@ import "leaflet.markercluster";
 import "leaflet.markercluster/dist/MarkerCluster.css";
 import type { LatLng, Property, SearchState } from "../domain/types";
 import { displayPrice } from "../listings/collection";
-import type { StateData } from "../services/data";
+import { loadTourism, type StateData } from "../services/data";
 import type { PickMode, Selection } from "../state/store";
 import { shortMoney } from "./format";
+import { TourismOverlays } from "./tourismLayers";
 
 const METERS_PER_MILE = 1609.344;
 
@@ -37,6 +38,7 @@ export function MapView(props: Props) {
   const centerMarker = useRef<L.Marker | undefined>(undefined);
   const cluster = useRef<L.MarkerClusterGroup | undefined>(undefined);
   const markers = useRef(new Map<string, L.Marker>());
+  const tourism = useRef<TourismOverlays | undefined>(undefined);
   const latest = useRef(props);
   latest.current = props;
 
@@ -61,7 +63,18 @@ export function MapView(props: Props) {
       { maxZoom: 19, attribution: "Imagery &copy; Esri, Maxar, Earthstar Geographics" },
     );
     streets.addTo(m);
-    L.control.layers({ Streets: streets, Topo: topo, Satellite: satellite }, undefined, { position: "topright" }).addTo(m);
+    tourism.current = new TourismOverlays(m, {
+      load: () => loadTourism(latest.current.data.state.code),
+      countyAt: (p) => {
+        const d = latest.current.data;
+        const id = d.index.locate(p);
+        return id ? { id, name: d.areaById.get(id)?.name ?? id } : undefined;
+      },
+      onSelectCounty: (id) => latest.current.onSelectCounty(id),
+    });
+    L.control
+      .layers({ Streets: streets, Topo: topo, Satellite: satellite }, tourism.current.overlays(), { position: "topright" })
+      .addTo(m);
 
     counties.current = L.geoJSON(latest.current.data.geojson as any, {
       style: (f) => countyStyle(f!.properties.fips),
@@ -71,6 +84,7 @@ export function MapView(props: Props) {
           L.DomEvent.stopPropagation(e);
           const p = latest.current;
           if (p.pick.kind !== "none") p.onPick({ lat: e.latlng.lat, lng: e.latlng.lng });
+          else if (tourism.current?.active) tourism.current.openAt(e.latlng);
           else p.onSelectCounty(f.properties.fips);
         });
       },
@@ -78,6 +92,7 @@ export function MapView(props: Props) {
 
     m.on("click", (e: L.LeafletMouseEvent) => {
       if (latest.current.pick.kind !== "none") latest.current.onPick({ lat: e.latlng.lat, lng: e.latlng.lng });
+      else if (tourism.current?.active) tourism.current.openAt(e.latlng);
     });
 
     circle.current = L.circle([0, 0], { radius: 1, interactive: false, className: "search-circle" }).addTo(m);
@@ -99,6 +114,7 @@ export function MapView(props: Props) {
       iconCreateFunction: (c) =>
         L.divIcon({ className: "pin-cluster", html: `<span>${c.getChildCount()}</span>`, iconSize: [38, 38] }),
     }).addTo(m);
+    tourism.current.restore();
 
     return () => {
       m.remove();

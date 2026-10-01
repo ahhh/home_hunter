@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """Build the county hosting pages and the app's hosting data from counties.json.
 
-    counties.json ─┬─> wiki/counties/<county>.md   one page per county, every claim cited
-                   ├─> wiki/counties/README.md     matrix of all 64 counties
-                   └─> public/data/states/CO/hosting.json   short summaries for the county panel
+    counties.json ──────────┬─> wiki/counties/<county>.md   one page per county, every claim cited
+    ../incentives/*.json ───┤   wiki/counties/README.md     matrix of all 64 counties
+                            ├─> wiki/18-incentive-zones.md  tax-credit zones, statewide
+                            └─> public/data/states/CO/hosting.json   short summaries for the county panel
 
 Usage:
     python3 pipelines/hosting/build.py           write the files
@@ -15,6 +16,8 @@ import json
 import sys
 from pathlib import Path
 from typing import Dict, List
+
+import incentives
 
 HERE = Path(__file__).resolve().parent
 ROOT = HERE.parents[1]
@@ -100,7 +103,7 @@ def validate(counties: Dict[str, dict], names: List[str]) -> None:
             sys.exit(f"{name}: needs at least one primary source")
 
 
-def render_county(name: str, area: dict, profile: dict, c: dict, checked: str, next_review: str) -> str:
+def render_county(name: str, area: dict, profile: dict, c: dict, checked: str, next_review: str, incentive_section: str) -> str:
     sources = dict(c["sources"])
     if name in NO_BUILDING_DEPT:
         sources["doh"] = DOH_SOURCE
@@ -190,6 +193,7 @@ def render_county(name: str, area: dict, profile: dict, c: dict, checked: str, n
 
 {c['notes'] or '—'}
 
+{incentive_section}
 ## Sources
 
 {chr(10).join(src_lines)}
@@ -250,12 +254,17 @@ def build() -> Dict[Path, str]:
     names = [a["name"].removesuffix(" County") for a in areas]
     validate(counties, names)
 
+    programs, zones = incentives.load()
+    if set(zones) != set(names):
+        sys.exit("pipelines/incentives/zones.json doesn't match areas.json. Run: node pipelines/incentives/build.mjs")
+
     out: Dict[Path, str] = {}
     rows, records = [], []
     for area in areas:
         name = area["name"].removesuffix(" County")
         c, profile = counties[name], profiles.get(area["id"], {})
-        out[WIKI_DIR / f"{slug(name)}.md"] = render_county(name, area, profile, c, data["checkedAt"], data["nextReview"])
+        section = incentives.render_section(name, programs, zones[name])
+        out[WIKI_DIR / f"{slug(name)}.md"] = render_county(name, area, profile, c, data["checkedAt"], data["nextReview"], section)
         rows.append((name, profile.get("region", ""), c))
         primary = [s for s in c["sources"].values() if s["kind"] == "primary"]
         primary.sort(key=lambda s: not s.get("read"))  # sources we actually read first
@@ -270,13 +279,17 @@ def build() -> Dict[Path, str]:
                 {k: s[k] for k in ("title", "url", "section") if s.get(k)} | {"read": bool(s.get("read"))}
                 for s in primary[:3]
             ],
+            "incentives": incentives.panel_record(zones[name]),
         })
     out[WIKI_DIR / "README.md"] = render_matrix(rows)
+    out[WIKI_DIR.parent / "18-incentive-zones.md"] = incentives.render_statewide(
+        programs, zones, [(name, region, slug(name)) for name, region, _ in rows])
     out[STATE_DIR / "hosting.json"] = json.dumps({
         "datasetVersion": f"co-hosting-{data['checkedAt'][:7]}",
         "checkedAt": data["checkedAt"],
         "nextReview": data["nextReview"],
         "wikiBase": WIKI_BASE,
+        "incentivesCheckedAt": programs["checkedAt"],
         "records": records,
     }, indent=2) + "\n"
     return out

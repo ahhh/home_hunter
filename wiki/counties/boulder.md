@@ -51,6 +51,46 @@
 
 County fire bans are set by Ordinance 2023-1.
 
+## Tax-credit zones for land development
+
+> Enterprise zone (North Metro) covers part of the county (about 5% of its land). 2 opportunity zone tracts nominated for 2027. 4 current opportunity zone tracts through 2028.
+
+Location-based state and federal incentives that can help pay for building on, improving or doing business on a parcel here. What each program pays for, and how it applies to land, is on [Tax-Credit Zones](../18-incentive-zones.md). Zone lines don't follow parcel lines, so confirm a specific address with the administrator or OEDIT's [enterprise zone map](https://geodata.colorado.gov/maps/COOIT::enterprise-zones/about).
+
+| Program | Here |
+|---|---|
+| Enterprise zone (2026-2036 map) | **North Metro**: part of the county (about 5% of its land). Administrator: City of Longmont, 303-651-0128, <krista@longmont.org>. |
+| Enhanced rural enterprise zone (2025-2026) | No. |
+| Rural Jump-Start | No. |
+| Opportunity zones, current map (through 2028-12-31) | 4 tracts. |
+| Opportunity zones, 2027 map (from 2027-01-01) | 2 tracts nominated, out of 14 eligible. Treasury certification is expected by the end of November 2026. |
+
+### Enterprise zone by town
+
+Share of each incorporated town's area inside the zone. Unincorporated land between towns is often outside.
+
+- **Partly:** Longmont (about 36%), Lafayette (about 65%), Louisville (about 84%)
+- **Outside or nearly outside:** Boulder, Superior, Lyons, Nederland, Jamestown, Ward
+
+### Opportunity zone tracts
+
+| Tract | Where | Size | Current map (to 2028) | 2027 map (nominated) |
+|---|---|---|---|---|
+| [08013012203](https://data.census.gov/profile?g=1400000US08013012203) | Boulder | 2.6 sq mi | Yes | — |
+| [08013013302](https://data.census.gov/profile?g=1400000US08013013302) | Longmont | 1.5 sq mi | Yes | — |
+| [08013013401](https://data.census.gov/profile?g=1400000US08013013401) | Longmont | 1.3 sq mi | Yes | Yes |
+| [08013060800](https://data.census.gov/profile?g=1400000US08013060800) | Lafayette | 8.3 sq mi | Yes | — |
+| [08013060802](https://data.census.gov/profile?g=1400000US08013060802) | Lafayette | 2.8 sq mi | — | Yes |
+
+The current map uses 2010 tracts and the 2027 map uses 2020 tracts, so a tract number on both maps can have different boundaries. "Rural" is the H.R. 1 definition, which gets the larger 2027 tax break and the lower improvement threshold.
+
+### For a land purchase here
+
+- Enterprise zone credits reward what a business **does** on the land: buying equipment (3% investment credit), hiring, rehabbing a vacant commercial building (25%, up to $50,000). Buying and holding raw land earns nothing. Pre-certify with the administrator **before** the spending.
+- Opportunity zones reward investing **capital gains** through a qualified opportunity fund. Raw land doesn't have to be doubled in value, but buying it with no plan to improve it within 30 months fails the anti-abuse rule.
+
+Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-zone-administrators), [OEDIT EZ map layer](https://services3.arcgis.com/DgjqnJA1rgO92Soi/arcgis/rest/services/Enterprise_Zones/FeatureServer/2), [OEDIT EZ program](https://oedit.colorado.gov/enterprise-zone-program), [Rural Jump-Start](https://oedit.colorado.gov/rural-jump-start-program), [OEDIT Opportunity Zones (nominated list)](https://oedit.colorado.gov/colorado-opportunity-zone-program), [Treasury eligible tracts](https://docs.google.com/spreadsheets/d/1RAYSjXre7xUF2cbpDGsukz9nroysvwce/edit), [HUD 2018 OZ tracts](https://services.arcgis.com/VTyQ9soqVukalItT/arcgis/rest/services/Opportunity_Zones/FeatureServer/13). All checked 2026-09-30. Zone coverage and town names are measured from those maps and Census 2020 place boundaries by `pipelines/incentives/build.mjs`.
+
 ## Sources
 
 1. [Boulder County Planning FAQ](https://bouldercounty.gov/property-and-land/land-use/planning/frequently-asked-questions/) — primary, read

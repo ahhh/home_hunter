@@ -58,6 +58,38 @@
 
 The county code allows wag bags, but Hipcamp still requires a permitted toilet for tent camping on under 20 acres. Campgrounds and RV parks are a separate, heavier use (Table 2.1.3.4).
 
+## Tax-credit zones for land development
+
+> Enterprise zone (Central Colorado) covers all or nearly all of the county. 1 opportunity zone tract nominated for 2027, rural. 2 current opportunity zone tracts through 2028.
+
+Location-based state and federal incentives that can help pay for building on, improving or doing business on a parcel here. What each program pays for, and how it applies to land, is on [Tax-Credit Zones](../18-incentive-zones.md). Zone lines don't follow parcel lines, so confirm a specific address with the administrator or OEDIT's [enterprise zone map](https://geodata.colorado.gov/maps/COOIT::enterprise-zones/about).
+
+| Program | Here |
+|---|---|
+| Enterprise zone (2026-2036 map) | **Central Colorado**: all or nearly all of the county. Administrator: [Upper Arkansas Area Council of Governments](https://www.uaacog.com/), 719-275-8350, <jackie.wolf@uaacog.com>. |
+| Enhanced rural enterprise zone (2025-2026) | No. |
+| Rural Jump-Start | No. |
+| Opportunity zones, current map (through 2028-12-31) | 2 tracts. |
+| Opportunity zones, 2027 map (from 2027-01-01) | 1 tract nominated, out of 1 eligible. Treasury certification is expected by the end of November 2026. |
+
+### Opportunity zone tracts
+
+| Tract | Where | Size | Current map (to 2028) | 2027 map (nominated) |
+|---|---|---|---|---|
+| [08015000100](https://data.census.gov/profile?g=1400000US08015000100) | Salida, Smeltertown (CDP) | 1.5 sq mi | — | Yes, rural |
+| [08015000401](https://data.census.gov/profile?g=1400000US08015000401) | Buena Vista | 369.3 sq mi | Yes, rural | — |
+| [08015000402](https://data.census.gov/profile?g=1400000US08015000402) | Nathrop (CDP), Johnson Village (CDP) | 177.9 sq mi | Yes, rural | — |
+
+The current map uses 2010 tracts and the 2027 map uses 2020 tracts, so a tract number on both maps can have different boundaries. "Rural" is the H.R. 1 definition, which gets the larger 2027 tax break and the lower improvement threshold.
+
+### For a land purchase here
+
+- Enterprise zone credits reward what a business **does** on the land: buying equipment (3% investment credit), hiring, rehabbing a vacant commercial building (25%, up to $50,000). Buying and holding raw land earns nothing. Pre-certify with the administrator **before** the spending.
+- Opportunity zones reward investing **capital gains** through a qualified opportunity fund. Raw land doesn't have to be doubled in value, but buying it with no plan to improve it within 30 months fails the anti-abuse rule.
+- Rural 2027 tracts here get the 30% basis step-up (instead of 10%) for funds holding 90% rural assets, and existing buildings only need 50% improvement instead of 100%.
+
+Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-zone-administrators), [OEDIT EZ map layer](https://services3.arcgis.com/DgjqnJA1rgO92Soi/arcgis/rest/services/Enterprise_Zones/FeatureServer/2), [OEDIT EZ program](https://oedit.colorado.gov/enterprise-zone-program), [Rural Jump-Start](https://oedit.colorado.gov/rural-jump-start-program), [OEDIT Opportunity Zones (nominated list)](https://oedit.colorado.gov/colorado-opportunity-zone-program), [Treasury eligible tracts](https://docs.google.com/spreadsheets/d/1RAYSjXre7xUF2cbpDGsukz9nroysvwce/edit), [HUD 2018 OZ tracts](https://services.arcgis.com/VTyQ9soqVukalItT/arcgis/rest/services/Opportunity_Zones/FeatureServer/13). All checked 2026-09-30. Zone coverage and town names are measured from those maps and Census 2020 place boundaries by `pipelines/incentives/build.mjs`.
+
 ## Sources
 
 1. [Chaffee County Land Use Code (eff. 1-1-2025, amended 9-16-2025)](https://www.chaffeecounty.org/Documents/Departments/Planning%20&%20Zoning/Land%20Use%20Code/Chaffee%20County%20Land%20Use%20Code%20-%20Amended%209-16-25.pdf) — primary, read, Sec. 2.3.5.1, 2.3.7.2

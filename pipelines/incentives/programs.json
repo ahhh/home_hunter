@@ -1,0 +1,613 @@
+{
+  "_about": "Hand-entered facts about Colorado's location-based tax-credit programs. Every list cites a source id. build.mjs adds geometry-derived facts and writes zones.json; pipelines/hosting/build.py renders the wiki.",
+  "checkedAt": "2026-09-30",
+  "nextReview": "2026-12-15",
+  "nextReviewWhy": "Treasury is expected to certify the OZ 2.0 tracts by the end of November 2026; re-check then.",
+  "sources": {
+    "ez": {
+      "title": "OEDIT: Enterprise Zone Program",
+      "url": "https://oedit.colorado.gov/enterprise-zone-program",
+      "kind": "primary",
+      "read": true
+    },
+    "ezadmins": {
+      "title": "OEDIT: Local Enterprise Zone Administrators",
+      "url": "https://oedit.colorado.gov/local-enterprise-zone-administrators",
+      "kind": "primary",
+      "read": true
+    },
+    "ezredes": {
+      "title": "OEDIT: Enterprise Zone Redesignation",
+      "url": "https://oedit.colorado.gov/programs-and-funding/tax-credits/enterprise-zone-program/enterprise-zone-redesignation",
+      "kind": "primary",
+      "read": true
+    },
+    "ezgis": {
+      "title": "OEDIT GIS: Enterprise Zones - Current and Historic (feature service)",
+      "url": "https://services3.arcgis.com/DgjqnJA1rgO92Soi/arcgis/rest/services/Enterprise_Zones/FeatureServer/2",
+      "kind": "primary",
+      "read": true
+    },
+    "ezmap": {
+      "title": "Colorado GeoData: Enterprise Zones map",
+      "url": "https://geodata.colorado.gov/maps/COOIT::enterprise-zones/about",
+      "kind": "primary",
+      "read": false
+    },
+    "doreztax": {
+      "title": "Colorado Department of Revenue: Enterprise Zone Income Tax Credit Guide",
+      "url": "https://tax.colorado.gov/enterprise-zone-tax-guide",
+      "kind": "primary",
+      "read": false
+    },
+    "rjs": {
+      "title": "OEDIT: Rural Jump-Start Program",
+      "url": "https://oedit.colorado.gov/rural-jump-start-program",
+      "kind": "primary",
+      "read": true
+    },
+    "oz": {
+      "title": "OEDIT: Colorado Opportunity Zone Program (Sept 2026 update and nominated tracts)",
+      "url": "https://oedit.colorado.gov/colorado-opportunity-zone-program",
+      "kind": "primary",
+      "read": true
+    },
+    "ozpr": {
+      "title": "OEDIT press release, 2026-09-28: 91 Opportunity Zones submitted",
+      "url": "https://oedit.colorado.gov/press-release/fostering-economic-growth-polis-administration-submits-maximum-number-of-91",
+      "kind": "primary",
+      "read": true
+    },
+    "ozgis": {
+      "title": "OEDIT: OZ 2.0 Designation GIS Tool",
+      "url": "https://experience.arcgis.com/experience/5f598808a6c240d7a7aa0adb2585316c",
+      "kind": "primary",
+      "read": false
+    },
+    "ozelig": {
+      "title": "Treasury list of Colorado tracts eligible for OZ 2.0 (OEDIT copy, Google Sheet)",
+      "url": "https://docs.google.com/spreadsheets/d/1RAYSjXre7xUF2cbpDGsukz9nroysvwce/edit",
+      "kind": "primary",
+      "read": true
+    },
+    "rp2612": {
+      "title": "IRS: Treasury guidance to states for nominating OZ tracts (Rev. Proc. 2026-12)",
+      "url": "https://www.irs.gov/newsroom/treasury-irs-provide-guidance-to-states-for-nominating-census-tracts-as-qualified-opportunity-zones-under-the-one-big-beautiful-bill",
+      "kind": "primary",
+      "read": false
+    },
+    "n2550": {
+      "title": "IRS Notice 2025-50 (rural OZ definition; OZ 1.0 tracts that count as rural)",
+      "url": "https://www.irs.gov/pub/irs-drop/n-25-50.pdf",
+      "kind": "primary",
+      "read": false
+    },
+    "hudoz": {
+      "title": "HUD: Opportunity Zones (2018 designated tracts, feature service)",
+      "url": "https://services.arcgis.com/VTyQ9soqVukalItT/arcgis/rest/services/Opportunity_Zones/FeatureServer/13",
+      "kind": "primary",
+      "read": true
+    },
+    "eig": {
+      "title": "Economic Innovation Group: Opportunity Zones 2.0 after the One Big Beautiful Bill Act",
+      "url": "https://eig.org/opportunity-zones-2-0-where-things-stand/",
+      "kind": "secondary",
+      "read": false
+    }
+  },
+  "enterpriseZones": {
+    "sourceIds": [
+      "ezadmins",
+      "ezgis"
+    ],
+    "designation": "2026-01-01 to 2036-01-01",
+    "zones": {
+      "Adams County": {
+        "administrator": "Adams County Economic Development",
+        "url": "",
+        "email": "enterprisezone@adcogov.org",
+        "phone": "720-523-6812",
+        "counties": [
+          "Adams"
+        ]
+      },
+      "Central Colorado": {
+        "administrator": "Upper Arkansas Area Council of Governments",
+        "url": "https://www.uaacog.com/",
+        "email": "jackie.wolf@uaacog.com",
+        "phone": "719-275-8350",
+        "counties": [
+          "Custer",
+          "Fremont",
+          "Lake",
+          "Park",
+          "Chaffee"
+        ]
+      },
+      "Denver County": {
+        "administrator": "Denver Office of Economic Development",
+        "url": "https://www.denvergov.org/content/denvergov/en/denver-office-of-economic-development.html",
+        "email": "Karra.Walker@denvergov.org",
+        "phone": "720-467-7041",
+        "counties": [
+          "Denver"
+        ]
+      },
+      "East Central": {
+        "administrator": "East Central Council of Governments",
+        "url": "https://www.eccog.com",
+        "email": "ecez@prairiedevelopment.com",
+        "phone": "719-348-5562",
+        "counties": [
+          "Cheyenne",
+          "Kit Carson",
+          "Lincoln",
+          "Elbert"
+        ]
+      },
+      "Jefferson County": {
+        "administrator": "Jefferson County Economic Development Corporation",
+        "url": "https://jeffcoedc.org/",
+        "email": "dcarroll@jeffcoedc.org",
+        "phone": "303-202-2965",
+        "counties": [
+          "Jefferson"
+        ]
+      },
+      "Larimer County": {
+        "administrator": "Larimer County Workforce Center",
+        "url": "https://www.larimer.org/ewd",
+        "email": "ledingjt@co.larimer.co.us",
+        "phone": "970-498-6083",
+        "counties": [
+          "Larimer"
+        ]
+      },
+      "Mesa County": {
+        "administrator": "The Business Incubator Center",
+        "url": "https://gjincubator.org/",
+        "email": "mcezadmin@gjincubator.org",
+        "phone": "970-243-5242",
+        "counties": [
+          "Mesa"
+        ]
+      },
+      "North Metro": {
+        "administrator": "City of Longmont",
+        "url": "",
+        "email": "krista@longmont.org",
+        "phone": "303-651-0128",
+        "counties": [
+          "Boulder",
+          "Broomfield"
+        ]
+      },
+      "Northeast": {
+        "administrator": "Northeast Colorado Association of Local Governments",
+        "url": "https://www.necalg.org/",
+        "email": "ne-ez@necalg.org",
+        "phone": "970-867-9409 ext. 236",
+        "counties": [
+          "Logan",
+          "Morgan",
+          "Phillips",
+          "Sedgwick",
+          "Washington",
+          "Yuma"
+        ]
+      },
+      "Northwest": {
+        "administrator": "Associated Governments of Northwest Colorado",
+        "url": "https://agnc.org/",
+        "email": "tiffany@agnc.org",
+        "phone": "970-665-1095",
+        "counties": [
+          "Clear Creek",
+          "Garfield",
+          "Gilpin",
+          "Grand",
+          "Jackson",
+          "Moffat",
+          "Rio Blanco",
+          "Routt"
+        ]
+      },
+      "Pikes Peak": {
+        "administrator": "El Paso County",
+        "url": "https://admin.elpasoco.com/economic-development/",
+        "email": "saralobato@elpasoco.com",
+        "phone": "719-520-6480",
+        "counties": [
+          "El Paso",
+          "Teller"
+        ]
+      },
+      "Pueblo County": {
+        "administrator": "Pueblo Means Business",
+        "url": "https://pueblomeansbusiness.com/",
+        "email": "joshua.martinez@pueblocounty.us",
+        "phone": "719-583-4048",
+        "counties": [
+          "Pueblo"
+        ]
+      },
+      "Region 10": {
+        "administrator": "Region 10 League for Economic Assistance and Planning",
+        "url": "https://region10.net/",
+        "email": "ezadmin@region10.net",
+        "phone": "970-765-3138",
+        "counties": [
+          "Delta",
+          "Gunnison",
+          "Hinsdale",
+          "Montrose",
+          "Ouray",
+          "San Miguel"
+        ]
+      },
+      "San Luis Valley": {
+        "administrator": "San Luis Valley Development Resources Group",
+        "url": "https://www.slvdrg.org/",
+        "email": "sstoeber@slvdrg.org",
+        "phone": "719-589-6099",
+        "counties": [
+          "Alamosa",
+          "Conejos",
+          "Costilla",
+          "Mineral",
+          "Rio Grande",
+          "Saguache"
+        ]
+      },
+      "South Central": {
+        "administrator": "South Central Council of Governments",
+        "url": "https://www.colorado.gov/sccog",
+        "email": "dtorres@sccog.net",
+        "phone": "719-845-1133",
+        "counties": [
+          "Huerfano",
+          "Las Animas"
+        ]
+      },
+      "South Metro": {
+        "administrator": "Aurora Chamber of Commerce",
+        "url": "",
+        "email": "",
+        "phone": "303-344-1500",
+        "counties": [
+          "Arapahoe"
+        ]
+      },
+      "Southeast": {
+        "administrator": "Southeast Colorado Enterprise Development, Inc.",
+        "url": "https://www.seced.net/",
+        "email": "ezadmin@sccog.net",
+        "phone": "719-336-3850",
+        "counties": [
+          "Baca",
+          "Bent",
+          "Crowley",
+          "Kiowa",
+          "Otero",
+          "Prowers"
+        ]
+      },
+      "Southwest": {
+        "administrator": "Region 9 Economic Development District of Southwest Colorado",
+        "url": "https://www.region9edd.org/",
+        "email": "terry@region9edd.org",
+        "phone": "970-247-9621",
+        "counties": [
+          "Dolores",
+          "Montezuma",
+          "San Juan",
+          "Archuleta",
+          "La Plata"
+        ]
+      },
+      "Weld County": {
+        "administrator": "Upstate Colorado Economic Development",
+        "url": "https://upstatecolorado.org/",
+        "email": "cstubblefield@upstatecolorado.org",
+        "phone": "970-356-4565",
+        "counties": [
+          "Weld"
+        ]
+      }
+    }
+  },
+  "enhancedRural": {
+    "sourceIds": [
+      "ez"
+    ],
+    "years": "2025-2026",
+    "counties": [
+      "Alamosa",
+      "Archuleta",
+      "Baca",
+      "Bent",
+      "Cheyenne",
+      "Clear Creek",
+      "Conejos",
+      "Costilla",
+      "Crowley",
+      "Custer",
+      "Delta",
+      "Dolores",
+      "Fremont",
+      "Hinsdale",
+      "Huerfano",
+      "Jackson",
+      "Kiowa",
+      "Kit Carson",
+      "Lake",
+      "Las Animas",
+      "Lincoln",
+      "Logan",
+      "Mineral",
+      "Moffat",
+      "Morgan",
+      "Otero",
+      "Phillips",
+      "Prowers",
+      "Rio Blanco",
+      "Rio Grande",
+      "Routt",
+      "Saguache",
+      "San Juan",
+      "Sedgwick",
+      "Washington",
+      "Yuma"
+    ],
+    "partial": {
+      "Montrose": "West end of the county only (the Tier 1 Just Transition area)",
+      "San Miguel": "Portions only (the Tier 1 Just Transition areas)"
+    }
+  },
+  "ruralJumpStart": {
+    "sourceIds": [
+      "rjs"
+    ],
+    "taxThrough": "2030-12-31",
+    "grantsThrough": "2028-06-30",
+    "zones": [
+      "Alamosa",
+      "Archuleta",
+      "Clear Creek",
+      "Conejos",
+      "Costilla",
+      "Delta",
+      "Dolores",
+      "Fremont",
+      "Garfield",
+      "Huerfano",
+      "Kiowa",
+      "Kit Carson",
+      "La Plata",
+      "Lake",
+      "Las Animas",
+      "Lincoln",
+      "Logan",
+      "Mesa",
+      "Moffat",
+      "Montezuma",
+      "Montrose",
+      "Morgan",
+      "Otero",
+      "Phillips",
+      "Prowers",
+      "Pueblo",
+      "Rio Blanco",
+      "Rio Grande",
+      "Routt",
+      "Saguache",
+      "San Juan",
+      "Sedgwick",
+      "Washington",
+      "Yuma"
+    ],
+    "eligibleNotJoined": [
+      "Baca",
+      "Bent",
+      "Cheyenne",
+      "Crowley",
+      "Custer",
+      "Hinsdale",
+      "Jackson",
+      "Mineral",
+      "Park"
+    ],
+    "tier1": {
+      "Moffat": "",
+      "Montrose": "western Montrose County",
+      "Morgan": "",
+      "Pueblo": "",
+      "Rio Blanco": "",
+      "Routt": ""
+    }
+  },
+  "opportunityZones": {
+    "oz1": {
+      "sourceIds": [
+        "hudoz",
+        "oz"
+      ],
+      "through": "2028-12-31"
+    },
+    "oz1Rural": {
+      "sourceIds": [
+        "oz",
+        "n2550"
+      ],
+      "tracts": [
+        "08001008606",
+        "08003960200",
+        "08003960300",
+        "08003960000",
+        "08007974400",
+        "08009964700",
+        "08011966700",
+        "08015000401",
+        "08015000402",
+        "08017960600",
+        "08019014800",
+        "08023972600",
+        "08025969600",
+        "08029964600",
+        "08029964800",
+        "08029965100",
+        "08033000100",
+        "08037000503",
+        "08043978800",
+        "08043978300",
+        "08043978200",
+        "08045951702",
+        "08045951600",
+        "08045951901",
+        "08051963700",
+        "08055960600",
+        "08063962100",
+        "08067940400",
+        "08067971100",
+        "08065961900",
+        "08069002802",
+        "08071000200",
+        "08071000500",
+        "08071000800",
+        "08073961700",
+        "08075966300",
+        "08075966100",
+        "08075966400",
+        "08077001800",
+        "08081000400",
+        "08083941100",
+        "08085966100",
+        "08085966202",
+        "08085966503",
+        "08085966300",
+        "08087000700",
+        "08087000500",
+        "08089968300",
+        "08089968600",
+        "08095967600",
+        "08099000300",
+        "08099000700",
+        "08099000200",
+        "08103951100",
+        "08105976700",
+        "08109977700",
+        "08111972600",
+        "08113968200",
+        "08121924200",
+        "08123002004",
+        "08123001902",
+        "08125963100"
+      ]
+    },
+    "oz2": {
+      "sourceIds": [
+        "oz",
+        "ozpr",
+        "ozelig"
+      ],
+      "status": "Nominated by the Governor 2026-09-28; Treasury certification expected by the end of November 2026; open for investment 2027-01-01.",
+      "tracts": [
+        "08001007801",
+        "08041004513",
+        "08001007802",
+        "08041005000",
+        "08001007900",
+        "08043978200",
+        "08001008100",
+        "08043978300",
+        "08001008309",
+        "08045952100",
+        "08001008706",
+        "08051963702",
+        "08001009202",
+        "08055960902",
+        "08001009309",
+        "08059009856",
+        "08001009320",
+        "08059010100",
+        "08001009321",
+        "08059011552",
+        "08001009604",
+        "08059010406",
+        "08001009606",
+        "08059010902",
+        "08001009751",
+        "08069000100",
+        "08001015000",
+        "08069001304",
+        "08003960300",
+        "08069001305",
+        "08003960201",
+        "08069001306",
+        "08005005552",
+        "08071000300",
+        "08005005702",
+        "08071000400",
+        "08005006501",
+        "08073961800",
+        "08005007202",
+        "08075966200",
+        "08005007302",
+        "08077000400",
+        "08005081101",
+        "08077000700",
+        "08005082000",
+        "08077001705",
+        "08013013401",
+        "08079973600",
+        "08013060802",
+        "08081000400",
+        "08015000100",
+        "08083969400",
+        "08029964800",
+        "08083969600",
+        "08031000705",
+        "08085966100",
+        "08031000800",
+        "08085966601",
+        "08031001000",
+        "08087000600",
+        "08031001302",
+        "08089968600",
+        "08031001500",
+        "08099000200",
+        "08031001901",
+        "08101000800",
+        "08031003501",
+        "08101000903",
+        "08031003502",
+        "08101002100",
+        "08031004101",
+        "08101003103",
+        "08031004404",
+        "08101003500",
+        "08031004503",
+        "08103951200",
+        "08031004505",
+        "08105976700",
+        "08031015800",
+        "08111972600",
+        "08041000302",
+        "08113968200",
+        "08041002101",
+        "08115968300",
+        "08041002300",
+        "08123000100",
+        "08041002901",
+        "08123000701",
+        "08041003001",
+        "08123001911",
+        "08041004501"
+      ],
+      "rejectedOffList": {
+        "08085966302": "Montrose",
+        "08071000800": "Las Animas"
+      }
+    }
+  }
+}

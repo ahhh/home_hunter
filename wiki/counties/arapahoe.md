@@ -50,6 +50,56 @@
 
 —
 
+## Tax-credit zones for land development
+
+> Enterprise zone (South Metro) covers most of the county (about 71% of its land). 7 opportunity zone tracts nominated for 2027. 9 current opportunity zone tracts through 2028.
+
+Location-based state and federal incentives that can help pay for building on, improving or doing business on a parcel here. What each program pays for, and how it applies to land, is on [Tax-Credit Zones](../18-incentive-zones.md). Zone lines don't follow parcel lines, so confirm a specific address with the administrator or OEDIT's [enterprise zone map](https://geodata.colorado.gov/maps/COOIT::enterprise-zones/about).
+
+| Program | Here |
+|---|---|
+| Enterprise zone (2026-2036 map) | **South Metro**: most of the county (about 71% of its land). Administrator: Aurora Chamber of Commerce, 303-344-1500. |
+| Enhanced rural enterprise zone (2025-2026) | No. |
+| Rural Jump-Start | No. |
+| Opportunity zones, current map (through 2028-12-31) | 9 tracts. |
+| Opportunity zones, 2027 map (from 2027-01-01) | 7 tracts nominated, out of 38 eligible. Treasury certification is expected by the end of November 2026. |
+
+### Enterprise zone by town
+
+Share of each incorporated town's area inside the zone. Unincorporated land between towns is often outside.
+
+- **In the zone:** Englewood, Deer Trail
+- **Partly:** Aurora (about 29%), Centennial (about 13%), Littleton (about 25%), Greenwood Village (about 20%), Sheridan (about 71%)
+- **Outside or nearly outside:** Cherry Hills Village, Columbine Valley, Bow Mar, Foxfield
+
+### Opportunity zone tracts
+
+| Tract | Where | Size | Current map (to 2028) | 2027 map (nominated) |
+|---|---|---|---|---|
+| [08005005551](https://data.census.gov/profile?g=1400000US08005005551) | Englewood, Sheridan | 1.2 sq mi | Yes | — |
+| [08005005552](https://data.census.gov/profile?g=1400000US08005005552) | Sheridan | 0.8 sq mi | Yes | Yes |
+| [08005005700](https://data.census.gov/profile?g=1400000US08005005700) | Englewood | 0.9 sq mi | Yes | — |
+| [08005005702](https://data.census.gov/profile?g=1400000US08005005702) | Englewood | 0.5 sq mi | — | Yes |
+| [08005005951](https://data.census.gov/profile?g=1400000US08005005951) | Englewood | 0.6 sq mi | Yes | — |
+| [08005006000](https://data.census.gov/profile?g=1400000US08005006000) | Englewood, Sheridan | 1 sq mi | Yes | — |
+| [08005006200](https://data.census.gov/profile?g=1400000US08005006200) | Englewood, Sheridan | 1 sq mi | Yes | — |
+| [08005006501](https://data.census.gov/profile?g=1400000US08005006501) | Littleton | 0.7 sq mi | — | Yes |
+| [08005007202](https://data.census.gov/profile?g=1400000US08005007202) | Aurora | 0.6 sq mi | — | Yes |
+| [08005007301](https://data.census.gov/profile?g=1400000US08005007301) | Aurora | 0.3 sq mi | Yes | — |
+| [08005007302](https://data.census.gov/profile?g=1400000US08005007302) | Aurora | 0.5 sq mi | Yes | Yes |
+| [08005081100](https://data.census.gov/profile?g=1400000US08005081100) | Aurora | 0.9 sq mi | Yes | — |
+| [08005081101](https://data.census.gov/profile?g=1400000US08005081101) | Aurora | 0.8 sq mi | — | Yes |
+| [08005082000](https://data.census.gov/profile?g=1400000US08005082000) | Aurora | 1.3 sq mi | — | Yes |
+
+The current map uses 2010 tracts and the 2027 map uses 2020 tracts, so a tract number on both maps can have different boundaries. "Rural" is the H.R. 1 definition, which gets the larger 2027 tax break and the lower improvement threshold.
+
+### For a land purchase here
+
+- Enterprise zone credits reward what a business **does** on the land: buying equipment (3% investment credit), hiring, rehabbing a vacant commercial building (25%, up to $50,000). Buying and holding raw land earns nothing. Pre-certify with the administrator **before** the spending.
+- Opportunity zones reward investing **capital gains** through a qualified opportunity fund. Raw land doesn't have to be doubled in value, but buying it with no plan to improve it within 30 months fails the anti-abuse rule.
+
+Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-zone-administrators), [OEDIT EZ map layer](https://services3.arcgis.com/DgjqnJA1rgO92Soi/arcgis/rest/services/Enterprise_Zones/FeatureServer/2), [OEDIT EZ program](https://oedit.colorado.gov/enterprise-zone-program), [Rural Jump-Start](https://oedit.colorado.gov/rural-jump-start-program), [OEDIT Opportunity Zones (nominated list)](https://oedit.colorado.gov/colorado-opportunity-zone-program), [Treasury eligible tracts](https://docs.google.com/spreadsheets/d/1RAYSjXre7xUF2cbpDGsukz9nroysvwce/edit), [HUD 2018 OZ tracts](https://services.arcgis.com/VTyQ9soqVukalItT/arcgis/rest/services/Opportunity_Zones/FeatureServer/13). All checked 2026-09-30. Zone coverage and town names are measured from those maps and Census 2020 place boundaries by `pipelines/incentives/build.mjs`.
+
 ## Sources
 
 1. [Arapahoe County Land Development Code](https://files.arapahoeco.gov/Public%20Works_Development/zoning/Land%20Development%20Code/LandDevelopmentCodeRev12102024.pdf) — primary, not read in full

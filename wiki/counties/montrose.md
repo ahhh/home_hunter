@@ -52,6 +52,42 @@
 
 The copy read has a blank adoption date. Confirm the adopted version on the county page.
 
+## Tax-credit zones for land development
+
+> Enterprise zone (Region 10) covers all or nearly all of the county; enhanced rural credits in west end of the county only (the Tier 1 Just Transition area). 2 opportunity zone tracts nominated for 2027, rural. 4 current opportunity zone tracts through 2028. Rural Jump-Start zone.
+
+Location-based state and federal incentives that can help pay for building on, improving or doing business on a parcel here. What each program pays for, and how it applies to land, is on [Tax-Credit Zones](../18-incentive-zones.md). Zone lines don't follow parcel lines, so confirm a specific address with the administrator or OEDIT's [enterprise zone map](https://geodata.colorado.gov/maps/COOIT::enterprise-zones/about).
+
+| Program | Here |
+|---|---|
+| Enterprise zone (2026-2036 map) | **Region 10**: all or nearly all of the county. Administrator: [Region 10 League for Economic Assistance and Planning](https://region10.net/), 970-765-3138, <ezadmin@region10.net>. |
+| Enhanced rural enterprise zone (2025-2026) | West end of the county only (the Tier 1 Just Transition area). |
+| Rural Jump-Start | Yes, a participating zone. Tier 1 coal transition community (western Montrose County): larger new-business grants. |
+| Opportunity zones, current map (through 2028-12-31) | 4 tracts. |
+| Opportunity zones, 2027 map (from 2027-01-01) | 2 tracts nominated, out of 6 eligible. Treasury certification is expected by the end of November 2026. The Governor also submitted off-list tract 08085966302; Treasury rejected it on 2026-09-10. |
+
+### Opportunity zone tracts
+
+| Tract | Where | Size | Current map (to 2028) | 2027 map (nominated) |
+|---|---|---|---|---|
+| [08085966100](https://data.census.gov/profile?g=1400000US08085966100) | Redvale (CDP), Nucla, Naturita | 1111.9 sq mi | Yes, rural | Yes, rural |
+| [08085966202](https://data.census.gov/profile?g=1400000US08085966202) | Olathe | 253.3 sq mi | Yes, rural | — |
+| [08085966300](https://data.census.gov/profile?g=1400000US08085966300) | Montrose | 4.4 sq mi | Yes, rural | — |
+| [08085966503](https://data.census.gov/profile?g=1400000US08085966503) | rural, near Montrose | 28.4 sq mi | Yes, rural | — |
+| [08085966601](https://data.census.gov/profile?g=1400000US08085966601) | Montrose | 6.5 sq mi | — | Yes, rural |
+
+The current map uses 2010 tracts and the 2027 map uses 2020 tracts, so a tract number on both maps can have different boundaries. "Rural" is the H.R. 1 definition, which gets the larger 2027 tax break and the lower improvement threshold.
+
+### For a land purchase here
+
+- Enterprise zone credits reward what a business **does** on the land: buying equipment (3% investment credit), hiring, rehabbing a vacant commercial building (25%, up to $50,000). Buying and holding raw land earns nothing. Pre-certify with the administrator **before** the spending.
+- Enhanced rural status adds to the new-employee credit, which matters for a staffed operation such as a campground or farm stay.
+- Rural Jump-Start fits a brand-new business that sells outside the county and will hire. It doesn't fit a solo rental, and a business that competes with an existing local one can be challenged.
+- Opportunity zones reward investing **capital gains** through a qualified opportunity fund. Raw land doesn't have to be doubled in value, but buying it with no plan to improve it within 30 months fails the anti-abuse rule.
+- Rural 2027 tracts here get the 30% basis step-up (instead of 10%) for funds holding 90% rural assets, and existing buildings only need 50% improvement instead of 100%.
+
+Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-zone-administrators), [OEDIT EZ map layer](https://services3.arcgis.com/DgjqnJA1rgO92Soi/arcgis/rest/services/Enterprise_Zones/FeatureServer/2), [OEDIT EZ program](https://oedit.colorado.gov/enterprise-zone-program), [Rural Jump-Start](https://oedit.colorado.gov/rural-jump-start-program), [OEDIT Opportunity Zones (nominated list)](https://oedit.colorado.gov/colorado-opportunity-zone-program), [Treasury eligible tracts](https://docs.google.com/spreadsheets/d/1RAYSjXre7xUF2cbpDGsukz9nroysvwce/edit), [HUD 2018 OZ tracts](https://services.arcgis.com/VTyQ9soqVukalItT/arcgis/rest/services/Opportunity_Zones/FeatureServer/13). All checked 2026-09-30. Zone coverage and town names are measured from those maps and Census 2020 place boundaries by `pipelines/incentives/build.mjs`.
+
 ## Sources
 
 1. [Montrose County Zoning Regulations (2022 version, Granicus)](https://montrosecounty.granicus.com/DocumentViewer.php?file=montrosecounty_96fd53ac9fb3dacd77ce6339a4a502c2.pdf) — primary, read, Sec. III.A.1, III.A.7, temporary uses (6)

@@ -3,6 +3,7 @@
   "checkedAt": "2026-09-29",
   "nextReview": "2027-03-29",
   "wikiBase": "https://github.com/ahhh/home_hunter/blob/main/wiki/",
+  "incentivesCheckedAt": "2026-09-30",
   "records": [
     {
       "areaId": "08001",
@@ -22,7 +23,87 @@
           "url": "https://adamscountyco.gov/wp-content/uploads/2025/08/Official-Code-Interpretations_July-2024.pdf",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (Adams County) covers most of the county (about 67% of its land). 14 opportunity zone tracts nominated for 2027. 9 current opportunity zone tracts through 2028.",
+        "enterpriseZone": "Adams County",
+        "enterpriseZonePct": 66.8,
+        "enhancedRural": null,
+        "ruralJumpStart": null,
+        "oz1Tracts": 9,
+        "oz2Tracts": [
+          {
+            "geoid": "08001007801",
+            "where": "Aurora",
+            "rural": false
+          },
+          {
+            "geoid": "08001007802",
+            "where": "Aurora",
+            "rural": false
+          },
+          {
+            "geoid": "08001007900",
+            "where": "Aurora",
+            "rural": false
+          },
+          {
+            "geoid": "08001008100",
+            "where": "Aurora",
+            "rural": false
+          },
+          {
+            "geoid": "08001008309",
+            "where": "Aurora",
+            "rural": false
+          },
+          {
+            "geoid": "08001008706",
+            "where": "Commerce City",
+            "rural": false
+          },
+          {
+            "geoid": "08001009202",
+            "where": "Thornton",
+            "rural": false
+          },
+          {
+            "geoid": "08001009309",
+            "where": "Sherrelwood (CDP), Westminster",
+            "rural": false
+          },
+          {
+            "geoid": "08001009320",
+            "where": "Federal Heights, Westminster",
+            "rural": false
+          },
+          {
+            "geoid": "08001009321",
+            "where": "Federal Heights",
+            "rural": false
+          },
+          {
+            "geoid": "08001009604",
+            "where": "Westminster",
+            "rural": false
+          },
+          {
+            "geoid": "08001009606",
+            "where": "Berkley (CDP), Westminster",
+            "rural": false
+          },
+          {
+            "geoid": "08001009751",
+            "where": "Berkley (CDP)",
+            "rural": false
+          },
+          {
+            "geoid": "08001015000",
+            "where": "North Washington (CDP), Welby (CDP)",
+            "rural": false
+          }
+        ]
+      }
     },
     {
       "areaId": "08003",
@@ -42,7 +123,27 @@
           "url": "https://alamosacounty.org/DocumentCenter/View/183/Text-Amendment-RV-Park-Campground-Adopted-PDF",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (San Luis Valley) covers all or nearly all of the county, with enhanced rural credits. 2 opportunity zone tracts nominated for 2027, rural. 3 current opportunity zone tracts through 2028. Rural Jump-Start zone.",
+        "enterpriseZone": "San Luis Valley",
+        "enterpriseZonePct": 100,
+        "enhancedRural": "whole county",
+        "ruralJumpStart": "zone",
+        "oz1Tracts": 3,
+        "oz2Tracts": [
+          {
+            "geoid": "08003960201",
+            "where": "Alamosa East (CDP), Alamosa",
+            "rural": true
+          },
+          {
+            "geoid": "08003960300",
+            "where": "Alamosa",
+            "rural": true
+          }
+        ]
+      }
     },
     {
       "areaId": "08005",
@@ -57,7 +158,52 @@
           "url": "https://files.arapahoeco.gov/Public%20Works_Development/zoning/Land%20Development%20Code/LandDevelopmentCodeRev12102024.pdf",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (South Metro) covers most of the county (about 71% of its land). 7 opportunity zone tracts nominated for 2027. 9 current opportunity zone tracts through 2028.",
+        "enterpriseZone": "South Metro",
+        "enterpriseZonePct": 71.1,
+        "enhancedRural": null,
+        "ruralJumpStart": null,
+        "oz1Tracts": 9,
+        "oz2Tracts": [
+          {
+            "geoid": "08005005552",
+            "where": "Sheridan",
+            "rural": false
+          },
+          {
+            "geoid": "08005005702",
+            "where": "Englewood",
+            "rural": false
+          },
+          {
+            "geoid": "08005006501",
+            "where": "Littleton",
+            "rural": false
+          },
+          {
+            "geoid": "08005007202",
+            "where": "Aurora",
+            "rural": false
+          },
+          {
+            "geoid": "08005007302",
+            "where": "Aurora",
+            "rural": false
+          },
+          {
+            "geoid": "08005081101",
+            "where": "Aurora",
+            "rural": false
+          },
+          {
+            "geoid": "08005082000",
+            "where": "Aurora",
+            "rural": false
+          }
+        ]
+      }
     },
     {
       "areaId": "08007",
@@ -77,7 +223,16 @@
           "url": "https://www.archuletacounty.gov/county-government/development-services/code-enforcement/temporary-use-permit-rv-tup/",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (Southwest) covers all or nearly all of the county, with enhanced rural credits. No 2027 opportunity zone nominated (1 eligible tract). 1 current opportunity zone tract through 2028. Rural Jump-Start zone.",
+        "enterpriseZone": "Southwest",
+        "enterpriseZonePct": 99.9,
+        "enhancedRural": "whole county",
+        "ruralJumpStart": "zone",
+        "oz1Tracts": 1,
+        "oz2Tracts": []
+      }
     },
     {
       "areaId": "08009",
@@ -92,7 +247,16 @@
           "url": "https://www.bacacountyco.gov/government/county-commissioners/zoning-permits-and-land-use/",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (Southeast) covers all or nearly all of the county, with enhanced rural credits. No 2027 opportunity zone nominated (2 eligible tracts). 1 current opportunity zone tract through 2028.",
+        "enterpriseZone": "Southeast",
+        "enterpriseZonePct": 100,
+        "enhancedRural": "whole county",
+        "ruralJumpStart": "eligible, not joined",
+        "oz1Tracts": 1,
+        "oz2Tracts": []
+      }
     },
     {
       "areaId": "08011",
@@ -107,7 +271,16 @@
           "url": "https://bentcounty.colorado.gov/government/land-use-permits",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (Southeast) covers all or nearly all of the county, with enhanced rural credits. No 2027 opportunity zone nominated (2 eligible tracts). 1 current opportunity zone tract through 2028.",
+        "enterpriseZone": "Southeast",
+        "enterpriseZonePct": 100,
+        "enhancedRural": "whole county",
+        "ruralJumpStart": "eligible, not joined",
+        "oz1Tracts": 1,
+        "oz2Tracts": []
+      }
     },
     {
       "areaId": "08013",
@@ -132,7 +305,27 @@
           "url": "https://assets.bouldercounty.gov/wp-content/uploads/2023/07/Ordinance-2023-1-Fire-Bans-and-Open-Burning-7.12.23.pdf",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (North Metro) covers part of the county (about 5% of its land). 2 opportunity zone tracts nominated for 2027. 4 current opportunity zone tracts through 2028.",
+        "enterpriseZone": "North Metro",
+        "enterpriseZonePct": 5.1,
+        "enhancedRural": null,
+        "ruralJumpStart": null,
+        "oz1Tracts": 4,
+        "oz2Tracts": [
+          {
+            "geoid": "08013013401",
+            "where": "Longmont",
+            "rural": false
+          },
+          {
+            "geoid": "08013060802",
+            "where": "Lafayette",
+            "rural": false
+          }
+        ]
+      }
     },
     {
       "areaId": "08014",
@@ -147,7 +340,16 @@
           "url": "https://library.municode.com/co/broomfield",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (North Metro) covers part of the county (about 10% of its land). No tract eligible for the 2027 opportunity zones.",
+        "enterpriseZone": "North Metro",
+        "enterpriseZonePct": 10,
+        "enhancedRural": null,
+        "ruralJumpStart": null,
+        "oz1Tracts": 0,
+        "oz2Tracts": []
+      }
     },
     {
       "areaId": "08015",
@@ -168,7 +370,22 @@
           "url": "https://www.naco.org/sites/default/files/attachments/Chaffee-County-Commercial-Camping-on-Private-Land-Oct.-2022%20%281%29.pdf",
           "read": true
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (Central Colorado) covers all or nearly all of the county. 1 opportunity zone tract nominated for 2027, rural. 2 current opportunity zone tracts through 2028.",
+        "enterpriseZone": "Central Colorado",
+        "enterpriseZonePct": 99.4,
+        "enhancedRural": null,
+        "ruralJumpStart": null,
+        "oz1Tracts": 2,
+        "oz2Tracts": [
+          {
+            "geoid": "08015000100",
+            "where": "Salida, Smeltertown (CDP)",
+            "rural": true
+          }
+        ]
+      }
     },
     {
       "areaId": "08017",
@@ -183,7 +400,16 @@
           "url": "https://www.co.cheyenne.co.us/departments/zoning_planning.html",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (East Central) covers all or nearly all of the county, with enhanced rural credits. No 2027 opportunity zone nominated (1 eligible tract). 1 current opportunity zone tract through 2028.",
+        "enterpriseZone": "East Central",
+        "enterpriseZonePct": 100,
+        "enhancedRural": "whole county",
+        "ruralJumpStart": "eligible, not joined",
+        "oz1Tracts": 1,
+        "oz2Tracts": []
+      }
     },
     {
       "areaId": "08019",
@@ -204,7 +430,16 @@
           "url": "https://www.clearcreekcounty.us/625/Camping",
           "read": true
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (Northwest) covers most of the county (about 59% of its land), with enhanced rural credits. No tract eligible for the 2027 opportunity zones. 1 current opportunity zone tract through 2028. Rural Jump-Start zone.",
+        "enterpriseZone": "Northwest",
+        "enterpriseZonePct": 58.6,
+        "enhancedRural": "whole county",
+        "ruralJumpStart": "zone",
+        "oz1Tracts": 1,
+        "oz2Tracts": []
+      }
     },
     {
       "areaId": "08021",
@@ -224,7 +459,16 @@
           "url": "https://conejoscounty.colorado.gov/sites/conejoscounty/files/documents/ConstructionPermitStepbyStepInstructions11-2023_ADA.pdf",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (San Luis Valley) covers all or nearly all of the county, with enhanced rural credits. No 2027 opportunity zone nominated (2 eligible tracts). Rural Jump-Start zone.",
+        "enterpriseZone": "San Luis Valley",
+        "enterpriseZonePct": 100,
+        "enhancedRural": "whole county",
+        "ruralJumpStart": "zone",
+        "oz1Tracts": 0,
+        "oz2Tracts": []
+      }
     },
     {
       "areaId": "08023",
@@ -239,7 +483,16 @@
           "url": "https://www.costillacounty.gov/media/2006",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (San Luis Valley) covers all or nearly all of the county, with enhanced rural credits. No 2027 opportunity zone nominated (2 eligible tracts). 1 current opportunity zone tract through 2028. Rural Jump-Start zone.",
+        "enterpriseZone": "San Luis Valley",
+        "enterpriseZonePct": 99.7,
+        "enhancedRural": "whole county",
+        "ruralJumpStart": "zone",
+        "oz1Tracts": 1,
+        "oz2Tracts": []
+      }
     },
     {
       "areaId": "08025",
@@ -254,7 +507,16 @@
           "url": "https://crowleycounty.colorado.gov/",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (Southeast) covers all or nearly all of the county, with enhanced rural credits. No 2027 opportunity zone nominated (2 eligible tracts). 1 current opportunity zone tract through 2028.",
+        "enterpriseZone": "Southeast",
+        "enterpriseZonePct": 100,
+        "enhancedRural": "whole county",
+        "ruralJumpStart": "eligible, not joined",
+        "oz1Tracts": 1,
+        "oz2Tracts": []
+      }
     },
     {
       "areaId": "08027",
@@ -279,7 +541,16 @@
           "url": "https://custersheriff.colorado.gov/sites/custersheriff/files/documents/Stage%20Restrictions%20Guide%20%281%29%20%281%29.pdf",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (Central Colorado) covers all or nearly all of the county, with enhanced rural credits. No 2027 opportunity zone nominated (1 eligible tract).",
+        "enterpriseZone": "Central Colorado",
+        "enterpriseZonePct": 99.6,
+        "enhancedRural": "whole county",
+        "ruralJumpStart": "eligible, not joined",
+        "oz1Tracts": 0,
+        "oz2Tracts": []
+      }
     },
     {
       "areaId": "08029",
@@ -299,7 +570,22 @@
           "url": "https://www.deltacountyco.gov/680/Land-Use-Regulations",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (Region 10) covers all or nearly all of the county, with enhanced rural credits. 1 opportunity zone tract nominated for 2027, rural. 3 current opportunity zone tracts through 2028. Rural Jump-Start zone.",
+        "enterpriseZone": "Region 10",
+        "enterpriseZonePct": 99.8,
+        "enhancedRural": "whole county",
+        "ruralJumpStart": "zone",
+        "oz1Tracts": 3,
+        "oz2Tracts": [
+          {
+            "geoid": "08029964800",
+            "where": "Delta",
+            "rural": true
+          }
+        ]
+      }
     },
     {
       "areaId": "08031",
@@ -314,7 +600,82 @@
           "url": "https://library.municode.com/co/denver/codes/code_of_ordinances?nodeId=TITIIREMUCO_CH59ZO",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (Denver County) covers part of the county (about 21% of its land). 13 opportunity zone tracts nominated for 2027. 10 current opportunity zone tracts through 2028.",
+        "enterpriseZone": "Denver County",
+        "enterpriseZonePct": 20.7,
+        "enhancedRural": null,
+        "ruralJumpStart": null,
+        "oz1Tracts": 10,
+        "oz2Tracts": [
+          {
+            "geoid": "08031000705",
+            "where": "Denver",
+            "rural": false
+          },
+          {
+            "geoid": "08031000800",
+            "where": "Denver",
+            "rural": false
+          },
+          {
+            "geoid": "08031001000",
+            "where": "Denver",
+            "rural": false
+          },
+          {
+            "geoid": "08031001302",
+            "where": "Denver",
+            "rural": false
+          },
+          {
+            "geoid": "08031001500",
+            "where": "Denver",
+            "rural": false
+          },
+          {
+            "geoid": "08031001901",
+            "where": "Denver",
+            "rural": false
+          },
+          {
+            "geoid": "08031003501",
+            "where": "Denver",
+            "rural": false
+          },
+          {
+            "geoid": "08031003502",
+            "where": "Denver",
+            "rural": false
+          },
+          {
+            "geoid": "08031004101",
+            "where": "Denver",
+            "rural": false
+          },
+          {
+            "geoid": "08031004404",
+            "where": "Denver",
+            "rural": false
+          },
+          {
+            "geoid": "08031004503",
+            "where": "Denver",
+            "rural": false
+          },
+          {
+            "geoid": "08031004505",
+            "where": "Denver",
+            "rural": false
+          },
+          {
+            "geoid": "08031015800",
+            "where": "Denver",
+            "rural": false
+          }
+        ]
+      }
     },
     {
       "areaId": "08033",
@@ -329,7 +690,16 @@
           "url": "https://dolocnty.colorado.gov/departments",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (Southwest) covers all or nearly all of the county, with enhanced rural credits. No 2027 opportunity zone nominated (1 eligible tract). 1 current opportunity zone tract through 2028. Rural Jump-Start zone.",
+        "enterpriseZone": "Southwest",
+        "enterpriseZonePct": 98.1,
+        "enhancedRural": "whole county",
+        "ruralJumpStart": "zone",
+        "oz1Tracts": 1,
+        "oz2Tracts": []
+      }
     },
     {
       "areaId": "08035",
@@ -349,7 +719,16 @@
           "url": "https://www.douglas.co.us/camping-tent-ban-ordinance/",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (South Metro) covers part of the county (about 2% of its land). No 2027 opportunity zone nominated (1 eligible tract).",
+        "enterpriseZone": "South Metro",
+        "enterpriseZonePct": 2.3,
+        "enhancedRural": null,
+        "ruralJumpStart": null,
+        "oz1Tracts": 0,
+        "oz2Tracts": []
+      }
     },
     {
       "areaId": "08037",
@@ -369,7 +748,16 @@
           "url": "https://go.boarddocs.com/co/eagleco/Board.nsf/files/D5RMAF5997D9/$file/ECLUR%20Module%201%20Preliminary%20Draft%205-27-2024.pdf",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "No enterprise zone. No tract eligible for the 2027 opportunity zones. 1 current opportunity zone tract through 2028.",
+        "enterpriseZone": null,
+        "enterpriseZonePct": 0,
+        "enhancedRural": null,
+        "ruralJumpStart": null,
+        "oz1Tracts": 1,
+        "oz2Tracts": []
+      }
     },
     {
       "areaId": "08039",
@@ -389,7 +777,16 @@
           "url": "https://www.elbertcounty-co.gov/464/Zoning-Regulations",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (East Central) covers most of the county (about 70% of its land). No 2027 opportunity zone nominated (1 eligible tract).",
+        "enterpriseZone": "East Central",
+        "enterpriseZonePct": 69.7,
+        "enhancedRural": null,
+        "ruralJumpStart": null,
+        "oz1Tracts": 0,
+        "oz2Tracts": []
+      }
     },
     {
       "areaId": "08041",
@@ -409,7 +806,57 @@
           "url": "https://library.municode.com/co/el_paso_county/codes/land_development_code",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (Pikes Peak) covers most of the county (about 58% of its land). 8 opportunity zone tracts nominated for 2027. 8 current opportunity zone tracts through 2028.",
+        "enterpriseZone": "Pikes Peak",
+        "enterpriseZonePct": 58.1,
+        "enhancedRural": null,
+        "ruralJumpStart": null,
+        "oz1Tracts": 8,
+        "oz2Tracts": [
+          {
+            "geoid": "08041000302",
+            "where": "Colorado Springs",
+            "rural": false
+          },
+          {
+            "geoid": "08041002101",
+            "where": "Colorado Springs",
+            "rural": false
+          },
+          {
+            "geoid": "08041002300",
+            "where": "Colorado Springs",
+            "rural": false
+          },
+          {
+            "geoid": "08041002901",
+            "where": "Colorado Springs",
+            "rural": false
+          },
+          {
+            "geoid": "08041003001",
+            "where": "Colorado Springs",
+            "rural": false
+          },
+          {
+            "geoid": "08041004501",
+            "where": "Colorado Springs, Stratmoor (CDP), Fountain, Security-Widefield (CDP)",
+            "rural": false
+          },
+          {
+            "geoid": "08041004513",
+            "where": "Fountain",
+            "rural": false
+          },
+          {
+            "geoid": "08041005000",
+            "where": "Cimarron Hills (CDP)",
+            "rural": false
+          }
+        ]
+      }
     },
     {
       "areaId": "08043",
@@ -425,7 +872,27 @@
           "section": "Sec. 3.07, 3.08; Ch. 1 def. 45",
           "read": true
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (Central Colorado) covers all or nearly all of the county, with enhanced rural credits. 2 opportunity zone tracts nominated for 2027, rural. 3 current opportunity zone tracts through 2028. Rural Jump-Start zone.",
+        "enterpriseZone": "Central Colorado",
+        "enterpriseZonePct": 99.9,
+        "enhancedRural": "whole county",
+        "ruralJumpStart": "zone",
+        "oz1Tracts": 3,
+        "oz2Tracts": [
+          {
+            "geoid": "08043978200",
+            "where": "Florence",
+            "rural": true
+          },
+          {
+            "geoid": "08043978300",
+            "where": "rural, near Ca\u00f1on City",
+            "rural": true
+          }
+        ]
+      }
     },
     {
       "areaId": "08045",
@@ -446,7 +913,22 @@
           "url": "https://www.garfield-county.com/community-development/land-use-code/",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (Northwest) covers all or nearly all of the county. 1 opportunity zone tract nominated for 2027, rural. 3 current opportunity zone tracts through 2028. Rural Jump-Start zone.",
+        "enterpriseZone": "Northwest",
+        "enterpriseZonePct": 95.7,
+        "enhancedRural": null,
+        "ruralJumpStart": "zone",
+        "oz1Tracts": 3,
+        "oz2Tracts": [
+          {
+            "geoid": "08045952100",
+            "where": "Battlement Mesa (CDP), Parachute",
+            "rural": true
+          }
+        ]
+      }
     },
     {
       "areaId": "08047",
@@ -461,7 +943,16 @@
           "url": "https://gilpincounty.colorado.gov/departments-offices/community-development/planning-zoning",
           "read": true
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (Northwest) covers all or nearly all of the county. No tract eligible for the 2027 opportunity zones.",
+        "enterpriseZone": "Northwest",
+        "enterpriseZonePct": 99.9,
+        "enhancedRural": null,
+        "ruralJumpStart": null,
+        "oz1Tracts": 0,
+        "oz2Tracts": []
+      }
     },
     {
       "areaId": "08049",
@@ -477,7 +968,16 @@
           "section": "Sec. 11.8, 14.10",
           "read": true
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (Northwest) covers all or nearly all of the county. No tract eligible for the 2027 opportunity zones.",
+        "enterpriseZone": "Northwest",
+        "enterpriseZonePct": 99.7,
+        "enhancedRural": null,
+        "ruralJumpStart": null,
+        "oz1Tracts": 0,
+        "oz2Tracts": []
+      }
     },
     {
       "areaId": "08051",
@@ -498,7 +998,22 @@
           "section": "Sec. 9-509",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (Region 10) covers part of the county (about 34% of its land). 1 opportunity zone tract nominated for 2027, rural. 1 current opportunity zone tract through 2028.",
+        "enterpriseZone": "Region 10",
+        "enterpriseZonePct": 34.2,
+        "enhancedRural": null,
+        "ruralJumpStart": null,
+        "oz1Tracts": 1,
+        "oz2Tracts": [
+          {
+            "geoid": "08051963702",
+            "where": "Gunnison",
+            "rural": true
+          }
+        ]
+      }
     },
     {
       "areaId": "08053",
@@ -513,7 +1028,16 @@
           "url": "https://hinsdalecounty.colorado.gov/sites/hinsdalecounty/files/documents/Recreation%20Regulations%202024.pdf",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (Region 10) covers part of the county (about 3% of its land), with enhanced rural credits. No tract eligible for the 2027 opportunity zones.",
+        "enterpriseZone": "Region 10",
+        "enterpriseZonePct": 2.9,
+        "enhancedRural": "whole county",
+        "ruralJumpStart": "eligible, not joined",
+        "oz1Tracts": 0,
+        "oz2Tracts": []
+      }
     },
     {
       "areaId": "08055",
@@ -528,7 +1052,22 @@
           "url": "https://huerfano.us/county-ordinances/",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (South Central) covers all or nearly all of the county, with enhanced rural credits. 1 opportunity zone tract nominated for 2027, rural. 1 current opportunity zone tract through 2028. Rural Jump-Start zone.",
+        "enterpriseZone": "South Central",
+        "enterpriseZonePct": 99.7,
+        "enhancedRural": "whole county",
+        "ruralJumpStart": "zone",
+        "oz1Tracts": 1,
+        "oz2Tracts": [
+          {
+            "geoid": "08055960902",
+            "where": "La Veta",
+            "rural": true
+          }
+        ]
+      }
     },
     {
       "areaId": "08057",
@@ -543,7 +1082,16 @@
           "url": "https://jacksoncounty.colorado.gov/sites/jacksoncounty/files/documents/FULL-ZONING-RESOLUTION.pdf",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (Northwest) covers all or nearly all of the county, with enhanced rural credits. No 2027 opportunity zone nominated (1 eligible tract).",
+        "enterpriseZone": "Northwest",
+        "enterpriseZonePct": 99.9,
+        "enhancedRural": "whole county",
+        "ruralJumpStart": "eligible, not joined",
+        "oz1Tracts": 0,
+        "oz2Tracts": []
+      }
     },
     {
       "areaId": "08059",
@@ -563,7 +1111,42 @@
           "url": "https://www.jeffco.us/2460/Zoning-Resolution",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (Jefferson County) covers part of the county (about 18% of its land). 5 opportunity zone tracts nominated for 2027. 5 current opportunity zone tracts through 2028.",
+        "enterpriseZone": "Jefferson County",
+        "enterpriseZonePct": 18.1,
+        "enhancedRural": null,
+        "ruralJumpStart": null,
+        "oz1Tracts": 5,
+        "oz2Tracts": [
+          {
+            "geoid": "08059009856",
+            "where": "Golden",
+            "rural": false
+          },
+          {
+            "geoid": "08059010100",
+            "where": "West Pleasant View (CDP), Applewood (CDP)",
+            "rural": false
+          },
+          {
+            "geoid": "08059010406",
+            "where": "Arvada",
+            "rural": false
+          },
+          {
+            "geoid": "08059010902",
+            "where": "Lakewood",
+            "rural": false
+          },
+          {
+            "geoid": "08059011552",
+            "where": "Lakewood",
+            "rural": false
+          }
+        ]
+      }
     },
     {
       "areaId": "08061",
@@ -578,7 +1161,16 @@
           "url": "https://kiowacounty.colorado.gov/government/departments/land-use",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (Southeast) covers all or nearly all of the county, with enhanced rural credits. No 2027 opportunity zone nominated (1 eligible tract). Rural Jump-Start zone.",
+        "enterpriseZone": "Southeast",
+        "enterpriseZonePct": 99.8,
+        "enhancedRural": "whole county",
+        "ruralJumpStart": "zone",
+        "oz1Tracts": 0,
+        "oz2Tracts": []
+      }
     },
     {
       "areaId": "08063",
@@ -593,7 +1185,16 @@
           "url": "https://kitcarsoncounty.colorado.gov/sites/kitcarsoncounty/files/documents/Kit%20Carson%20County%20Land%20Use%20Code%20-%20March%2022%202023.pdf",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (East Central) covers all or nearly all of the county, with enhanced rural credits. No 2027 opportunity zone nominated (1 eligible tract). 1 current opportunity zone tract through 2028. Rural Jump-Start zone.",
+        "enterpriseZone": "East Central",
+        "enterpriseZonePct": 100,
+        "enhancedRural": "whole county",
+        "ruralJumpStart": "zone",
+        "oz1Tracts": 1,
+        "oz2Tracts": []
+      }
     },
     {
       "areaId": "08065",
@@ -613,7 +1214,16 @@
           "url": "https://lakecountyco.com/DocumentCenter/View/215/Lake-County-Land-Development-Code-Chapter-5-Use-Regulations-PDF",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (Central Colorado) covers all or nearly all of the county, with enhanced rural credits. No tract eligible for the 2027 opportunity zones. 1 current opportunity zone tract through 2028. Rural Jump-Start zone.",
+        "enterpriseZone": "Central Colorado",
+        "enterpriseZonePct": 99.4,
+        "enhancedRural": "whole county",
+        "ruralJumpStart": "zone",
+        "oz1Tracts": 1,
+        "oz2Tracts": []
+      }
     },
     {
       "areaId": "08067",
@@ -633,7 +1243,16 @@
           "url": "https://www.lpcgov.org/services/community_development_services/planning/land_use_codes_and_plans/",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (Southwest) covers most of the county (about 57% of its land). No tract eligible for the 2027 opportunity zones. 2 current opportunity zone tracts through 2028. Rural Jump-Start zone.",
+        "enterpriseZone": "Southwest",
+        "enterpriseZonePct": 56.6,
+        "enhancedRural": null,
+        "ruralJumpStart": "zone",
+        "oz1Tracts": 2,
+        "oz2Tracts": []
+      }
     },
     {
       "areaId": "08069",
@@ -658,7 +1277,37 @@
           "url": "https://www.larimer.gov/sites/default/files/uploads/2024/tiny_houses_2023_edits.pdf",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (Larimer County) covers part of the county (about 4% of its land). 4 opportunity zone tracts nominated for 2027. 4 current opportunity zone tracts through 2028.",
+        "enterpriseZone": "Larimer County",
+        "enterpriseZonePct": 4.2,
+        "enhancedRural": null,
+        "ruralJumpStart": null,
+        "oz1Tracts": 4,
+        "oz2Tracts": [
+          {
+            "geoid": "08069000100",
+            "where": "Fort Collins",
+            "rural": false
+          },
+          {
+            "geoid": "08069001304",
+            "where": "Fort Collins",
+            "rural": false
+          },
+          {
+            "geoid": "08069001305",
+            "where": "Fort Collins",
+            "rural": false
+          },
+          {
+            "geoid": "08069001306",
+            "where": "Fort Collins",
+            "rural": false
+          }
+        ]
+      }
     },
     {
       "areaId": "08071",
@@ -673,7 +1322,27 @@
           "url": "https://lasanimascounty.colorado.gov/sites/lasanimascounty/files/documents/2026-06-16%20LAC%20land%20use%20on%20web.pdf",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (South Central) covers all or nearly all of the county, with enhanced rural credits. 2 opportunity zone tracts nominated for 2027, rural. 3 current opportunity zone tracts through 2028. Rural Jump-Start zone.",
+        "enterpriseZone": "South Central",
+        "enterpriseZonePct": 99.9,
+        "enhancedRural": "whole county",
+        "ruralJumpStart": "zone",
+        "oz1Tracts": 3,
+        "oz2Tracts": [
+          {
+            "geoid": "08071000300",
+            "where": "Weston (CDP), Stonewall Gap (CDP), Valdez (CDP), Segundo (CDP), Cokedale, Starkville",
+            "rural": true
+          },
+          {
+            "geoid": "08071000400",
+            "where": "rural, near Starkville",
+            "rural": true
+          }
+        ]
+      }
     },
     {
       "areaId": "08073",
@@ -688,7 +1357,22 @@
           "url": "https://lincolncounty.colorado.gov/county-land-use",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (East Central) covers all or nearly all of the county, with enhanced rural credits. 1 opportunity zone tract nominated for 2027, rural. 1 current opportunity zone tract through 2028. Rural Jump-Start zone.",
+        "enterpriseZone": "East Central",
+        "enterpriseZonePct": 99.9,
+        "enhancedRural": "whole county",
+        "ruralJumpStart": "zone",
+        "oz1Tracts": 1,
+        "oz2Tracts": [
+          {
+            "geoid": "08073961800",
+            "where": "Hugo, Arriba",
+            "rural": true
+          }
+        ]
+      }
     },
     {
       "areaId": "08075",
@@ -704,7 +1388,22 @@
           "section": "Sec. 7.2.I",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (Northeast) covers all or nearly all of the county, with enhanced rural credits. 1 opportunity zone tract nominated for 2027, rural. 3 current opportunity zone tracts through 2028. Rural Jump-Start zone.",
+        "enterpriseZone": "Northeast",
+        "enterpriseZonePct": 99.9,
+        "enhancedRural": "whole county",
+        "ruralJumpStart": "zone",
+        "oz1Tracts": 3,
+        "oz2Tracts": [
+          {
+            "geoid": "08075966200",
+            "where": "Sterling",
+            "rural": true
+          }
+        ]
+      }
     },
     {
       "areaId": "08077",
@@ -730,7 +1429,32 @@
           "url": "https://www.mesacounty.us/departments-and-services/community-development/planning/current-land-development-code",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (Mesa County) covers most of the county (about 56% of its land). 3 opportunity zone tracts nominated for 2027. 7 current opportunity zone tracts through 2028. Rural Jump-Start zone.",
+        "enterpriseZone": "Mesa County",
+        "enterpriseZonePct": 55.5,
+        "enhancedRural": null,
+        "ruralJumpStart": "zone",
+        "oz1Tracts": 7,
+        "oz2Tracts": [
+          {
+            "geoid": "08077000400",
+            "where": "Grand Junction",
+            "rural": false
+          },
+          {
+            "geoid": "08077000700",
+            "where": "Grand Junction",
+            "rural": false
+          },
+          {
+            "geoid": "08077001705",
+            "where": "Clifton (CDP)",
+            "rural": false
+          }
+        ]
+      }
     },
     {
       "areaId": "08079",
@@ -750,7 +1474,22 @@
           "url": "https://www.mineralcountycolorado.com/land-use-office/page/land-use-regulations",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (San Luis Valley) covers all or nearly all of the county, with enhanced rural credits. 1 opportunity zone tract nominated for 2027, rural.",
+        "enterpriseZone": "San Luis Valley",
+        "enterpriseZonePct": 99.9,
+        "enhancedRural": "whole county",
+        "ruralJumpStart": "eligible, not joined",
+        "oz1Tracts": 0,
+        "oz2Tracts": [
+          {
+            "geoid": "08079973600",
+            "where": "City of Creede",
+            "rural": true
+          }
+        ]
+      }
     },
     {
       "areaId": "08081",
@@ -770,7 +1509,22 @@
           "url": "https://moffatcounty.colorado.gov/sites/moffatcounty/files/FireOrd2023-0822_1.pdf",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (Northwest) covers all or nearly all of the county, with enhanced rural credits. 1 opportunity zone tract nominated for 2027, rural. 1 current opportunity zone tract through 2028. Rural Jump-Start zone.",
+        "enterpriseZone": "Northwest",
+        "enterpriseZonePct": 100,
+        "enhancedRural": "whole county",
+        "ruralJumpStart": "zone",
+        "oz1Tracts": 1,
+        "oz2Tracts": [
+          {
+            "geoid": "08081000400",
+            "where": "Craig",
+            "rural": true
+          }
+        ]
+      }
     },
     {
       "areaId": "08083",
@@ -790,7 +1544,27 @@
           "url": "https://montezumacounty.org/wp-content/uploads/2020/09/Planning-FAQ.pdf",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (Southwest) covers all or nearly all of the county. 2 opportunity zone tracts nominated for 2027, rural. 1 current opportunity zone tract through 2028. Rural Jump-Start zone.",
+        "enterpriseZone": "Southwest",
+        "enterpriseZonePct": 100,
+        "enhancedRural": null,
+        "ruralJumpStart": "zone",
+        "oz1Tracts": 1,
+        "oz2Tracts": [
+          {
+            "geoid": "08083969400",
+            "where": "Cortez",
+            "rural": true
+          },
+          {
+            "geoid": "08083969600",
+            "where": "rural, near Cortez",
+            "rural": true
+          }
+        ]
+      }
     },
     {
       "areaId": "08085",
@@ -811,7 +1585,27 @@
           "url": "https://www.montrosecounty.net/228/Zoning-Regulations-Maps",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (Region 10) covers all or nearly all of the county; enhanced rural credits in west end of the county only (the Tier 1 Just Transition area). 2 opportunity zone tracts nominated for 2027, rural. 4 current opportunity zone tracts through 2028. Rural Jump-Start zone.",
+        "enterpriseZone": "Region 10",
+        "enterpriseZonePct": 100,
+        "enhancedRural": "West end of the county only (the Tier 1 Just Transition area)",
+        "ruralJumpStart": "zone",
+        "oz1Tracts": 4,
+        "oz2Tracts": [
+          {
+            "geoid": "08085966100",
+            "where": "Redvale (CDP), Nucla, Naturita",
+            "rural": true
+          },
+          {
+            "geoid": "08085966601",
+            "where": "Montrose",
+            "rural": true
+          }
+        ]
+      }
     },
     {
       "areaId": "08087",
@@ -827,7 +1621,22 @@
           "section": "Sec. 4-100 to 4-125",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (Northeast) covers all or nearly all of the county, with enhanced rural credits. 1 opportunity zone tract nominated for 2027, rural. 2 current opportunity zone tracts through 2028. Rural Jump-Start zone.",
+        "enterpriseZone": "Northeast",
+        "enterpriseZonePct": 99.8,
+        "enhancedRural": "whole county",
+        "ruralJumpStart": "zone",
+        "oz1Tracts": 2,
+        "oz2Tracts": [
+          {
+            "geoid": "08087000600",
+            "where": "Fort Morgan, Trail Side (CDP)",
+            "rural": true
+          }
+        ]
+      }
     },
     {
       "areaId": "08089",
@@ -842,7 +1651,22 @@
           "url": "https://oterocounty.colorado.gov/code-of-regulations",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (Southeast) covers all or nearly all of the county, with enhanced rural credits. 1 opportunity zone tract nominated for 2027, rural. 2 current opportunity zone tracts through 2028. Rural Jump-Start zone.",
+        "enterpriseZone": "Southeast",
+        "enterpriseZonePct": 99.9,
+        "enhancedRural": "whole county",
+        "ruralJumpStart": "zone",
+        "oz1Tracts": 2,
+        "oz2Tracts": [
+          {
+            "geoid": "08089968600",
+            "where": "La Junta",
+            "rural": true
+          }
+        ]
+      }
     },
     {
       "areaId": "08091",
@@ -867,7 +1691,16 @@
           "url": "https://ouraycountyco.gov/214/Land-Use-Code",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (Region 10) covers most of the county (about 77% of its land). No tract eligible for the 2027 opportunity zones.",
+        "enterpriseZone": "Region 10",
+        "enterpriseZonePct": 77.4,
+        "enhancedRural": null,
+        "ruralJumpStart": null,
+        "oz1Tracts": 0,
+        "oz2Tracts": []
+      }
     },
     {
       "areaId": "08093",
@@ -892,7 +1725,16 @@
           "url": "https://www.parkcountyco.gov/AgendaCenter/ViewFile/Item/10184?fileID=4934",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (Central Colorado) covers most of the county (about 57% of its land). No 2027 opportunity zone nominated (1 eligible tract).",
+        "enterpriseZone": "Central Colorado",
+        "enterpriseZonePct": 57,
+        "enhancedRural": null,
+        "ruralJumpStart": "eligible, not joined",
+        "oz1Tracts": 0,
+        "oz2Tracts": []
+      }
     },
     {
       "areaId": "08095",
@@ -907,7 +1749,16 @@
           "url": "https://phillipscounty.colorado.gov/sites/phillipscounty/files/Final%20Phillips%20County%20Land%20Use%20Code_Adopted.06.30.2023.pdf",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (Northeast) covers all or nearly all of the county, with enhanced rural credits. No 2027 opportunity zone nominated (1 eligible tract). 1 current opportunity zone tract through 2028. Rural Jump-Start zone.",
+        "enterpriseZone": "Northeast",
+        "enterpriseZonePct": 100,
+        "enhancedRural": "whole county",
+        "ruralJumpStart": "zone",
+        "oz1Tracts": 1,
+        "oz2Tracts": []
+      }
     },
     {
       "areaId": "08097",
@@ -922,7 +1773,16 @@
           "url": "https://pitkincounty.com/468/County-Code",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "No enterprise zone. No tract eligible for the 2027 opportunity zones.",
+        "enterpriseZone": null,
+        "enterpriseZonePct": 0,
+        "enhancedRural": null,
+        "ruralJumpStart": null,
+        "oz1Tracts": 0,
+        "oz2Tracts": []
+      }
     },
     {
       "areaId": "08099",
@@ -937,7 +1797,22 @@
           "url": "https://www.prowersco.gov/departments/landuse/ZoningRegulationsandInformation",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (Southeast) covers all or nearly all of the county, with enhanced rural credits. 1 opportunity zone tract nominated for 2027, rural. 3 current opportunity zone tracts through 2028. Rural Jump-Start zone.",
+        "enterpriseZone": "Southeast",
+        "enterpriseZonePct": 100,
+        "enhancedRural": "whole county",
+        "ruralJumpStart": "zone",
+        "oz1Tracts": 3,
+        "oz2Tracts": [
+          {
+            "geoid": "08099000200",
+            "where": "Lamar",
+            "rural": true
+          }
+        ]
+      }
     },
     {
       "areaId": "08101",
@@ -957,7 +1832,42 @@
           "url": "https://county.pueblo.org/county-attorney/chapter-824-open-fire-and-open-burning-restriction",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (Pueblo County) covers most of the county (about 67% of its land). 5 opportunity zone tracts nominated for 2027. 9 current opportunity zone tracts through 2028. Rural Jump-Start zone.",
+        "enterpriseZone": "Pueblo County",
+        "enterpriseZonePct": 67.1,
+        "enhancedRural": null,
+        "ruralJumpStart": "zone",
+        "oz1Tracts": 9,
+        "oz2Tracts": [
+          {
+            "geoid": "08101000800",
+            "where": "Pueblo",
+            "rural": false
+          },
+          {
+            "geoid": "08101000903",
+            "where": "Pueblo",
+            "rural": false
+          },
+          {
+            "geoid": "08101002100",
+            "where": "Pueblo",
+            "rural": false
+          },
+          {
+            "geoid": "08101003103",
+            "where": "Blende (CDP), Salt Creek (CDP)",
+            "rural": false
+          },
+          {
+            "geoid": "08101003500",
+            "where": "Pueblo",
+            "rural": false
+          }
+        ]
+      }
     },
     {
       "areaId": "08103",
@@ -978,7 +1888,22 @@
           "url": "https://www.rbc.us/314/Planning",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (Northwest) covers all or nearly all of the county, with enhanced rural credits. 1 opportunity zone tract nominated for 2027, rural. 1 current opportunity zone tract through 2028. Rural Jump-Start zone.",
+        "enterpriseZone": "Northwest",
+        "enterpriseZonePct": 100,
+        "enhancedRural": "whole county",
+        "ruralJumpStart": "zone",
+        "oz1Tracts": 1,
+        "oz2Tracts": [
+          {
+            "geoid": "08103951200",
+            "where": "Rangely",
+            "rural": true
+          }
+        ]
+      }
     },
     {
       "areaId": "08105",
@@ -998,7 +1923,22 @@
           "url": "https://www.alamosacitizen.com/wp-content/uploads/2024/04/RGC-_-RV-PARK-CAMPGROUND-REGULATIONS-3.15.24.pdf",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (San Luis Valley) covers all or nearly all of the county, with enhanced rural credits. 1 opportunity zone tract nominated for 2027, rural. 1 current opportunity zone tract through 2028. Rural Jump-Start zone.",
+        "enterpriseZone": "San Luis Valley",
+        "enterpriseZonePct": 100,
+        "enhancedRural": "whole county",
+        "ruralJumpStart": "zone",
+        "oz1Tracts": 1,
+        "oz2Tracts": [
+          {
+            "geoid": "08105976700",
+            "where": "Monte Vista",
+            "rural": true
+          }
+        ]
+      }
     },
     {
       "areaId": "08107",
@@ -1019,7 +1959,16 @@
           "url": "https://www.co.routt.co.us/AgendaCenter/ViewFile/Item/28040?fileID=27036",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (Northwest) covers all or nearly all of the county, with enhanced rural credits. No tract eligible for the 2027 opportunity zones. Rural Jump-Start zone.",
+        "enterpriseZone": "Northwest",
+        "enterpriseZonePct": 99.9,
+        "enhancedRural": "whole county",
+        "ruralJumpStart": "zone",
+        "oz1Tracts": 0,
+        "oz2Tracts": []
+      }
     },
     {
       "areaId": "08109",
@@ -1034,7 +1983,16 @@
           "url": "https://saguachecounty.colorado.gov/land-use-documents",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (San Luis Valley) covers all or nearly all of the county, with enhanced rural credits. No 2027 opportunity zone nominated (2 eligible tracts). 1 current opportunity zone tract through 2028. Rural Jump-Start zone.",
+        "enterpriseZone": "San Luis Valley",
+        "enterpriseZonePct": 99.9,
+        "enhancedRural": "whole county",
+        "ruralJumpStart": "zone",
+        "oz1Tracts": 1,
+        "oz2Tracts": []
+      }
     },
     {
       "areaId": "08111",
@@ -1049,7 +2007,22 @@
           "url": "https://sanjuancounty.colorado.gov/planning",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (Southwest) covers all or nearly all of the county, with enhanced rural credits. 1 opportunity zone tract nominated for 2027, rural. 1 current opportunity zone tract through 2028. Rural Jump-Start zone.",
+        "enterpriseZone": "Southwest",
+        "enterpriseZonePct": 99.6,
+        "enhancedRural": "whole county",
+        "ruralJumpStart": "zone",
+        "oz1Tracts": 1,
+        "oz2Tracts": [
+          {
+            "geoid": "08111972600",
+            "where": "Silverton",
+            "rural": true
+          }
+        ]
+      }
     },
     {
       "areaId": "08113",
@@ -1069,7 +2042,22 @@
           "url": "https://www.sanmiguelcountyco.gov/243/Land-Use-Code",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (Region 10) covers most of the county (about 85% of its land); enhanced rural credits in portions only (the Tier 1 Just Transition areas). 1 opportunity zone tract nominated for 2027, rural. 1 current opportunity zone tract through 2028.",
+        "enterpriseZone": "Region 10",
+        "enterpriseZonePct": 84.8,
+        "enhancedRural": "Portions only (the Tier 1 Just Transition areas)",
+        "ruralJumpStart": null,
+        "oz1Tracts": 1,
+        "oz2Tracts": [
+          {
+            "geoid": "08113968200",
+            "where": "Norwood",
+            "rural": true
+          }
+        ]
+      }
     },
     {
       "areaId": "08115",
@@ -1084,7 +2072,22 @@
           "url": "https://sedgwickcounty.colorado.gov/sites/sedgwickcounty/files/Zoning%20Regulations.pdf",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (Northeast) covers all or nearly all of the county, with enhanced rural credits. 1 opportunity zone tract nominated for 2027, rural. Rural Jump-Start zone.",
+        "enterpriseZone": "Northeast",
+        "enterpriseZonePct": 100,
+        "enhancedRural": "whole county",
+        "ruralJumpStart": "zone",
+        "oz1Tracts": 0,
+        "oz2Tracts": [
+          {
+            "geoid": "08115968300",
+            "where": "Julesburg, Sedgwick, Ovid",
+            "rural": true
+          }
+        ]
+      }
     },
     {
       "areaId": "08117",
@@ -1099,7 +2102,16 @@
           "url": "https://www.summitcountyco.gov/services/community_development/planning/development_regulations/land_use_development_code.php",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "No enterprise zone. No tract eligible for the 2027 opportunity zones.",
+        "enterpriseZone": null,
+        "enterpriseZonePct": 0,
+        "enhancedRural": null,
+        "ruralJumpStart": null,
+        "oz1Tracts": 0,
+        "oz2Tracts": []
+      }
     },
     {
       "areaId": "08119",
@@ -1114,7 +2126,16 @@
           "url": "https://www.tellercounty.gov/DocumentCenter/View/837/Regulating-Camping-in-Teller-County---Ordinance-20-PDF",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (Pikes Peak) covers part of the county (about 50% of its land). No tract eligible for the 2027 opportunity zones.",
+        "enterpriseZone": "Pikes Peak",
+        "enterpriseZonePct": 49.7,
+        "enhancedRural": null,
+        "ruralJumpStart": null,
+        "oz1Tracts": 0,
+        "oz2Tracts": []
+      }
     },
     {
       "areaId": "08121",
@@ -1129,7 +2150,16 @@
           "url": "https://washingtoncounty.colorado.gov/departments/administration/planning-and-zoning",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (Northeast) covers all or nearly all of the county, with enhanced rural credits. No 2027 opportunity zone nominated (1 eligible tract). 1 current opportunity zone tract through 2028. Rural Jump-Start zone.",
+        "enterpriseZone": "Northeast",
+        "enterpriseZonePct": 99.9,
+        "enhancedRural": "whole county",
+        "ruralJumpStart": "zone",
+        "oz1Tracts": 1,
+        "oz2Tracts": []
+      }
     },
     {
       "areaId": "08123",
@@ -1149,7 +2179,32 @@
           "url": "https://www.weld.gov/files/sharedassets/public/v/5/departments/planning-and-zoning/documents/code-compliance/ag-zone-outside-sub-townsite.pdf",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (Weld County) covers most of the county (about 80% of its land). 3 opportunity zone tracts nominated for 2027, 1 rural. 4 current opportunity zone tracts through 2028.",
+        "enterpriseZone": "Weld County",
+        "enterpriseZonePct": 80.1,
+        "enhancedRural": null,
+        "ruralJumpStart": null,
+        "oz1Tracts": 4,
+        "oz2Tracts": [
+          {
+            "geoid": "08123000100",
+            "where": "Greeley",
+            "rural": false
+          },
+          {
+            "geoid": "08123000701",
+            "where": "Greeley",
+            "rural": false
+          },
+          {
+            "geoid": "08123001911",
+            "where": "Brighton",
+            "rural": true
+          }
+        ]
+      }
     },
     {
       "areaId": "08125",
@@ -1164,7 +2219,16 @@
           "url": "https://yumacounty.net/wp-content/uploads/2025/10/2024-Yuma-County-Land-Use-Code.pdf",
           "read": false
         }
-      ]
+      ],
+      "incentives": {
+        "summary": "Enterprise zone (Northeast) covers all or nearly all of the county, with enhanced rural credits. No 2027 opportunity zone nominated (1 eligible tract). 1 current opportunity zone tract through 2028. Rural Jump-Start zone.",
+        "enterpriseZone": "Northeast",
+        "enterpriseZonePct": 100,
+        "enhancedRural": "whole county",
+        "ruralJumpStart": "zone",
+        "oz1Tracts": 1,
+        "oz2Tracts": []
+      }
     }
   ]
 }

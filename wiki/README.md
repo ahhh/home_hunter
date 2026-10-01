@@ -75,6 +75,7 @@ county defines it, it may also be (c). It isn't (a), even if the guest sleeps in
 | 15 | [Guest Rules Template](15-guest-rules-template.md) | Ready-to-customize house rules |
 | 16 | [Emergency & Incident Plan](16-emergency-incident-plan.md) | The onsite plan to print and post |
 | 17 | [Sources, Contacts & Change Log](17-sources-and-changelog.md) | Where every claim came from, and when to re-check it |
+| 18 | [Tax-Credit Zones](18-incentive-zones.md) | Is the land in an enterprise zone, opportunity zone or Rural Jump-Start zone, and what would that pay for? |
 
 ## Evidence standard
 
@@ -95,7 +96,9 @@ Permit required / Potential conflict / Not researched**. The worksheet never giv
 Clicking a county on the Home Hunter map shows a **Hosting campers (Hipcamp)** section. It gives the county's
 signal, a one-line summary, whether it's been checked against the county's own documents, links to the primary
 sources, and a link back to the county's page here. That data (`public/data/states/CO/hosting.json`) is generated
-from the same source file as the county pages.
+from the same source file as the county pages. The panel also has a **Tax-credit zones** section with the
+county's enterprise zone, opportunity zone and Rural Jump-Start status, from the same data as
+[Tax-Credit Zones](18-incentive-zones.md).
 
 ## Maintaining the wiki
 

@@ -50,6 +50,50 @@
 
 Adopted wildfire resiliency code updates in Mar 2026.
 
+## Tax-credit zones for land development
+
+> Enterprise zone (Jefferson County) covers part of the county (about 18% of its land). 5 opportunity zone tracts nominated for 2027. 5 current opportunity zone tracts through 2028.
+
+Location-based state and federal incentives that can help pay for building on, improving or doing business on a parcel here. What each program pays for, and how it applies to land, is on [Tax-Credit Zones](../18-incentive-zones.md). Zone lines don't follow parcel lines, so confirm a specific address with the administrator or OEDIT's [enterprise zone map](https://geodata.colorado.gov/maps/COOIT::enterprise-zones/about).
+
+| Program | Here |
+|---|---|
+| Enterprise zone (2026-2036 map) | **Jefferson County**: part of the county (about 18% of its land). Administrator: [Jefferson County Economic Development Corporation](https://jeffcoedc.org/), 303-202-2965, <dcarroll@jeffcoedc.org>. |
+| Enhanced rural enterprise zone (2025-2026) | No. |
+| Rural Jump-Start | No. |
+| Opportunity zones, current map (through 2028-12-31) | 5 tracts. |
+| Opportunity zones, 2027 map (from 2027-01-01) | 5 tracts nominated, out of 20 eligible. Treasury certification is expected by the end of November 2026. |
+
+### Enterprise zone by town
+
+Share of each incorporated town's area inside the zone. Unincorporated land between towns is often outside.
+
+- **In the zone:** Lakeside
+- **Partly:** Lakewood (about 21%), Arvada (about 24%), Westminster (about 18%), Wheat Ridge (about 36%), Golden (about 41%), Edgewater (about 18%), Morrison (about 77%)
+- **Outside or nearly outside:** Mountain View
+
+### Opportunity zone tracts
+
+| Tract | Where | Size | Current map (to 2028) | 2027 map (nominated) |
+|---|---|---|---|---|
+| [08059009831](https://data.census.gov/profile?g=1400000US08059009831) | Westminster | 0.7 sq mi | Yes | — |
+| [08059009856](https://data.census.gov/profile?g=1400000US08059009856) | Golden | 1.3 sq mi | — | Yes |
+| [08059010100](https://data.census.gov/profile?g=1400000US08059010100) | West Pleasant View (CDP), Applewood (CDP) | 2.7 sq mi | Yes | Yes |
+| [08059010402](https://data.census.gov/profile?g=1400000US08059010402) | Wheat Ridge, Arvada | 1.6 sq mi | Yes | — |
+| [08059010406](https://data.census.gov/profile?g=1400000US08059010406) | Arvada | 1.1 sq mi | — | Yes |
+| [08059010902](https://data.census.gov/profile?g=1400000US08059010902) | Lakewood | 1 sq mi | Yes | Yes |
+| [08059011550](https://data.census.gov/profile?g=1400000US08059011550) | Lakewood | 1.5 sq mi | Yes | — |
+| [08059011552](https://data.census.gov/profile?g=1400000US08059011552) | Lakewood | 0.7 sq mi | — | Yes |
+
+The current map uses 2010 tracts and the 2027 map uses 2020 tracts, so a tract number on both maps can have different boundaries. "Rural" is the H.R. 1 definition, which gets the larger 2027 tax break and the lower improvement threshold.
+
+### For a land purchase here
+
+- Enterprise zone credits reward what a business **does** on the land: buying equipment (3% investment credit), hiring, rehabbing a vacant commercial building (25%, up to $50,000). Buying and holding raw land earns nothing. Pre-certify with the administrator **before** the spending.
+- Opportunity zones reward investing **capital gains** through a qualified opportunity fund. Raw land doesn't have to be doubled in value, but buying it with no plan to improve it within 30 months fails the anti-abuse rule.
+
+Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-zone-administrators), [OEDIT EZ map layer](https://services3.arcgis.com/DgjqnJA1rgO92Soi/arcgis/rest/services/Enterprise_Zones/FeatureServer/2), [OEDIT EZ program](https://oedit.colorado.gov/enterprise-zone-program), [Rural Jump-Start](https://oedit.colorado.gov/rural-jump-start-program), [OEDIT Opportunity Zones (nominated list)](https://oedit.colorado.gov/colorado-opportunity-zone-program), [Treasury eligible tracts](https://docs.google.com/spreadsheets/d/1RAYSjXre7xUF2cbpDGsukz9nroysvwce/edit), [HUD 2018 OZ tracts](https://services.arcgis.com/VTyQ9soqVukalItT/arcgis/rest/services/Opportunity_Zones/FeatureServer/13). All checked 2026-09-30. Zone coverage and town names are measured from those maps and Census 2020 place boundaries by `pipelines/incentives/build.mjs`.
+
 ## Sources
 
 1. [Jeffco FAQ: Can I camp on my own property?](https://www.jeffco.us/FAQ.aspx?QID=203) — primary, not read in full

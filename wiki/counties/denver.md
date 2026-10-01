@@ -50,6 +50,60 @@
 
 —
 
+## Tax-credit zones for land development
+
+> Enterprise zone (Denver County) covers part of the county (about 21% of its land). 13 opportunity zone tracts nominated for 2027. 10 current opportunity zone tracts through 2028.
+
+Location-based state and federal incentives that can help pay for building on, improving or doing business on a parcel here. What each program pays for, and how it applies to land, is on [Tax-Credit Zones](../18-incentive-zones.md). Zone lines don't follow parcel lines, so confirm a specific address with the administrator or OEDIT's [enterprise zone map](https://geodata.colorado.gov/maps/COOIT::enterprise-zones/about).
+
+| Program | Here |
+|---|---|
+| Enterprise zone (2026-2036 map) | **Denver County**: part of the county (about 21% of its land). Administrator: [Denver Office of Economic Development](https://www.denvergov.org/content/denvergov/en/denver-office-of-economic-development.html), 720-467-7041, <Karra.Walker@denvergov.org>. |
+| Enhanced rural enterprise zone (2025-2026) | No. |
+| Rural Jump-Start | No. |
+| Opportunity zones, current map (through 2028-12-31) | 10 tracts. |
+| Opportunity zones, 2027 map (from 2027-01-01) | 13 tracts nominated, out of 51 eligible. Treasury certification is expected by the end of November 2026. |
+
+### Enterprise zone by town
+
+Share of each incorporated town's area inside the zone. Unincorporated land between towns is often outside.
+
+- **Partly:** Denver (about 22%)
+- **Outside or nearly outside:** Glendale
+
+### Opportunity zone tracts
+
+| Tract | Where | Size | Current map (to 2028) | 2027 map (nominated) |
+|---|---|---|---|---|
+| [08031000702](https://data.census.gov/profile?g=1400000US08031000702) | Denver | 0.5 sq mi | Yes | — |
+| [08031000705](https://data.census.gov/profile?g=1400000US08031000705) | Denver | 0.3 sq mi | — | Yes |
+| [08031000800](https://data.census.gov/profile?g=1400000US08031000800) | Denver | 0.6 sq mi | Yes | Yes |
+| [08031001000](https://data.census.gov/profile?g=1400000US08031001000) | Denver | 1 sq mi | — | Yes |
+| [08031001302](https://data.census.gov/profile?g=1400000US08031001302) | Denver | 0.8 sq mi | — | Yes |
+| [08031001500](https://data.census.gov/profile?g=1400000US08031001500) | Denver | 2.1 sq mi | — | Yes |
+| [08031001901](https://data.census.gov/profile?g=1400000US08031001901) | Denver | 0.9 sq mi | — | Yes |
+| [08031003500](https://data.census.gov/profile?g=1400000US08031003500) | Denver | 2.6 sq mi | Yes | — |
+| [08031003501](https://data.census.gov/profile?g=1400000US08031003501) | Denver | 1.8 sq mi | — | Yes |
+| [08031003502](https://data.census.gov/profile?g=1400000US08031003502) | Denver | 0.8 sq mi | — | Yes |
+| [08031003602](https://data.census.gov/profile?g=1400000US08031003602) | Denver | 0.8 sq mi | Yes | — |
+| [08031004101](https://data.census.gov/profile?g=1400000US08031004101) | Denver | 1.8 sq mi | Yes | Yes |
+| [08031004102](https://data.census.gov/profile?g=1400000US08031004102) | Denver | 1.5 sq mi | Yes | — |
+| [08031004403](https://data.census.gov/profile?g=1400000US08031004403) | Denver | 0.6 sq mi | Yes | — |
+| [08031004404](https://data.census.gov/profile?g=1400000US08031004404) | Denver | 0.5 sq mi | Yes | Yes |
+| [08031004503](https://data.census.gov/profile?g=1400000US08031004503) | Denver | 0.4 sq mi | — | Yes |
+| [08031004505](https://data.census.gov/profile?g=1400000US08031004505) | Denver | 0.4 sq mi | Yes | Yes |
+| [08031008312](https://data.census.gov/profile?g=1400000US08031008312) | Denver | 1 sq mi | Yes | — |
+| [08031015800](https://data.census.gov/profile?g=1400000US08031015800) | Denver | 2.4 sq mi | — | Yes |
+
+The current map uses 2010 tracts and the 2027 map uses 2020 tracts, so a tract number on both maps can have different boundaries. "Rural" is the H.R. 1 definition, which gets the larger 2027 tax break and the lower improvement threshold.
+
+### For a land purchase here
+
+- Enterprise zone credits reward what a business **does** on the land: buying equipment (3% investment credit), hiring, rehabbing a vacant commercial building (25%, up to $50,000). Buying and holding raw land earns nothing. Pre-certify with the administrator **before** the spending.
+- Opportunity zones reward investing **capital gains** through a qualified opportunity fund. Raw land doesn't have to be doubled in value, but buying it with no plan to improve it within 30 months fails the anti-abuse rule.
+
+Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-zone-administrators), [OEDIT EZ map layer](https://services3.arcgis.com/DgjqnJA1rgO92Soi/arcgis/rest/services/Enterprise_Zones/FeatureServer/2), [OEDIT EZ program](https://oedit.colorado.gov/enterprise-zone-program), [Rural Jump-Start](https://oedit.colorado.gov/rural-jump-start-program), [OEDIT Opportunity Zones (nominated list)](https://oedit.colorado.gov/colorado-opportunity-zone-program), [Treasury eligible tracts](https://docs.google.com/spreadsheets/d/1RAYSjXre7xUF2cbpDGsukz9nroysvwce/edit), [HUD 2018 OZ tracts](https://services.arcgis.com/VTyQ9soqVukalItT/arcgis/rest/services/Opportunity_Zones/FeatureServer/13). All checked 2026-09-30. Zone coverage and town names are measured from those maps and Census 2020 place boundaries by `pipelines/incentives/build.mjs`.
+
 ## Sources
 
 1. [Denver Revised Municipal Code (incl. Ch. 59 Zoning, Sec. 38-86.2)](https://library.municode.com/co/denver/codes/code_of_ordinances?nodeId=TITIIREMUCO_CH59ZO) — primary, not read in full

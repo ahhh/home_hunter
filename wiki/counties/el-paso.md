@@ -50,6 +50,54 @@
 
 —
 
+## Tax-credit zones for land development
+
+> Enterprise zone (Pikes Peak) covers most of the county (about 58% of its land). 8 opportunity zone tracts nominated for 2027. 8 current opportunity zone tracts through 2028.
+
+Location-based state and federal incentives that can help pay for building on, improving or doing business on a parcel here. What each program pays for, and how it applies to land, is on [Tax-Credit Zones](../18-incentive-zones.md). Zone lines don't follow parcel lines, so confirm a specific address with the administrator or OEDIT's [enterprise zone map](https://geodata.colorado.gov/maps/COOIT::enterprise-zones/about).
+
+| Program | Here |
+|---|---|
+| Enterprise zone (2026-2036 map) | **Pikes Peak**: most of the county (about 58% of its land). Administrator: [El Paso County](https://admin.elpasoco.com/economic-development/), 719-520-6480, <saralobato@elpasoco.com>. |
+| Enhanced rural enterprise zone (2025-2026) | No. |
+| Rural Jump-Start | No. |
+| Opportunity zones, current map (through 2028-12-31) | 8 tracts. |
+| Opportunity zones, 2027 map (from 2027-01-01) | 8 tracts nominated, out of 36 eligible. Treasury certification is expected by the end of November 2026. |
+
+### Enterprise zone by town
+
+Share of each incorporated town's area inside the zone. Unincorporated land between towns is often outside.
+
+- **In the zone:** Fountain, Green Mountain Falls, Ramah
+- **Partly:** Colorado Springs (about 32%), Monument (about 30%), Manitou Springs (about 45%)
+- **Outside or nearly outside:** Palmer Lake, Calhan
+
+### Opportunity zone tracts
+
+| Tract | Where | Size | Current map (to 2028) | 2027 map (nominated) |
+|---|---|---|---|---|
+| [08041000302](https://data.census.gov/profile?g=1400000US08041000302) | Colorado Springs | 2.2 sq mi | Yes | Yes |
+| [08041002000](https://data.census.gov/profile?g=1400000US08041002000) | Colorado Springs | 1.3 sq mi | Yes | — |
+| [08041002101](https://data.census.gov/profile?g=1400000US08041002101) | Colorado Springs | 1.1 sq mi | — | Yes |
+| [08041002200](https://data.census.gov/profile?g=1400000US08041002200) | Colorado Springs | 0.7 sq mi | Yes | — |
+| [08041002300](https://data.census.gov/profile?g=1400000US08041002300) | Colorado Springs | 1.2 sq mi | Yes | Yes |
+| [08041002901](https://data.census.gov/profile?g=1400000US08041002901) | Colorado Springs | 0.8 sq mi | — | Yes |
+| [08041003001](https://data.census.gov/profile?g=1400000US08041003001) | Colorado Springs | 0.9 sq mi | — | Yes |
+| [08041004008](https://data.census.gov/profile?g=1400000US08041004008) | Colorado Springs | 15.5 sq mi | Yes | — |
+| [08041004501](https://data.census.gov/profile?g=1400000US08041004501) | Colorado Springs, Stratmoor (CDP), Fountain, Security-Widefield (CDP) | 5.3 sq mi | Yes | Yes |
+| [08041004513](https://data.census.gov/profile?g=1400000US08041004513) | Fountain | 2.8 sq mi | — | Yes |
+| [08041005000](https://data.census.gov/profile?g=1400000US08041005000) | Cimarron Hills (CDP) | 1.9 sq mi | Yes | Yes |
+| [08041006302](https://data.census.gov/profile?g=1400000US08041006302) | Colorado Springs | 0.7 sq mi | Yes | — |
+
+The current map uses 2010 tracts and the 2027 map uses 2020 tracts, so a tract number on both maps can have different boundaries. "Rural" is the H.R. 1 definition, which gets the larger 2027 tax break and the lower improvement threshold.
+
+### For a land purchase here
+
+- Enterprise zone credits reward what a business **does** on the land: buying equipment (3% investment credit), hiring, rehabbing a vacant commercial building (25%, up to $50,000). Buying and holding raw land earns nothing. Pre-certify with the administrator **before** the spending.
+- Opportunity zones reward investing **capital gains** through a qualified opportunity fund. Raw land doesn't have to be doubled in value, but buying it with no plan to improve it within 30 months fails the anti-abuse rule.
+
+Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-zone-administrators), [OEDIT EZ map layer](https://services3.arcgis.com/DgjqnJA1rgO92Soi/arcgis/rest/services/Enterprise_Zones/FeatureServer/2), [OEDIT EZ program](https://oedit.colorado.gov/enterprise-zone-program), [Rural Jump-Start](https://oedit.colorado.gov/rural-jump-start-program), [OEDIT Opportunity Zones (nominated list)](https://oedit.colorado.gov/colorado-opportunity-zone-program), [Treasury eligible tracts](https://docs.google.com/spreadsheets/d/1RAYSjXre7xUF2cbpDGsukz9nroysvwce/edit), [HUD 2018 OZ tracts](https://services.arcgis.com/VTyQ9soqVukalItT/arcgis/rest/services/Opportunity_Zones/FeatureServer/13). All checked 2026-09-30. Zone coverage and town names are measured from those maps and Census 2020 place boundaries by `pipelines/incentives/build.mjs`.
+
 ## Sources
 
 1. [El Paso County Code Enforcement](https://planningdevelopment.elpasoco.com/el-paso-county-code-enforcement-2/) — primary, read

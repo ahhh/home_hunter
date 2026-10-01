@@ -148,6 +148,48 @@ export function CountyDetail({ area, data, search, listingCount, dispatch, onClo
         </section>
       )}
 
+      {hosting && (
+        <section className="detail-section" aria-labelledby="incentives-h">
+          <h3 id="incentives-h">Tax-credit zones</h3>
+          <p>{hosting.incentives.summary}</p>
+          {hosting.incentives.oz2Tracts.length > 0 && (
+            <>
+              <h4>Opportunity zones nominated for 2027</h4>
+              <ul className="link-list">
+                {hosting.incentives.oz2Tracts.map((t) => (
+                  <li key={t.geoid}>
+                    <a href={`https://data.census.gov/profile?g=1400000US${t.geoid}`} target="_blank" rel="noopener noreferrer">
+                      Tract {t.geoid}
+                    </a>
+                    <span className="hint">
+                      {" "}
+                      {t.where}
+                      {t.rural && ", rural"}
+                    </span>
+                  </li>
+                ))}
+              </ul>
+            </>
+          )}
+          <p className="note">
+            Zone lines don't follow parcels. Confirm an address with the zone administrator. Checked{" "}
+            {shortDate(data.hostingMeta.incentivesCheckedAt)}.
+          </p>
+          <ul className="link-list">
+            <li>
+              <a href={`${data.hostingMeta.wikiBase}${hosting.wikiPath}#tax-credit-zones-for-land-development`} target="_blank" rel="noopener noreferrer">
+                {area.name} zones, administrator and what they pay for
+              </a>
+            </li>
+            <li>
+              <a href={`${data.hostingMeta.wikiBase}18-incentive-zones.md`} target="_blank" rel="noopener noreferrer">
+                How enterprise and opportunity zones apply to land
+              </a>
+            </li>
+          </ul>
+        </section>
+      )}
+
       <section className="detail-section" aria-labelledby="rules-h">
         <h3 id="rules-h">County rules</h3>
         {regs ? (

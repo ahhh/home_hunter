@@ -52,3 +52,9 @@ Thumbs.db
 
 # ---- Local Claude Code settings ----
 .claude/settings.local.json
+
+# Incentive-zone GIS downloads; `node pipelines/incentives/build.mjs` fetches them again.
+pipelines/incentives/raw/
+
+# Google Trends response cache for pipelines/tourism/trends.py.
+pipelines/tourism/cache/
