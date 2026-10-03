@@ -9,11 +9,11 @@
 | County seat | Telluride |
 | Region | Southwest |
 | Hipcamp signal | **Restrictive**: A rule found limits paid camping, RV occupancy or camping-unit rentals |
-| Splitting land | **Unclear**: Not researched, or the rules weren't found online |
-| Cabin short-term rentals | **Unclear**: Not researched, or the rules weren't found online |
+| Splitting land | **Restrictive**: Large zone minimums or county rules make splitting rare, even at 35+ acres |
+| Cabin short-term rentals | **Permit**: County short-term rental permit or license program |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
 | Evidence | Partly verified: some claims read in primary sources; the rest need confirmation |
-| Date checked | 2026-09-29 (camping) |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
@@ -22,9 +22,9 @@
 
 ## Splitting land (subdivision)
 
-> Research unfinished: this county wasn't covered in the October 2026 pass.
+> Splits into parcels over 35 acres skip county review; anything smaller needs full subdivision review, and mountain zoning keeps densities low. STRs need a county permit, except in the West End zone (taxes still apply).
 
-- Research unfinished: this county wasn't covered in the October 2026 pass. Ask Planning how a parcel can be split.
+- Dividing land into parcels larger than 35 acres is exempt from county subdivision review; smaller lots go through Land Use Code subdivision procedures. — [[5]](https://sanmiguelcountyco.gov/DocumentCenter/View/212/Article-3---Procedures-Updated-1121-PDF) *(needs confirmation)*
 
 > State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
 > review or an exemption, and wells on them are usually limited to in-house use. See
@@ -32,7 +32,7 @@
 
 ## Zoning basics
 
-- Research unfinished: this county wasn't covered in the October 2026 pass. Get the zone district and its use table from Planning.
+- Telluride-area zones are low-density; the West End (Norwood/Naturita side) is more rural and less regulated. — [[2]](https://www.sanmiguelcountyco.gov/243/Land-Use-Code) *(needs confirmation)*
 
 ## Private (non-commercial) camping
 
@@ -55,7 +55,8 @@
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- A permit is required to rent a home, condo or duplex for under 30 days. — [[4]](https://sanmiguelcountyco.gov/DocumentCenter/View/190/Land-Use-Code-Standards-for-Short-Term-Rentals-PDF) *(needs confirmation)*
+- No STR permit is needed in the West End (WE) zone district, but taxes must still be collected. — [[4]](https://sanmiguelcountyco.gov/DocumentCenter/View/190/Land-Use-Code-Standards-for-Short-Term-Rentals-PDF) *(needs confirmation)*
 - A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
@@ -113,6 +114,8 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 1. [San Miguel County FAQ: Camping on Private Property](https://www.sanmiguelcountyco.gov/FAQ.aspx?QID=361) — primary, read
 2. [San Miguel County Land Use Code (Sec. 5-714, 5-1008, 5-1009)](https://www.sanmiguelcountyco.gov/243/Land-Use-Code) — primary, not read in full
 3. [Citizen Portal: new rules for private camping and campgrounds](https://citizenportal.ai/articles/6675097/colorado/san-miguel-county/county-adopts-new-rules-for-private-camping-and-campgrounds-after-split-vote) — **secondary**, not read in full
+4. [San Miguel County Land Use Code: Standards for Short-Term Rentals](https://sanmiguelcountyco.gov/DocumentCenter/View/190/Land-Use-Code-Standards-for-Short-Term-Rentals-PDF) — primary, not read in full
+5. [San Miguel County Land Use Code, Article 3 Procedures](https://sanmiguelcountyco.gov/DocumentCenter/View/212/Article-3---Procedures-Updated-1121-PDF) — primary, not read in full
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

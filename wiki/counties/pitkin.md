@@ -9,11 +9,11 @@
 | County seat | Aspen |
 | Region | Central Mountains |
 | Hipcamp signal | **Unclear**: No specific camping provision found yet |
-| Splitting land | **Unclear**: Not researched, or the rules weren't found online |
-| Cabin short-term rentals | **Unclear**: Not researched, or the rules weren't found online |
+| Splitting land | **Restrictive**: Large zone minimums or county rules make splitting rare, even at 35+ acres |
+| Cabin short-term rentals | **Permit**: County short-term rental permit or license program |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
 | Evidence | Needs confirmation: from official pages and search summaries; code text not read |
-| Date checked | 2026-09-29 (camping) |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
@@ -22,9 +22,10 @@
 
 ## Splitting land (subdivision)
 
-> Research unfinished: this county wasn't covered in the October 2026 pass.
+> Very restrictive: rural zones are RS-35 and Rural/Remote (35-acre minimums, 1,000 sq ft cabins in R/R), and new lots and homes also need growth-management (GMQS) allotments. The county requires an STR permit.
 
-- Research unfinished: this county wasn't covered in the October 2026 pass. Ask Planning how a parcel can be split.
+- Rural zones have 35-acre minimums (RS-35, Rural/Remote); R/R cabins are capped at 1,000 sq ft. — [[2]](https://www.pitkincounty.com/DocumentCenter/View/1798/Pitkin-County-Zone-Districts-PDF) *(needs confirmation)*
+- New lots and dwellings are subject to the Growth Management Quota System; limited exemptions exist (e.g. some pre-2000 35-acre parcels in the Crystal River and Frying Pan areas). — [[3]](https://pitkincounty.com/DocumentCenter/View/3469/chapter-06) *(needs confirmation)*
 
 > State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
 > review or an exemption, and wells on them are usually limited to in-house use. See
@@ -32,7 +33,7 @@
 
 ## Zoning basics
 
-- Research unfinished: this county wasn't covered in the October 2026 pass. Get the zone district and its use table from Planning.
+- RS-35 allows only very low-impact resource or residential uses; a 'Country Inn' (5-10 guest rooms) needs 35+ acres outside an urban growth boundary. — [[2]](https://www.pitkincounty.com/DocumentCenter/View/1798/Pitkin-County-Zone-Districts-PDF) *(needs confirmation)*
 
 ## Private (non-commercial) camping
 
@@ -53,7 +54,7 @@
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- Pitkin County requires a short-term rental permit for unincorporated rentals; confirm the current rules with Community Development. — *lead only, no source yet*
 - A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
@@ -90,6 +91,8 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 ## Sources
 
 1. [Pitkin County Code (incl. Title 9, Land Use Code)](https://pitkincounty.com/468/County-Code) — primary, not read in full
+2. [Pitkin County Land Use Code, Ch. 3 Zone Districts](https://www.pitkincounty.com/DocumentCenter/View/1798/Pitkin-County-Zone-Districts-PDF) — primary, not read in full
+3. [Pitkin County Land Use Code, Ch. 6 Growth Management (GMQS)](https://pitkincounty.com/DocumentCenter/View/3469/chapter-06) — primary, not read in full
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

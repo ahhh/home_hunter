@@ -9,11 +9,11 @@
 | County seat | Littleton |
 | Region | Front Range |
 | Hipcamp signal | **Unclear**: No specific camping provision found yet |
-| Splitting land | **Unclear**: Not researched, or the rules weren't found online |
-| Cabin short-term rentals | **Unclear**: Not researched, or the rules weren't found online |
+| Splitting land | **Exemption path**: A lighter split process (exemption, minor subdivision, lot split) exists below 35 acres |
+| Cabin short-term rentals | **Permit**: County short-term rental permit or license program |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
 | Evidence | Needs confirmation: from official pages and search summaries; code text not read |
-| Date checked | 2026-09-29 (camping) |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
@@ -22,9 +22,10 @@
 
 ## Splitting land (subdivision)
 
-> Research unfinished: this county wasn't covered in the October 2026 pass.
+> The east plains are agricultural (A-1 is 19+ acres); small splits need a subdivision exemption or plat under the Land Development Code. Since May 2026 unincorporated STRs need a county license, generally for a primary residence, with a 500-ft spacing rule.
 
-- Research unfinished: this county wasn't covered in the October 2026 pass. Ask Planning how a parcel can be split.
+- Splits under 35 acres need a Land Development Code subdivision (minor or major plat) or a subdivision exemption. — [[2]](https://files.arapahoeco.gov/Public%20Works_Development/zoning/Land%20Development%20Code/LandDevelopmentCodeRev12102024.pdf) *(needs confirmation)*
+- Eastern Arapahoe is mostly agricultural zoning with large minimum lots, so density is limited without rezoning. — [[2]](https://files.arapahoeco.gov/Public%20Works_Development/zoning/Land%20Development%20Code/LandDevelopmentCodeRev12102024.pdf) *(needs confirmation)*
 
 > State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
 > review or an exemption, and wells on them are usually limited to in-house use. See
@@ -32,7 +33,7 @@
 
 ## Zoning basics
 
-- Research unfinished: this county wasn't covered in the October 2026 pass. Get the zone district and its use table from Planning.
+- West county is suburban and largely incorporated (Aurora, Centennial, Littleton); the rural east (Byers, Deer Trail, Strasburg area) is agricultural. — [[2]](https://files.arapahoeco.gov/Public%20Works_Development/zoning/Land%20Development%20Code/LandDevelopmentCodeRev12102024.pdf) *(needs confirmation)*
 
 ## Private (non-commercial) camping
 
@@ -53,7 +54,8 @@
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- STR license required in unincorporated Arapahoe (adopted May 12, 2026). Must be the owner's primary residence unless a legacy exemption applies. — [[3]](https://arapahoeco.gov/your_county/county_departments/public_works_and_development/short-term_rental_regulations_and_application.php) *(needs confirmation)*
+- New STRs can't be within 500 ft of an existing licensed one; agricultural parcels qualify only at 9 acres or more. — [[3]](https://arapahoeco.gov/your_county/county_departments/public_works_and_development/short-term_rental_regulations_and_application.php) *(needs confirmation)*
 - A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
@@ -120,6 +122,8 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 ## Sources
 
 1. [Arapahoe County Land Development Code](https://files.arapahoeco.gov/Public%20Works_Development/zoning/Land%20Development%20Code/LandDevelopmentCodeRev12102024.pdf) — primary, not read in full
+2. [Arapahoe County Land Development Code (Mar 2026)](https://files.arapahoeco.gov/Public%20Works_Development/zoning/Land%20Development%20Code/LandDevelopmentCodeRev12102024.pdf) — primary, not read in full
+3. [Arapahoe County: Short-Term Rental Regulations and Application](https://arapahoeco.gov/your_county/county_departments/public_works_and_development/short-term_rental_regulations_and_application.php) — primary, not read in full
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

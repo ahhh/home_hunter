@@ -9,11 +9,11 @@
 | County seat | Ordway |
 | Region | Eastern Plains |
 | Hipcamp signal | **Unclear**: No specific camping provision found yet |
-| Splitting land | **Unclear**: Not researched, or the rules weren't found online |
+| Splitting land | **Exemption path**: A lighter split process (exemption, minor subdivision, lot split) exists below 35 acres |
 | Cabin short-term rentals | **Unclear**: Not researched, or the rules weren't found online |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
 | Evidence | Needs confirmation: from official pages and search summaries; code text not read |
-| Date checked | 2026-09-29 (camping) |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
@@ -22,9 +22,10 @@
 
 ## Splitting land (subdivision)
 
-> Research unfinished: this county wasn't covered in the October 2026 pass.
+> Rural plains county; small splits (e.g. carving a homesite off a farm) go through a subdivision exemption heard by Planning & Zoning and decided by the BOCC. No county STR rules found.
 
-- Research unfinished: this county wasn't covered in the October 2026 pass. Ask Planning how a parcel can be split.
+- Subdivision exemption requests go to the Planning & Zoning Commission, which recommends to the BOCC (e.g. separating a home and buildings from a 130-acre parcel). — [[2]](https://crowleycounty.colorado.gov/government-offices/planning-zoning-building-inspection) *(needs confirmation)*
+- The county also has subdivision and non-farm subdivision applications; ask P&Z (719-267-5555) for the current regulations. — [[2]](https://crowleycounty.colorado.gov/government-offices/planning-zoning-building-inspection) *(needs confirmation)*
 
 > State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
 > review or an exemption, and wells on them are usually limited to in-house use. See
@@ -32,7 +33,7 @@
 
 ## Zoning basics
 
-- Research unfinished: this county wasn't covered in the October 2026 pass. Get the zone district and its use table from Planning.
+- Mostly agricultural zoning; get the zone district and use table from P&Z in Ordway. — [[2]](https://crowleycounty.colorado.gov/government-offices/planning-zoning-building-inspection) *(needs confirmation)*
 
 ## Private (non-commercial) camping
 
@@ -49,7 +50,7 @@
 ## RVs, tiny homes & structures
 
 - Not confirmed. Most Colorado counties treat RVs as temporary/recreational, not dwellings. See [Structures, Tiny Homes & RVs](../09-structures-tiny-homes-rvs.md).
-- **No building department.** DOH inspects foundations for manufactured, tiny and factory-built homes. State electrical and plumbing permits still apply. — [[2]](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) *(verified)*
+- **No building department.** DOH inspects foundations for manufactured, tiny and factory-built homes. State electrical and plumbing permits still apply. — [[3]](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) *(verified)*
 
 ## Short-term rental / lodging rules
 
@@ -100,7 +101,8 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 ## Sources
 
 1. [Crowley County](https://crowleycounty.colorado.gov/) — primary, not read in full
-2. [Division of Housing: jurisdictions without building departments](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) — primary, read
+2. [Crowley County Planning & Zoning](https://crowleycounty.colorado.gov/government-offices/planning-zoning-building-inspection) — primary, not read in full
+3. [Division of Housing: jurisdictions without building departments](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) — primary, read
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

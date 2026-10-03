@@ -10,11 +10,22 @@
       "planning": "https://adamscountyco.gov/",
       "sources": {
         "code": {"title": "Adams County Development Standards and Regulations", "url": "https://adamscounty.municipalcodeonline.com/book?type=temp", "kind": "primary", "read": false},
-        "interp": {"title": "Official Code Interpretations (Jul 2024)", "url": "https://adamscountyco.gov/wp-content/uploads/2025/08/Official-Code-Interpretations_July-2024.pdf", "kind": "primary", "read": false}
+        "interp": {"title": "Official Code Interpretations (Jul 2024)", "url": "https://adamscountyco.gov/wp-content/uploads/2025/08/Official-Code-Interpretations_July-2024.pdf", "kind": "primary", "read": false},
+        "exempt": {"title": "Adams County: Subdivision Exemption checklist", "url": "https://adamscountyco.gov/wp-content/uploads/2025/08/subdivision-exemption.pdf", "kind": "primary", "read": false},
+        "bnb": {"title": "BNBCalc: Adams County STR guide (2026)", "url": "https://www.bnbcalc.com/blog/short-term-rental-regulation/adams-county-colorado-guide", "kind": "secondary", "read": false}
       },
       "private": [["No camping-specific provision found in this pass.", []]],
       "commercial": [["Uses not listed as permitted or conditional are not allowed unless the Director finds them similar to a listed use. Ask for a written determination.", ["interp"]]],
-      "notes": "Mostly suburban Front Range. Hipcamp's listing policy says residential/suburban homes generally aren't a fit."
+      "notes": "Mostly suburban Front Range. Hipcamp's listing policy says residential/suburban homes generally aren't a fit.",
+      "subdivisionSignal": "Exemption path",
+      "strSignal": "Allowed",
+      "landSummary": "Small splits go through a BOCC Subdivision Exemption or a Minor Subdivision under the Development Standards. Unincorporated Adams has no county STR license, though most of the county is inside cities that do.",
+      "subdivision": [
+        ["A Subdivision Exemption (release from platting by BOCC resolution) is available for limited splits; a Minor Subdivision plat is the other small-split route.", ["exempt"]],
+        ["Lot sizes follow the zone district (e.g. agricultural A-1/A-2/A-3 zones); confirm the minimum with Current Planning.", ["code"]]
+      ],
+      "zoning": [["Rural east county is mostly agricultural zoning; the west is suburban and largely inside cities (Thornton, Brighton, Commerce City, Westminster).", ["code"]]],
+      "str": [["No county STR license or permit in unincorporated Adams as of 2026; check the city's rules inside town limits.", ["bnb"]]]
     },
     "Alamosa": {
       "signal": "Campground",
@@ -61,10 +72,26 @@
       "signal": "Unclear",
       "summary": "No camping-specific rule found. The west side is suburban; only the rural east is plausible.",
       "planning": "https://www.arapahoeco.gov/your_county/county_departments/public_works_and_development/divisions/planning_and_land_development/land_development_code_and_regulations/land_development_code.php",
-      "sources": {"code": {"title": "Arapahoe County Land Development Code", "url": "https://files.arapahoeco.gov/Public%20Works_Development/zoning/Land%20Development%20Code/LandDevelopmentCodeRev12102024.pdf", "kind": "primary", "read": false}},
+      "sources": {
+        "code": {"title": "Arapahoe County Land Development Code", "url": "https://files.arapahoeco.gov/Public%20Works_Development/zoning/Land%20Development%20Code/LandDevelopmentCodeRev12102024.pdf", "kind": "primary", "read": false},
+        "ldc": {"title": "Arapahoe County Land Development Code (Mar 2026)", "url": "https://files.arapahoeco.gov/Public%20Works_Development/zoning/Land%20Development%20Code/LandDevelopmentCodeRev12102024.pdf", "kind": "primary", "read": false},
+        "str": {"title": "Arapahoe County: Short-Term Rental Regulations and Application", "url": "https://arapahoeco.gov/your_county/county_departments/public_works_and_development/short-term_rental_regulations_and_application.php", "kind": "primary", "read": false}
+      },
       "private": [["No camping-specific provision found in this pass. The code defines a 'Camping Unit or Recreational Vehicle' as a wheeled unit for temporary living.", ["code"]]],
       "commercial": [["Not researched.", []]],
-      "notes": ""
+      "notes": "",
+      "subdivisionSignal": "Exemption path",
+      "strSignal": "Permit",
+      "landSummary": "The east plains are agricultural (A-1 is 19+ acres); small splits need a subdivision exemption or plat under the Land Development Code. Since May 2026 unincorporated STRs need a county license, generally for a primary residence, with a 500-ft spacing rule.",
+      "subdivision": [
+        ["Splits under 35 acres need a Land Development Code subdivision (minor or major plat) or a subdivision exemption.", ["ldc"]],
+        ["Eastern Arapahoe is mostly agricultural zoning with large minimum lots, so density is limited without rezoning.", ["ldc"]]
+      ],
+      "zoning": [["West county is suburban and largely incorporated (Aurora, Centennial, Littleton); the rural east (Byers, Deer Trail, Strasburg area) is agricultural.", ["ldc"]]],
+      "str": [
+        ["STR license required in unincorporated Arapahoe (adopted May 12, 2026). Must be the owner's primary residence unless a legacy exemption applies.", ["str"]],
+        ["New STRs can't be within 500 ft of an existing licensed one; agricultural parcels qualify only at 9 acres or more.", ["str"]]
+      ]
     },
     "Archuleta": {
       "signal": "Unclear",
@@ -220,10 +247,22 @@
       "signal": "Restrictive",
       "summary": "Consolidated city and county with urban/suburban zoning. RVs and travel trailers can't be used as ADUs.",
       "planning": "https://www.broomfield.org/",
-      "sources": {"code": {"title": "Broomfield Municipal Code (Title 17 Zoning, 17-32-160(K))", "url": "https://library.municode.com/co/broomfield", "kind": "primary", "read": false}},
+      "sources": {
+        "code": {"title": "Broomfield Municipal Code (Title 17 Zoning, 17-32-160(K))", "url": "https://library.municode.com/co/broomfield", "kind": "primary", "read": false},
+        "str": {"title": "Broomfield: Short Term Rentals", "url": "https://www.broomfield.org/2857/Short-Term-Rentals", "kind": "primary", "read": false}
+      },
       "private": [["Mobile homes, travel trailers and RVs are prohibited as accessory dwelling units (17-32-160(K)).", ["code"]]],
       "commercial": [["Not researched.", []]],
-      "notes": "Hipcamp's listing policy generally excludes residential neighborhoods."
+      "notes": "Hipcamp's listing policy generally excludes residential neighborhoods.",
+      "subdivisionSignal": "Full subdivision",
+      "strSignal": "Permit",
+      "landSummary": "City and county: new lots go through Broomfield's platting process, and there's little rural land left. STRs need a license and must be the owner's principal residence; ADUs can't be STRs.",
+      "subdivision": [["Creating lots requires a subdivision plat through Broomfield Planning; there's no separate rural county process.", ["code"]]],
+      "zoning": [["Mostly urban/suburban zoning and PUDs; very little agricultural land.", ["code"]]],
+      "str": [
+        ["STR license required ($100, valid 5 years); the unit must be the owner's principal residence.", ["str"]],
+        ["Accessory dwelling units can't be used as short-term rentals.", ["str"]]
+      ]
     },
     "Chaffee": {
       "signal": "Pathway",
@@ -433,10 +472,21 @@
       "signal": "Unclear",
       "summary": "No camping-specific rule found. No county building department.",
       "planning": "https://crowleycounty.colorado.gov/",
-      "sources": {"code": {"title": "Crowley County", "url": "https://crowleycounty.colorado.gov/", "kind": "primary", "read": false}},
+      "sources": {
+        "code": {"title": "Crowley County", "url": "https://crowleycounty.colorado.gov/", "kind": "primary", "read": false},
+        "pz": {"title": "Crowley County Planning & Zoning", "url": "https://crowleycounty.colorado.gov/government-offices/planning-zoning-building-inspection", "kind": "primary", "read": false}
+      },
       "private": [["No camping-specific provision found in this pass.", []]],
       "commercial": [["Not researched.", []]],
-      "notes": ""
+      "notes": "",
+      "subdivisionSignal": "Exemption path",
+      "strSignal": "Unclear",
+      "landSummary": "Rural plains county; small splits (e.g. carving a homesite off a farm) go through a subdivision exemption heard by Planning & Zoning and decided by the BOCC. No county STR rules found.",
+      "subdivision": [
+        ["Subdivision exemption requests go to the Planning & Zoning Commission, which recommends to the BOCC (e.g. separating a home and buildings from a 130-acre parcel).", ["pz"]],
+        ["The county also has subdivision and non-farm subdivision applications; ask P&Z (719-267-5555) for the current regulations.", ["pz"]]
+      ],
+      "zoning": [["Mostly agricultural zoning; get the zone district and use table from P&Z in Ordway.", ["pz"]]]
     },
     "Custer": {
       "signal": "Unclear",
@@ -516,10 +566,19 @@
       "signal": "Restrictive",
       "summary": "Urban city and county. Camping on private property is limited by ordinance. Not a realistic Hipcamp jurisdiction.",
       "planning": "https://www.denvergov.org/Government/Agencies-Departments-Offices/Community-Planning-and-Development",
-      "sources": {"code": {"title": "Denver Revised Municipal Code (incl. Ch. 59 Zoning, Sec. 38-86.2)", "url": "https://library.municode.com/co/denver/codes/code_of_ordinances?nodeId=TITIIREMUCO_CH59ZO", "kind": "primary", "read": false}},
+      "sources": {
+        "code": {"title": "Denver Revised Municipal Code (incl. Ch. 59 Zoning, Sec. 38-86.2)", "url": "https://library.municode.com/co/denver/codes/code_of_ordinances?nodeId=TITIIREMUCO_CH59ZO", "kind": "primary", "read": false},
+        "str": {"title": "Denver: Short-Term Rental licensing", "url": "https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Business-Licensing/Business-Licenses/Short-Term-Rentals", "kind": "primary", "read": false}
+      },
       "private": [["Camping on private property without the owner's written consent, or where other city law doesn't allow it, is unlawful (D.R.M.C. 38-86.2).", ["code"]]],
       "commercial": [["Not researched.", []]],
-      "notes": ""
+      "notes": "",
+      "subdivisionSignal": "Full subdivision",
+      "strSignal": "Permit",
+      "landSummary": "Fully urban: new lots come from the city's subdivision/plat process under the Denver Zoning Code, not a rural exemption. STRs need a city license and must be the host's primary residence.",
+      "subdivision": [["Dividing a lot needs a subdivision plat (or a zone-lot amendment) under Denver's rules; minimum lot widths/areas follow the zone district.", ["code"]]],
+      "zoning": [["Denver Zoning Code form-based districts; no agricultural land suited to camping.", ["code"]]],
+      "str": [["STR license required; the unit must be the host's primary residence.", ["str"]]]
     },
     "Dolores": {
       "signal": "Unclear",
@@ -1774,10 +1833,23 @@
       "signal": "Unclear",
       "summary": "Private-land camping rule not found. Camping in public rights-of-way is banned.",
       "planning": "https://pitkincounty.com/196/Land-Use",
-      "sources": {"code": {"title": "Pitkin County Code (incl. Title 9, Land Use Code)", "url": "https://pitkincounty.com/468/County-Code", "kind": "primary", "read": false}},
+      "sources": {
+        "code": {"title": "Pitkin County Code (incl. Title 9, Land Use Code)", "url": "https://pitkincounty.com/468/County-Code", "kind": "primary", "read": false},
+        "z": {"title": "Pitkin County Land Use Code, Ch. 3 Zone Districts", "url": "https://www.pitkincounty.com/DocumentCenter/View/1798/Pitkin-County-Zone-Districts-PDF", "kind": "primary", "read": false},
+        "gmqs": {"title": "Pitkin County Land Use Code, Ch. 6 Growth Management (GMQS)", "url": "https://pitkincounty.com/DocumentCenter/View/3469/chapter-06", "kind": "primary", "read": false}
+      },
       "private": [["Title 9 bans camping and overnight occupancy in public rights-of-way. No private-property rule found in this pass.", ["code"]]],
       "commercial": [["Not researched.", []]],
-      "notes": "Home-rule county. The Town of Pitkin is in Gunnison County."
+      "notes": "Home-rule county. The Town of Pitkin is in Gunnison County.",
+      "subdivisionSignal": "Restrictive",
+      "strSignal": "Permit",
+      "landSummary": "Very restrictive: rural zones are RS-35 and Rural/Remote (35-acre minimums, 1,000 sq ft cabins in R/R), and new lots and homes also need growth-management (GMQS) allotments. The county requires an STR permit.",
+      "subdivision": [
+        ["Rural zones have 35-acre minimums (RS-35, Rural/Remote); R/R cabins are capped at 1,000 sq ft.", ["z"]],
+        ["New lots and dwellings are subject to the Growth Management Quota System; limited exemptions exist (e.g. some pre-2000 35-acre parcels in the Crystal River and Frying Pan areas).", ["gmqs"]]
+      ],
+      "zoning": [["RS-35 allows only very low-impact resource or residential uses; a 'Country Inn' (5-10 guest rooms) needs 35+ acres outside an urban growth boundary.", ["z"]]],
+      "str": [["Pitkin County requires a short-term rental permit for unincorporated rentals; confirm the current rules with Community Development.", []]]
     },
     "Prowers": {
       "signal": "Unclear",
@@ -2038,7 +2110,9 @@
       "sources": {
         "faq": {"title": "San Miguel County FAQ: Camping on Private Property", "url": "https://www.sanmiguelcountyco.gov/FAQ.aspx?QID=361", "kind": "primary", "read": true},
         "luc": {"title": "San Miguel County Land Use Code (Sec. 5-714, 5-1008, 5-1009)", "url": "https://www.sanmiguelcountyco.gov/243/Land-Use-Code", "kind": "primary", "read": false},
-        "cp": {"title": "Citizen Portal: new rules for private camping and campgrounds", "url": "https://citizenportal.ai/articles/6675097/colorado/san-miguel-county/county-adopts-new-rules-for-private-camping-and-campgrounds-after-split-vote", "kind": "secondary", "read": false}
+        "cp": {"title": "Citizen Portal: new rules for private camping and campgrounds", "url": "https://citizenportal.ai/articles/6675097/colorado/san-miguel-county/county-adopts-new-rules-for-private-camping-and-campgrounds-after-split-vote", "kind": "secondary", "read": false},
+        "strstd": {"title": "San Miguel County Land Use Code: Standards for Short-Term Rentals", "url": "https://sanmiguelcountyco.gov/DocumentCenter/View/190/Land-Use-Code-Standards-for-Short-Term-Rentals-PDF", "kind": "primary", "read": false},
+        "proc": {"title": "San Miguel County Land Use Code, Article 3 Procedures", "url": "https://sanmiguelcountyco.gov/DocumentCenter/View/212/Article-3---Procedures-Updated-1121-PDF", "kind": "primary", "read": false}
       },
       "private": [
         ["Non-commercial tents/RVs may be used by the landowner or guests for recreation or vacation (LUC 5-714). Beyond 14 days in a calendar quarter, only one RV or temporary shelter per property at a time.", ["faq"]],
@@ -2048,7 +2122,16 @@
         ["'The rental of accessory structures, recreational vehicles, camping spaces, and other spaces not located in the primary dwelling unit is not allowed as a Short-Term Rental.'", ["faq"]],
         ["Separate standards for RV parks, trailer parks, commercial campgrounds and semi-primitive campgrounds (5-1008, 5-1009), adopted on a split vote.", ["luc", "cp"]]
       ],
-      "notes": ""
+      "notes": "",
+      "subdivisionSignal": "Restrictive",
+      "strSignal": "Permit",
+      "landSummary": "Splits into parcels over 35 acres skip county review; anything smaller needs full subdivision review, and mountain zoning keeps densities low. STRs need a county permit, except in the West End zone (taxes still apply).",
+      "subdivision": [["Dividing land into parcels larger than 35 acres is exempt from county subdivision review; smaller lots go through Land Use Code subdivision procedures.", ["proc"]]],
+      "zoning": [["Telluride-area zones are low-density; the West End (Norwood/Naturita side) is more rural and less regulated.", ["luc"]]],
+      "str": [
+        ["A permit is required to rent a home, condo or duplex for under 30 days.", ["strstd"]],
+        ["No STR permit is needed in the West End (WE) zone district, but taxes must still be collected.", ["strstd"]]
+      ]
     },
     "Sedgwick": {
       "signal": "Unclear",
@@ -2085,10 +2168,23 @@
       "signal": "Unclear",
       "summary": "Private-land camping rule not found.",
       "planning": "https://www.summitcountyco.gov/services/community_development/planning/",
-      "sources": {"ludc": {"title": "Summit County Land Use and Development Code", "url": "https://www.summitcountyco.gov/services/community_development/planning/development_regulations/land_use_development_code.php", "kind": "primary", "read": false}},
+      "sources": {
+        "ludc": {"title": "Summit County Land Use and Development Code", "url": "https://www.summitcountyco.gov/services/community_development/planning/development_regulations/land_use_development_code.php", "kind": "primary", "read": false},
+        "strl": {"title": "Summit County: Short-Term Rental License Application", "url": "https://www.summitcountyco.gov/services/community_development/short_term_rentals/license_applications.php", "kind": "primary", "read": false},
+        "sold": {"title": "Sold in Summit: Unincorporated Summit County STR rules (2026)", "url": "https://www.soldinsummit.com/summit-county-short-term-rental-regulations/unincorporated-summit-county-str-rules/", "kind": "secondary", "read": false}
+      },
       "private": [["Not found in this pass. (County open space rules cover public land only.)", []]],
       "commercial": [["Not researched.", ["ludc"]]],
-      "notes": "Planning: 970-668-4200."
+      "notes": "Planning: 970-668-4200.",
+      "subdivisionSignal": "Restrictive",
+      "strSignal": "Limited",
+      "landSummary": "Little private rural land, and new lots need subdivision review under the Land Use and Development Code with backcountry/A-1 zones kept at low density. STR licenses are capped and full outside the Resort Overlay, so a new rural STR is unlikely.",
+      "subdivision": [["Creating lots needs subdivision review under the LUDC; most private rural land is in large-lot zones (e.g. A-1, Backcountry), so small splits generally need rezoning or a PUD.", ["ludc"]]],
+      "zoning": [["Most of the county is National Forest; private land is concentrated around the towns and resorts.", ["ludc"]]],
+      "str": [
+        ["County STR license required. Neighborhood Overlay caps by basin (Lower Blue 550, Upper Blue 590, Snake River 130, Ten Mile 20) are full with waitlists, and rentals are limited to 35 bookings/year.", ["strl", "sold"]],
+        ["No cap in the Resort Overlay zone (Copper Mountain, Tiger Run, etc.).", ["sold"]]
+      ]
     },
     "Teller": {
       "signal": "Unclear",
@@ -2208,7 +2304,9 @@
       "signal": "Unclear",
       "summary": "The 2024 Land Use Code regulates RV storage and use in residential districts. Details not confirmed.",
       "planning": "https://yumacounty.net/departments/land-use/",
-      "sources": {"luc": {"title": "Yuma County Land Use Code (2024)", "url": "https://yumacounty.net/wp-content/uploads/2025/10/2024-Yuma-County-Land-Use-Code.pdf", "kind": "primary", "read": true, "section": "Secs. 2-102, 2-103, 3-102, Art. 5 Lot Size, Definitions"}},
+      "sources": {
+        "luc": {"title": "Yuma County Land Use Code (2024)", "url": "https://yumacounty.net/wp-content/uploads/2025/10/2024-Yuma-County-Land-Use-Code.pdf", "kind": "primary", "read": true, "section": "Secs. 2-102, 2-103, 3-102, Art. 5 Lot Size, Definitions"}
+      },
       "private": [["The code regulates storage, parking and use of RVs and campers in residential districts. Details not confirmed.", ["luc"]]],
       "commercial": [["Not researched.", []]],
       "notes": "No county building department. Watch for Yuma County, Arizona results when searching.",

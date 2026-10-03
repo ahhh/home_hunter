@@ -9,11 +9,11 @@
 | County seat | Brighton |
 | Region | Front Range |
 | Hipcamp signal | **Unclear**: No specific camping provision found yet |
-| Splitting land | **Unclear**: Not researched, or the rules weren't found online |
-| Cabin short-term rentals | **Unclear**: Not researched, or the rules weren't found online |
+| Splitting land | **Exemption path**: A lighter split process (exemption, minor subdivision, lot split) exists below 35 acres |
+| Cabin short-term rentals | **Allowed**: No STR rules found; renting a permitted dwelling is treated as a residential use |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
 | Evidence | Needs confirmation: from official pages and search summaries; code text not read |
-| Date checked | 2026-09-29 (camping) |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
@@ -22,9 +22,10 @@
 
 ## Splitting land (subdivision)
 
-> Research unfinished: this county wasn't covered in the October 2026 pass.
+> Small splits go through a BOCC Subdivision Exemption or a Minor Subdivision under the Development Standards. Unincorporated Adams has no county STR license, though most of the county is inside cities that do.
 
-- Research unfinished: this county wasn't covered in the October 2026 pass. Ask Planning how a parcel can be split.
+- A Subdivision Exemption (release from platting by BOCC resolution) is available for limited splits; a Minor Subdivision plat is the other small-split route. — [[3]](https://adamscountyco.gov/wp-content/uploads/2025/08/subdivision-exemption.pdf) *(needs confirmation)*
+- Lot sizes follow the zone district (e.g. agricultural A-1/A-2/A-3 zones); confirm the minimum with Current Planning. — [[1]](https://adamscounty.municipalcodeonline.com/book?type=temp) *(needs confirmation)*
 
 > State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
 > review or an exemption, and wells on them are usually limited to in-house use. See
@@ -32,7 +33,7 @@
 
 ## Zoning basics
 
-- Research unfinished: this county wasn't covered in the October 2026 pass. Get the zone district and its use table from Planning.
+- Rural east county is mostly agricultural zoning; the west is suburban and largely inside cities (Thornton, Brighton, Commerce City, Westminster). — [[1]](https://adamscounty.municipalcodeonline.com/book?type=temp) *(needs confirmation)*
 
 ## Private (non-commercial) camping
 
@@ -53,7 +54,7 @@
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- No county STR license or permit in unincorporated Adams as of 2026; check the city's rules inside town limits. — [[4]](https://www.bnbcalc.com/blog/short-term-rental-regulation/adams-county-colorado-guide) *(needs confirmation)*
 - A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
@@ -123,6 +124,8 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 
 1. [Adams County Development Standards and Regulations](https://adamscounty.municipalcodeonline.com/book?type=temp) — primary, not read in full
 2. [Official Code Interpretations (Jul 2024)](https://adamscountyco.gov/wp-content/uploads/2025/08/Official-Code-Interpretations_July-2024.pdf) — primary, not read in full
+3. [Adams County: Subdivision Exemption checklist](https://adamscountyco.gov/wp-content/uploads/2025/08/subdivision-exemption.pdf) — primary, not read in full
+4. [BNBCalc: Adams County STR guide (2026)](https://www.bnbcalc.com/blog/short-term-rental-regulation/adams-county-colorado-guide) — **secondary**, not read in full
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

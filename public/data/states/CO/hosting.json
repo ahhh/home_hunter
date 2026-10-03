@@ -22,6 +22,11 @@
           "title": "Official Code Interpretations (Jul 2024)",
           "url": "https://adamscountyco.gov/wp-content/uploads/2025/08/Official-Code-Interpretations_July-2024.pdf",
           "read": false
+        },
+        {
+          "title": "Adams County: Subdivision Exemption checklist",
+          "url": "https://adamscountyco.gov/wp-content/uploads/2025/08/subdivision-exemption.pdf",
+          "read": false
         }
       ],
       "incentives": {
@@ -105,9 +110,9 @@
         ]
       },
       "land": {
-        "subdivisionSignal": "Unclear",
-        "strSignal": "Unclear",
-        "summary": "Research unfinished: this county wasn't covered in the October 2026 pass."
+        "subdivisionSignal": "Exemption path",
+        "strSignal": "Allowed",
+        "summary": "Small splits go through a BOCC Subdivision Exemption or a Minor Subdivision under the Development Standards. Unincorporated Adams has no county STR license, though most of the county is inside cities that do."
       }
     },
     {
@@ -173,6 +178,16 @@
           "title": "Arapahoe County Land Development Code",
           "url": "https://files.arapahoeco.gov/Public%20Works_Development/zoning/Land%20Development%20Code/LandDevelopmentCodeRev12102024.pdf",
           "read": false
+        },
+        {
+          "title": "Arapahoe County Land Development Code (Mar 2026)",
+          "url": "https://files.arapahoeco.gov/Public%20Works_Development/zoning/Land%20Development%20Code/LandDevelopmentCodeRev12102024.pdf",
+          "read": false
+        },
+        {
+          "title": "Arapahoe County: Short-Term Rental Regulations and Application",
+          "url": "https://arapahoeco.gov/your_county/county_departments/public_works_and_development/short-term_rental_regulations_and_application.php",
+          "read": false
         }
       ],
       "incentives": {
@@ -221,9 +236,9 @@
         ]
       },
       "land": {
-        "subdivisionSignal": "Unclear",
-        "strSignal": "Unclear",
-        "summary": "Research unfinished: this county wasn't covered in the October 2026 pass."
+        "subdivisionSignal": "Exemption path",
+        "strSignal": "Permit",
+        "summary": "The east plains are agricultural (A-1 is 19+ acres); small splits need a subdivision exemption or plat under the Land Development Code. Since May 2026 unincorporated STRs need a county license, generally for a primary residence, with a 500-ft spacing rule."
       }
     },
     {
@@ -399,6 +414,11 @@
           "title": "Broomfield Municipal Code (Title 17 Zoning, 17-32-160(K))",
           "url": "https://library.municode.com/co/broomfield",
           "read": false
+        },
+        {
+          "title": "Broomfield: Short Term Rentals",
+          "url": "https://www.broomfield.org/2857/Short-Term-Rentals",
+          "read": false
         }
       ],
       "incentives": {
@@ -411,9 +431,9 @@
         "oz2Tracts": []
       },
       "land": {
-        "subdivisionSignal": "Unclear",
-        "strSignal": "Unclear",
-        "summary": "Research unfinished: this county wasn't covered in the October 2026 pass."
+        "subdivisionSignal": "Full subdivision",
+        "strSignal": "Permit",
+        "summary": "City and county: new lots go through Broomfield's platting process, and there's little rural land left. STRs need a license and must be the owner's principal residence; ADUs can't be STRs."
       }
     },
     {
@@ -631,6 +651,11 @@
           "title": "Crowley County",
           "url": "https://crowleycounty.colorado.gov/",
           "read": false
+        },
+        {
+          "title": "Crowley County Planning & Zoning",
+          "url": "https://crowleycounty.colorado.gov/government-offices/planning-zoning-building-inspection",
+          "read": false
         }
       ],
       "incentives": {
@@ -643,9 +668,9 @@
         "oz2Tracts": []
       },
       "land": {
-        "subdivisionSignal": "Unclear",
+        "subdivisionSignal": "Exemption path",
         "strSignal": "Unclear",
-        "summary": "Research unfinished: this county wasn't covered in the October 2026 pass."
+        "summary": "Rural plains county; small splits (e.g. carving a homesite off a farm) go through a subdivision exemption heard by Planning & Zoning and decided by the BOCC. No county STR rules found."
       }
     },
     {
@@ -746,6 +771,11 @@
           "title": "Denver Revised Municipal Code (incl. Ch. 59 Zoning, Sec. 38-86.2)",
           "url": "https://library.municode.com/co/denver/codes/code_of_ordinances?nodeId=TITIIREMUCO_CH59ZO",
           "read": false
+        },
+        {
+          "title": "Denver: Short-Term Rental licensing",
+          "url": "https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Business-Licensing/Business-Licenses/Short-Term-Rentals",
+          "read": false
         }
       ],
       "incentives": {
@@ -824,9 +854,9 @@
         ]
       },
       "land": {
-        "subdivisionSignal": "Unclear",
-        "strSignal": "Unclear",
-        "summary": "Research unfinished: this county wasn't covered in the October 2026 pass."
+        "subdivisionSignal": "Full subdivision",
+        "strSignal": "Permit",
+        "summary": "Fully urban: new lots come from the city's subdivision/plat process under the Denver Zoning Code, not a rural exemption. STRs need a city license and must be the host's primary residence."
       }
     },
     {
@@ -2331,6 +2361,16 @@
           "title": "Pitkin County Code (incl. Title 9, Land Use Code)",
           "url": "https://pitkincounty.com/468/County-Code",
           "read": false
+        },
+        {
+          "title": "Pitkin County Land Use Code, Ch. 3 Zone Districts",
+          "url": "https://www.pitkincounty.com/DocumentCenter/View/1798/Pitkin-County-Zone-Districts-PDF",
+          "read": false
+        },
+        {
+          "title": "Pitkin County Land Use Code, Ch. 6 Growth Management (GMQS)",
+          "url": "https://pitkincounty.com/DocumentCenter/View/3469/chapter-06",
+          "read": false
         }
       ],
       "incentives": {
@@ -2343,9 +2383,9 @@
         "oz2Tracts": []
       },
       "land": {
-        "subdivisionSignal": "Unclear",
-        "strSignal": "Unclear",
-        "summary": "Research unfinished: this county wasn't covered in the October 2026 pass."
+        "subdivisionSignal": "Restrictive",
+        "strSignal": "Permit",
+        "summary": "Very restrictive: rural zones are RS-35 and Rural/Remote (35-acre minimums, 1,000 sq ft cabins in R/R), and new lots and homes also need growth-management (GMQS) allotments. The county requires an STR permit."
       }
     },
     {
@@ -2685,6 +2725,11 @@
           "title": "San Miguel County Land Use Code (Sec. 5-714, 5-1008, 5-1009)",
           "url": "https://www.sanmiguelcountyco.gov/243/Land-Use-Code",
           "read": false
+        },
+        {
+          "title": "San Miguel County Land Use Code: Standards for Short-Term Rentals",
+          "url": "https://sanmiguelcountyco.gov/DocumentCenter/View/190/Land-Use-Code-Standards-for-Short-Term-Rentals-PDF",
+          "read": false
         }
       ],
       "incentives": {
@@ -2703,9 +2748,9 @@
         ]
       },
       "land": {
-        "subdivisionSignal": "Unclear",
-        "strSignal": "Unclear",
-        "summary": "Research unfinished: this county wasn't covered in the October 2026 pass."
+        "subdivisionSignal": "Restrictive",
+        "strSignal": "Permit",
+        "summary": "Splits into parcels over 35 acres skip county review; anything smaller needs full subdivision review, and mountain zoning keeps densities low. STRs need a county permit, except in the West End zone (taxes still apply)."
       }
     },
     {
@@ -2761,6 +2806,11 @@
           "title": "Summit County Land Use and Development Code",
           "url": "https://www.summitcountyco.gov/services/community_development/planning/development_regulations/land_use_development_code.php",
           "read": false
+        },
+        {
+          "title": "Summit County: Short-Term Rental License Application",
+          "url": "https://www.summitcountyco.gov/services/community_development/short_term_rentals/license_applications.php",
+          "read": false
         }
       ],
       "incentives": {
@@ -2773,9 +2823,9 @@
         "oz2Tracts": []
       },
       "land": {
-        "subdivisionSignal": "Unclear",
-        "strSignal": "Unclear",
-        "summary": "Research unfinished: this county wasn't covered in the October 2026 pass."
+        "subdivisionSignal": "Restrictive",
+        "strSignal": "Limited",
+        "summary": "Little private rural land, and new lots need subdivision review under the Land Use and Development Code with backcountry/A-1 zones kept at low density. STR licenses are capped and full outside the Resort Overlay, so a new rural STR is unlikely."
       }
     },
     {
