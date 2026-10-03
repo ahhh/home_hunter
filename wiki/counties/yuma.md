@@ -9,18 +9,42 @@
 | County seat | Wray |
 | Region | Eastern Plains |
 | Hipcamp signal | **Unclear**: No specific camping provision found yet |
+| Splitting land | **Exemption path**: A lighter split process (exemption, minor subdivision, lot split) exists below 35 acres |
+| Cabin short-term rentals | **Unclear**: Not researched, or the rules weren't found online |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
-| Evidence | Needs confirmation: from official pages and search summaries; code text not read |
-| Date checked | 2026-09-29 |
+| Evidence | Verified: every sourced claim was read in a primary source |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://yumacounty.net/departments/land-use/>
 
+## Splitting land (subdivision)
+
+> Splits of 35+ acres are free, and the county has its own exemption for up to 20 smaller lots through a Minor or Major permit, subject to water and the 2.5-acre septic floor. There are no short-term rental rules, but purpose-built rental cabins likely need a Major Land Use Permit.
+
+- Dividing land into parcels of 35 acres or more needs no Land Use Permit or subdivision plat (Sec. 2-102.E, 3-102.A). Roads, utilities and commercial uses on those parcels still need permits. — [[1]](https://yumacounty.net/wp-content/uploads/2025/10/2024-Yuma-County-Land-Use-Code.pdf) *(verified)*
+- The county exempts from subdivision any division into 20 or fewer lots so they can get small-capacity well permits. Four or fewer lots need a Minor Land Use Permit, and 5 to 20 lots need a Major Land Use Permit (Sec. 3-102.B.1). — [[1]](https://yumacounty.net/wp-content/uploads/2025/10/2024-Yuma-County-Land-Use-Code.pdf) *(verified)*
+- Approving an exempt division is not a finding that the State Engineer will issue a well permit or that water is available. — [[1]](https://yumacounty.net/wp-content/uploads/2025/10/2024-Yuma-County-Land-Use-Code.pdf) *(verified)*
+- Rural Land Use Cluster Developments under C.R.S. 30-28-401 are exempt and need a Minor Land Use Permit (Sec. 3-102.B.2). — [[1]](https://yumacounty.net/wp-content/uploads/2025/10/2024-Yuma-County-Land-Use-Code.pdf) *(verified)*
+- A land use change can't be approved on a lot smaller than 2.5 acres without public sewer or a showing to Northeast Health that septic will work (Art. 5, Lot Size). — [[1]](https://yumacounty.net/wp-content/uploads/2025/10/2024-Yuma-County-Land-Use-Code.pdf) *(verified)*
+- Lot line adjustments and lot mergers need only an Administrative Land Use Permit (Sec. 2-103.A). — [[1]](https://yumacounty.net/wp-content/uploads/2025/10/2024-Yuma-County-Land-Use-Code.pdf) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- The county has no conventional zoning districts. The 2024 code is permit-based, with Administrative, Minor and Major Land Use Permits. — [[1]](https://yumacounty.net/wp-content/uploads/2025/10/2024-Yuma-County-Land-Use-Code.pdf) *(verified)*
+- One single-family home and its accessory uses on a lot needs no Land Use Permit, only an Activity Notice (Sec. 2-102.A). — [[1]](https://yumacounty.net/wp-content/uploads/2025/10/2024-Yuma-County-Land-Use-Code.pdf) *(verified)*
+- A second or third home on a parcel of 35 acres or more needs an Administrative Land Use Permit (Sec. 2-103.A.1). Extra homes on smaller parcels fall to a Major permit by default. — [[1]](https://yumacounty.net/wp-content/uploads/2025/10/2024-Yuma-County-Land-Use-Code.pdf) *(verified)*
+- The code's definition of single-family dwelling excludes seasonal vacation cabins and other structures built mainly for temporary occupancy. — [[1]](https://yumacounty.net/wp-content/uploads/2025/10/2024-Yuma-County-Land-Use-Code.pdf) *(verified)*
+
 ## Private (non-commercial) camping
 
-- The code regulates storage, parking and use of RVs and campers in residential districts. Details not confirmed. — [[1]](https://yumacounty.net/wp-content/uploads/2025/10/2024-Yuma-County-Land-Use-Code.pdf) *(needs confirmation)*
+- The code regulates storage, parking and use of RVs and campers in residential districts. Details not confirmed. — [[1]](https://yumacounty.net/wp-content/uploads/2025/10/2024-Yuma-County-Land-Use-Code.pdf) *(verified)*
 
 ## Paid camping / campground pathway
 
@@ -37,7 +61,11 @@
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- The Land Use Code has no short-term or vacation rental rules. — [[1]](https://yumacounty.net/wp-content/uploads/2025/10/2024-Yuma-County-Land-Use-Code.pdf) *(verified)*
+- Renting a permitted home short-term isn't addressed. Ask Land Use whether it counts as a commercial activity. — *lead only, no source yet*
+- Seasonal vacation cabins aren't single-family dwellings under the code, so a cabin built as a rental would probably need a Major Land Use Permit (any change not listed falls there, Sec. 2-103.C). — [[1]](https://yumacounty.net/wp-content/uploads/2025/10/2024-Yuma-County-Land-Use-Code.pdf) *(verified)*
+- A Commercial Activity Notice is required for any building or significant change of use on commercial property. — [[1]](https://yumacounty.net/wp-content/uploads/2025/10/2024-Yuma-County-Land-Use-Code.pdf) *(verified)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -83,7 +111,7 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 
 ## Sources
 
-1. [Yuma County Land Use Code (2024)](https://yumacounty.net/wp-content/uploads/2025/10/2024-Yuma-County-Land-Use-Code.pdf) — primary, not read in full
+1. [Yuma County Land Use Code (2024)](https://yumacounty.net/wp-content/uploads/2025/10/2024-Yuma-County-Land-Use-Code.pdf) — primary, read, Secs. 2-102, 2-103, 3-102, Art. 5 Lot Size, Definitions
 2. [Division of Housing: jurisdictions without building departments](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) — primary, read
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"

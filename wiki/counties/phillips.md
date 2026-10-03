@@ -9,14 +9,37 @@
 | County seat | Holyoke |
 | Region | Eastern Plains |
 | Hipcamp signal | **Unclear**: No specific camping provision found yet |
+| Splitting land | **Exemption path**: A lighter split process (exemption, minor subdivision, lot split) exists below 35 acres |
+| Cabin short-term rentals | **Unclear**: Not researched, or the rules weren't found online |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
-| Evidence | Needs confirmation: from official pages and search summaries; code text not read |
-| Date checked | 2026-09-29 |
+| Evidence | Partly verified: some claims read in primary sources; the rest need confirmation |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://phillipscounty.colorado.gov/planning-zoning>
+
+## Splitting land (subdivision)
+
+> Yes, you can split: the Board can approve up to four lots of 2.5 to 35 acres through a fairly simple exemption plat with a hearing, and 35-acre splits are free. There are no short-term rental rules, but purpose-built rental cabins would likely need a Major permit.
+
+- Dividing land into parcels of 35 acres or more needs no county subdivision plat (Sec. 10-102.B). — [[2]](https://phillipscounty.colorado.gov/sites/g/files/lrnvjt1351/files/Phillips%20County%20Land%20Use%20Code_Amended.04.30.2025.pdf) *(verified)*
+- A Subdivision Exemption Plat can create four or fewer lots served by wells, each between 2.5 and 35 acres. Lots can be smaller only with municipal water or sewer (Sec. 10-105). — [[2]](https://phillipscounty.colorado.gov/sites/g/files/lrnvjt1351/files/Phillips%20County%20Land%20Use%20Code_Amended.04.30.2025.pdf), [[3]](https://phillipscounty.colorado.gov/sites/g/files/lrnvjt1351/files/Subdivision%20Exemption%20Application_Rev.07.02.25_0.pdf) *(verified)*
+- Exemption lots need legal and emergency access, adequate water under C.R.S. 30-28-133, and a public hearing before the Board after notice to owners within 500 feet. The application fee is $80 plus recording. — [[2]](https://phillipscounty.colorado.gov/sites/g/files/lrnvjt1351/files/Phillips%20County%20Land%20Use%20Code_Amended.04.30.2025.pdf), [[3]](https://phillipscounty.colorado.gov/sites/g/files/lrnvjt1351/files/Subdivision%20Exemption%20Application_Rev.07.02.25_0.pdf) *(verified)*
+- Cluster subdivisions and full subdivisions with a preliminary plan and final plat are also available. — [[2]](https://phillipscounty.colorado.gov/sites/g/files/lrnvjt1351/files/Phillips%20County%20Land%20Use%20Code_Amended.04.30.2025.pdf) *(verified)*
+- A land use change can't be approved on a lot under 2.5 acres without public sewer or health-department approval of septic (Sec. 4-103.B). — [[2]](https://phillipscounty.colorado.gov/sites/g/files/lrnvjt1351/files/Phillips%20County%20Land%20Use%20Code_Amended.04.30.2025.pdf) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- The county has no conventional zoning districts. Land use changes need an Administrative, Minor or Major Land Use Change Permit. — [[2]](https://phillipscounty.colorado.gov/sites/g/files/lrnvjt1351/files/Phillips%20County%20Land%20Use%20Code_Amended.04.30.2025.pdf) *(verified)*
+- One single-family home with accessory uses needs no Land Use Change Permit, only a building permit and the site standards (Sec. 2-102.A). — [[2]](https://phillipscounty.colorado.gov/sites/g/files/lrnvjt1351/files/Phillips%20County%20Land%20Use%20Code_Amended.04.30.2025.pdf) *(verified)*
+- A second or third home on a parcel of 35 acres or more needs an Administrative permit (Sec. 2-103.A.1). On smaller parcels, extra homes default to a Major permit. — [[2]](https://phillipscounty.colorado.gov/sites/g/files/lrnvjt1351/files/Phillips%20County%20Land%20Use%20Code_Amended.04.30.2025.pdf) *(verified)*
+- The code's definition of single-family dwelling excludes seasonal vacation cabins and structures built mainly for temporary occupancy. — [[2]](https://phillipscounty.colorado.gov/sites/g/files/lrnvjt1351/files/Phillips%20County%20Land%20Use%20Code_Amended.04.30.2025.pdf) *(verified)*
 
 ## Private (non-commercial) camping
 
@@ -33,11 +56,14 @@
 ## RVs, tiny homes & structures
 
 - Not confirmed. Most Colorado counties treat RVs as temporary/recreational, not dwellings. See [Structures, Tiny Homes & RVs](../09-structures-tiny-homes-rvs.md).
-- **No building department.** DOH inspects foundations for manufactured, tiny and factory-built homes. State electrical and plumbing permits still apply. — [[2]](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) *(verified)*
+- **No building department.** DOH inspects foundations for manufactured, tiny and factory-built homes. State electrical and plumbing permits still apply. — [[4]](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) *(verified)*
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- The Land Use Code (amended Apr 2025) has no short-term or vacation rental rules. — [[2]](https://phillipscounty.colorado.gov/sites/g/files/lrnvjt1351/files/Phillips%20County%20Land%20Use%20Code_Amended.04.30.2025.pdf) *(verified)*
+- Renting an existing permitted home short-term isn't addressed. Ask Planning whether it counts as a land use change. — *lead only, no source yet*
+- Rental cabins or several units on one parcel aren't a listed use, so they would fall to a Major Land Use Change Permit (Sec. 2-103.C). — [[2]](https://phillipscounty.colorado.gov/sites/g/files/lrnvjt1351/files/Phillips%20County%20Land%20Use%20Code_Amended.04.30.2025.pdf) *(verified)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -84,7 +110,9 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 ## Sources
 
 1. [Phillips County Land Use Code (adopted Jun 30, 2023)](https://phillipscounty.colorado.gov/sites/phillipscounty/files/Final%20Phillips%20County%20Land%20Use%20Code_Adopted.06.30.2023.pdf) — primary, not read in full
-2. [Division of Housing: jurisdictions without building departments](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) — primary, read
+2. [Phillips County Land Use Code (amended Apr 30, 2025)](https://phillipscounty.colorado.gov/sites/g/files/lrnvjt1351/files/Phillips%20County%20Land%20Use%20Code_Amended.04.30.2025.pdf) — primary, read, Secs. 2-102, 2-103, 4-103, 10-102, 10-105, definitions
+3. [Phillips County Subdivision Exemption Application (rev. Jul 2, 2025)](https://phillipscounty.colorado.gov/sites/g/files/lrnvjt1351/files/Subdivision%20Exemption%20Application_Rev.07.02.25_0.pdf) — primary, read
+4. [Division of Housing: jurisdictions without building departments](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) — primary, read
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

@@ -9,18 +9,42 @@
 | County seat | Gunnison |
 | Region | Central Mountains |
 | Hipcamp signal | **Unclear**: No specific camping provision found yet |
+| Splitting land | **Full subdivision**: Any split below 35 acres goes through full subdivision review |
+| Cabin short-term rentals | **Allowed**: No STR rules found; renting a permitted dwelling is treated as a residential use |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
 | Evidence | Partly verified: some claims read in primary sources; the rest need confirmation |
-| Date checked | 2026-09-29 |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://www.gunnisoncounty.org/144/Community-and-Economic-Development>
 
+## Splitting land (subdivision)
+
+> There's no zoning, but anything below 35 acres goes through Minor/Major Impact subdivision review that favors land near towns and lots matching neighbors. A cabin can be an Airbnb with no cap or owner-occupancy rule (a light license program was planned for mid-2026), and a detached secondary residence gets administrative review.
+
+- Gunnison County has no zoning districts. Every land use change needs a Land Use Change Permit under the Land Use Resolution, but dividing land into parcels all 35+ acres needs no permit. — [[2]](https://gunnisoncounty.org/DocumentCenter/View/3157) *(verified)*
+- The default minimum lot size is 35 acres unless a smaller size is approved through a Land Use Change Permit (i.e. a subdivision review). — [[2]](https://gunnisoncounty.org/DocumentCenter/View/3157) *(verified)*
+- A split into 2-4 lots is a Minor Impact Project (public review); more than four lots is a Major Impact Project (sketch, preliminary, final plan). — [[2]](https://gunnisoncounty.org/DocumentCenter/View/3157) *(verified)*
+- New subdivisions should be near Almont, Crested Butte South or the towns, or within a municipal three-mile plan area; otherwise the BOCC must find no significant net adverse impact. Lots must be similar in size to neighboring parcels unless on public sewer, and never under 1 acre without central sewer. — [[2]](https://gunnisoncounty.org/DocumentCenter/View/3157) *(verified)*
+- A parcel in agricultural operation may split off one new lot without meeting the locational and density standards, once per parcel every five years. — [[2]](https://gunnisoncounty.org/DocumentCenter/View/3157) *(verified)*
+- Bottom line: possible with review, but below 35 acres expect a public-hearing process and lot sizes matched to the neighborhood. — [[2]](https://gunnisoncounty.org/DocumentCenter/View/3157) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- There are no zone districts; uses are reviewed case by case against performance standards (wildlife, visual, hazards, septic). — [[2]](https://gunnisoncounty.org/DocumentCenter/View/3157) *(verified)*
+- Each legal lot has a right to one residence (Sec. 1-107). An integrated secondary unit up to 1,200 sq ft is allowed with the house's building permit. — [[2]](https://gunnisoncounty.org/DocumentCenter/View/3157) *(verified)*
+- One detached secondary residence (or a sleeping-only cabin without a kitchen) gets administrative review. It must be smaller than the main house, nearby, and share its well and septic where feasible. — [[2]](https://gunnisoncounty.org/DocumentCenter/View/3157) *(verified)*
+- More than one secondary residence on a lot is a Minor Impact Project. — [[2]](https://gunnisoncounty.org/DocumentCenter/View/3157) *(verified)*
+
 ## Private (non-commercial) camping
 
-- A Long-Term Camping Permit is required for a camping shelter used more than 14 days in a consecutive 3-month period (LUR Sec. 9-509). — [[1]](https://gunnisoncounty.org/DocumentCenter/View/2095/Long-Term-Camping-Permit-PDF), [[2]](https://gunnisoncounty.org/DocumentCenter/View/3157) *(needs confirmation)*
+- A Long-Term Camping Permit is required for a camping shelter used more than 14 days in a consecutive 3-month period (LUR Sec. 9-509). — [[1]](https://gunnisoncounty.org/DocumentCenter/View/2095/Long-Term-Camping-Permit-PDF), [[2]](https://gunnisoncounty.org/DocumentCenter/View/3157) *(verified)*
 - The application requires adjacent landowners, a trash plan, a sewage plan approved by Environmental Health, and Gunnison sage-grouse habitat review. — [[1]](https://gunnisoncounty.org/DocumentCenter/View/2095/Long-Term-Camping-Permit-PDF) *(verified)*
 
 ## Paid camping / campground pathway
@@ -38,7 +62,11 @@
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- The Land Use Resolution (amended March 5, 2026) has no short-term rental rules, so renting a permitted dwelling short-term isn't separately regulated by land use. — [[2]](https://gunnisoncounty.org/DocumentCenter/View/3157) *(verified)*
+- The county was drafting a simple STR license (planning work session Feb 5, 2026; reported $150 for 3 years, targeted for June/July 2026) with no cap, no owner-occupancy rule, and a focus on tax tracking. Check whether it has been adopted. — [[3]](https://gunnisoncounty.org/ArchiveCenter/ViewFile/Item/9803), [[4]](https://crestedbuttenews.com/2026/01/county-prepares-for-short-term-licensing/) *(needs confirmation)*
+- STRs must collect state sales tax and the 4% Gunnison County Local Marketing District lodging tax. Unincorporated areas around Crested Butte may also have HOA rules. — [[5]](https://gunnisoncounty.org/838/Short-term-Rentals) *(verified)*
+- Several rental cabins as a business would be a 'Dude Ranch or Resort' (Sec. 9-303), which needs a Land Use Change Permit; cabins can't be used for long-term rentals. — [[2]](https://gunnisoncounty.org/DocumentCenter/View/3157) *(verified)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -93,7 +121,10 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 ## Sources
 
 1. [Gunnison County Long-Term Camping Permit Application (Jan 2024)](https://gunnisoncounty.org/DocumentCenter/View/2095/Long-Term-Camping-Permit-PDF) — primary, read
-2. [Gunnison County Land Use Resolution (amended Mar 5, 2026)](https://gunnisoncounty.org/DocumentCenter/View/3157) — primary, not read in full, Sec. 9-509
+2. [Gunnison County Land Use Resolution (amended Mar 5, 2026)](https://gunnisoncounty.org/DocumentCenter/View/3157) — primary, read, Sec. 9-509
+3. [Gunnison County Planning Commission agenda, Feb 5, 2026 (STR License LUR Amendments work session)](https://gunnisoncounty.org/ArchiveCenter/ViewFile/Item/9803) — primary, read
+4. [Crested Butte News: County prepares for short-term licensing (Jan 2026)](https://crestedbuttenews.com/2026/01/county-prepares-for-short-term-licensing/) — **secondary**, read
+5. [Gunnison County: Short-term Rentals (tax page)](https://gunnisoncounty.org/838/Short-term-Rentals) — primary, read
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

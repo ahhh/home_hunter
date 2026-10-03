@@ -9,14 +9,38 @@
 | County seat | Pueblo |
 | Region | Front Range |
 | Hipcamp signal | **Restrictive**: A rule found limits paid camping, RV occupancy or camping-unit rentals |
+| Splitting land | **Exemption path**: A lighter split process (exemption, minor subdivision, lot split) exists below 35 acres |
+| Cabin short-term rentals | **Allowed**: No STR rules found; renting a permitted dwelling is treated as a residential use |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
-| Evidence | Needs confirmation: from official pages and search summaries; code text not read |
-| Date checked | 2026-09-29 |
+| Evidence | Partly verified: some claims read in primary sources; the rest need confirmation |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://county.pueblo.org/planning-and-development-department>
+
+## Splitting land (subdivision)
+
+> A2/A3/RR land can be split into 2-4 lots through administrative or minor subdivision, while A1 is 35-ac or 70+ ac cluster only. Cabin STRs are a by-right use in agricultural and rural zones with basic safety and local-contact standards and no license found.
+
+- Minimum lot sizes: A1 Large Agriculture 35 ac, A2 Medium Agriculture 5 ac, A3 Small Agriculture 1 ac, RR Rural Residential 1 ac (UDC 17.02.050-060, adopted Oct 22, 2024). — [[3]](https://county.pueblo.org/sites/default/files/2024-10/PuebloCounty_UDC_Adopted10.22.24.pdf) *(verified)*
+- An Administrative Subdivision (Director decision) can create up to 2 lots from previously legally subdivided land, once per parent parcel. Lots need public road access and wells or public water, and no new roads (UDC 17.06.080(b)). — [[3]](https://county.pueblo.org/sites/default/files/2024-10/PuebloCounty_UDC_Adopted10.22.24.pdf) *(verified)*
+- A Minor Subdivision (Planning Commission) can create up to 4 lots as a one-time resubdivision; 5+ lots is a Major Subdivision before the Board. Splitting the same parent parcel in pieces to avoid major review isn't allowed (UDC 17.06.080). — [[3]](https://county.pueblo.org/sites/default/files/2024-10/PuebloCounty_UDC_Adopted10.22.24.pdf) *(verified)*
+- Divisions into 35+ acre parcels are exempt, as the statute says. The Board can also grant discretionary subdivision exemptions with conditions such as an exemption plat, impact fees and road dedication (Title 16, 16.04.040(2)-(4)). — [[4]](https://www.pueblocounty.gov/sites/default/files/2025-08/Pueblo%20County%20Code%20Title%2016%20Subdivisions_12-8-2022.pdf) *(verified)*
+- The Rural Land Use Process (cluster) applies to A1 land of 70+ contiguous acres outside the City of Pueblo 3-mile annexation area. It allows 1 home per 17.5 acres with at least 2/3 kept as permanent open space, can be used once, and needs Board approval (UDC 17.04.060). — [[3]](https://county.pueblo.org/sites/default/files/2024-10/PuebloCounty_UDC_Adopted10.22.24.pdf) *(verified)*
+- Bottom line: in A2/A3/RR zones, small splits of 2-4 lots are possible through lighter administrative or minor review; A1 land needs a rezoning or RLUP to go below 35 acres. — [[3]](https://county.pueblo.org/sites/default/files/2024-10/PuebloCounty_UDC_Adopted10.22.24.pdf) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- In A1 and A2, one accessory dwelling plus one farmstead accessory dwelling are allowed per lot; in A3 and RR, one accessory dwelling per lot (UDC 17.03.040(c)). — [[3]](https://county.pueblo.org/sites/default/files/2024-10/PuebloCounty_UDC_Adopted10.22.24.pdf) *(verified)*
+- Detached ADUs are capped at the lesser of 40% of the main house or 1,200 sq ft on lots over 100,000 sq ft (Table 17.03.5). — [[3]](https://county.pueblo.org/sites/default/files/2024-10/PuebloCounty_UDC_Adopted10.22.24.pdf) *(verified)*
+- Farmstead accessory dwellings need 5+ acres and may not be used for short- or long-term rentals (UDC 17.03.040(f)). No rental ban was found for regular accessory dwellings. — [[3]](https://county.pueblo.org/sites/default/files/2024-10/PuebloCounty_UDC_Adopted10.22.24.pdf) *(verified)*
+- Bed and Breakfast needs a Special Use Permit in A1-A3 and RR; Campground/RV Park needs one in A1-A2; Agricultural Tourism (including guest ranches, but not lodging) is permitted in A1-A3 (Table 17.03.1). — [[3]](https://county.pueblo.org/sites/default/files/2024-10/PuebloCounty_UDC_Adopted10.22.24.pdf) *(verified)*
 
 ## Private (non-commercial) camping
 
@@ -38,7 +62,12 @@
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- Short-Term Rental is a permitted (by-right) use in A1, A2, A3, RR and the other residential districts; no separate county STR license or permit was found in the UDC (Table 17.03.1, 17.03.040(m)). — [[3]](https://county.pueblo.org/sites/default/files/2024-10/PuebloCounty_UDC_Adopted10.22.24.pdf) *(verified)*
+- Rules: stays of 28 days or less to one party, max occupancy 2 per bedroom plus 2, whole-unit booking only, and a local responsible party within 20 miles on call 24/7 (UDC 17.03.040(m)). — [[3]](https://county.pueblo.org/sites/default/files/2024-10/PuebloCounty_UDC_Adopted10.22.24.pdf) *(verified)*
+- The unit must be a residential structure permitted by the Pueblo Regional Building Department with smoke and CO detectors, egress, posted notices and a fire extinguisher, and the county may inspect it. — [[3]](https://county.pueblo.org/sites/default/files/2024-10/PuebloCounty_UDC_Adopted10.22.24.pdf) *(verified)*
+- RVs can't be STRs, and farmstead accessory dwellings can't be rented. A regular permitted accessory dwelling isn't excluded, so a guest cabin built as an ADU may qualify; confirm with Planning. — [[3]](https://county.pueblo.org/sites/default/files/2024-10/PuebloCounty_UDC_Adopted10.22.24.pdf) *(verified)*
+- Private covenants can still prohibit STRs, and the county won't enforce them for owners (17.03.040(m)). — [[3]](https://county.pueblo.org/sites/default/files/2024-10/PuebloCounty_UDC_Adopted10.22.24.pdf) *(verified)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -103,6 +132,8 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 
 1. [Pueblo County Planning & Development FAQ (UDC 17.03.050(c), 17.03.020)](https://county.pueblo.org/planning-and-development-department/planning-and-development-faq) — primary, not read in full
 2. [Pueblo County Ch. 8.24 Open Fire and Open Burning Restriction](https://county.pueblo.org/county-attorney/chapter-824-open-fire-and-open-burning-restriction) — primary, not read in full
+3. [Pueblo County Unified Development Code (adopted Oct 22, 2024)](https://county.pueblo.org/sites/default/files/2024-10/PuebloCounty_UDC_Adopted10.22.24.pdf) — primary, read, 17.02.050-060; Table 17.03.1; 17.03.040(c),(f),(m); 17.04.060; 17.06.080
+4. [Pueblo County Code Title 16 Subdivisions (12-8-2022)](https://www.pueblocounty.gov/sites/default/files/2025-08/Pueblo%20County%20Code%20Title%2016%20Subdivisions_12-8-2022.pdf) — primary, read, 16.04.040
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

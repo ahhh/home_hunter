@@ -9,14 +9,37 @@
 | County seat | Ouray |
 | Region | Southwest |
 | Hipcamp signal | **Campground**: Paid camping handled as a campground/RV park or special use |
+| Splitting land | **Restrictive**: Large zone minimums or county rules make splitting rare, even at 35+ acres |
+| Cabin short-term rentals | **Limited**: Caps, owner-occupancy, zone bans or accessory-structure bans that matter for cabins |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
 | Evidence | Partly verified: some claims read in primary sources; the rest need confirmation |
-| Date checked | 2026-09-29 |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://ouraycountyco.gov/214/Land-Use-Code>
+
+## Splitting land (subdivision)
+
+> Splitting is hard: rural zones have a 35-acre minimum, and smaller lots require a PUD (6-13 acres per home) or a discretionary BOCC exemption. STRs need a capped county permit (50 off-site-owner permits, often waitlisted), and only the house OR the ADU can be rented, never both.
+
+- Nearly every rural zone (Alpine, High Mesa, North Mesa, South Mesa, South Slope, Valley, Public Lands) allows single-family homes by right only at 1 unit per 35 acres, with a 35-acre minimum lot outside a PUD (LUC Sec. 3.8). — [[4]](https://ouraycountyco.gov/DocumentCenter/View/530/Section-03-Zoning) *(verified)*
+- Smaller lots require a Planned Unit Development: Limited PUD (max 1 unit per 13 acres) or Regular PUD (max 1 unit per 6 acres) in North Mesa, South Mesa and South Slope; Regular PUD in Valley; Resort/Conference PUD in Alpine (Sec. 3.8, Sec. 6). — [[4]](https://ouraycountyco.gov/DocumentCenter/View/530/Section-03-Zoning) *(verified)*
+- The BOCC may grant an exemption from the subdivision definition (Sec. 12.2-12.3), but only after a Planning Commission hearing and on findings of 'special and unusual circumstances'. Exemptions generally can't add more than one unit of density and 'shall not be approved solely for... the creation of a new lot or parcel for development or resale purposes'. — [[6]](https://ouraycountyco.gov/DocumentCenter/View/539/Section-12-Exceptions-Special-Exceptions-Exemptions-and-Variances) *(verified)*
+- Parcels created by court-ordered partition that don't meet zoning are limited to one dwelling and no ADU (Sec. 2, ADU definition). — [[5]](https://ouraycountyco.gov/DocumentCenter/View/529/Section-02-Definitions) *(verified)*
+- Bottom line: hard. Below 35 acres you need a PUD (6-13 acres per unit at best) or a narrow, discretionary BOCC exemption. — [[4]](https://ouraycountyco.gov/DocumentCenter/View/530/Section-03-Zoning), [[6]](https://ouraycountyco.gov/DocumentCenter/View/539/Section-12-Exceptions-Special-Exceptions-Exemptions-and-Variances) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- Rural zones have a 35-acre minimum for single-family dwellings outside PUDs. Colona is the only small-lot zone (6,000 sq ft). — [[4]](https://ouraycountyco.gov/DocumentCenter/View/530/Section-03-Zoning) *(verified)*
+- One ADU is allowed with a primary home: max 800 sq ft within 100 ft of the house on parcels under 3 acres; max 1,200 sq ft within 300 ft on 3+ acres. It needs a CO, can't have its own new driveway, and total accessory structures are capped at 10% of the parcel (Sec. 2 definitions). — [[5]](https://ouraycountyco.gov/DocumentCenter/View/529/Section-02-Definitions) *(verified)*
+- On 35+ acre agricultural parcels, additional employee-housing ADUs (1,200 sq ft) are allowed at 1 per 35 acres, occupied only by ranch employees (Sec. 2). — [[5]](https://ouraycountyco.gov/DocumentCenter/View/529/Section-02-Definitions) *(verified)*
+- Bed and breakfasts and guest ranches (max 20 rooms, with meals and ranch activities) need a Special Use Permit in the rural zones (Sec. 3.8, Sec. 2). — [[4]](https://ouraycountyco.gov/DocumentCenter/View/530/Section-03-Zoning), [[5]](https://ouraycountyco.gov/DocumentCenter/View/529/Section-02-Definitions) *(verified)*
 
 ## Private (non-commercial) camping
 
@@ -39,7 +62,12 @@
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- STRs need an annual county STR permit under Ordinance 2024-001 (effective Jan 1, 2025). Permits are capped: 50 Type 1 (off-site owner/manager), 50 Type 2 (owner or occupant lives on site), 25 Type 3 (room in an owner-occupied home; expandable to 50). New applicants join a waitlist when caps are full. — [[7]](https://ouraycountyco.gov/DocumentCenter/View/20471/H-1----Ordinance-2024-001-Short-Term-Rental-Regulations-of-Residentail-Properties), [[8]](https://ouraycountyco.gov/351/Short-Term-Rental-Permitting) *(verified)*
+- A permit covers the main house OR the ADU, never both. Renting the PDU and ADU separately is 'strictly prohibited'. With a Type 2 permit the owner/occupant lives in the other unit. — [[7]](https://ouraycountyco.gov/DocumentCenter/View/20471/H-1----Ordinance-2024-001-Short-Term-Rental-Regulations-of-Residentail-Properties) *(verified)*
+- Occupancy: 2 guests per bedroom + 2 per premises, and no more than the septic system allows. Parking isn't allowed on county roads. — [[7]](https://ouraycountyco.gov/DocumentCenter/View/20471/H-1----Ordinance-2024-001-Short-Term-Rental-Regulations-of-Residentail-Properties) *(verified)*
+- Multiple rental cabins on one parcel aren't possible as STRs (one dwelling plus at most one ADU, and only one of them rentable). A guest ranch (max 20 rooms, meals, ranch activities) needs a Special Use Permit. Paid camping on private land is barred outside a permitted campground. — [[4]](https://ouraycountyco.gov/DocumentCenter/View/530/Section-03-Zoning), [[5]](https://ouraycountyco.gov/DocumentCenter/View/529/Section-02-Definitions), [[1]](https://ouraycountyco.gov/DocumentCenter/View/20120/Long-Term-Camping-Info-Sheet) *(verified)*
+- A 6% Lodging District tax applies in unincorporated areas from Jan 1, 2026, on top of state and county sales tax. — [[8]](https://ouraycountyco.gov/351/Short-Term-Rental-Permitting) *(verified)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -84,6 +112,11 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 1. [Ouray County Long-Term Non-Commercial Camping Information (rev. 08/08/24)](https://ouraycountyco.gov/DocumentCenter/View/20120/Long-Term-Camping-Info-Sheet) — primary, read
 2. [Ouray County LUC Section 5: Uses by Special Use Permit](https://ouraycountyco.gov/DocumentCenter/View/532/Section-05-Uses-Allowed-by-Special-Use-Permit) — primary, not read in full
 3. [Ouray County Land Use Code (Section 11: campgrounds, RV parks)](https://ouraycountyco.gov/214/Land-Use-Code) — primary, not read in full
+4. [Ouray County LUC Section 3: Zoning (rev. 12/17/19)](https://ouraycountyco.gov/DocumentCenter/View/530/Section-03-Zoning) — primary, read, Sec. 3.8 A-H
+5. [Ouray County LUC Section 2: Definitions](https://ouraycountyco.gov/DocumentCenter/View/529/Section-02-Definitions) — primary, read, Accessory Dwelling Unit; Guest Ranch
+6. [Ouray County LUC Section 12: Exceptions, Special Exceptions, Exemptions, and Variances](https://ouraycountyco.gov/DocumentCenter/View/539/Section-12-Exceptions-Special-Exceptions-Exemptions-and-Variances) — primary, read, 12.2, 12.3
+7. [Ouray County Ordinance 2024-001 Short-Term Rental Regulations (BOCC packet)](https://ouraycountyco.gov/DocumentCenter/View/20471/H-1----Ordinance-2024-001-Short-Term-Rental-Regulations-of-Residentail-Properties) — primary, read, 'Permit Types and Caps' (A) and 'Occupancy and Septic Limitations' (F)
+8. [Ouray County: Short Term Rental Permitting](https://ouraycountyco.gov/351/Short-Term-Rental-Permitting) — primary, read
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

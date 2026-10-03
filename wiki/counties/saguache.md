@@ -9,14 +9,33 @@
 | County seat | Saguache |
 | Region | San Luis Valley |
 | Hipcamp signal | **Restrictive**: A rule found limits paid camping, RV occupancy or camping-unit rentals |
+| Splitting land | **Exemption path**: A lighter split process (exemption, minor subdivision, lot split) exists below 35 acres |
+| Cabin short-term rentals | **Lodging review**: Short-term guests only through a lodging, B&B or resort approval |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
 | Evidence | Needs confirmation: from official pages and search summaries; code text not read |
-| Date checked | 2026-09-29 |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://saguachecounty.colorado.gov/land-use-documents>
+
+## Splitting land (subdivision)
+
+> Saguache has a subdivision exemption process the BOCC uses often, but its size and frequency limits weren't confirmed online. STRs, including ADU rentals, appear to need a conditional use permit, and a new STR chapter was in the works in 2024, so confirm with Land Use before buying.
+
+- Saguache County has a Subdivision Exemption process (application form, Planning Commission recommendation, BOCC approval), and the BOCC regularly approves several at a time (e.g. Feb 24, 2026). — [[2]](https://saguachecounty.colorado.gov/sites/saguachecounty/files/2021-04/subdivisionexemptionapplication2020.pdf), [[4]](https://citizenportal.ai/articles/7926619/colorado/saguache-county/saguache-county-approves-adu-short-term-rental-portable-building-business-and-several-subdivision-exemptions) *(needs confirmation)*
+- Divisions creating parcels of 35+ acres each (not for multiple owners) aren't 'subdivisions' under the Land Development Code (eff. May 19, 2020). — [[3]](https://saguachecounty.colorado.gov/sites/saguachecounty/files/2021-06/ldcdefdraft2021.pdf) *(needs confirmation)*
+- Exemption limits (minimum size, how many times a parcel can be split) weren't confirmed. The code PDFs on the county site returned errors, and Article 2 (Subdivision Exemptions) was being revised in 2024. Ask Land Use. — *lead only, no source yet*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- Zone districts, lot minimums and ADU rules weren't confirmed. The Land Development Code articles couldn't be retrieved from the county site. Ask Land Use. — [[1]](https://saguachecounty.colorado.gov/land-use-documents) *(needs confirmation)*
+- Any stay on the property needs a county-approved septic system. RV/camper occupancy is tied to an active construction permit. — [[1]](https://saguachecounty.colorado.gov/land-use-documents) *(needs confirmation)*
 
 ## Private (non-commercial) camping
 
@@ -34,11 +53,14 @@
 ## RVs, tiny homes & structures
 
 - Not confirmed. Most Colorado counties treat RVs as temporary/recreational, not dwellings. See [Structures, Tiny Homes & RVs](../09-structures-tiny-homes-rvs.md).
-- **No building department.** DOH inspects foundations for manufactured, tiny and factory-built homes. State electrical and plumbing permits still apply. — [[2]](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) *(verified)*
+- **No building department.** DOH inspects foundations for manufactured, tiny and factory-built homes. State electrical and plumbing permits still apply. — [[5]](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) *(verified)*
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- In February 2026 the BOCC approved a 'conditional-use permit for an ADU short-term rental', which suggests STRs (at least ADU STRs) go through Conditional Use review rather than a by-right license. — [[4]](https://citizenportal.ai/articles/7926619/colorado/saguache-county/saguache-county-approves-adu-short-term-rental-portable-building-business-and-several-subdivision-exemptions) *(needs confirmation)*
+- In July 2024 the county scheduled work sessions on Land Development Code updates, including a new chapter on Short Term Rentals. Whether it was adopted, and its terms, weren't confirmed. Ask Land Use. — *lead only, no source yet*
+- A dwelling used as an STR still needs a building permit and approved OWTS. There's no county building department, so state/contractor inspections apply. — [[1]](https://saguachecounty.colorado.gov/land-use-documents) *(needs confirmation)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -85,7 +107,10 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 ## Sources
 
 1. [Saguache County Land Use Documents (Land Development Code)](https://saguachecounty.colorado.gov/land-use-documents) — primary, not read in full
-2. [Division of Housing: jurisdictions without building departments](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) — primary, read
+2. [Saguache County Subdivision Exemption Application (2020)](https://saguachecounty.colorado.gov/sites/saguachecounty/files/2021-04/subdivisionexemptionapplication2020.pdf) — primary, not read in full
+3. [Saguache County Land Development Code, Appendix A Definitions (eff. May 19, 2020)](https://saguachecounty.colorado.gov/sites/saguachecounty/files/2021-06/ldcdefdraft2021.pdf) — primary, not read in full
+4. [Citizen Portal: Saguache County approves ADU short-term rental, portable building business and several subdivision exemptions](https://citizenportal.ai/articles/7926619/colorado/saguache-county/saguache-county-approves-adu-short-term-rental-portable-building-business-and-several-subdivision-exemptions) — **secondary**, read
+5. [Division of Housing: jurisdictions without building departments](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) — primary, read
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

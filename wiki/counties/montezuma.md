@@ -9,14 +9,37 @@
 | County seat | Cortez |
 | Region | Southwest |
 | Hipcamp signal | **Campground**: Paid camping handled as a campground/RV park or special use |
+| Splitting land | **Full subdivision**: Any split below 35 acres goes through full subdivision review |
+| Cabin short-term rentals | **Allowed**: No STR rules found; renting a permitted dwelling is treated as a residential use |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
-| Evidence | Needs confirmation: from official pages and search summaries; code text not read |
-| Date checked | 2026-09-29 |
+| Evidence | Partly verified: some claims read in primary sources; the rest need confirmation |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://montezumacounty.gov/planning-zoning/>
+
+## Splitting land (subdivision)
+
+> Splitting under 35 acres needs a multi-step plat review, and often a rezoning to a 3- or 10-acre zone first. The county has no STR rules yet (a permit has been in drafting since 2025), so a house or guest unit can currently be rented short-term.
+
+- Any tract under 35 acres created by dividing land must be platted with protective covenants and go through subdivision review (LUC Ch. 5). — [[3]](https://montezumacounty.gov/wp-content/uploads/2025/04/LAND_USE_CODE___Resolution_29-2025.pdf), [[2]](https://montezumacounty.gov/wp-content/uploads/2020/09/Planning-FAQ.pdf) *(verified)*
+- Impact classes: a 'Single Lot Development' (one lot split off where the remainder stays over 35 acres) and a 'Minor' development (2-3 lots averaging 10+ acres, served by existing roads and utilities) get the Minor review track. 2-5 lots with any under 35 ac is 'Moderate'; 6+ is 'Major' (Sec. 5202). — [[3]](https://montezumacounty.gov/wp-content/uploads/2025/04/LAND_USE_CODE___Resolution_29-2025.pdf) *(verified)*
+- Even Minor/Moderate reviews go through a presketch plan, sketch plan referred to the Planning & Zoning Commission, then preliminary and final plat. A road impact fee applies (Sec. 6101-6102). — [[3]](https://montezumacounty.gov/wp-content/uploads/2025/04/LAND_USE_CODE___Resolution_29-2025.pdf) *(verified)*
+- New lots must meet the zone minimum: 80 ac (A-80+), 35 ac (A/R 35+), 20 ac (AGZ), 10 ac (A/R 10-34), 3 ac (A/R 3-9, R-3). Rezoning to a smaller zone may be needed first; A/R 3-9 and R-3 aren't allowed in the Dolores River Valley. — [[3]](https://montezumacounty.gov/wp-content/uploads/2025/04/LAND_USE_CODE___Resolution_29-2025.pdf) *(verified)*
+- A/R 35+ parcels can create up to 3 clustered home sites per 35 acres (plus 1 per extra 15 ac) through a Cluster Incentive PUD that keeps 75% in ag/open space (Sec. 3306.1). — [[3]](https://montezumacounty.gov/wp-content/uploads/2025/04/LAND_USE_CODE___Resolution_29-2025.pdf) *(verified)*
+- Bottom line: possible with review. Lots down to 3-10 acres are achievable, but every split under 35 ac needs a multi-step plat review, and possibly a rezoning. — [[3]](https://montezumacounty.gov/wp-content/uploads/2025/04/LAND_USE_CODE___Resolution_29-2025.pdf) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- Zoning is landowner-initiated: A-80+ (80 ac min), A/R 35+ (35 ac), AGZ (20 ac), A/R 10-34 (10 ac), A/R 3-9 (3 ac), R-3 (3 ac), A/R ES (existing subdivisions). Unrezoned land is HISTZ (historic use), the most restrictive designation. — [[3]](https://montezumacounty.gov/wp-content/uploads/2025/04/LAND_USE_CODE___Resolution_29-2025.pdf), [[4]](https://montezumacounty.gov/wp-content/uploads/2020/09/Zoning-FAQ.pdf) *(verified)*
+- Residential use by right is one primary single-family home (or mobile/modular home) plus, as an accessory use, one guest or caretaker unit up to 2,000 sq ft, subject to septic rules (Sec. 3106.5). — [[3]](https://montezumacounty.gov/wp-content/uploads/2025/04/LAND_USE_CODE___Resolution_29-2025.pdf) *(verified)*
+- The county has adopted no building code for residential construction, so there's no residential building permit or CO; septic and state electrical/plumbing permits still apply. — [[2]](https://montezumacounty.gov/wp-content/uploads/2020/09/Planning-FAQ.pdf) *(verified)*
 
 ## Private (non-commercial) camping
 
@@ -33,11 +56,15 @@
 ## RVs, tiny homes & structures
 
 - Not confirmed. Most Colorado counties treat RVs as temporary/recreational, not dwellings. See [Structures, Tiny Homes & RVs](../09-structures-tiny-homes-rvs.md).
-- **No building department.** DOH inspects foundations for manufactured, tiny and factory-built homes. State electrical and plumbing permits still apply. — [[3]](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) *(verified)*
+- **No building department.** DOH inspects foundations for manufactured, tiny and factory-built homes. State electrical and plumbing permits still apply. — [[6]](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) *(verified)*
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- The Land Use Code (as amended Nov 18, 2025) has no short-term or vacation rental provisions and no STR permit. — [[3]](https://montezumacounty.gov/wp-content/uploads/2025/04/LAND_USE_CODE___Resolution_29-2025.pdf) *(verified)*
+- In April 2025, commissioners directed staff to draft an STR permit after finding 240+ untracked listings and lost lodging-tax revenue. No adopted permit was found as of this research; check before buying. — [[5]](https://citizenportal.ai/articles/6571957/Colorado/Montezuma-County/Montezuma-County-staff-to-draft-short-term-rental-permit-after-officials-cite-untracked-listings-and-lost-lodging-tax-revenue) *(needs confirmation)*
+- Bed and breakfast is a listed residential accessory use. A 'Retreat/guest ranch' needs a Special Use Permit, and 'Lodging' is a commercial use (Sec. 3102, 3103, 3106.5). — [[3]](https://montezumacounty.gov/wp-content/uploads/2025/04/LAND_USE_CODE___Resolution_29-2025.pdf) *(verified)*
+- Whether the guest/caretaker unit can be rented short-term isn't addressed in the code; with no STR rules it appears allowed, but confirm with Planning (970-565-2801). — [[3]](https://montezumacounty.gov/wp-content/uploads/2025/04/LAND_USE_CODE___Resolution_29-2025.pdf) *(verified)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -86,8 +113,11 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 ## Sources
 
 1. [Montezuma County Planning & Zoning (Land Use Code, Resolution 5-2025)](https://montezumacounty.gov/planning-zoning/) — primary, not read in full
-2. [Montezuma County Planning FAQ](https://montezumacounty.org/wp-content/uploads/2020/09/Planning-FAQ.pdf) — primary, not read in full
-3. [Division of Housing: jurisdictions without building departments](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) — primary, read
+2. [Montezuma County Planning FAQ](https://montezumacounty.gov/wp-content/uploads/2020/09/Planning-FAQ.pdf) — primary, read
+3. [Montezuma County Land Use Code (Resolution 29-2025, amended Nov 18, 2025)](https://montezumacounty.gov/wp-content/uploads/2025/04/LAND_USE_CODE___Resolution_29-2025.pdf) — primary, read, Sec. 3102, 3106.5, 3304-3310, 5101.9, 5202, 6101-6102
+4. [Montezuma County Rezoning FAQ](https://montezumacounty.gov/wp-content/uploads/2020/09/Zoning-FAQ.pdf) — primary, read
+5. [Citizen Portal: Montezuma County staff to draft short-term rental permit (Apr 21, 2025)](https://citizenportal.ai/articles/6571957/Colorado/Montezuma-County/Montezuma-County-staff-to-draft-short-term-rental-permit-after-officials-cite-untracked-listings-and-lost-lodging-tax-revenue) — **secondary**, read
+6. [Division of Housing: jurisdictions without building departments](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) — primary, read
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

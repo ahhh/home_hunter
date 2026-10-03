@@ -9,14 +9,36 @@
 | County seat | Cheyenne Wells |
 | Region | Eastern Plains |
 | Hipcamp signal | **Unclear**: No specific camping provision found yet |
+| Splitting land | **Exemption path**: A lighter split process (exemption, minor subdivision, lot split) exists below 35 acres |
+| Cabin short-term rentals | **Limited**: Caps, owner-occupancy, zone bans or accessory-structure bans that matter for cabins |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
-| Evidence | Needs confirmation: from official pages and search summaries; code text not read |
-| Date checked | 2026-09-29 |
+| Evidence | Verified: every sourced claim was read in a primary source |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://www.co.cheyenne.co.us/departments/zoning_planning.html>
+
+## Splitting land (subdivision)
+
+> Splits are cheap and fairly easy: the Board grants exemptions ($10) and the ag zones allow 1-acre lots. But guest houses can't be rented and non-farm homes need a Conditional Use Permit, so a rental cabin needs county approval.
+
+- Selling a parcel under 35 acres needs subdivision approval or an exemption granted by the Board of County Commissioners when the division 'does not fall within the purposes' of the subdivision regulations (Part IV instructions). — [[2]](https://www.co.cheyenne.co.us/assets/pdfs/zoning_comprehensive_plan_zoning_ordinance_2022.pdf) *(verified)*
+- The exemption application costs $10 and goes to the Planning Commission for a recommendation, then the Board. It asks for a survey or sketch and who will build any needed roads and utilities. Processing takes about four weeks. — [[3]](https://www.co.cheyenne.co.us/assets/pdfs/land_use_subdivision_exemption_2020.pdf), [[2]](https://www.co.cheyenne.co.us/assets/pdfs/zoning_comprehensive_plan_zoning_ordinance_2022.pdf) *(verified)*
+- The A and A-2 agricultural districts have a 1-acre minimum lot, 100-foot minimum width and depth (Sec. 2-101.C). — [[2]](https://www.co.cheyenne.co.us/assets/pdfs/zoning_comprehensive_plan_zoning_ordinance_2022.pdf) *(verified)*
+- No limit on the number of exemptions per parcel appears in the posted materials. — [[2]](https://www.co.cheyenne.co.us/assets/pdfs/zoning_comprehensive_plan_zoning_ordinance_2022.pdf) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- Most of the county is zoned Agricultural (A). A-2 (Other Agricultural Lands) is a transition zone near towns with identical uses (Secs. 2-101, 2-102). — [[2]](https://www.co.cheyenne.co.us/assets/pdfs/zoning_comprehensive_plan_zoning_ordinance_2022.pdf) *(verified)*
+- Ranch and farm dwellings are permitted. Non-farm single- and multiple-family dwellings need a Conditional Use Permit (Sec. 2-101.A-B). — [[2]](https://www.co.cheyenne.co.us/assets/pdfs/zoning_comprehensive_plan_zoning_ordinance_2022.pdf) *(verified)*
+- Ranch and farm dwellings include guest houses only if they are 'not rented or otherwise conducted as a business' (Definitions). — [[2]](https://www.co.cheyenne.co.us/assets/pdfs/zoning_comprehensive_plan_zoning_ordinance_2022.pdf) *(verified)*
+- Setbacks are 35 feet front (or 75 feet from road centerline, whichever is greater) and 20 feet side and rear (Sec. 2-101.D). — [[2]](https://www.co.cheyenne.co.us/assets/pdfs/zoning_comprehensive_plan_zoning_ordinance_2022.pdf) *(verified)*
 
 ## Private (non-commercial) camping
 
@@ -33,11 +55,14 @@
 ## RVs, tiny homes & structures
 
 - Not confirmed. Most Colorado counties treat RVs as temporary/recreational, not dwellings. See [Structures, Tiny Homes & RVs](../09-structures-tiny-homes-rvs.md).
-- **No building department.** DOH inspects foundations for manufactured, tiny and factory-built homes. State electrical and plumbing permits still apply. — [[2]](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) *(verified)*
+- **No building department.** DOH inspects foundations for manufactured, tiny and factory-built homes. State electrical and plumbing permits still apply. — [[4]](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) *(verified)*
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- The Zoning Ordinance (2022) has no short-term rental rules. — [[2]](https://www.co.cheyenne.co.us/assets/pdfs/zoning_comprehensive_plan_zoning_ordinance_2022.pdf) *(verified)*
+- A guest house on a farm or ranch can't be rented under the dwelling definition, so a rental guest cabin isn't an allowed accessory use. — [[2]](https://www.co.cheyenne.co.us/assets/pdfs/zoning_comprehensive_plan_zoning_ordinance_2022.pdf) *(verified)*
+- Motels and lodging aren't listed in the A district. A rental cabin would most likely need a Conditional Use Permit as a non-farm dwelling, or rezoning to Commercial. Ask the Land Use Administrator (landuse@co.cheyenne.co.us). — [[2]](https://www.co.cheyenne.co.us/assets/pdfs/zoning_comprehensive_plan_zoning_ordinance_2022.pdf) *(verified)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -82,8 +107,10 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 
 ## Sources
 
-1. [Cheyenne County Zoning & Planning](https://www.co.cheyenne.co.us/departments/zoning_planning.html) — primary, not read in full
-2. [Division of Housing: jurisdictions without building departments](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) — primary, read
+1. [Cheyenne County Zoning & Planning](https://www.co.cheyenne.co.us/departments/zoning_planning.html) — primary, read
+2. [Cheyenne County Comprehensive Plan and Zoning Ordinance (2022)](https://www.co.cheyenne.co.us/assets/pdfs/zoning_comprehensive_plan_zoning_ordinance_2022.pdf) — primary, read, Definitions; Secs. 2-101, 2-102; Part IV
+3. [Cheyenne County Subdivision Exemption Application (2020)](https://www.co.cheyenne.co.us/assets/pdfs/land_use_subdivision_exemption_2020.pdf) — primary, read
+4. [Division of Housing: jurisdictions without building departments](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) — primary, read
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

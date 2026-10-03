@@ -9,14 +9,36 @@
 | County seat | Fort Collins |
 | Region | Front Range |
 | Hipcamp signal | **Campground**: Paid camping handled as a campground/RV park or special use |
+| Splitting land | **Full subdivision**: Any split below 35 acres goes through full subdivision review |
+| Cabin short-term rentals | **Permit**: County short-term rental permit or license program |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
-| Evidence | Needs confirmation: from official pages and search summaries; code text not read |
-| Date checked | 2026-09-29 |
+| Evidence | Partly verified: some claims read in primary sources; the rest need confirmation |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://www.larimer.gov/planning>
+
+## Splitting land (subdivision)
+
+> Splitting below 35 acres requires full subdivision, Conservation Development, or the 70+ acre RLUP (1 home per 17.5 ac). One whole-house cabin STR per property is possible with Special Review (FO/A use a lighter admin review), 500-ft spacing and a license; guest units/ALAs can't be rented short-term.
+
+- Parcels of 35+ acres (and parcels that existed on May 5, 1972) can be sold without a county plat; other divisions need county approval (LUC Art. 5.9.2; MLD handout). — [[4]](https://www.larimer.gov/sites/default/files/article-5-land-division-standards-clean.pdf), [[5]](https://www.larimer.gov/sites/default/files/uploads/2023/minor_land_division.pdf) *(verified)*
+- Lots under 30 acres go through the full subdivision process (LUC 5.6.2). Residential development of 30+ contiguous acres outside urban/GMA areas must be a Conservation Development (homes clustered on up to 20% of the land, at least 80% kept as residual land, usually under a conservation easement) unless the lots are 35+ acres or the Rural Land Use Process is used (LUC 5.8). — [[4]](https://www.larimer.gov/sites/default/files/article-5-land-division-standards-clean.pdf) *(verified)*
+- The Rural Land Use Process (RLUP) for parcels of 70+ acres allows up to 1 home per 17.5 acres on lots under 35 acres, in exchange for preserved residual land; single-unit residential only (LUC 5.9.3, 5.9.4). — [[4]](https://www.larimer.gov/sites/default/files/article-5-land-division-standards-clean.pdf) *(verified)*
+- The Minor Land Division can't create new homesites. It only separates existing legal uses with separate utilities, splits quarter sections under 140 acres into four, or carves out public-use parcels, and it still goes to a Board hearing with a 60-day referral (MLD handout). — [[5]](https://www.larimer.gov/sites/default/files/uploads/2023/minor_land_division.pdf) *(verified)*
+- Bottom line: below 35 acres, splitting means full subdivision, Conservation Development or RLUP review, and each lot needs proof of an adequate water source (a cistern doesn't count). — [[4]](https://www.larimer.gov/sites/default/files/article-5-land-division-standards-clean.pdf), [[5]](https://www.larimer.gov/sites/default/files/uploads/2023/minor_land_division.pdf) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- Minimum lots with well/septic: NR 20 ac, FO 5 ac, A 20 ac, RR-1 10 ac, RR-2 100,000 sq ft, O 10 ac (LUC Tables 2-2, 2-3, Dec 2024). Clustered lots in conservation developments are exempt. — [[6]](https://www.larimer.gov/sites/default/files/article-2-zoning-districts-clean.pdf) *(verified)*
+- A 'Dwelling, Cabin' (a cabin with a primary heat source counts as a single-unit dwelling) is allowed by right in most rural districts; a tiny home on wheels can't be a cabin (LUC 3.3.3.A, Table 3-1). — [[7]](https://www.larimer.gov/sites/default/files/article-3-use-regulations-clean_3.pdf) *(verified)*
+- One Accessory Living Area is allowed with a single-unit detached house wherever such houses are allowed, ideally within 300 ft of the main house; it may not be used as lodging or rented for 30 days or less (LUC 3.4.5.A). — [[7]](https://www.larimer.gov/sites/default/files/article-3-use-regulations-clean_3.pdf) *(verified)*
 
 ## Private (non-commercial) camping
 
@@ -37,7 +59,12 @@
 
 ## Short-term rental / lodging rules
 
-- The LUC includes short-term rental rules. — [[1]](https://www.larimer.gov/planning/land-use-code) *(needs confirmation)*
+- A whole-house STR (not owner-occupied, max 10 guests) needs a land-use approval plus a license. It's an Administrative Special Review with public hearing in FO and A, a full Special Review in RR-1, RR-2, O and IR, and is not allowed in NR or ACE (LUC Table 3-1, 3.3.5.B). — [[7]](https://www.larimer.gov/sites/default/files/article-3-use-regulations-clean_3.pdf), [[8]](https://www.larimer.gov/sites/default/files/str-general-info-handout.pdf) *(verified)*
+- Only one STR is allowed per property; it must be 500 ft from any other STR (250 ft in Red Feather Lakes) and 500 ft from any county park or open space; dwellings in the floodplain aren't eligible (LUC 3.3.5.B.2). — [[7]](https://www.larimer.gov/sites/default/files/article-3-use-regulations-clean_3.pdf), [[8]](https://www.larimer.gov/sites/default/files/str-general-info-handout.pdf) *(verified)*
+- Accessory Living Areas, Extended Family Dwellings and Farmstead Accessory Dwellings can't be STRs, but the owner may live in the ALA while renting the main house. No guests in RVs, tents or outdoor structures (LUC 3.3.5.B.2.d-e). — [[7]](https://www.larimer.gov/sites/default/files/article-3-use-regulations-clean_3.pdf) *(verified)*
+- Other rules: a change-of-occupancy permit, life-safety inspection, a reliable water source for firefighting, an engineer's Certification of Adequate Access, a manager within 1 hour, license renewal every 2 years, and limited license transferability. — [[7]](https://www.larimer.gov/sites/default/files/article-3-use-regulations-clean_3.pdf), [[8]](https://www.larimer.gov/sites/default/files/str-general-info-handout.pdf) *(verified)*
+- The Estes Valley residential zones have a cap of 208 STR licenses with a waitlist. Multiple cabins would be 'Resort Lodge or Resort Cottages', mostly by Special Review in rural zones (Table 3-1). — [[8]](https://www.larimer.gov/sites/default/files/str-general-info-handout.pdf), [[7]](https://www.larimer.gov/sites/default/files/article-3-use-regulations-clean_3.pdf), [[9]](https://www.larimer.gov/short-term-rentals) *(verified)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -93,9 +120,15 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 
 ## Sources
 
-1. [Larimer County Land Use Code](https://www.larimer.gov/planning/land-use-code) — primary, not read in full
+1. [Larimer County Land Use Code](https://www.larimer.gov/planning/land-use-code) — primary, read
 2. [LUC Phase 2: Campgrounds & RV Parks (adoption draft)](https://www.larimer.org/sites/default/files/uploads/2021/attachment_c_proposed_adoption_draft_clean.pdf) — primary, not read in full
 3. [Larimer County 'Tiny Houses' guidance](https://www.larimer.gov/sites/default/files/uploads/2024/tiny_houses_2023_edits.pdf) — primary, not read in full
+4. [Larimer County Land Use Code Article 5 Land Division Standards (eff. Dec 9, 2024)](https://www.larimer.gov/sites/default/files/article-5-land-division-standards-clean.pdf) — primary, read, 5.6, 5.8, 5.9
+5. [Larimer County Minor Land Division handout](https://www.larimer.gov/sites/default/files/uploads/2023/minor_land_division.pdf) — primary, read
+6. [Larimer County Land Use Code Article 2 Zoning Districts (eff. Dec 9, 2024)](https://www.larimer.gov/sites/default/files/article-2-zoning-districts-clean.pdf) — primary, read, Tables 2-2, 2-3
+7. [Larimer County Land Use Code Article 3 Use Regulations (eff. Dec 8, 2025)](https://www.larimer.gov/sites/default/files/article-3-use-regulations-clean_3.pdf) — primary, read, Table 3-1; 3.3.3.A; 3.3.5.A-B; 3.4.5.A
+8. [Larimer County Short-Term Rentals handout (updated Dec 2024)](https://www.larimer.gov/sites/default/files/str-general-info-handout.pdf) — primary, read
+9. [Larimer County Short-Term Rentals page](https://www.larimer.gov/short-term-rentals) — primary, read
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

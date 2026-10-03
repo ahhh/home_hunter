@@ -9,14 +9,39 @@
 | County seat | Castle Rock |
 | Region | Front Range |
 | Hipcamp signal | **Unclear**: No specific camping provision found yet |
+| Splitting land | **Exemption path**: A lighter split process (exemption, minor subdivision, lot split) exists below 35 acres |
+| Cabin short-term rentals | **Permit**: County short-term rental permit or license program |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
-| Evidence | Needs confirmation: from official pages and search summaries; code text not read |
-| Date checked | 2026-09-29 |
+| Evidence | Partly verified: some claims read in primary sources; the rest need confirmation |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://www.douglasco.gov/planning/>
+
+## Splitting land (subdivision)
+
+> Splits below 35 acres need rezoning plus subdivision, though clustered lots at 1 home per 35 acres can go through an exemption. Cabin STRs are licensed and allowed in non-PD zones with no owner-occupancy rule; renting out a guest house/ADU is doubtful.
+
+- The A-1 Agricultural zone has a 35-acre minimum lot area; it can be reduced only through a clustered design approved in the exemption process (Zoning Resolution Sec. 306). — [[4]](https://douglascounty.legistar.com/View.ashx?GUID=5E58F97A-0AB7-40F9-96E8-0E4EC652C456&ID=14314097&M=F) *(verified)*
+- A subdivision exemption is available for clustered '35-acre' development: lots may be smaller than 35 acres if overall density stays at no more than 1 home per 35 acres (Subdivision Resolution Sec. 903.02). Exemptions go to the Board of County Commissioners at a public meeting. — [[3]](https://web.archive.org/web/20260417073017/https://www.douglasco.gov/documents/sd-article-9.pdf/) *(verified)*
+- Other exemptions: boundary-line adjustments of 35+ acre parcels that create no new parcels (903.01), and splitting off homes on a parcel that already has more than one legal principal residence; guest houses and resort or seasonal cabins don't count as principal residences (903.03). — [[3]](https://web.archive.org/web/20260417073017/https://www.douglasco.gov/documents/sd-article-9.pdf/) *(verified)*
+- Every exemption parcel needs legal and physical access acceptable to the County Engineer, and the county will require full subdivision if it thinks the exemption is being used to get around it (Secs. 902, 905.06). — [[3]](https://web.archive.org/web/20260417073017/https://www.douglasco.gov/documents/sd-article-9.pdf/) *(verified)*
+- The Rural Site Plan density-bonus option (70+ acres) has been repealed and no new ones can be created; a 'Cluster 35 Plan' (Zoning Resolution Sec. 3B) remains. — [[5]](https://www.douglasco.gov/planning/development-review-regulations/zoning/development-zoning-compliance/) *(verified)*
+- Bottom line: splitting below 1 home per 35 acres needs a rezoning to LRR/RR plus full subdivision; clustering at 35-acre density is possible with Board review. — [[3]](https://web.archive.org/web/20260417073017/https://www.douglasco.gov/documents/sd-article-9.pdf/), [[4]](https://douglascounty.legistar.com/View.ashx?GUID=5E58F97A-0AB7-40F9-96E8-0E4EC652C456&ID=14314097&M=F) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- A-1 Agricultural: 35-acre minimum lot area; lots under 35 acres are limited to the uses of the residential district whose size they meet (Sec. 306). — [[4]](https://douglascounty.legistar.com/View.ashx?GUID=5E58F97A-0AB7-40F9-96E8-0E4EC652C456&ID=14314097&M=F) *(verified)*
+- LRR Large Rural Residential and RR Rural Residential: minimum lot area of 2 acres with a private well and septic, 1 acre with central water (Secs. 406, 506). — [[4]](https://douglascounty.legistar.com/View.ashx?GUID=5E58F97A-0AB7-40F9-96E8-0E4EC652C456&ID=14314097&M=F) *(verified)*
+- Since June 24, 2025, one ADU per lot is allowed by right in A-1, LRR, RR, ER and SR; a detached ADU needs at least 2 acres on a well (1 acre on central water). A second ADU is possible on 35+ acres with Board review (Secs. 303.01, 306, 325). — [[4]](https://douglascounty.legistar.com/View.ashx?GUID=5E58F97A-0AB7-40F9-96E8-0E4EC652C456&ID=14314097&M=F) *(verified)*
+- The ADU must stay in the same ownership as the main house. A 'Guest House' (an ADU type) 'shall not be rented or leased' by definition (Sec. 36). — [[4]](https://douglascounty.legistar.com/View.ashx?GUID=5E58F97A-0AB7-40F9-96E8-0E4EC652C456&ID=14314097&M=F) *(verified)*
+- A-1 allows a Dude Ranch and Bed and Breakfast by Special Review (Sec. 304). — [[4]](https://douglascounty.legistar.com/View.ashx?GUID=5E58F97A-0AB7-40F9-96E8-0E4EC652C456&ID=14314097&M=F) *(verified)*
 
 ## Private (non-commercial) camping
 
@@ -37,7 +62,12 @@
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- Short-term rentals (under 30 days) need an annual county Short-Term Rental License under Ordinance O-023-003. Fees: $500 initial review, $270 renewal review, $130 license. — [[6]](https://www.douglasco.gov/planning/development-review-regulations/short-term-rentals/) *(verified)*
+- STRs are allowed in all zone districts except Planned Developments (PD), unless the PD specifically allows them. That excludes much of suburban Douglas County. HOAs may also prohibit them. — [[6]](https://www.douglasco.gov/planning/development-review-regulations/short-term-rentals/), [[8]](https://coloradocommunitymedia.com/2023/07/11/douglas-county-approves-short-term-rental-regulations/) *(needs confirmation)*
+- There is no owner-occupancy rule. A local responsible agent (the owner or a manager) must be reachable 24/7. — [[7]](https://apps.douglas.co.us/planning/projects/download.aspx?PosseObjectId=85542863&amp=&hash=F13159428F9FD95505CD29F0F44156BF349E4533), [[8]](https://coloradocommunitymedia.com/2023/07/11/douglas-county-approves-short-term-rental-regulations/) *(needs confirmation)*
+- Occupancy is capped at the septic system's design capacity (or 2 guests per bedroom on sewer); a parking plan and septic inspection are required (draft Sec. V.G-H). — [[7]](https://apps.douglas.co.us/planning/projects/download.aspx?PosseObjectId=85542863&amp=&hash=F13159428F9FD95505CD29F0F44156BF349E4533) *(verified)*
+- The license covers a permitted 'Dwelling', not RVs, tents, barns or garages. Renting out an ADU or 'Guest House' is unclear because the Guest House definition bars renting; multiple cabins would likely be a Dude Ranch or B&B by Special Review. Ask Planning. — [[7]](https://apps.douglas.co.us/planning/projects/download.aspx?PosseObjectId=85542863&amp=&hash=F13159428F9FD95505CD29F0F44156BF349E4533), [[4]](https://douglascounty.legistar.com/View.ashx?GUID=5E58F97A-0AB7-40F9-96E8-0E4EC652C456&ID=14314097&M=F) *(verified)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -81,6 +111,12 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 
 1. [Douglas County Zoning Resolution](https://www.douglasco.gov/planning/development-review-regulations/zoning/development-zoning-compliance/) — primary, not read in full
 2. [Douglas County camping/tent ban ordinance (O-024-004)](https://www.douglas.co.us/camping-tent-ban-ordinance/) — primary, not read in full
+3. [Douglas County Subdivision Resolution Article 9: Exemptions (archived copy, Apr 2026)](https://web.archive.org/web/20260417073017/https://www.douglasco.gov/documents/sd-article-9.pdf/) — primary, read, 902, 903, 905
+4. [Resolution R-025 (June 24, 2025) amending Zoning Resolution Secs. 3-7 and 36 (ADUs)](https://douglascounty.legistar.com/View.ashx?GUID=5E58F97A-0AB7-40F9-96E8-0E4EC652C456&ID=14314097&M=F) — primary, read, 303, 304, 306, 325, 406, 506, Sec. 36 definitions
+5. [Douglas County Zoning Resolution index](https://www.douglasco.gov/planning/development-review-regulations/zoning/development-zoning-compliance/) — primary, read, Section 3A (repealed), 3B
+6. [Douglas County Short-Term Rentals](https://www.douglasco.gov/planning/development-review-regulations/short-term-rentals/) — primary, read
+7. [Draft STR ordinance O-023-00X (Jan 23, 2023)](https://apps.douglas.co.us/planning/projects/download.aspx?PosseObjectId=85542863&amp=&hash=F13159428F9FD95505CD29F0F44156BF349E4533) — primary, read, Draft only; adopted text may differ. Secs. I, II, V.G-H
+8. [Colorado Community Media: Douglas County approves short-term rental regulations (Jul 2023)](https://coloradocommunitymedia.com/2023/07/11/douglas-county-approves-short-term-rental-regulations/) — **secondary**, not read in full
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

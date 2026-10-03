@@ -9,14 +9,37 @@
 | County seat | Fort Morgan |
 | Region | Eastern Plains |
 | Hipcamp signal | **Campground**: Paid camping handled as a campground/RV park or special use |
+| Splitting land | **Exemption path**: A lighter split process (exemption, minor subdivision, lot split) exists below 35 acres |
+| Cabin short-term rentals | **Lodging review**: Short-term guests only through a lodging, B&B or resort approval |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
-| Evidence | Needs confirmation: from official pages and search summaries; code text not read |
-| Date checked | 2026-09-29 |
+| Evidence | Verified: every sourced claim was read in a primary source |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://morgancounty.colorado.gov/>
+
+## Splitting land (subdivision)
+
+> A 35-acre parcel can usually split off one smaller lot (down to 2.5 acres with well and septic) through a one-time exemption, and minor subdivisions allow up to four lots. There are no short-term rental rules; B&Bs need a Special Use permit and rental cabins would likely be treated as lodging.
+
+- The Agriculture Production (A) zone has a 35-acre minimum lot size. Subdivision exemptions and minor subdivisions may go down to 2.5 acres with a well and septic, or 1 acre with public water (Zoning Appendix B, note a). — [[1]](https://morgancounty.colorado.gov/sites/g/files/lrnvjt1911/files/documents/Zoning%20Regulations%20-%20032026.pdf) *(verified)*
+- A Board subdivision exemption can split a parcel into no more than two lots, one at least 35 acres and the other under 35 acres (Sec. 9-110.B.2). — [[2]](https://morgancounty.colorado.gov/sites/g/files/lrnvjt1911/files/documents/Subdivision%20Regulations%20-%20July%202025.pdf) *(verified)*
+- Only one exemption is allowed per tract under common ownership, and at most four per quarter section. Land created by exemption generally can't be exempted again (Secs. 9-110.A.2, 9-120). — [[2]](https://morgancounty.colorado.gov/sites/g/files/lrnvjt1911/files/documents/Subdivision%20Regulations%20-%20July%202025.pdf) *(verified)*
+- A minor subdivision (four or fewer lots) has a shorter review that the Planning Administrator can approve, but it can't be used to avoid major subdivision rules, for example next to a minor subdivision approved within five years (Ch. 8). — [[2]](https://morgancounty.colorado.gov/sites/g/files/lrnvjt1911/files/documents/Subdivision%20Regulations%20-%20July%202025.pdf) *(verified)*
+- Larger splits go through major subdivision, with a preliminary plan and final plat. — [[2]](https://morgancounty.colorado.gov/sites/g/files/lrnvjt1911/files/documents/Subdivision%20Regulations%20-%20July%202025.pdf) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- Rural base zones are Agriculture Production (A, 35-acre minimum) and Agriculture/Agri-Business (A/B), plus Estate Residential (2 acres) and Rural Residential. — [[1]](https://morgancounty.colorado.gov/sites/g/files/lrnvjt1911/files/documents/Zoning%20Regulations%20-%20032026.pdf) *(verified)*
+- One single-family home per lot is a use by right in the A zone. — [[1]](https://morgancounty.colorado.gov/sites/g/files/lrnvjt1911/files/documents/Zoning%20Regulations%20-%20032026.pdf) *(verified)*
+- In the use table, a second single-family home per lot appears to be a use by right on A-zone parcels over 20 acres and a conditional use on smaller ones. Third and fourth homes are conditional uses. Confirm the column reading with Planning. — [[1]](https://morgancounty.colorado.gov/sites/g/files/lrnvjt1911/files/documents/Zoning%20Regulations%20-%20032026.pdf) *(verified)*
+- The code doesn't define ADUs or guest houses. — [[1]](https://morgancounty.colorado.gov/sites/g/files/lrnvjt1911/files/documents/Zoning%20Regulations%20-%20032026.pdf) *(verified)*
 
 ## Private (non-commercial) camping
 
@@ -24,7 +47,7 @@
 
 ## Paid camping / campground pathway
 
-- Campground and RV Park Regulations, Sec. 4-100 to 4-125: permits, site selection, minimum site area, density, perimeter setbacks, campground space requirements. — [[1]](https://morgancounty.colorado.gov/sites/morgancounty/files/documents/Zoning%20Regulations%20-%20032026.pdf) *(needs confirmation)*
+- Campground and RV Park Regulations, Sec. 4-100 to 4-125: permits, site selection, minimum site area, density, perimeter setbacks, campground space requirements. — [[1]](https://morgancounty.colorado.gov/sites/g/files/lrnvjt1911/files/documents/Zoning%20Regulations%20-%20032026.pdf) *(verified)*
 
 > County "camping on your own land" rules usually cover **non-commercial** use by the owner and their guests.
 > A paid Hipcamp booking is often a campground or commercial use instead. Ask Planning in writing:
@@ -37,7 +60,11 @@
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- The Zoning Regulations (through Mar 2026) have no short-term or vacation rental rules. — [[1]](https://morgancounty.colorado.gov/sites/g/files/lrnvjt1911/files/documents/Zoning%20Regulations%20-%20032026.pdf) *(verified)*
+- Bed and breakfasts need a Special Use permit in the A zone. — [[1]](https://morgancounty.colorado.gov/sites/g/files/lrnvjt1911/files/documents/Zoning%20Regulations%20-%20032026.pdf) *(verified)*
+- Hotels and motels are defined as lodging for hire for 30 days or less. For any unlisted use, the Planning Administrator picks the closest category (Sec. 3-235.B). — [[1]](https://morgancounty.colorado.gov/sites/g/files/lrnvjt1911/files/documents/Zoning%20Regulations%20-%20032026.pdf) *(verified)*
+- Renting a whole permitted house short-term isn't addressed. Ask Planning whether it is treated as residential use, a B&B or hotel-style lodging. Several rental cabins would likely be classed as lodging. — *lead only, no source yet*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -86,7 +113,8 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 
 ## Sources
 
-1. [Morgan County Zoning Regulations (updated through Mar 2026)](https://morgancounty.colorado.gov/sites/morgancounty/files/documents/Zoning%20Regulations%20-%20032026.pdf) — primary, not read in full, Sec. 4-100 to 4-125
+1. [Morgan County Zoning Regulations (updated through Mar 2026)](https://morgancounty.colorado.gov/sites/g/files/lrnvjt1911/files/documents/Zoning%20Regulations%20-%20032026.pdf) — primary, read, Sec. 4-100 to 4-125
+2. [Morgan County Subdivision Regulations (July 2025)](https://morgancounty.colorado.gov/sites/g/files/lrnvjt1911/files/documents/Subdivision%20Regulations%20-%20July%202025.pdf) — primary, read, Ch. 8 (8-110), Ch. 9 (9-110, 9-120)
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

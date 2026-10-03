@@ -9,14 +9,36 @@
 | County seat | Hot Sulphur Springs |
 | Region | Northern Mountains |
 | Hipcamp signal | **Campground**: Paid camping handled as a campground/RV park or special use |
+| Splitting land | **Exemption path**: A lighter split process (exemption, minor subdivision, lot split) exists below 35 acres |
+| Cabin short-term rentals | **Permit**: County short-term rental permit or license program |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
 | Evidence | Verified: every sourced claim was read in a primary source |
-| Date checked | 2026-09-29 |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://www.co.grand.co.us/>
+
+## Splitting land (subdivision)
+
+> Splitting is possible through a 3-lot subdivision exemption (2.4+ ac lots, 5 ac in rural F zoning). An existing house can be an Airbnb with an uncapped annual county permit, but on well water an ADU must be attached and can't be rented, so extra cabins mean the 'resort cabins' use in the F zone.
+
+- The Subdivision Exemption Regulations (amended April 2014) allow a small-scale split into at most 3 single-family lots (one home per lot) through a sketch plan and final plat, instead of full subdivision. — [[4]](http://www.co.grand.co.us/DocumentCenter/View/521/Subdivision-Exemption-Regulations?bidId=) *(verified)*
+- Exemption lots must be at least 2.4 acres, meet zoning minimums, and front a street right-of-way. — [[4]](http://www.co.grand.co.us/DocumentCenter/View/521/Subdivision-Exemption-Regulations?bidId=) *(verified)*
+- Zoning minimums: Forestry & Open (F) 5 acres outside the Master Plan growth boundary (2 inside); Estate 2 acres on unsubdivided land; Unclassified 2 acres. — [[2]](https://www.co.grand.co.us/DocumentCenter/View/27506/Zoning-Regulations) *(verified)*
+- Bottom line: possible with review; a 3-lot exemption split down to about 5 acres in rural F zoning. Larger splits go through the full Subdivision Regulations (amended May 2025). — [[4]](http://www.co.grand.co.us/DocumentCenter/View/521/Subdivision-Exemption-Regulations?bidId=), [[2]](https://www.co.grand.co.us/DocumentCenter/View/27506/Zoning-Regulations) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- Rural land is mostly Forestry & Open (F, 5-acre minimum outside the growth boundary) or Estate/Unclassified (2 acres). One single-family dwelling per lot. — [[2]](https://www.co.grand.co.us/DocumentCenter/View/27506/Zoning-Regulations) *(verified)*
+- On well properties an ADU must be inside the main house's continuous enclosure (not a detached cabin), at most 50% of the house or 1,500 sq ft, and may not be rented to anyone outside the family. — [[2]](https://www.co.grand.co.us/DocumentCenter/View/27506/Zoning-Regulations) *(verified)*
+- A detached ADU is allowed only on central water inside a Master Plan Growth Area. Accessory buildings other than garages can't have water/sewer. — [[2]](https://www.co.grand.co.us/DocumentCenter/View/27506/Zoning-Regulations) *(verified)*
+- F zone allows 'lodges and resort cabins' and B&Bs up to 5 bedrooms by right (needs a commercial well or public water); camps and lodges over 5 bedrooms need special review. — [[2]](https://www.co.grand.co.us/DocumentCenter/View/27506/Zoning-Regulations) *(verified)*
 
 ## Private (non-commercial) camping
 
@@ -38,7 +60,12 @@
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- An annual county Short-Term Rental Permit (administrative) is required for any rental under 30 days. STR is a listed use by right in the zone districts, including Estate and Forestry & Open. — [[2]](https://www.co.grand.co.us/DocumentCenter/View/27506/Zoning-Regulations), [[3]](https://www.co.grand.co.us/943/Short-Term-Rentals) *(verified)*
+- No cap and no owner-occupancy rule were found. Fee is $100 per advertised occupant per year. — [[3]](https://www.co.grand.co.us/943/Short-Term-Rentals), [[2]](https://www.co.grand.co.us/DocumentCenter/View/27506/Zoning-Regulations) *(verified)*
+- Max occupancy is 16, and on septic it's limited to the system's design capacity plus 2. Two local 24-hour contacts living in Grand County must respond within 1 hour; quiet hours 7pm-7am; bear-proof trash; parking plan. — [[2]](https://www.co.grand.co.us/DocumentCenter/View/27506/Zoning-Regulations), [[3]](https://www.co.grand.co.us/943/Short-Term-Rentals) *(verified)*
+- No overnight stays in RVs, campers, tents or other outdoor structures. — [[2]](https://www.co.grand.co.us/DocumentCenter/View/27506/Zoning-Regulations) *(verified)*
+- Because ADUs on wells must be attached and not rented, a separate rental cabin generally means a second principal use: 'lodges and resort cabins' (use by right in F with a commercial well) or a special-review camp/lodge. — [[2]](https://www.co.grand.co.us/DocumentCenter/View/27506/Zoning-Regulations) *(verified)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -74,6 +101,10 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 ## Sources
 
 1. [Grand County Zoning Regulations, Oct 2018 proposed amendment](https://www.co.grand.co.us/AgendaCenter/ViewFile/Item/251?fileID=7679) — primary, read, Sec. 11.8, 14.10
+2. [Grand County Zoning Regulations (last amended July 28, 2026)](https://www.co.grand.co.us/DocumentCenter/View/27506/Zoning-Regulations) — primary, read, Sec. III, VI, X, XIII, 14.7
+3. [Grand County: Short Term Rentals](https://www.co.grand.co.us/943/Short-Term-Rentals) — primary, read
+4. [Grand County Subdivision Exemption Regulations (amended April 2014)](http://www.co.grand.co.us/DocumentCenter/View/521/Subdivision-Exemption-Regulations?bidId=) — primary, read, Sec. 1.4, 2.3
+5. [Grand County Subdivision Regulations (amended May 2025)](https://www.co.grand.co.us/DocumentCenter/View/522/Subdivision-Regulations) — primary, not read in full
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

@@ -9,18 +9,38 @@
 | County seat | Westcliffe |
 | Region | Southern Mountains |
 | Hipcamp signal | **Unclear**: No specific camping provision found yet |
+| Splitting land | **Unclear**: Not researched, or the rules weren't found online |
+| Cabin short-term rentals | **Limited**: Caps, owner-occupancy, zone bans or accessory-structure bans that matter for cabins |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
-| Evidence | Needs confirmation: from official pages and search summaries; code text not read |
-| Date checked | 2026-09-29 |
+| Evidence | Verified: every sourced claim was read in a primary source |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://custercounty-co.gov/departments/planning-zoning/zoning-regulations/>
 
+## Splitting land (subdivision)
+
+> Splits can't go below the zone minimum (80, 35, 10 or 5 acres), and the subdivision regulations aren't online. A cabin can be an Airbnb only with a discretionary STR permit after 2 years of ownership: one dwelling only (no accessory cabins), with a small annual cap on new permits.
+
+- The whole county is zoned by minimum lot size: Zone I (Grape Creek) 80 acres, Zone II (Sangre de Cristo) 35 acres, Zone III (Wet Mountain/Hardscrabble) 10 acres, Zone IV (Foothills) 5 acres. A split can't create lots below the zone minimum. — [[1]](https://custercounty-co.gov/wp-content/uploads/2026/04/Zoning-Resolution-2025-12-08-2.pdf) *(verified)*
+- Lot line/boundary adjustments, minor plat amendments and vacating interior lot lines can be approved administratively, but only if they don't increase density or change recorded acreage (Sec. 4.4.C). — [[1]](https://custercounty-co.gov/wp-content/uploads/2026/04/Zoning-Resolution-2025-12-08-2.pdf) *(verified)*
+- Creating new lots goes through the Subdivision Regulations (adopted Jul 29, 2011) or a PUD (Sec. 11). The county website lists the Subdivision Regulations as missing, so exemption paths below 35 acres weren't confirmed. Ask Planning & Zoning (719-783-2669). — [[4]](https://custercounty-co.gov/departments/planning-zoning/zoning-regulations/) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- Uses by right in every zone: farming, ranching, one single-family dwelling, and accessory structures covering no more than 10% of the land (Sec. 7.1.A). Any other use needs a Special Use Permit. — [[1]](https://custercounty-co.gov/wp-content/uploads/2026/04/Zoning-Resolution-2025-12-08-2.pdf) *(verified)*
+- Only one single-family dwelling is allowed per lot. A second dwelling (guest house) needs a Multi-dwelling Variance before construction, plus its own approved septic (Sec. 6.4.A.2). — [[1]](https://custercounty-co.gov/wp-content/uploads/2026/04/Zoning-Resolution-2025-12-08-2.pdf) *(verified)*
+- RVs, tents, yurts and similar can't be occupied more than 90 days in a calendar year without an approved septic system (Sec. 6.4.A.3). — [[1]](https://custercounty-co.gov/wp-content/uploads/2026/04/Zoning-Resolution-2025-12-08-2.pdf) *(verified)*
+
 ## Private (non-commercial) camping
 
-- Not confirmed. The Zoning Resolution defines 'self-contained' RVs. Section 7 (uses by right) and Section 9 (special uses) control. — [[1]](https://custercounty-co.gov/wp-content/uploads/2026/04/Zoning-Resolution-2025-12-08-2.pdf) *(needs confirmation)*
+- Not confirmed. The Zoning Resolution defines 'self-contained' RVs. Section 7 (uses by right) and Section 9 (special uses) control. — [[1]](https://custercounty-co.gov/wp-content/uploads/2026/04/Zoning-Resolution-2025-12-08-2.pdf) *(verified)*
 
 ## Paid camping / campground pathway
 
@@ -33,11 +53,16 @@
 ## RVs, tiny homes & structures
 
 - Not confirmed. Most Colorado counties treat RVs as temporary/recreational, not dwellings. See [Structures, Tiny Homes & RVs](../09-structures-tiny-homes-rvs.md).
-- **No building department.** DOH inspects foundations for manufactured, tiny and factory-built homes. State electrical and plumbing permits still apply. — [[4]](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) *(verified)*
+- **No building department.** DOH inspects foundations for manufactured, tiny and factory-built homes. State electrical and plumbing permits still apply. — [[5]](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) *(verified)*
 
 ## Short-term rental / lodging rules
 
-- Short-Term Rental Permit required (form dated Feb 2026). — [[2]](https://custercounty-co.gov/wp-content/uploads/2026/02/Custer-County-Colorado-Short-Term-Rental-Permit-1.pdf) *(needs confirmation)*
+- A Short-Term Rental Permit is required before renting all or part of a single-family dwelling for under 30 days. It's discretionary: Planning Commission review and BOCC approval under the Special Use standards, renewed each January 31 (Sec. 9.10). — [[1]](https://custercounty-co.gov/wp-content/uploads/2026/04/Zoning-Resolution-2025-12-08-2.pdf), [[2]](https://custercounty-co.gov/wp-content/uploads/2026/02/Custer-County-Colorado-Short-Term-Rental-Permit-1.pdf) *(verified)*
+- You must have owned the property at least 2 years, the house must be finished with its zoning permit closed, and you need legal water, a permitted septic (advertised occupancy can't exceed the septic permit), road maintenance agreements on private roads, and a responsible agent present in the county during every stay (Sec. 9.10.3). — [[1]](https://custercounty-co.gov/wp-content/uploads/2026/04/Zoning-Resolution-2025-12-08-2.pdf) *(verified)*
+- Accessory structures can't be rented as STRs (Sec. 9.10.3.B.6). A guest house built under a Multi-dwelling Variance can't be an STR unless it's individually permitted (Sec. 6.4.A.2.g), so expect one STR per parcel at most. — [[1]](https://custercounty-co.gov/wp-content/uploads/2026/04/Zoning-Resolution-2025-12-08-2.pdf) *(verified)*
+- Annual cap on new STRs: at most 1 more per year in each of Zones I and II, and 3 more in each of Zones III and IV. Extra applications wait until the next year (Sec. 9.10.7). — [[1]](https://custercounty-co.gov/wp-content/uploads/2026/04/Zoning-Resolution-2025-12-08-2.pdf) *(verified)*
+- Neighbors' opinions are considered, no outdoor flames are allowed (UL gas/pellet grills excepted), and lodging tax must be current. — [[1]](https://custercounty-co.gov/wp-content/uploads/2026/04/Zoning-Resolution-2025-12-08-2.pdf), [[2]](https://custercounty-co.gov/wp-content/uploads/2026/02/Custer-County-Colorado-Short-Term-Rental-Permit-1.pdf) *(verified)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -73,10 +98,11 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 
 ## Sources
 
-1. [Custer County Zoning Resolution (Dec 8, 2025)](https://custercounty-co.gov/wp-content/uploads/2026/04/Zoning-Resolution-2025-12-08-2.pdf) — primary, not read in full
-2. [Custer County Short-Term Rental Permit](https://custercounty-co.gov/wp-content/uploads/2026/02/Custer-County-Colorado-Short-Term-Rental-Permit-1.pdf) — primary, not read in full
+1. [Custer County Zoning Resolution (Dec 8, 2025)](https://custercounty-co.gov/wp-content/uploads/2026/04/Zoning-Resolution-2025-12-08-2.pdf) — primary, read, Sec. 4.4.C, 6.4.A, 7.1-7.2, 9.10
+2. [Custer County Short-Term Rental Permit](https://custercounty-co.gov/wp-content/uploads/2026/02/Custer-County-Colorado-Short-Term-Rental-Permit-1.pdf) — primary, read
 3. [Custer County Sheriff: guide to fire restrictions](https://custersheriff.colorado.gov/sites/custersheriff/files/documents/Stage%20Restrictions%20Guide%20%281%29%20%281%29.pdf) — primary, not read in full
-4. [Division of Housing: jurisdictions without building departments](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) — primary, read
+4. [Custer County Zoning Regulations page (document list)](https://custercounty-co.gov/departments/planning-zoning/zoning-regulations/) — primary, read
+5. [Division of Housing: jurisdictions without building departments](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) — primary, read
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

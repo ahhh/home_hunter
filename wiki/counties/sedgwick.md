@@ -9,14 +9,35 @@
 | County seat | Julesburg |
 | Region | Eastern Plains |
 | Hipcamp signal | **Unclear**: No specific camping provision found yet |
+| Splitting land | **Exemption path**: A lighter split process (exemption, minor subdivision, lot split) exists below 35 acres |
+| Cabin short-term rentals | **Allowed**: No STR rules found; renting a permitted dwelling is treated as a residential use |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
-| Evidence | Needs confirmation: from official pages and search summaries; code text not read |
-| Date checked | 2026-09-29 |
+| Evidence | Verified: every sourced claim was read in a primary source |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://sedgwickcounty.colorado.gov/>
+
+## Splitting land (subdivision)
+
+> Splitting is relatively easy: the Board routinely grants exemptions for lots of 2+ acres with septic approval. Most rural land is Unclassified (all lawful uses allowed) and there are no short-term rental rules, so a cabin rental appears to be allowed.
+
+- Selling a tract under 35 acres needs either an approved subdivision or a subdivision exemption from the Board of County Commissioners. The county says it typically allows exemptions where services are available. — [[2]](https://sedgwickcounty.colorado.gov/sites/g/files/lrnvjt3351/files/documents/pz-se-2024-01_subdivision_exemption_form_revised_07-2026.docx) *(verified)*
+- Exemption lots must be at least 2 acres unless served by municipal water, and need sewage-site approval from Northeast Colorado Health. Planning Commission reviews and the Board decides. The fee is $170 plus $43 recording, with a licensed survey. — [[2]](https://sedgwickcounty.colorado.gov/sites/g/files/lrnvjt3351/files/documents/pz-se-2024-01_subdivision_exemption_form_revised_07-2026.docx) *(verified)*
+- The exemption form shows no one-split-per-parcel limit. Ask Planning & Zoning whether repeat exemptions are allowed. — [[2]](https://sedgwickcounty.colorado.gov/sites/g/files/lrnvjt3351/files/documents/pz-se-2024-01_subdivision_exemption_form_revised_07-2026.docx) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- Since the 2003 revision, any land not mapped to another district is zoned Unclassified (U), which allows all uses not prohibited by law except listed heavy or nuisance uses that need special review (Secs. 2.1, 11.1). — [[1]](https://sedgwickcounty.colorado.gov/sites/g/files/lrnvjt3351/files/Zoning%20Regulations.pdf) *(verified)*
+- The mapped A1 and A2 Agricultural districts have a 2-acre minimum lot and 200-foot width, and allow all Residential-district uses (Secs. 4-5). — [[1]](https://sedgwickcounty.colorado.gov/sites/g/files/lrnvjt3351/files/Zoning%20Regulations.pdf) *(verified)*
+- A1 and A2 allow up to two mobile homes per farm for farm employees and their families, as an accessory use (Sec. 14.1). — [[1]](https://sedgwickcounty.colorado.gov/sites/g/files/lrnvjt3351/files/Zoning%20Regulations.pdf) *(verified)*
+- The code says nothing on ADUs or guest houses. — [[1]](https://sedgwickcounty.colorado.gov/sites/g/files/lrnvjt3351/files/Zoning%20Regulations.pdf) *(verified)*
 
 ## Private (non-commercial) camping
 
@@ -33,11 +54,14 @@
 ## RVs, tiny homes & structures
 
 - Not confirmed. Most Colorado counties treat RVs as temporary/recreational, not dwellings. See [Structures, Tiny Homes & RVs](../09-structures-tiny-homes-rvs.md).
-- **No building department.** DOH inspects foundations for manufactured, tiny and factory-built homes. State electrical and plumbing permits still apply. — [[2]](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) *(verified)*
+- **No building department.** DOH inspects foundations for manufactured, tiny and factory-built homes. State electrical and plumbing permits still apply. — [[3]](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) *(verified)*
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- The Zoning Resolution (rev. 2003) has no short-term or vacation rental rules. — [[1]](https://sedgwickcounty.colorado.gov/sites/g/files/lrnvjt3351/files/Zoning%20Regulations.pdf) *(verified)*
+- The Unclassified zone, which covers most rural land, allows all uses not prohibited by law, so short-term rental of a permitted home or cabin isn't restricted. A building permit and septic approval are still needed. — [[1]](https://sedgwickcounty.colorado.gov/sites/g/files/lrnvjt3351/files/Zoning%20Regulations.pdf) *(verified)*
+- Motels, hotels and lodges are listed uses in the Tourist (T) and Commercial districts. Ask Planning whether a multi-cabin operation in a mapped A1/A2 zone would need rezoning. — [[1]](https://sedgwickcounty.colorado.gov/sites/g/files/lrnvjt3351/files/Zoning%20Regulations.pdf) *(verified)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -84,8 +108,9 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 
 ## Sources
 
-1. [Sedgwick County Zoning Regulations](https://sedgwickcounty.colorado.gov/sites/sedgwickcounty/files/Zoning%20Regulations.pdf) — primary, not read in full
-2. [Division of Housing: jurisdictions without building departments](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) — primary, read
+1. [Sedgwick County Zoning Regulations (rev. Mar 31, 2003, Res. 2003-07)](https://sedgwickcounty.colorado.gov/sites/g/files/lrnvjt3351/files/Zoning%20Regulations.pdf) — primary, read, Secs. 2.1, III-IX, XI, XIV
+2. [Sedgwick County Subdivision Exemption form PZ-SE-2024-01 (rev. Jul 2026)](https://sedgwickcounty.colorado.gov/sites/g/files/lrnvjt3351/files/documents/pz-se-2024-01_subdivision_exemption_form_revised_07-2026.docx) — primary, read
+3. [Division of Housing: jurisdictions without building departments](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) — primary, read
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

@@ -9,14 +9,37 @@
 | County seat | Burlington |
 | Region | Eastern Plains |
 | Hipcamp signal | **Unclear**: No specific camping provision found yet |
+| Splitting land | **Exemption path**: A lighter split process (exemption, minor subdivision, lot split) exists below 35 acres |
+| Cabin short-term rentals | **Allowed**: No STR rules found; renting a permitted dwelling is treated as a residential use |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
-| Evidence | Needs confirmation: from official pages and search summaries; code text not read |
-| Date checked | 2026-09-29 |
+| Evidence | Verified: every sourced claim was read in a primary source |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://kitcarsoncounty.colorado.gov/departments/land-use>
+
+## Splitting land (subdivision)
+
+> Splits of 35+ acres go through a simple exemption plat. Smaller lots need a full plat, a cluster development, or a Board exemption. There are no short-term rental rules, but several cabins would likely need a commercial land use permit.
+
+- Any division into two or more parcels needs a recorded plat or exemption plat approved by the Board of County Commissioners. — [[2]](https://docs.a3s.app/static/Kit_Carson_County_Land_Use_Code_2026_final.html) *(verified)*
+- Divisions creating parcels of 35 acres or more are statutory exemptions, but they still go through the county's exemption plat process (Sec. 5-401). — [[2]](https://docs.a3s.app/static/Kit_Carson_County_Land_Use_Code_2026_final.html) *(verified)*
+- Below 35 acres, the options are a full subdivision plat, a Rural Land Use Cluster Development (5-acre minimum lots, 2 homes per 35 acres, two-thirds kept as open space for 40 years), or a discretionary Board exemption. — [[2]](https://docs.a3s.app/static/Kit_Carson_County_Land_Use_Code_2026_final.html) *(verified)*
+- Within 2 miles of a town, the Planning Commission may allow extra exemption splits down to 2.5-acre lots. — [[2]](https://docs.a3s.app/static/Kit_Carson_County_Land_Use_Code_2026_final.html) *(verified)*
+- Applicants must show an adequate water supply for the proposed use. — [[2]](https://docs.a3s.app/static/Kit_Carson_County_Land_Use_Code_2026_final.html) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- The county has no zoning districts. Every change in land use needs a Land Use Change Permit, unless it is exempt traditional agriculture. — [[2]](https://docs.a3s.app/static/Kit_Carson_County_Land_Use_Code_2026_final.html) *(verified)*
+- A single-family home goes through a streamlined Land Use Change Permit that the Administrator decides, with notice to neighbors. — [[2]](https://docs.a3s.app/static/Kit_Carson_County_Land_Use_Code_2026_final.html) *(verified)*
+- Homes must be set back 115 feet from property lines and from the centerline of public roads. — [[2]](https://docs.a3s.app/static/Kit_Carson_County_Land_Use_Code_2026_final.html) *(verified)*
+- The code doesn't address ADUs or guest houses. Ask Land Use whether a second dwelling needs its own permit. — [[2]](https://docs.a3s.app/static/Kit_Carson_County_Land_Use_Code_2026_final.html) *(verified)*
 
 ## Private (non-commercial) camping
 
@@ -33,11 +56,14 @@
 ## RVs, tiny homes & structures
 
 - Not confirmed. Most Colorado counties treat RVs as temporary/recreational, not dwellings. See [Structures, Tiny Homes & RVs](../09-structures-tiny-homes-rvs.md).
-- **No building department.** DOH inspects foundations for manufactured, tiny and factory-built homes. State electrical and plumbing permits still apply. — [[2]](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) *(verified)*
+- **No building department.** DOH inspects foundations for manufactured, tiny and factory-built homes. State electrical and plumbing permits still apply. — [[4]](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) *(verified)*
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- The 2026 Land Use Code has no short-term or vacation rental rules. — [[2]](https://docs.a3s.app/static/Kit_Carson_County_Land_Use_Code_2026_final.html) *(verified)*
+- Renting a permitted home is not a listed use. Ask Land Use whether short-term rental counts as a change in land use. — *lead only, no source yet*
+- Several rental cabins on one parcel would likely be a commercial use needing a Land Use Change Permit. Commercial uses have a 115-foot setback and must look like nearby farm or residential buildings. — [[2]](https://docs.a3s.app/static/Kit_Carson_County_Land_Use_Code_2026_final.html) *(verified)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -84,7 +110,9 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 ## Sources
 
 1. [Kit Carson County Land Use Code (Mar 22, 2023)](https://kitcarsoncounty.colorado.gov/sites/kitcarsoncounty/files/documents/Kit%20Carson%20County%20Land%20Use%20Code%20-%20March%2022%202023.pdf) — primary, not read in full
-2. [Division of Housing: jurisdictions without building departments](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) — primary, read
+2. [Kit Carson County Land Use Code (2026)](https://docs.a3s.app/static/Kit_Carson_County_Land_Use_Code_2026_final.html) — primary, read, Secs. 2-103, 2-104, 3-101, 4-303, 5-102, 5-301, 5-401, Art. 5 Div. 5 (cluster)
+3. [Kit Carson County Land Use department page](https://kitcarsoncounty.colorado.gov/departments/land-use) — primary, read
+4. [Division of Housing: jurisdictions without building departments](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) — primary, read
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

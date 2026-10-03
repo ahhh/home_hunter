@@ -9,14 +9,36 @@
 | County seat | Cripple Creek |
 | Region | Front Range |
 | Hipcamp signal | **Unclear**: No specific camping provision found yet |
+| Splitting land | **Restrictive**: Large zone minimums or county rules make splitting rare, even at 35+ acres |
+| Cabin short-term rentals | **Limited**: Caps, owner-occupancy, zone bans or accessory-structure bans that matter for cabins |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
-| Evidence | Needs confirmation: from official pages and search summaries; code text not read |
-| Date checked | 2026-09-29 |
+| Evidence | Partly verified: some claims read in primary sources; the rest need confirmation |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://www.tellercounty.gov/>
+
+## Splitting land (subdivision)
+
+> A-1 land can't be split below 35 acres without rezoning/subdivision; 70+ acre parcels can cluster at 1 home per 35 ac. From Dec 1, 2026 a cabin STR needs a license (A-1/R-1/RR/R1M only, 1-year ownership wait, 10% cap for non-owner-occupied), and only the main dwelling can be rented.
+
+- The A-1 Agricultural zone has a 35-acre minimum lot size; any A-1 parcel under 35 acres falls under the subdivision rules (LUR 2.6.1.B). — [[3]](https://tellercounty.gov/DocumentCenter/View/1845/A-1-PDF) *(verified)*
+- The Special Exemption Plat can't create new buildable lots. It is only for public-facility parcels, conservation open space, or combining parcels (LUR 9.4.B). — [[5]](https://www.tellercounty.gov/DocumentCenter/View/277) *(verified)*
+- The Rural Land Protection Subdivision Exemption applies to contiguous A-1 tracts of 70+ acres. It guarantees 1 home per 35 acres on smaller clustered lots with building envelopes, plus a bonus lot for each 100 contiguous acres kept as a conserved Remainder Parcel; it's approved by the Planning Director and confirmed by the Board (LUR 9.11). — [[5]](https://www.tellercounty.gov/DocumentCenter/View/277) *(verified)*
+- Bottom line: in A-1, going below 35 acres means rezoning plus full subdivision; the only lighter path is the 70+ acre cluster exemption, which doesn't add density beyond 1 per 35 acres except the 100-acre bonus. — [[3]](https://tellercounty.gov/DocumentCenter/View/1845/A-1-PDF), [[5]](https://www.tellercounty.gov/DocumentCenter/View/277) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- A-1 allows a single-family dwelling, agriculture, a guest house (restricted), and camping under 60 days a year by right; Resorts and Campgrounds/RV Parks need a Special Use Permit, and B&Bs a Conditional Use (LUR 2.6.1.A). — [[3]](https://tellercounty.gov/DocumentCenter/View/1845/A-1-PDF) *(verified)*
+- A-1 lots under 35 acres may have only one dwelling (since May 22, 2008). — [[3]](https://tellercounty.gov/DocumentCenter/View/1845/A-1-PDF), [[4]](https://www.tellercounty.gov/DocumentCenter/View/270) *(verified)*
+- A-1 lots of 35+ acres get one house plus either a guest house or an ADU by right; with agricultural tax status, one more ADU is allowed for each additional full 35 acres (LUR 2.5.B.7). — [[4]](https://www.tellercounty.gov/DocumentCenter/View/270) *(verified)*
+- ADUs must share the main house's road access, have 2 extra parking spaces and a proven legal water source and adequate septic, and are for single-family occupancy only (LUR 2.5.B). — [[4]](https://www.tellercounty.gov/DocumentCenter/View/270) *(verified)*
 
 ## Private (non-commercial) camping
 
@@ -38,7 +60,12 @@
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- Ordinance No. 23, adopted Sept 10, 2026 and effective Dec 1, 2026, requires an annual non-transferable STR license ($250 application, $750 a year). Applications open Dec 1, 2026. — [[7]](https://www.tellercounty.gov/DocumentCenter/View/5132/Teller_County_STR_Ordinance_FAQ_2026-09-14), [[6]](https://www.tellercounty.gov/1014/Short-Term-Rental-Information), [[8]](https://www.tellercounty.gov/DocumentCenter/View/5144/Ordinance-No-23-Regulation-of-Short-Term-Rental-Properties-in-Unincorporated-Teller-County) *(needs confirmation)*
+- STRs are allowed only in A-1, R-1, RR and R1M. The property must have a Certificate of Occupancy, and new buyers must own it for 365 days before applying. — [[7]](https://www.tellercounty.gov/DocumentCenter/View/5132/Teller_County_STR_Ordinance_FAQ_2026-09-14) *(verified)*
+- Non-owner-occupied STRs are capped at 10% of eligible properties per subdivision, or per county quadrant outside subdivisions, with a waitlist; owner-occupied primary residences are exempt from the cap. — [[7]](https://www.tellercounty.gov/DocumentCenter/View/5132/Teller_County_STR_Ordinance_FAQ_2026-09-14) *(verified)*
+- Only one license and one building per property. Guest houses, ADUs, yurts, tents and RVs can't be STRs; guest ranches and resorts are regulated separately as land uses (Resorts need a Special Use Permit in A-1). — [[7]](https://www.tellercounty.gov/DocumentCenter/View/5132/Teller_County_STR_Ordinance_FAQ_2026-09-14), [[3]](https://tellercounty.gov/DocumentCenter/View/1845/A-1-PDF) *(verified)*
+- Occupancy follows the septic design capacity (2 per bedroom on sewer). Other rules: a NAWT septic inspection within 365 days, $1M liability insurance, no outdoor wood/charcoal fires, ATVs, shooting or camping, and a local agent within 60 minutes. HOA covenants or regional plans can ban STRs. — [[7]](https://www.tellercounty.gov/DocumentCenter/View/5132/Teller_County_STR_Ordinance_FAQ_2026-09-14) *(verified)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -82,6 +109,12 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 
 1. [Teller County Ordinance 20: Regulating Camping](https://www.tellercounty.gov/DocumentCenter/View/837/Regulating-Camping-in-Teller-County---Ordinance-20-PDF) — primary, not read in full
 2. [KOAA: Teller long-term camping ordinance](https://www.koaa.com/news/covering-colorado/2019/04/22/new-ordinance-to-prevent-long-term-camping-in-teller-county/) — **secondary**, not read in full
+3. [Teller County LUR Ch. 2, Section 2.6.1 A-1 Agricultural Zone District](https://tellercounty.gov/DocumentCenter/View/1845/A-1-PDF) — primary, read, 2.6.1.A-B
+4. [Teller County LUR Chapter 2 Zoning (amended 04.24.25)](https://www.tellercounty.gov/DocumentCenter/View/270) — primary, read, 2.5.B Accessory Dwelling Units; 2.5.B.7 A-1 restrictions
+5. [Teller County LUR Chapter 9 Subdivision (amended 05-12-22)](https://www.tellercounty.gov/DocumentCenter/View/277) — primary, read, 9.4.B Special Exemption Plat; 9.11 Rural Land Protection Subdivision Exemption
+6. [Teller County Short-Term Rental Information](https://www.tellercounty.gov/1014/Short-Term-Rental-Information) — primary, read
+7. [Teller County STR Ordinance (No. 23) FAQ, rev. 09/14/2026](https://www.tellercounty.gov/DocumentCenter/View/5132/Teller_County_STR_Ordinance_FAQ_2026-09-14) — primary, read
+8. [Teller County Ordinance No. 23: Regulation of Short-Term Rental Properties](https://www.tellercounty.gov/DocumentCenter/View/5144/Ordinance-No-23-Regulation-of-Short-Term-Rental-Properties-in-Unincorporated-Teller-County) — primary, not read in full, Scanned PDF; text not extractable
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

@@ -9,23 +9,47 @@
 | County seat | Boulder |
 | Region | Front Range |
 | Hipcamp signal | **Restrictive**: A rule found limits paid camping, RV occupancy or camping-unit rentals |
+| Splitting land | **Restrictive**: Large zone minimums or county rules make splitting rare, even at 35+ acres |
+| Cabin short-term rentals | **Limited**: Caps, owner-occupancy, zone bans or accessory-structure bans that matter for cabins |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
 | Evidence | Partly verified: some claims read in primary sources; the rest need confirmation |
-| Date checked | 2026-09-29 |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://bouldercounty.gov/property-and-land/land-use/planning/>
 
+## Splitting land (subdivision)
+
+> Splitting below 35 acres is effectively blocked except through a large NUPUD cluster plan. A cabin can be a licensed whole-house Vacation Rental only in the Forestry/Mountain Institutional zones (one license per owner, max 8 guests); elsewhere STRs must be owner-occupied.
+
+- Every zone district has a 35-acre minimum lot size for unsubdivided land; smaller minimums (1 acre, 7,500 sq ft) apply only to land already subdivided with water and sewer in a Community Service Area. — [[2]](https://assets.bouldercounty.gov/wp-content/uploads/2017/02/land-use-code-article-04.pdf) *(verified)*
+- An Exemption Plat can reconfigure already-subdivided lots, but it may not increase the number of lots unless each added lot is 35 acres or more (narrow court-order and 'Building Lot' exceptions). — [[4]](https://assets.bouldercounty.gov/wp-content/uploads/2017/03/exemption-plat-code-excerpt.pdf) *(verified)*
+- Unsubdivided land is generally not eligible for an Exemption Plat; it can only be added to subdivided land to create a lot of 35+ acres. — [[4]](https://assets.bouldercounty.gov/wp-content/uploads/2017/03/exemption-plat-code-excerpt.pdf) *(verified)*
+- The main way to get more density than 1 unit per 35 acres is a Nonurban PUD: up to 1 unit per 17.5 acres, normally on 320+ acres, with homes clustered on no more than 25% of the land and the rest placed under a county conservation easement. — [[5]](https://assets.bouldercounty.gov/wp-content/uploads/2017/02/land-use-code-article-06.pdf) *(verified)*
+- Exemption review requires legal and physical access, an adequate water supply, an approved septic or sewer system, and no significant natural-hazard or environmental impact. — [[4]](https://assets.bouldercounty.gov/wp-content/uploads/2017/03/exemption-plat-code-excerpt.pdf) *(verified)*
+- Bottom line: splitting unsubdivided land below 35 acres is effectively prevented except through a large-acreage NUPUD or TDR process. — [[2]](https://assets.bouldercounty.gov/wp-content/uploads/2017/02/land-use-code-article-04.pdf), [[5]](https://assets.bouldercounty.gov/wp-content/uploads/2017/02/land-use-code-article-06.pdf) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- Rural districts (Forestry, Agricultural, Rural Residential, Estate Residential, Mountain Institutional) all require 35 acres per lot on unsubdivided land. — [[2]](https://assets.bouldercounty.gov/wp-content/uploads/2017/02/land-use-code-article-04.pdf) *(verified)*
+- New homes are subject to a maximum Residential Floor Area cap tied to the neighborhood median (Art. 4, as amended May 13, 2025). — [[2]](https://assets.bouldercounty.gov/wp-content/uploads/2017/02/land-use-code-article-04.pdf) *(verified)*
+- Accessory Dwellings are allowed only as family-care units (max 700 sq ft, owner must live on site), agricultural-worker units, historic landmark units or disaster-recovery units, each by Limited Impact Special Review (Sec. 4-516.H). — [[2]](https://assets.bouldercounty.gov/wp-content/uploads/2017/02/land-use-code-article-04.pdf) *(verified)*
+- Only historic Accessory Dwelling Units may be used as a Short-Term Rental, and accessory dwellings are not eligible to be Vacation Rentals. — [[2]](https://assets.bouldercounty.gov/wp-content/uploads/2017/02/land-use-code-article-04.pdf) *(verified)*
+
 ## Private (non-commercial) camping
 
-- Land Use Code Art. 4-507 B.5.c allows camping on a parcel for 14 days per year only. — [[1]](https://bouldercounty.gov/property-and-land/land-use/planning/frequently-asked-questions/), [[2]](https://assets.bouldercounty.gov/wp-content/uploads/2017/02/land-use-code-article-04.pdf) *(needs confirmation)*
+- Land Use Code Art. 4-507 B.5.c allows camping on a parcel for 14 days per year only. — [[1]](https://bouldercounty.gov/property-and-land/land-use/planning/frequently-asked-questions/), [[2]](https://assets.bouldercounty.gov/wp-content/uploads/2017/02/land-use-code-article-04.pdf) *(verified)*
 - Travel trailers, fifth wheels and RVs are not dwellings (Art. 18-137). They can't be lived in permanently, during home construction, or on vacant land. — [[1]](https://bouldercounty.gov/property-and-land/land-use/planning/frequently-asked-questions/) *(verified)*
 
 ## Paid camping / campground pathway
 
-- Campgrounds are one of the lodging uses in Art. 4-507. Read that section for the review path. — [[2]](https://assets.bouldercounty.gov/wp-content/uploads/2017/02/land-use-code-article-04.pdf) *(needs confirmation)*
+- Campgrounds are one of the lodging uses in Art. 4-507. Read that section for the review path. — [[2]](https://assets.bouldercounty.gov/wp-content/uploads/2017/02/land-use-code-article-04.pdf) *(verified)*
 
 > County "camping on your own land" rules usually cover **non-commercial** use by the owner and their guests.
 > A paid Hipcamp booking is often a campground or commercial use instead. Ask Planning in writing:
@@ -38,7 +62,13 @@
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- Every short-term or vacation rental in unincorporated Boulder County needs a county license; one license per person or related entity (Ord. 2023-02, Sec. 2). — [[6]](https://assets.bouldercounty.gov/wp-content/uploads/2023/09/Ord-2023-2-Short-Term-Dwelling-Licensing-in-Unincorporated-Boulder-County.pdf), [[7]](https://bouldercounty.gov/departments/community-planning-permitting/short-term-dwelling-vacation-rental-licensing/) *(needs confirmation)*
+- A 'Short-Term Rental' is allowed by right in all districts, but it must be the owner's or tenant's primary residence with them on site; the whole unit can be rented without them present for only up to 45 nights a year (Sec. 4-516.Z). — [[2]](https://assets.bouldercounty.gov/wp-content/uploads/2017/02/land-use-code-article-04.pdf), [[6]](https://assets.bouldercounty.gov/wp-content/uploads/2023/09/Ord-2023-2-Short-Term-Dwelling-Licensing-in-Unincorporated-Boulder-County.pdf) *(verified)*
+- A whole-house 'Vacation Rental' is allowed only in the Forestry and Mountain Institutional districts, on unsubdivided land or in platted subdivisions in the Upper St. Vrain area, and needs road access that meets county standards (Sec. 4-507.E). — [[2]](https://assets.bouldercounty.gov/wp-content/uploads/2017/02/land-use-code-article-04.pdf), [[6]](https://assets.bouldercounty.gov/wp-content/uploads/2023/09/Ord-2023-2-Short-Term-Dwelling-Licensing-in-Unincorporated-Boulder-County.pdf) *(verified)*
+- Occupancy is capped at 8 people or the septic system's limit, whichever is lower; outdoor wood fires are banned for renters; a local manager must be able to respond in person within 1 hour; wildfire mitigation certification is required (Ord. 2023-02, Secs. 5-6). — [[6]](https://assets.bouldercounty.gov/wp-content/uploads/2023/09/Ord-2023-2-Short-Term-Dwelling-Licensing-in-Unincorporated-Boulder-County.pdf) *(verified)*
+- Guest cabins or ADUs can't be STRs (only historic ADUs). Multiple rental cabins would be a 'Resort Lodge, Conference Center, or Guest Ranch', which is by Special Review in F and MI and limited to legally existing uses in A (Sec. 4-507). — [[2]](https://assets.bouldercounty.gov/wp-content/uploads/2017/02/land-use-code-article-04.pdf) *(verified)*
+- Bottom line: a non-resident owner can rent a cabin short-term only as a licensed Vacation Rental in the F or MI mountain zones. — [[2]](https://assets.bouldercounty.gov/wp-content/uploads/2017/02/land-use-code-article-04.pdf), [[6]](https://assets.bouldercounty.gov/wp-content/uploads/2023/09/Ord-2023-2-Short-Term-Dwelling-Licensing-in-Unincorporated-Boulder-County.pdf) *(verified)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -94,8 +124,12 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 ## Sources
 
 1. [Boulder County Planning FAQ](https://bouldercounty.gov/property-and-land/land-use/planning/frequently-asked-questions/) — primary, read
-2. [Boulder County Land Use Code Article 4 (Zoning), incl. 4-507 Lodging Uses](https://assets.bouldercounty.gov/wp-content/uploads/2017/02/land-use-code-article-04.pdf) — primary, not read in full
+2. [Boulder County Land Use Code Article 4 (Zoning), incl. 4-507 Lodging Uses](https://assets.bouldercounty.gov/wp-content/uploads/2017/02/land-use-code-article-04.pdf) — primary, read, Zoning Table; 4-507.E Vacation Rental; 4-516.H Accessory Dwelling; 4-516.Z Short-Term Rental
 3. [Boulder County Ordinance 2023-1 (fire bans and open burning)](https://assets.bouldercounty.gov/wp-content/uploads/2023/07/Ordinance-2023-1-Fire-Bans-and-Open-Burning-7.12.23.pdf) — primary, not read in full
+4. [Boulder County Land Use Code Excerpt: Exemption Plat (Art. 9-300 to 9-600)](https://assets.bouldercounty.gov/wp-content/uploads/2017/03/exemption-plat-code-excerpt.pdf) — primary, read, 9-300, 9-301, 9-400
+5. [Boulder County Land Use Code Article 6 (Planned Developments)](https://assets.bouldercounty.gov/wp-content/uploads/2017/02/land-use-code-article-06.pdf) — primary, read, 6-400 Nonurban Planned Unit Development
+6. [Ordinance 2023-02: Short-Term Dwelling Rental and Vacation Rental Licensing](https://assets.bouldercounty.gov/wp-content/uploads/2023/09/Ord-2023-2-Short-Term-Dwelling-Licensing-in-Unincorporated-Boulder-County.pdf) — primary, read, Secs. 2, 5, 6
+7. [Boulder County Short-Term and Vacation Rental Licensing](https://bouldercounty.gov/departments/community-planning-permitting/short-term-dwelling-vacation-rental-licensing/) — primary, not read in full
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

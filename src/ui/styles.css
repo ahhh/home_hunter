@@ -1274,7 +1274,24 @@ form.edit {
   border-color: var(--slate);
 }
 
+.signal-exemption-path,
+.signal-permit,
+.signal-allowed {
+  border-color: var(--pine);
+  background: var(--ok-bg);
+}
+
+.signal-full-subdivision,
+.signal-lodging-review {
+  border-color: var(--slate);
+}
+
+.signal-row .signal {
+  margin: 0 4px 4px 0;
+}
+
 .signal-restrictive,
+.signal-limited,
 .signal-paused {
   border-color: var(--exclude);
   background: var(--warn-bg);

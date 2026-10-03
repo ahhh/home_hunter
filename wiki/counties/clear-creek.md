@@ -9,14 +9,36 @@
 | County seat | Georgetown |
 | Region | Central Mountains |
 | Hipcamp signal | **Campground**: Paid camping handled as a campground/RV park or special use |
+| Splitting land | **Exemption path**: A lighter split process (exemption, minor subdivision, lot split) exists below 35 acres |
+| Cabin short-term rentals | **Limited**: Caps, owner-occupancy, zone bans or accessory-structure bans that matter for cabins |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
 | Evidence | Verified: every sourced claim was read in a primary source |
-| Date checked | 2026-09-29 |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://www.co.clear-creek.co.us/124/Planning>
+
+## Splitting land (subdivision)
+
+> Splitting is possible through a hearing-based minor subdivision (4 or fewer lots) down to 2-5 acre zone minimums, except 35-acre MR-LT land. A cabin can be an Airbnb with a county license, but non-resident owners compete for 163 capped licenses (2026), and an ADU can only be rented if you live on site.
+
+- Minor Subdivision (Article 7) creates four or fewer new parcels through Planning Commission and BOCC hearings; the county can require full subdivision if it's used repeatedly to dodge platting. — [[6]](https://www.clearcreekcounty.us/DocumentCenter/View/990/Printable-Subdivision-Regs) *(verified)*
+- Article 15 exemptions include Lot Combination, Exemption by Resolution (for unique divisions the BOCC finds outside the purpose of 'subdivision', after a public hearing), and exemptions to cure certain illegal divisions. — [[6]](https://www.clearcreekcounty.us/DocumentCenter/View/990/Printable-Subdivision-Regs) *(verified)*
+- New lots must meet zone minimums: MR-1 2 acres, MR-5 5 acres, MR-LT 35 acres, AG 5 acres. — [[5]](https://clearcreekcounty.us/DocumentCenter/View/927/Full-Zoning-Regulations?bidId=) *(verified)*
+- Bottom line: possible with review (hearing-based minor subdivision) down to the 2-5 acre zone minimums; MR-LT land can't go below 35 acres without rezoning. — [[6]](https://www.clearcreekcounty.us/DocumentCenter/View/990/Printable-Subdivision-Regs), [[5]](https://clearcreekcounty.us/DocumentCenter/View/927/Full-Zoning-Regulations?bidId=) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- Main rural zones: MR-1 (2-acre minimum for new parcels), MR-5 (5 acres), MR-LT (35 acres), and AG (5 acres per dwelling). — [[5]](https://clearcreekcounty.us/DocumentCenter/View/927/Full-Zoning-Regulations?bidId=) *(verified)*
+- One Accessory Dwelling Unit is allowed per residential parcel: 1 bedroom under 35 acres, 2 bedrooms on 35+ acres; max 1,500 sq ft or 50% of the main house (750 sq ft under 2 acres). — [[5]](https://clearcreekcounty.us/DocumentCenter/View/927/Full-Zoning-Regulations?bidId=) *(verified)*
+- The ADU must share the well, septic, power and driveway with the main house and needs proof of a legal water supply. — [[5]](https://clearcreekcounty.us/DocumentCenter/View/927/Full-Zoning-Regulations?bidId=) *(verified)*
+- The zoning text read is the 2020 compiled version; check for later amendments. — [[5]](https://clearcreekcounty.us/DocumentCenter/View/927/Full-Zoning-Regulations?bidId=) *(verified)*
 
 ## Private (non-commercial) camping
 
@@ -40,7 +62,13 @@
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- All STRs (<30 days) need an annual county license under Ordinance 19 (adopted Dec 2024), which replaced the old zoning STR permit. — [[3]](https://clearcreekcounty.us/DocumentCenter/View/15238/Ordinance-19), [[4]](https://www.clearcreekcounty.us/910/Short-Term-Rentals) *(verified)*
+- Standard (non-primary-residence) licenses are capped at 4.5% of residences: 163 available for 2026, with a first-come waitlist (a Life Safety Inspection is needed to get on it). A standard STR can't adjoin or face another standard STR across a road. — [[3]](https://clearcreekcounty.us/DocumentCenter/View/15238/Ordinance-19), [[4]](https://www.clearcreekcounty.us/910/Short-Term-Rentals) *(verified)*
+- Primary-residence licenses are uncapped: 'Occupied' (rent part of the home you live in, or rent the permitted ADU while living in the main house) and 'Seasonal' (rent the whole home up to 90 days/yr; ADUs not eligible). — [[3]](https://clearcreekcounty.us/DocumentCenter/View/15238/Ordinance-19) *(verified)*
+- So a detached ADU/guest cabin can be an STR only if the owner lives on the property full-time (9+ months/yr); an absentee owner gets at most one capped standard license per dwelling. — [[3]](https://clearcreekcounty.us/DocumentCenter/View/15238/Ordinance-19) *(verified)*
+- Yurts, tents, primitive structures, RVs, campers and other temporary structures may not be STRs. Occupancy follows the septic permit (typically 2 per bedroom); 1 parking space per bedroom; liability insurance required. — [[3]](https://clearcreekcounty.us/DocumentCenter/View/15238/Ordinance-19), [[4]](https://www.clearcreekcounty.us/910/Short-Term-Rentals) *(verified)*
+- Several rental cabins on one parcel would be lodging or commercial camping, which need commercial zoning (e.g. C-TR/C-OR) rather than a residential zone. — [[5]](https://clearcreekcounty.us/DocumentCenter/View/927/Full-Zoning-Regulations?bidId=) *(verified)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -95,6 +123,10 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 
 1. [Clear Creek County Zoning Regulations, Section 21 (Camping)](https://www.clearcreekcounty.us/DocumentCenter/View/10359/Section_21) — primary, read, 2103-2105
 2. [Camping in Clear Creek County](https://www.clearcreekcounty.us/625/Camping) — primary, read
+3. [Clear Creek County Ordinance No. 19, Licensing of Short-Term Rentals (Dec 2024)](https://clearcreekcounty.us/DocumentCenter/View/15238/Ordinance-19) — primary, read, Sec. 1-4, 7
+4. [Clear Creek County: Short Term Rental Licenses](https://www.clearcreekcounty.us/910/Short-Term-Rentals) — primary, read
+5. [Clear Creek County Zoning Regulations (full, Feb 2020 compilation)](https://clearcreekcounty.us/DocumentCenter/View/927/Full-Zoning-Regulations?bidId=) — primary, read, Sec. 206.2, 210-212, 402
+6. [Clear Creek County Subdivision Regulations](https://www.clearcreekcounty.us/DocumentCenter/View/990/Printable-Subdivision-Regs) — primary, read, Art. 7, Art. 15 (1504)
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

@@ -50,6 +50,20 @@ EVIDENCE = {
     "partial": "Partly verified: some claims read in primary sources; the rest need confirmation",
     "unverified": "Needs confirmation: from official pages and search summaries; code text not read",
 }
+SUBDIVISION_SIGNALS = {
+    "Exemption path": "A lighter split process (exemption, minor subdivision, lot split) exists below 35 acres",
+    "Full subdivision": "Any split below 35 acres goes through full subdivision review",
+    "Restrictive": "Large zone minimums or county rules make splitting rare, even at 35+ acres",
+    "Unclear": "Not researched, or the rules weren't found online",
+}
+STR_SIGNALS = {
+    "Permit": "County short-term rental permit or license program",
+    "Allowed": "No STR rules found; renting a permitted dwelling is treated as a residential use",
+    "Limited": "Caps, owner-occupancy, zone bans or accessory-structure bans that matter for cabins",
+    "Lodging review": "Short-term guests only through a lodging, B&B or resort approval",
+    "Unclear": "Not researched, or the rules weren't found online",
+}
+UNFINISHED = "Research unfinished: this county wasn't covered in the October 2026 pass."
 TOPICS = [
     ("private", "Private (non-commercial) camping"),
     ("commercial", "Paid camping / campground pathway"),
@@ -71,8 +85,15 @@ def claim_status(ids: List[str], sources: Dict[str, dict]) -> str:
 
 def all_claims(c: dict) -> List[list]:
     claims = [cl for key, _ in TOPICS for cl in c[key]]
-    claims += [c[k] for k in ("rv", "str", "water") if c.get(k)]
+    claims += [c[k] for k in ("rv", "water") if c.get(k)]
+    claims += [cl for k in ("subdivision", "zoning", "str") for cl in str_claims(c, k)]
     return claims
+
+
+def str_claims(c: dict, key: str) -> List[list]:
+    """Land-topic claims. `str` used to hold a single claim; it now holds a list like the others."""
+    v = c.get(key) or []
+    return [v] if v and isinstance(v[0], str) else v
 
 
 def evidence(c: dict) -> str:
@@ -92,6 +113,10 @@ def validate(counties: Dict[str, dict], names: List[str]) -> None:
     for name, c in counties.items():
         if c["signal"] not in SIGNALS:
             sys.exit(f"{name}: unknown signal {c['signal']!r}")
+        if c.get("subdivisionSignal", "Unclear") not in SUBDIVISION_SIGNALS:
+            sys.exit(f"{name}: unknown subdivisionSignal {c['subdivisionSignal']!r}")
+        if c.get("strSignal", "Unclear") not in STR_SIGNALS:
+            sys.exit(f"{name}: unknown strSignal {c['strSignal']!r}")
         for text, ids in all_claims(c):
             for i in ids:
                 if i not in c["sources"]:
@@ -103,7 +128,8 @@ def validate(counties: Dict[str, dict], names: List[str]) -> None:
             sys.exit(f"{name}: needs at least one primary source")
 
 
-def render_county(name: str, area: dict, profile: dict, c: dict, checked: str, next_review: str, incentive_section: str) -> str:
+def render_county(name: str, area: dict, profile: dict, c: dict, checked: str, next_review: str, incentive_section: str,
+                  land_checked: str = "") -> str:
     sources = dict(c["sources"])
     if name in NO_BUILDING_DEPT:
         sources["doh"] = DOH_SOURCE
@@ -130,8 +156,12 @@ def render_county(name: str, area: dict, profile: dict, c: dict, checked: str, n
                 if name in NO_BUILDING_DEPT else
                 "- County building department (or the town's inside town limits). Confirm the adopted code edition, "
                 "and the wildfire resiliency code if the parcel is in the WUI.")
-    str_line = bullets([c["str"]]) if c.get("str") else (
+    str_line = bullets(str_claims(c, "str")) if c.get("str") else (
         "- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.")
+    sub_signal, str_signal = c.get("subdivisionSignal", "Unclear"), c.get("strSignal", "Unclear")
+    subdivision = bullets(str_claims(c, "subdivision")) or f"- {UNFINISHED} Ask Planning how a parcel can be split."
+    zoning = bullets(str_claims(c, "zoning")) or f"- {UNFINISHED} Get the zone district and its use table from Planning."
+    land_summary = f"> {c.get('landSummary', UNFINISHED)}\n\n"
     water_section = f"\n## Water\n\n{bullets([c['water']])}\n" if c.get("water") else ""
 
     src_lines = []
@@ -152,14 +182,28 @@ def render_county(name: str, area: dict, profile: dict, c: dict, checked: str, n
 | County seat | {profile.get('countySeat', '')} |
 | Region | {profile.get('region', '')} |
 | Hipcamp signal | **{c['signal']}**: {SIGNALS[c['signal']]} |
+| Splitting land | **{sub_signal}**: {SUBDIVISION_SIGNALS[sub_signal]} |
+| Cabin short-term rentals | **{str_signal}**: {STR_SIGNALS[str_signal]} |
 | Municipality check required? | {muni} |
 | Evidence | {EVIDENCE[evidence(c)]} |
-| Date checked | {checked} |
+| Date checked | {checked} (camping){f"; {land_checked} (splitting, zoning, STR)" if c.get("landSummary") and land_checked else ""} |
 | Next review | {next_review} |
 
 ## Planning & zoning
 
 - Department: <{c['planning']}>
+
+## Splitting land (subdivision)
+
+{land_summary}{subdivision}
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+{zoning}
 
 ## {TOPICS[0][1]}
 
@@ -181,6 +225,7 @@ def render_county(name: str, area: dict, profile: dict, c: dict, checked: str, n
 ## Short-term rental / lodging rules
 
 {str_line}
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -234,6 +279,27 @@ def render_matrix(rows: List[tuple]) -> str:
         lines.append(f"| [{name}]({slug(name)}.md) | {region} | {c['signal']} | {ev_short[evidence(c)]} | {c['summary']} |")
     lines += [
         "",
+        "## Splitting land & cabin rentals",
+        "",
+        "What each county allows for dividing a parcel and for renting a cabin short-term (Airbnb/VRBO).",
+        "State-level rules are on [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).",
+        "",
+        "| Splitting signal | Meaning |",
+        "|---|---|",
+        *[f"| **{k}** | {v} |" for k, v in SUBDIVISION_SIGNALS.items()],
+        "",
+        "| Cabin STR signal | Meaning |",
+        "|---|---|",
+        *[f"| **{k}** | {v} |" for k, v in STR_SIGNALS.items()],
+        "",
+        "| County | Splitting land | Cabin STR | Summary |",
+        "|---|---|---|---|",
+    ]
+    for name, _, c in rows:
+        lines.append(f"| [{name}]({slug(name)}.md) | {c.get('subdivisionSignal', 'Unclear')} | "
+                     f"{c.get('strSignal', 'Unclear')} | {c.get('landSummary', UNFINISHED)} |")
+    lines += [
+        "",
         "## Editing",
         "",
         "County pages are generated. Change `pipelines/hosting/counties.json`, then run",
@@ -264,7 +330,8 @@ def build() -> Dict[Path, str]:
         name = area["name"].removesuffix(" County")
         c, profile = counties[name], profiles.get(area["id"], {})
         section = incentives.render_section(name, programs, zones[name])
-        out[WIKI_DIR / f"{slug(name)}.md"] = render_county(name, area, profile, c, data["checkedAt"], data["nextReview"], section)
+        out[WIKI_DIR / f"{slug(name)}.md"] = render_county(name, area, profile, c, data["checkedAt"], data["nextReview"], section,
+                                                                data.get("landCheckedAt", ""))
         rows.append((name, profile.get("region", ""), c))
         primary = [s for s in c["sources"].values() if s["kind"] == "primary"]
         primary.sort(key=lambda s: not s.get("read"))  # sources we actually read first
@@ -280,6 +347,11 @@ def build() -> Dict[Path, str]:
                 for s in primary[:3]
             ],
             "incentives": incentives.panel_record(zones[name]),
+            "land": {
+                "subdivisionSignal": c.get("subdivisionSignal", "Unclear"),
+                "strSignal": c.get("strSignal", "Unclear"),
+                "summary": c.get("landSummary", UNFINISHED),
+            },
         })
     out[WIKI_DIR / "README.md"] = render_matrix(rows)
     out[WIKI_DIR.parent / "18-incentive-zones.md"] = incentives.render_statewide(

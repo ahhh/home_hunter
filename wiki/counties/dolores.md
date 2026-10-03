@@ -9,14 +9,37 @@
 | County seat | Dove Creek |
 | Region | Southwest |
 | Hipcamp signal | **Unclear**: No specific camping provision found yet |
+| Splitting land | **Exemption path**: A lighter split process (exemption, minor subdivision, lot split) exists below 35 acres |
+| Cabin short-term rentals | **Allowed**: No STR rules found; renting a permitted dwelling is treated as a residential use |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
-| Evidence | Needs confirmation: from official pages and search summaries; code text not read |
-| Date checked | 2026-09-29 |
+| Evidence | Partly verified: some claims read in primary sources; the rest need confirmation |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://dolocnty.colorado.gov/departments>
+
+## Splitting land (subdivision)
+
+> Splitting has historically been easy via a cheap BOCC subdivision exemption (about 3 acres per home), but new land-use and subdivision applications were paused in June 2026 while the code is rewritten. No county STR rules were found, so renting a legal cabin appears allowed.
+
+- The county's Subdivision Exemption Policy (adopted 2002, amended Mar 7, 2005) lets the Board of County Commissioners exempt splits that create parcels under 35 acres. Each parcel under 35 ac counts as one exemption; more than two in one application needs a Planning Commission recommendation. — [[2]](https://dolocnty.colorado.gov/sites/g/files/lrnvjt3251/files/documents/2023-Subdivision-Exemption-Permit.pdf) *(verified)*
+- Exempted parcels should meet a density of 3 acres per dwelling (1 acre with central water or sewer; 10,000 sq ft with both), and length should not exceed 2.5x width. — [[2]](https://dolocnty.colorado.gov/sites/g/files/lrnvjt3251/files/documents/2023-Subdivision-Exemption-Permit.pdf) *(verified)*
+- Each new parcel needs public-road access (a 60-ft access easement if not on a county road), a potable water source (a cistern is acceptable), a septic permit or sewage disposal report, and a surveyed exemption plat. The fee is $450 plus recording. — [[2]](https://dolocnty.colorado.gov/sites/g/files/lrnvjt3251/files/documents/2023-Subdivision-Exemption-Permit.pdf) *(verified)*
+- Owners generally can't get another exemption on the same land for 5 years. The restriction runs with the land and is noted on the plat; the BOCC may waive it. — [[2]](https://dolocnty.colorado.gov/sites/g/files/lrnvjt3251/files/documents/2023-Subdivision-Exemption-Permit.pdf) *(verified)*
+- On June 16, 2026 the county adopted a four-month moratorium (Res. 06-36-02) on accepting new land-use and subdivision applications while it rewrites subdivision regulations dating to 1998. It should expire around mid-October 2026; rules may change after. — [[4]](https://citizenportal.ai/articles/9946119/Colorado/Dolores-County/Board-adopts-four-month-moratorium-on-land-use-and-subdivision-applications-to-update-county-code) *(needs confirmation)*
+- Bottom line: historically easy (a simple BOCC exemption down to ~3 ac per home), but new applications are paused and the rules are being rewritten in 2026. — [[2]](https://dolocnty.colorado.gov/sites/g/files/lrnvjt3251/files/documents/2023-Subdivision-Exemption-Permit.pdf), [[4]](https://citizenportal.ai/articles/9946119/Colorado/Dolores-County/Board-adopts-four-month-moratorium-on-land-use-and-subdivision-applications-to-update-county-code) *(needs confirmation)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- No county zoning districts or zoning map were found online; the county appears to rely on subdivision/land-use regulations and septic permits rather than zone districts. Confirm with the county. — *lead only, no source yet*
+- The exemption policy's density standard (3 acres per dwelling unless on central water/sewer) is the main per-dwelling limit found. — [[2]](https://dolocnty.colorado.gov/sites/g/files/lrnvjt3251/files/documents/2023-Subdivision-Exemption-Permit.pdf) *(verified)*
+- Not found online: rules on ADUs or multiple dwellings per parcel. Ask the county (970-677-2383). — *lead only, no source yet*
 
 ## Private (non-commercial) camping
 
@@ -33,11 +56,13 @@
 ## RVs, tiny homes & structures
 
 - Not confirmed. Most Colorado counties treat RVs as temporary/recreational, not dwellings. See [Structures, Tiny Homes & RVs](../09-structures-tiny-homes-rvs.md).
-- **No building department.** DOH inspects foundations for manufactured, tiny and factory-built homes. State electrical and plumbing permits still apply. — [[2]](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) *(verified)*
+- **No building department.** DOH inspects foundations for manufactured, tiny and factory-built homes. State electrical and plumbing permits still apply. — [[6]](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) *(verified)*
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- No county STR license, permit or regulation was found for unincorporated Dolores County. The Town of Dolores (in Montezuma County) and the Town of Rico have their own STR rules; those don't apply to county land. — *lead only, no source yet*
+- With no STR regime, renting a legal dwelling short-term appears to be allowed. You still need a county septic permit, driveway/access permit and state sales/lodging tax registration. Multiple rental cabins or a campground may need land-use review; ask the county. — *lead only, no source yet*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -84,7 +109,11 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 ## Sources
 
 1. [Dolores County departments (Development and Land Use Regulations on request)](https://dolocnty.colorado.gov/departments) — primary, not read in full
-2. [Division of Housing: jurisdictions without building departments](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) — primary, read
+2. [Dolores County Policy on Subdivision Exemptions & Application (amended Mar 7, 2005)](https://dolocnty.colorado.gov/sites/g/files/lrnvjt3251/files/documents/2023-Subdivision-Exemption-Permit.pdf) — primary, read, Para. 1.a-1.h, 3
+3. [Dolores County: Application for Subdivision Exemption](https://dolocnty.colorado.gov/application-for-subdivision-exemption) — primary, read
+4. [Citizen Portal: Board adopts four-month moratorium on land-use and subdivision applications (Jun 16, 2026)](https://citizenportal.ai/articles/9946119/Colorado/Dolores-County/Board-adopts-four-month-moratorium-on-land-use-and-subdivision-applications-to-update-county-code) — **secondary**, read
+5. [Citizen Portal: Resident asks whether 35-acre family split requires full subdivision (Nov 3, 2025)](https://citizenportal.ai/articles/8545061/colorado/dolores-county/resident-asks-whether-35-acre-family-split-requires-full-subdivision-planning-staff-say-exemptions-have-been-used) — **secondary**, read
+6. [Division of Housing: jurisdictions without building departments](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) — primary, read
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

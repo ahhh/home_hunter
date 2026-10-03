@@ -9,14 +9,30 @@
 | County seat | Broomfield |
 | Region | Front Range |
 | Hipcamp signal | **Restrictive**: A rule found limits paid camping, RV occupancy or camping-unit rentals |
+| Splitting land | **Unclear**: Not researched, or the rules weren't found online |
+| Cabin short-term rentals | **Unclear**: Not researched, or the rules weren't found online |
 | Municipality check required? | No. City and county are the same government, so the municipal code *is* the county code. |
 | Evidence | Needs confirmation: from official pages and search summaries; code text not read |
-| Date checked | 2026-09-29 |
+| Date checked | 2026-09-29 (camping) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://www.broomfield.org/>
+
+## Splitting land (subdivision)
+
+> Research unfinished: this county wasn't covered in the October 2026 pass.
+
+- Research unfinished: this county wasn't covered in the October 2026 pass. Ask Planning how a parcel can be split.
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- Research unfinished: this county wasn't covered in the October 2026 pass. Get the zone district and its use table from Planning.
 
 ## Private (non-commercial) camping
 
@@ -38,6 +54,7 @@
 ## Short-term rental / lodging rules
 
 - Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities

@@ -9,14 +9,35 @@
 | County seat | Fairplay |
 | Region | Central Mountains |
 | Hipcamp signal | **Restrictive**: A rule found limits paid camping, RV occupancy or camping-unit rentals |
+| Splitting land | **Exemption path**: A lighter split process (exemption, minor subdivision, lot split) exists below 35 acres |
+| Cabin short-term rentals | **Permit**: County short-term rental permit or license program |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
-| Evidence | Verified: every sourced claim was read in a primary source |
-| Date checked | 2026-09-29 |
+| Evidence | Partly verified: some claims read in primary sources; the rest need confirmation |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://parkcountyco.gov/189/Land-Use-Regulations>
+
+## Splitting land (subdivision)
+
+> Splitting is possible: 35+ acre splits are exempt, and a once-only minor subdivision makes up to 8 lots meeting zone minimums. A cabin can be an Airbnb with an uncapped annual county license (Ordinance 2026-01), but RVs, yurts and tents can't be rented, and ADUs need 2+ acres.
+
+- Divisions creating parcels of 35+ acres (none for multiple owners) are statutory exemptions, but the county warns they're still subject to use, road and building-permit regulations. — [[5]](https://www.parkcountyco.gov/DocumentView.aspx?DID=268) *(verified)*
+- A Minor Subdivision divides a parcel into 8 or fewer lots, but only if the parcel hasn't been previously subdivided, isn't PUD land, and creates no nonconforming lots. — [[5]](https://www.parkcountyco.gov/DocumentView.aspx?DID=268) *(verified)*
+- Other exemptions are boundary line adjustments of metes-and-bounds parcels and lot consolidations; they don't create new lots. — [[5]](https://www.parkcountyco.gov/DocumentView.aspx?DID=268) *(verified)*
+- Parcels under 35 acres can't be rezoned into the Agricultural (A) district. Residential-district minimum lot area varies with slope; the exact figures didn't extract from the PDF, so check Article V. — [[4]](https://www.parkcountyco.gov/DocumentView.aspx?DID=264) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- Main rural districts are Agricultural (A, 35+ ac), Residential (R) and Mountain Residential (MR) (Land Use Regulations Article V, rev. 07/25). — [[4]](https://www.parkcountyco.gov/DocumentView.aspx?DID=264) *(verified)*
+- An ADU is allowed on lots of 2+ acres (Sec. 5-714(B)); on smaller lots a second unit is treated as a Guest House. Guest House is a listed use in the main districts' use schedules. — [[4]](https://www.parkcountyco.gov/DocumentView.aspx?DID=264) *(verified)*
+- Guest Ranch appears in the use schedules as a separate use (the multi-cabin route). — [[4]](https://www.parkcountyco.gov/DocumentView.aspx?DID=264) *(verified)*
 
 ## Private (non-commercial) camping
 
@@ -41,7 +62,12 @@
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- An annual county STR license is required under Ordinance 2026-01 (adopted June 9, 2026, effective July 19, 2026), in all zone districts of unincorporated Park County. — [[6]](https://parkcountyco.gov/AgendaCenter/ViewFile/Item/16336?fileID=7998) *(verified)*
+- The ordinance text has no cap and no owner-occupancy requirement. Licenses end on sale; a responsible agent must respond within 1 hour, 24/7. Reported fees are about $605 new and $215 renewal. — [[6]](https://parkcountyco.gov/AgendaCenter/ViewFile/Item/16336?fileID=7998), [[7]](https://www.jeffreal.com/blog/park-county-short-term-rental-rules-homeowners-buyers/) *(needs confirmation)*
+- Any building or dwelling unit can be an STR unit, but not yurts, tents, RVs or other temporary/camping structures. A Certificate of Occupancy is needed for post-1974 work, and no open permits. — [[6]](https://parkcountyco.gov/AgendaCenter/ViewFile/Item/16336?fileID=7998) *(verified)*
+- Occupancy may not exceed the permitted septic design capacity; wells/cisterns need annual potability testing; lots of 0.75 ac or less need a site inspection. — [[6]](https://parkcountyco.gov/AgendaCenter/ViewFile/Item/16336?fileID=7998) *(verified)*
+- Lodges, hotels and B&Bs are outside the STR ordinance; several rental cabins would go through Guest Ranch/lodging land-use review. — [[6]](https://parkcountyco.gov/AgendaCenter/ViewFile/Item/16336?fileID=7998), [[4]](https://www.parkcountyco.gov/DocumentView.aspx?DID=264) *(verified)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -85,6 +111,10 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 1. [Park County Camping Regulations 2021 (Resolution 2021-02)](https://www.parkcountyco.gov/DocumentCenter/View/3673/Park-County-Camping-Regulations) — primary, read
 2. [Park County FAQ: Can I camp on my property?](https://www.parkcountyco.gov/FAQ.aspx?QID=160) — primary, read
 3. [Park County fire ban ordinance 2021-04](https://www.parkcountyco.gov/AgendaCenter/ViewFile/Item/10184?fileID=4934) — primary, not read in full
+4. [Park County Land Use Regulations Article V - Zoning and Use Regulations (rev. 07/25)](https://www.parkcountyco.gov/DocumentView.aspx?DID=264) — primary, read, Sec. 5-301, 5-304, 5-714(B)
+5. [Park County Land Use Regulations Article VI - Subdivision Regulations](https://www.parkcountyco.gov/DocumentView.aspx?DID=268) — primary, read, Sec. 6-101, 6-300
+6. [Park County Short-Term Rental Ordinance (Ordinance 2026-01, April 7, 2026 version in BOCC packet)](https://parkcountyco.gov/AgendaCenter/ViewFile/Item/16336?fileID=7998) — primary, read, Sec. 3, 4, 7
+7. [Park County Short-Term Rental Rules (realtor blog)](https://www.jeffreal.com/blog/park-county-short-term-rental-rules-homeowners-buyers/) — **secondary**, not read in full
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

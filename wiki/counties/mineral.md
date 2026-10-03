@@ -9,14 +9,35 @@
 | County seat | Creede |
 | Region | San Luis Valley |
 | Hipcamp signal | **Campground**: Paid camping handled as a campground/RV park or special use |
+| Splitting land | **Restrictive**: Large zone minimums or county rules make splitting rare, even at 35+ acres |
+| Cabin short-term rentals | **Limited**: Caps, owner-occupancy, zone bans or accessory-structure bans that matter for cabins |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
-| Evidence | Needs confirmation: from official pages and search summaries; code text not read |
-| Date checked | 2026-09-29 |
+| Evidence | Partly verified: some claims read in primary sources; the rest need confirmation |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://www.mineralcountycolorado.com/land-use-office/page/land-use-regulations>
+
+## Splitting land (subdivision)
+
+> Rural Mineral County land has a 35-acre minimum for homes, so splits below that need rezoning. A minor subdivision of up to 8 lots exists, with a 15-year no-resplit rule. One cabin per property can be an Airbnb by right, but only one STR unit is allowed, and multiple rental cabins need Recreational Resort zoning.
+
+- Rural (RU) land has a 35-acre minimum lot area and 600-ft width for permitted uses like a home. Conditional uses may use 5 acres (Zoning Sec. 2.1(C)). Residential Estate is 5 acres per dwelling, Residential 3 acres, and Alpine 5 acres. — [[3]](https://www.mineralcountycolorado.com/sites/g/files/vyhlif13131/files/media/land-use-office/file/3071/mineral_county_zoning_regulations_2025.pdf) *(verified)*
+- Alpine zone (patented mining claims): subdivision exemptions 'should not be granted' except where a claim is isolated or already physically divided by a significant natural feature (Sec. 2.10(F)(2)). — [[3]](https://www.mineralcountycolorado.com/sites/g/files/vyhlif13131/files/media/land-use-office/file/3071/mineral_county_zoning_regulations_2025.pdf) *(verified)*
+- Reported from the county's Subdivision Regulations Art. VII: a Minor Subdivision can create up to 7 more parcels (8 total). Parcels made by minor subdivision or exemption can't be divided again for 15 years, and no parcel may be smaller than the zone minimum. The county site blocked automated reads, so confirm. — [[5]](https://www.mineralcountycolorado.com/media/476), [[4]](https://www.mineralcountycolorado.com/media/481) *(needs confirmation)*
+- Since new lots can't go below the zone minimum, getting under 35 acres on RU land would require rezoning, e.g. to Residential Estate. — [[3]](https://www.mineralcountycolorado.com/sites/g/files/vyhlif13131/files/media/land-use-office/file/3071/mineral_county_zoning_regulations_2025.pdf) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- RU allows one one-unit or multi-unit dwelling by right. A second dwelling is a Conditional Use and expressly 'not available for short-term rental' (Sec. 2.1(A)-(B)). — [[3]](https://www.mineralcountycolorado.com/sites/g/files/vyhlif13131/files/media/land-use-office/file/3071/mineral_county_zoning_regulations_2025.pdf) *(verified)*
+- A 'Guest House not exceeding 1,000 sq ft' appears in the district use chart. Minimum dwelling footprint is 500 sq ft (Sec. 2.1(G); use chart). — [[3]](https://www.mineralcountycolorado.com/sites/g/files/vyhlif13131/files/media/land-use-office/file/3071/mineral_county_zoning_regulations_2025.pdf) *(verified)*
+- Alpine zone: one single-unit dwelling per parcel with approved septic, earth-tone and non-reflective exterior, a single access, and no county road maintenance obligation above 9,400 ft (Sec. 2.10). — [[3]](https://www.mineralcountycolorado.com/sites/g/files/vyhlif13131/files/media/land-use-office/file/3071/mineral_county_zoning_regulations_2025.pdf) *(verified)*
 
 ## Private (non-commercial) camping
 
@@ -33,11 +54,15 @@
 ## RVs, tiny homes & structures
 
 - Not confirmed. Most Colorado counties treat RVs as temporary/recreational, not dwellings. See [Structures, Tiny Homes & RVs](../09-structures-tiny-homes-rvs.md).
-- **No building department.** DOH inspects foundations for manufactured, tiny and factory-built homes. State electrical and plumbing permits still apply. — [[3]](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) *(verified)*
+- **No building department.** DOH inspects foundations for manufactured, tiny and factory-built homes. State electrical and plumbing permits still apply. — [[7]](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) *(verified)*
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- Short-term rental (an entire one-unit dwelling for under 30 days) is a use by right in RU, RE, R, Alpine and other districts, but only one STR unit is allowed per property (Sec. 2.1(A)(5), 2.3, 2.4, 2.10(A)(5); Art. 12 def.). — [[3]](https://www.mineralcountycolorado.com/sites/g/files/vyhlif13131/files/media/land-use-office/file/3071/mineral_county_zoning_regulations_2025.pdf) *(verified)*
+- The one STR can be the main dwelling, an accessory dwelling, or one unit of a multi-unit dwelling. A second dwelling approved as a conditional use in RU can't be rented short-term (Sec. 2.1(B)(7)). — [[3]](https://www.mineralcountycolorado.com/sites/g/files/vyhlif13131/files/media/land-use-office/file/3071/mineral_county_zoning_regulations_2025.pdf) *(verified)*
+- No separate county STR license was found in the zoning regulations. The City of Creede requires STR registration ($250) starting Jul 1, 2026, but only inside city limits. — [[3]](https://www.mineralcountycolorado.com/sites/g/files/vyhlif13131/files/media/land-use-office/file/3071/mineral_county_zoning_regulations_2025.pdf), [[6]](https://cityofcreede.gov/uploads/short-term-rental-registration-form.pdf) *(needs confirmation)*
+- Several rental cabins need the Recreational Resort (RR) district ('resort type hotel, motel, cabin accommodations') or a Bed & Breakfast conditional use (Sec. 2.2, 2.1(B)(25)). — [[3]](https://www.mineralcountycolorado.com/sites/g/files/vyhlif13131/files/media/land-use-office/file/3071/mineral_county_zoning_regulations_2025.pdf) *(verified)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -85,7 +110,11 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 
 1. [Mineral County Mobile Home Park / RV Park & Campground Regulations](https://www.mineralcountycolorado.com/media/466) — primary, not read in full
 2. [Mineral County Land Use Regulations](https://www.mineralcountycolorado.com/land-use-office/page/land-use-regulations) — primary, not read in full
-3. [Division of Housing: jurisdictions without building departments](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) — primary, read
+3. [Zoning Regulations of Mineral County (amended through Jan 2025)](https://www.mineralcountycolorado.com/sites/g/files/vyhlif13131/files/media/land-use-office/file/3071/mineral_county_zoning_regulations_2025.pdf) — primary, read, Sec. 1.6, 2.1-2.4, 2.10, Art. 12 defs
+4. [Mineral County Subdivision Regulations (adopted Feb 7, 1972)](https://www.mineralcountycolorado.com/media/481) — primary, not read in full
+5. [Mineral County Subdivision Regs. Art. VII Minor Subdivision Permit Process](https://www.mineralcountycolorado.com/media/476) — primary, not read in full
+6. [City of Creede Short Term Rental License Application](https://cityofcreede.gov/uploads/short-term-rental-registration-form.pdf) — primary, not read in full
+7. [Division of Housing: jurisdictions without building departments](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) — primary, read
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

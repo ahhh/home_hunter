@@ -9,14 +9,36 @@
 | County seat | Lamar |
 | Region | Eastern Plains |
 | Hipcamp signal | **Unclear**: No specific camping provision found yet |
+| Splitting land | **Exemption path**: A lighter split process (exemption, minor subdivision, lot split) exists below 35 acres |
+| Cabin short-term rentals | **Unclear**: Not researched, or the rules weren't found online |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
-| Evidence | Needs confirmation: from official pages and search summaries; code text not read |
-| Date checked | 2026-09-29 |
+| Evidence | Partly verified: some claims read in primary sources; the rest need confirmation |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://www.prowersco.gov/departments/landuse>
+
+## Splitting land (subdivision)
+
+> Splits under 35 acres are possible through a Board exemption or a minor subdivision of up to five lots, though the ag zones list a 35-acre-plus minimum with an unconfirmed exception. Short-term rental rules couldn't be confirmed; guest houses appear to be allowed by right, and commercial lodging likely needs a Special Use Permit.
+
+- The Board of County Commissioners may exempt a division by resolution and can require a survey-grade exemption plat, title search, impact fees, technical reports and road improvements (Subdivision Regs, definitions §D). — [[2]](https://www.prowersco.gov/media/land-use/Prowers_County_Subdivision_Regulations.pdf) *(verified)*
+- Exemptions are recommended by the Planning Commission and approved by the Board. The fee is $100. — [[5]](https://www.prowersco.gov/media/land-use-forms/Subdivision_Exemption_Application_Fillable.pdf), [[2]](https://www.prowersco.gov/media/land-use/Prowers_County_Subdivision_Regulations.pdf) *(verified)*
+- A minor subdivision allows up to five lots under 35 acres each that need no county-funded improvements. Lots need water (a well permit), workable sewage disposal, legal public access and conformity with zoning (Sec. VIII-2). — [[2]](https://www.prowersco.gov/media/land-use/Prowers_County_Subdivision_Regulations.pdf) *(verified)*
+- Cluster subdivisions under C.R.S. 30-28-401 are available at a base density of one home per 17.5 acres (two per 35), with density incentives (Sec. VIII-3). — [[2]](https://www.prowersco.gov/media/land-use/Prowers_County_Subdivision_Regulations.pdf) *(verified)*
+- The A-1, A-2 and A-3 agricultural zones list a minimum lot area of 'more than 35 acres*' on the zoning permit forms. The asterisked exception wasn't readable online. — [[3]](https://www.prowersco.gov/media/zoning-permits/Zoning_Permit_A_2.pdf) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- The rural zones are A-1 Irrigated, A-2 Non-Irrigated and A-3 Fragile Land, each with a 35-acre-plus minimum lot, 50-foot front setback and 25% lot coverage. — [[3]](https://www.prowersco.gov/media/zoning-permits/Zoning_Permit_A_2.pdf) *(verified)*
+- A zoning permit (separate from a building permit) is required before building, moving or altering any structure. Commercial ventures may need rezoning or a Special Use Permit. — [[4]](https://www.prowersco.gov/media/land-use/Prowers__County_Permitting_Guide.pdf) *(verified)*
+- Per a search-engine excerpt of the 2023 Zoning Regulations, 'Guest House' is a use by right in A-1 and A-2. The regulations PDF wasn't retrievable to confirm the rental terms. — [[1]](https://www.prowersco.gov/departments/landuse/ZoningRegulationsandInformation) *(needs confirmation)*
 
 ## Private (non-commercial) camping
 
@@ -33,11 +55,14 @@
 ## RVs, tiny homes & structures
 
 - Not confirmed. Most Colorado counties treat RVs as temporary/recreational, not dwellings. See [Structures, Tiny Homes & RVs](../09-structures-tiny-homes-rvs.md).
-- **No building department.** DOH inspects foundations for manufactured, tiny and factory-built homes. State electrical and plumbing permits still apply. — [[2]](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) *(verified)*
+- **No building department.** DOH inspects foundations for manufactured, tiny and factory-built homes. State electrical and plumbing permits still apply. — [[6]](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) *(verified)*
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- No short-term rental rules were found. The Zoning Regulations (rev. Dec 5, 2023) couldn't be fetched to confirm. — [[1]](https://www.prowersco.gov/departments/landuse/ZoningRegulationsandInformation) *(needs confirmation)*
+- The county's permitting guide says commercial ventures may need rezoning or a Special Use Permit, which would likely apply to multi-cabin lodging. — [[4]](https://www.prowersco.gov/media/land-use/Prowers__County_Permitting_Guide.pdf) *(verified)*
+- The county has a lodging tax with a Tourism Panel, so taxable lodging exists. Ask Land Use (719-336-8988) whether a guest house can be rented short-term. — *lead only, no source yet*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -87,7 +112,11 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 ## Sources
 
 1. [Prowers County Zoning Regulations (rev. Dec 5, 2023)](https://www.prowersco.gov/departments/landuse/ZoningRegulationsandInformation) — primary, not read in full
-2. [Division of Housing: jurisdictions without building departments](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) — primary, read
+2. [Prowers County Subdivision Regulations](https://www.prowersco.gov/media/land-use/Prowers_County_Subdivision_Regulations.pdf) — primary, read, Definitions (Subdivision §D), VIII-2, VIII-3
+3. [Prowers County Zoning Permit Applications A-1/A-2/A-3 (rev. Jan 2014)](https://www.prowersco.gov/media/zoning-permits/Zoning_Permit_A_2.pdf) — primary, read
+4. [Prowers County Permitting & Development Guide](https://www.prowersco.gov/media/land-use/Prowers__County_Permitting_Guide.pdf) — primary, read
+5. [Prowers County Subdivision Exemption Application](https://www.prowersco.gov/media/land-use-forms/Subdivision_Exemption_Application_Fillable.pdf) — primary, read
+6. [Division of Housing: jurisdictions without building departments](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) — primary, read
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

@@ -9,14 +9,34 @@
 | County seat | Del Norte |
 | Region | San Luis Valley |
 | Hipcamp signal | **Restrictive**: A rule found limits paid camping, RV occupancy or camping-unit rentals |
+| Splitting land | **Exemption path**: A lighter split process (exemption, minor subdivision, lot split) exists below 35 acres |
+| Cabin short-term rentals | **Permit**: County short-term rental permit or license program |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
-| Evidence | Needs confirmation: from official pages and search summaries; code text not read |
-| Date checked | 2026-09-29 |
+| Evidence | Partly verified: some claims read in primary sources; the rest need confirmation |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://riograndecounty.colorado.gov/land-use>
+
+## Splitting land (subdivision)
+
+> Rio Grande lets you carve up to two lots of 2+ acres off a 35+ acre parcel with an administrative exempt division, and minor subdivisions allow up to 4 lots. Cabin Airbnbs are allowed in rural zones with an administrative vacation rental permit: local manager, safety equipment, lodging tax, annual renewal.
+
+- Minimum lot sizes: Agricultural Forestry (AF) 160 acres, Agricultural Ranching (AR) 35 acres, Agricultural Estate (AE) 5 acres, Rural Residential (RR) 2 acres. No new lot under 2 acres unless it's on public sewer (Table T-2.3 and note 3, rev. June 2023). — [[4]](https://riograndecounty.colorado.gov/sites/g/files/lrnvjt3586/files/documents/RGC%20Development%20Code.pdf) *(verified)*
+- An Exempt Division of Land, approved administratively, can create up to two lots of 2+ acres from a parent parcel of 35+ acres. Max two exempt divisions in 10 years while the parent stays over 35 acres. Lots created this way generally can't be split again, and each needs proof of adequate water (Sec. 4.08). — [[4]](https://riograndecounty.colorado.gov/sites/g/files/lrnvjt3586/files/documents/RGC%20Development%20Code.pdf) *(verified)*
+- A Minor Subdivision covers 4 or fewer lots, a split for a second single-family dwelling, or family homesteads on agricultural land. It goes to the Planning Commission and BOCC (Sec. 4.04; Art. 13 definition). — [[4]](https://riograndecounty.colorado.gov/sites/g/files/lrnvjt3586/files/documents/RGC%20Development%20Code.pdf) *(verified)*
+- Cluster Development (C.R.S. 30-28-401) is decided by the Land Use Administrator: single-family only, at least two-thirds open space protected for 40+ years, max 1 unit per 17.5 acres. AR land is encouraged to develop this way (Sec. 4.06, 2.03.D). — [[4]](https://riograndecounty.colorado.gov/sites/g/files/lrnvjt3586/files/documents/RGC%20Development%20Code.pdf) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- AR covers most rural ag land (35-acre minimum). AF covers the forested mountain west and south (160 acres). AE averages up to 2 units per 35 acres (5-acre minimum). RR is 2 acres (Sec. 2.03; Table T-2.3). — [[4]](https://riograndecounty.colorado.gov/sites/g/files/lrnvjt3586/files/documents/RGC%20Development%20Code.pdf) *(verified)*
+- An ADU is allowed on lots of 1+ acre and doesn't count toward the dwelling-unit limit. It's capped at 50% of the main home's floor area, needs adequate water and septic, and can't be sold separately (Sec. 2.06.B.1). — [[4]](https://riograndecounty.colorado.gov/sites/g/files/lrnvjt3586/files/documents/RGC%20Development%20Code.pdf) *(verified)*
 
 ## Private (non-commercial) camping
 
@@ -37,7 +57,12 @@
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- A 'Vacation Rental' needs administrative approval in the agricultural and residential districts (AF, AR, AE, RR, R) and a conditional use permit in commercial districts (Table T-2.2). The county has a Short Term Rental Application form. — [[4]](https://riograndecounty.colorado.gov/sites/g/files/lrnvjt3586/files/documents/RGC%20Development%20Code.pdf), [[5]](https://riograndecounty.colorado.gov/departments/land-use) *(verified)*
+- The permit is a Temporary Use Permit from the Zoning Administrator, renewed with paid-tax proof and liability insurance each year, plus HOA approval where covenants require it (Sec. 2.07.B.2.d). — [[4]](https://riograndecounty.colorado.gov/sites/g/files/lrnvjt3586/files/documents/RGC%20Development%20Code.pdf) *(verified)*
+- Standards: a legally constructed dwelling (or a titled, legally parked RV), a property manager living in Rio Grande or an adjacent county, posted occupancy and rules, extinguishers, smoke and CO alarms, a permitted driveway, on-site parking only, and county lodging tax plus state sales tax (Sec. 2.07.B.2.d(2)). — [[4]](https://riograndecounty.colorado.gov/sites/g/files/lrnvjt3586/files/documents/RGC%20Development%20Code.pdf) *(verified)*
+- No owner-occupancy rule, cap or ban on ADUs/accessory units was found. Multiple units beyond the dwelling + ADU would be 'All Other Lodging Facility' uses, allowed only in commercial/industrial districts (Table T-2.2). — [[4]](https://riograndecounty.colorado.gov/sites/g/files/lrnvjt3586/files/documents/RGC%20Development%20Code.pdf) *(verified)*
+- 2024 amendments effectively ban commercial 'dry camping'. Paid camping must meet full campground/RV park standards. — [[3]](https://www.alamosacitizen.com/rio-grande-county-adopts-dry-camping-ban/) *(needs confirmation)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -87,6 +112,8 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 1. [Rio Grande County Land Development Code](https://riograndecounty.colorado.gov/sites/riograndecounty/files/documents/RGC%20Development%20Code.pdf) — primary, not read in full
 2. [RV Park/Campground codebook amendments (Mar 15, 2024 hearing draft)](https://www.alamosacitizen.com/wp-content/uploads/2024/04/RGC-_-RV-PARK-CAMPGROUND-REGULATIONS-3.15.24.pdf) — primary, not read in full
 3. [Alamosa Citizen: Rio Grande County adopts dry camping ban](https://www.alamosacitizen.com/rio-grande-county-adopts-dry-camping-ban/) — **secondary**, not read in full
+4. [Rio Grande County Land Development Code (eff. Jan 1, 2020, rev. Jun 1, 2023)](https://riograndecounty.colorado.gov/sites/g/files/lrnvjt3586/files/documents/RGC%20Development%20Code.pdf) — primary, read, Sec. 2.03, Table T-2.2, Table T-2.3, 2.06.B.1, 2.07.B.2.d, 4.04, 4.06, 4.08, Art. 13
+5. [Rio Grande County Land Use page](https://riograndecounty.colorado.gov/departments/land-use) — primary, read
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

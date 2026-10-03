@@ -9,14 +9,36 @@
 | County seat | Cañon City |
 | Region | Southern Mountains |
 | Hipcamp signal | **Campground**: Paid camping handled as a campground/RV park or special use |
+| Splitting land | **Exemption path**: A lighter split process (exemption, minor subdivision, lot split) exists below 35 acres |
+| Cabin short-term rentals | **Allowed**: No STR rules found; renting a permitted dwelling is treated as a residential use |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
-| Evidence | Verified: every sourced claim was read in a primary source |
-| Date checked | 2026-09-29 |
+| Evidence | Partly verified: some claims read in primary sources; the rest need confirmation |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://fremontcountyco.gov/planning-and-zoning/planning-and-zoning>
+
+## Splitting land (subdivision)
+
+> Fremont allows a one-time Minor Subdivision of up to 3 lots, as long as each meets the zone minimum (4.5 acres in R2, 18 in R3). There's no STR permit program, so renting a permitted cabin appears allowed. Multiple rental cabins become a special-review guest ranch/resort use.
+
+- A Minor Subdivision creates up to 3 lots from a parent parcel. It's a one-time exemption from Sketch Plan and Preliminary Plan, and only for parcels never before exempted or platted. Four or more lots need a full major subdivision (Sketch, Preliminary, Final Plat) (Subdivision Regs. Sec. 12.A). — [[2]](https://fremontcountyco.gov/sites/default/files/Subdivision_Regs.pdf), [[3]](https://fremontcountyco.gov/sites/default/files/planning-and-zoning/application-forms/minor-subdivision-application-9-29-2016-dm.pdf) *(needs confirmation)*
+- New lots must meet the zone district's minimum lot size and width (e.g. R2 4.5 acres, R3 18 acres). — [[2]](https://fremontcountyco.gov/sites/default/files/Subdivision_Regs.pdf), [[1]](https://fremontcountyco.gov/sites/default/files/FC_Zoning_Regulations.pdf) *(verified)*
+- The Board may also grant hardship exemptions from specific requirements, but only for peculiar physical conditions, not to make more money (Subdivision Regs. Sec. 19.A). — [[2]](https://fremontcountyco.gov/sites/default/files/Subdivision_Regs.pdf) *(verified)*
+- Approvals may require road right-of-way dedication and a park/school dedication or fee in lieu (Sec. 21). — [[2]](https://fremontcountyco.gov/sites/default/files/Subdivision_Regs.pdf) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- Rural land is mostly R2 (Residential Two, 4.5-acre minimum, low-density residential and agriculture) or R3 (Residential Three, 18-acre minimum, forest/ranch land). R1 allows 1 acre with public water and septic, or 15,000 sq ft with water and sewer. The county has no separate agricultural districts. — [[1]](https://fremontcountyco.gov/sites/default/files/FC_Zoning_Regulations.pdf) *(verified)*
+- In R3, single-family homes, manufactured homes and cabins are allowed with a zoning compliance permit. Bed & breakfasts and 'Rural Recreation Facilities' (guest ranches, resorts, recreation camps) need a Special Review Use permit. — [[1]](https://fremontcountyco.gov/sites/default/files/FC_Zoning_Regulations.pdf) *(verified)*
+- One ADU per lot (max 1,250 sq ft, permit required). A recorded covenant requires the owner to live in one of the two units, bars selling the ADU separately, and says the ADU is for residential purposes only (Sec. 5.02(a)). — [[1]](https://fremontcountyco.gov/sites/default/files/FC_Zoning_Regulations.pdf) *(verified)*
+- 'Recreational cabins' are allowed only inside an approved Travel Trailer Park & Campground zone district. — [[1]](https://fremontcountyco.gov/sites/default/files/FC_Zoning_Regulations.pdf) *(verified)*
 
 ## Private (non-commercial) camping
 
@@ -39,7 +61,11 @@
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- The zoning regulations define 'Short-Term Rental' (rental of a dwelling or lodging unit for under 30 days, Ch. 1 def. 187), but no STR permit, license or standards were found in the zoning regulations or on the county site. — [[1]](https://fremontcountyco.gov/sites/default/files/FC_Zoning_Regulations.pdf) *(verified)*
+- With no STR regime, renting a permitted single-family dwelling or cabin appears to be treated as residential use. You still need the building permit, septic and well approvals. Confirm with Planning & Zoning. — *lead only, no source yet*
+- An ADU is a weak STR candidate: its covenant requires the owner to live on site and limits the ADU to residential purposes (Sec. 5.02(a)). — [[1]](https://fremontcountyco.gov/sites/default/files/FC_Zoning_Regulations.pdf) *(verified)*
+- Several rental cabins on one parcel would likely be a Bed & Breakfast or 'Rural Recreation Facility' (guest ranch/resort), which needs a Special Review Use permit in R3, or a campground in the TTP&CG zone. — [[1]](https://fremontcountyco.gov/sites/default/files/FC_Zoning_Regulations.pdf) *(verified)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -89,6 +115,8 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 ## Sources
 
 1. [Fremont County Zoning Regulations (updated Nov 12, 2024)](https://fremontcountyco.gov/sites/default/files/FC_Zoning_Regulations.pdf) — primary, read, Sec. 3.07, 3.08; Ch. 1 def. 45
+2. [Fremont County Subdivision Regulations (2000, amended 2006)](https://fremontcountyco.gov/sites/default/files/Subdivision_Regs.pdf) — primary, read, Sec. 12.A, 19.A, 21
+3. [Fremont County Minor Subdivision Application (2016)](https://fremontcountyco.gov/sites/default/files/planning-and-zoning/application-forms/minor-subdivision-application-9-29-2016-dm.pdf) — primary, not read in full
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

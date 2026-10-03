@@ -9,14 +9,36 @@
 | County seat | Kiowa |
 | Region | Eastern Plains |
 | Hipcamp signal | **Unclear**: No specific camping provision found yet |
+| Splitting land | **Exemption path**: A lighter split process (exemption, minor subdivision, lot split) exists below 35 acres |
+| Cabin short-term rentals | **Allowed**: No STR rules found; renting a permitted dwelling is treated as a residential use |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
-| Evidence | Verified: every sourced claim was read in a primary source |
-| Date checked | 2026-09-29 |
+| Evidence | Partly verified: some claims read in primary sources; the rest need confirmation |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://www.elbertcounty-co.gov/464/Zoning-Regulations>
+
+## Splitting land (subdivision)
+
+> Splitting is possible above each zone's minimum (35 acres in A, down to 2.5 acres in RA-2), with an administrative minor subdivision for up to four lots. Short-term rentals of a home or ADU are permitted in all agricultural and residential zones, so a house plus one ADU cabin works; more cabins need Special Use by Review as a guest ranch or resort.
+
+- Zoning sets the floor: A (Agricultural) has a 35-acre minimum lot, A-2 20 acres, AR and RA 10 acres, RA-1 5 acres, RA-2 2.5 acres and R-1 1 acre (Zoning Art. VI.D). Going below a zone's minimum requires rezoning first. — [[5]](https://www.elbertcounty-co.gov/DocumentCenter/View/4205/Article-VI-Dimensional-Standards-PDF) *(verified)*
+- A Minor Subdivision of one to four lots is approved administratively by the Community & Development Services Director. Each lot needs access from a public road or a county-standard private road, and a 300-year water supply must be shown (Subdivision Regs Art. VI). — [[6]](https://www.elbertcounty-co.gov/DocumentCenter/View/4141/Article-VI-Minor-Subdivision-Plat-PDF) *(verified)*
+- Using a minor subdivision to dodge full review, or creating one that adjoins and takes access through an existing subdivision, triggers the full preliminary and final plat process (Art. VI.B.3). — [[6]](https://www.elbertcounty-co.gov/DocumentCenter/View/4141/Article-VI-Minor-Subdivision-Plat-PDF) *(verified)*
+- Subdivision Exemptions are in Article IX, but the posted PDF is a scanned image that couldn't be read. Exemption criteria weren't confirmed. — [[7]](https://www.elbertcounty-co.gov/DocumentCenter/View/4144/Article-IX-Exemptions-PDF) *(needs confirmation)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- Rural zones and minimum lots: A 35 acres, A-2 20 acres, AR 10 acres, RA 10 acres, RA-1 5 acres, RA-2 2.5 acres. A-zone front setbacks are 150 feet from the road centerline (Art. VI.D). — [[5]](https://www.elbertcounty-co.gov/DocumentCenter/View/4205/Article-VI-Dimensional-Standards-PDF) *(verified)*
+- Single-family homes are permitted by right in all agricultural and residential zones (Land Use Table). — [[4]](https://www.elbertcounty-co.gov/DocumentCenter/View/5020/Article-V_51-Land-Use-Table-PDF) *(verified)*
+- One ADU is allowed per property, accessory to a single-family home. A detached ADU is by right on lots of 5+ acres, needs Minor Special Use by Review on 1-5 acres, and isn't allowed on 1 acre or less (Art. V.E.2). — [[3]](https://www.elbertcounty-co.gov/DocumentCenter/View/5019/Article-V_51-Uses-and-Supplemental-Standards-PDF) *(verified)*
+- ADU size is capped at 1,200 sq ft under 10 acres and 1,800 sq ft at 10+ acres, with no cap at 20+ acres. The ADU needs its own well and septic permit coverage and must share the main driveway (Art. V.E.2). — [[3]](https://www.elbertcounty-co.gov/DocumentCenter/View/5019/Article-V_51-Uses-and-Supplemental-Standards-PDF) *(verified)*
 
 ## Private (non-commercial) camping
 
@@ -37,7 +59,12 @@
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- Short-term rentals (1-29 nights) of a dwelling, part of a dwelling or an ADU are permitted in all Agricultural and Residential zone districts (Zoning Art. V, Sec. 28). — [[3]](https://www.elbertcounty-co.gov/DocumentCenter/View/5019/Article-V_51-Uses-and-Supplemental-Standards-PDF) *(verified)*
+- The rules require keeping the residential character, no weddings or large events without a group event permit, no unreasonable noise, no overnight guests in RVs lacking bathrooms or a permanent foundation, and owner liability insurance (Art. V, Sec. 28). — [[3]](https://www.elbertcounty-co.gov/DocumentCenter/View/5019/Article-V_51-Uses-and-Supplemental-Standards-PDF) *(verified)*
+- No separate STR license, cap, owner-occupancy rule or minimum acreage appears in the regulations. Because an ADU can be an STR, a home plus one ADU cabin can both be rented. — [[3]](https://www.elbertcounty-co.gov/DocumentCenter/View/5019/Article-V_51-Uses-and-Supplemental-Standards-PDF) *(verified)*
+- More cabins than one home plus one ADU would be a 'Resort Lodge, Guest Ranch, or Resort,' which needs Special Use by Review in the A zone. Bed & Breakfasts need Special Use by Review in the agricultural and residential zones (Land Use Table). — [[4]](https://www.elbertcounty-co.gov/DocumentCenter/View/5020/Article-V_51-Land-Use-Table-PDF) *(verified)*
+- Rules may have changed since Amendment 5.1. Confirm current short-term rental rules with Community & Development Services (303-621-3136). — *lead only, no source yet*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -81,6 +108,11 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 
 1. [Elbert County FAQ: Can I live in an RV?](https://www.elbertcounty-co.gov/FAQ.aspx?QID=155) — primary, read
 2. [Elbert County Zoning Regulations](https://www.elbertcounty-co.gov/464/Zoning-Regulations) — primary, not read in full
+3. [Elbert County Zoning Regulations Art. V, Uses and Supplemental Standards (Amendment 5.1)](https://www.elbertcounty-co.gov/DocumentCenter/View/5019/Article-V_51-Uses-and-Supplemental-Standards-PDF) — primary, read, Art. V.E.2 (ADU), Art. V Sec. 28 (Short-Term Rentals)
+4. [Elbert County Zoning Regulations Art. V Land Use Table (Amendment 5.1)](https://www.elbertcounty-co.gov/DocumentCenter/View/5020/Article-V_51-Land-Use-Table-PDF) — primary, read
+5. [Elbert County Zoning Regulations Art. VI, Dimensional Standards (Amendment 5)](https://www.elbertcounty-co.gov/DocumentCenter/View/4205/Article-VI-Dimensional-Standards-PDF) — primary, read, Art. VI.D
+6. [Elbert County Subdivision Regulations Art. VI, Minor Subdivision Plat (Amendment 5)](https://www.elbertcounty-co.gov/DocumentCenter/View/4141/Article-VI-Minor-Subdivision-Plat-PDF) — primary, read
+7. [Elbert County Subdivision Regulations Art. IX, Exemptions (scanned)](https://www.elbertcounty-co.gov/DocumentCenter/View/4144/Article-IX-Exemptions-PDF) — primary, not read in full
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

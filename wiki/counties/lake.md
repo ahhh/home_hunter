@@ -9,14 +9,36 @@
 | County seat | Leadville |
 | Region | Central Mountains |
 | Hipcamp signal | **Paused**: Moratorium on campground-type applications reported |
+| Splitting land | **Exemption path**: A lighter split process (exemption, minor subdivision, lot split) exists below 35 acres |
+| Cabin short-term rentals | **Limited**: Caps, owner-occupancy, zone bans or accessory-structure bans that matter for cabins |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
 | Evidence | Partly verified: some claims read in primary sources; the rest need confirmation |
-| Date checked | 2026-09-29 |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://www.lakecountyco.gov/>
+
+## Splitting land (subdivision)
+
+> Splitting is possible: 35+ acre splits are exempt, and a minor subdivision makes up to 4 lots (3-5 ac rural minimums) if the parcel hasn't been split in 25 years. A cabin can be an Airbnb with a county license; absentee owners compete for 135 capped licenses, ADUs can only be rented by an on-site owner, and lodge/guest-ranch applications are paused by a 2026 moratorium.
+
+- Divisions creating parcels of 35+ acres are exempt from the county subdivision regulations (LDC 3.18.2). — [[4]](https://lakecountyco.gov/DocumentCenter/View/166/Chapter-3--Development-Review-and-Approval-Procedures-PDF) *(verified)*
+- Minor Subdivision: one parcel may be split into up to 4 lots if no part of it was divided in the preceding 25 years (contiguous parcels in common ownership count together). It goes to a joint Planning Commission/BOCC hearing. — [[4]](https://lakecountyco.gov/DocumentCenter/View/166/Chapter-3--Development-Review-and-Approval-Procedures-PDF) *(verified)*
+- Minor subdivision approval requires: no new access road, not in a geologic hazard area, conformance with zoning and the comprehensive plan, and adequate water, sewer and services. — [[4]](https://lakecountyco.gov/DocumentCenter/View/166/Chapter-3--Development-Review-and-Approval-Procedures-PDF) *(verified)*
+- Other exemptions are by BOCC resolution (processed like a major subdivision preliminary plat) or property line adjustments that add no parcels. — [[4]](https://lakecountyco.gov/DocumentCenter/View/166/Chapter-3--Development-Review-and-Approval-Procedures-PDF) *(verified)*
+- Minimum lot sizes: AF 5 acres, AR 3 acres, RC 3 acres (1 acre on central water and sewer), RUR 35 acres. — [[5]](https://www.lakecountyco.com/DocumentCenter/View/167/Chapter-4--District-Regulations-PDF) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- Rural districts: RUR Rural (35-acre lots), AF Agricultural & Forestry (5-acre lots), AR Agricultural Residential (3-acre lots). The larger 'minimum land area' figures (320/160/40 ac) apply to rezoning land into those districts, not lot size. — [[5]](https://www.lakecountyco.com/DocumentCenter/View/167/Chapter-4--District-Regulations-PDF) *(verified)*
+- Single-family dwellings and duplexes are use-by-right in most residential/rural zones (Table 5.1). — [[6]](https://www.lakecountyco.gov/DocumentCenter/View/1315/Chapter-5--Use-Regulations-) *(verified)*
+- One ADU per parcel is a use by right on legal lots over 1 acre that meet the zone minimum (conditional otherwise). It may be detached, can't exceed the main house, can't be sold separately, and needs a well permit allowing the extra unit. Camping units can't serve as ADUs. — [[6]](https://www.lakecountyco.gov/DocumentCenter/View/1315/Chapter-5--Use-Regulations-) *(verified)*
 
 ## Private (non-commercial) camping
 
@@ -41,7 +63,13 @@
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- An annual county STR license is required (LDC 5.2.18). STR is an allowed use in most residential zones. — [[7]](https://lakecountyco.gov/DocumentCenter/View/1142), [[6]](https://www.lakecountyco.gov/DocumentCenter/View/1315/Chapter-5--Use-Regulations-), [[8]](https://www.lakecountyco.com/277/Short-Term-Rentals) *(verified)*
+- Standard (non-owner-occupied) licenses are capped at 135 (max 19 in the Community Housing Overlay). As of 9/24/2026, 9 standard licenses were available; there's a waitlist when full. Renewal requires at least 14 rental days in the prior term. — [[8]](https://www.lakecountyco.com/277/Short-Term-Rentals), [[7]](https://lakecountyco.gov/DocumentCenter/View/1142) *(verified)*
+- Primary licenses (owner or approved tenant lives there) are uncapped. — [[8]](https://www.lakecountyco.com/277/Short-Term-Rentals), [[7]](https://lakecountyco.gov/DocumentCenter/View/1142) *(verified)*
+- One STR license per parcel, except a resident owner may hold a Primary license for a permitted ADU plus a Standard license for the main house. No Standard license may be issued for an ADU. Max 2 licenses per person/entity. — [[7]](https://lakecountyco.gov/DocumentCenter/View/1142) *(verified)*
+- Occupancy is set by the septic inspection (or 2 per bedroom + 2 on central utilities). Fire Marshal safety check every 3 years; licenses don't transfer on sale. — [[7]](https://lakecountyco.gov/DocumentCenter/View/1142) *(verified)*
+- Multi-cabin rentals (group camps, vacation lodges, guest ranches, private resorts, RV parks/campgrounds) are conditional uses, and new applications are under a moratorium from Feb 17, 2026, extended to about October 2026 while the code is rewritten. — [[6]](https://www.lakecountyco.gov/DocumentCenter/View/1315/Chapter-5--Use-Regulations-), [[9]](https://lakecountyco.gov/772/2026-Rural-Lodging-and-Camping-Moratoriu) *(verified)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -90,6 +118,12 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 1. [Lake County Camping Definitions & FAQs (LDC Sec. 5.2.25)](https://www.lakecountyco.gov/197/Camping-Definitions-FAQs) — primary, read
 2. [Lake County LDC Chapter 5: Use Regulations](https://lakecountyco.com/DocumentCenter/View/215/Lake-County-Land-Development-Code-Chapter-5-Use-Regulations-PDF) — primary, not read in full
 3. [Citizen Portal: Alpenflo campground toilet variance](https://citizenportal.ai/articles/8432412/colorado/lake-county/alpenflo-campground-owners-seek-variance-for-vault-and-composting-toilets-lake-county-board-delays-decision) — **secondary**, not read in full
+4. [Lake County Land Development Code Chapter 3: Development Review & Approval Procedures](https://lakecountyco.gov/DocumentCenter/View/166/Chapter-3--Development-Review-and-Approval-Procedures-PDF) — primary, read, Sec. 3.17, 3.18
+5. [Lake County Land Development Code Chapter 4: District Regulations](https://www.lakecountyco.com/DocumentCenter/View/167/Chapter-4--District-Regulations-PDF) — primary, read, Sec. 4.2, Table 4.1
+6. [Lake County Land Development Code Chapter 5: Use Regulations](https://www.lakecountyco.gov/DocumentCenter/View/1315/Chapter-5--Use-Regulations-) — primary, read, Table 5.1, 5.2.18, 5.3.1(B)
+7. [Lake County Short-Term Rental Regulations (approved 2/28/2024)](https://lakecountyco.gov/DocumentCenter/View/1142) — primary, read, Sec. 5.2.18.1
+8. [Lake County: Short-Term Rentals](https://www.lakecountyco.com/277/Short-Term-Rentals) — primary, read
+9. [Lake County: 2026 Rural Lodging and Camping Moratorium](https://lakecountyco.gov/772/2026-Rural-Lodging-and-Camping-Moratoriu) — primary, read
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

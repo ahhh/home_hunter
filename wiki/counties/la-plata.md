@@ -9,14 +9,39 @@
 | County seat | Durango |
 | Region | Southwest |
 | Hipcamp signal | **Unclear**: No specific camping provision found yet |
+| Splitting land | **Exemption path**: A lighter split process (exemption, minor subdivision, lot split) exists below 35 acres |
+| Cabin short-term rentals | **Allowed**: No STR rules found; renting a permitted dwelling is treated as a residential use |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
 | Evidence | Partly verified: some claims read in primary sources; the rest need confirmation |
-| Date checked | 2026-09-29 |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://www.lpcgov.org/services/community_development_services/planning/>
+
+## Splitting land (subdivision)
+
+> Splitting is possible with Planning Commission review (Minor Subdivision for up to 3 lots, or a 2-lot ag exemption on old or 70+ ac parcels); outside the Animas Valley there's no fixed minimum lot size, but new lots must match nearby density. The county has no STR regulations, so a legal cabin can be an Airbnb.
+
+- Subdivision review applies to any division where a resulting lot is under 35 acres, unless exempt under C.R.S. 30-28-101(10) (LUC 67-1). — [[3]](https://online.encodeplus.com/regs/laplata-co/doc-view.aspx?tocid=042) *(verified)*
+- A Minor Subdivision (3 or fewer lots) is decided by the Planning Commission at a public meeting after staff review and notice; 4+ lots is a Major Subdivision (67-3, 67-4). — [[3]](https://online.encodeplus.com/regs/laplata-co/doc-view.aspx?tocid=042) *(verified)*
+- The Agricultural Exemption Subdivision (67-6) creates up to 2 new lots out of a parcel that existed before May 5, 1972 or is 70+ acres, if it has been taxed as agricultural for the past 5 years. It follows Minor Subdivision procedures. — [[3]](https://online.encodeplus.com/regs/laplata-co/doc-view.aspx?tocid=042) *(verified)*
+- Clustered Rural Development (67-7, under C.R.S. 30-28-401) applies to 70+ acre parcels: up to 2 lots per 35 acres, with at least 2/3 of the land kept as open space for 40+ years. — [[3]](https://online.encodeplus.com/regs/laplata-co/doc-view.aspx?tocid=042) *(verified)*
+- Outside the Animas Valley there is no fixed minimum lot size (performance-based code). New lots are judged on compatibility; for example, density of new lots should be 'generally similar' to surrounding properties within 1/4 mile (Sec. 70-5 compatibility assessment), plus water, septic and access standards. — [[5]](https://online.encodeplus.com/regs/laplata-co/doc-view.aspx?tocid=045), [[4]](https://online.encodeplus.com/regs/laplata-co/doc-view.aspx?tocid=040) *(verified)*
+- Bottom line: possible with review. No hard minimum lot size outside the Animas Valley, but new lots must match neighborhood density and get Planning Commission approval. — [[3]](https://online.encodeplus.com/regs/laplata-co/doc-view.aspx?tocid=042), [[5]](https://online.encodeplus.com/regs/laplata-co/doc-view.aspx?tocid=045) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- The 2020 Land Use Code is performance-based: most of the county has no zoning districts. Only the Animas Valley (AVLUP area) has traditional zones, with minimum lot sizes from 1 to 15 acres (e.g., 15-, 10-, 5-, 3- and 2-acre single-family districts) (Ch. 65). — [[4]](https://online.encodeplus.com/regs/laplata-co/doc-view.aspx?tocid=040) *(verified)*
+- A second dwelling needs no land use permit on 70+ acres, and a third on 105+ acres (73-3.II). — [[6]](https://online.encodeplus.com/regs/laplata-co/doc-view.aspx?tocid=048) *(verified)*
+- A second dwelling can be approved by staff 'director determination' on any residential parcel if it shares the main home's meter, water, septic and driveway and is no larger than the main house or 2,000 sq ft. On ag-assessed parcels, a 2nd unit is allowed on 30+ ac and a 3rd on 45+ ac by director determination (73-3.III). — [[6]](https://online.encodeplus.com/regs/laplata-co/doc-view.aspx?tocid=048) *(verified)*
+- Otherwise a second unit needs an administrative permit (6+ acres) or a minor land use permit; a 4th+ dwelling needs a major land use permit (73-3.IV-VI). — [[6]](https://online.encodeplus.com/regs/laplata-co/doc-view.aspx?tocid=048) *(verified)*
+- In Animas Valley districts, 'granny flats' are by-right in most single-family zones. — [[4]](https://online.encodeplus.com/regs/laplata-co/doc-view.aspx?tocid=040) *(verified)*
 
 ## Private (non-commercial) camping
 
@@ -38,7 +63,11 @@
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- The county doesn't regulate short-term rentals: LUC Sec. 73-18 'Short term rentals' is 'Reserved' (still empty in the code current to Sep 2026). There's no STR permit, cap or inspection. — [[6]](https://online.encodeplus.com/regs/laplata-co/doc-view.aspx?tocid=048) *(verified)*
+- The county requires only sales and lodging tax collection; commissioners have discussed regulating STRs in unincorporated areas (permits, caps, fees), but no rules have been adopted. — [[7]](https://www.durangoherald.com/articles/news/the-long-term-future-of-short-term-rentals-in-sw-colorado/) *(needs confirmation)*
+- With no STR rule, any legally permitted dwelling (including an approved second/third dwelling unit) can be rented short-term. A building permit and septic permit are still required. — [[6]](https://online.encodeplus.com/regs/laplata-co/doc-view.aspx?tocid=048) *(verified)*
+- Bed and breakfast inns (2-13 guest rooms) require an owner/manager living on site and a free daily meal (73-4). Several rental cabins beyond the dwelling-unit allowances would likely need a land use permit as lodging; how they're classified wasn't confirmed, so ask Planning. — [[6]](https://online.encodeplus.com/regs/laplata-co/doc-view.aspx?tocid=048) *(verified)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -94,6 +123,11 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 
 1. [La Plata County Planning FAQ](https://www.lpcgov.org/services/community_development_services/planning/frequently_asked_questions.php) — primary, read
 2. [La Plata County Land Use Code](https://www.lpcgov.org/services/community_development_services/planning/land_use_codes_and_plans/) — primary, not read in full
+3. [La Plata County Code Ch. 67 Division of Land (encodeplus)](https://online.encodeplus.com/regs/laplata-co/doc-view.aspx?tocid=042) — primary, read, Sec. 67-1, 67-4, 67-6, 67-7
+4. [La Plata County Code Ch. 65 Animas Valley Zone Districts](https://online.encodeplus.com/regs/laplata-co/doc-view.aspx?tocid=040) — primary, read, Overview; Sec. 65-3
+5. [La Plata County Code Ch. 70 General Site Development Standards](https://online.encodeplus.com/regs/laplata-co/doc-view.aspx?tocid=045) — primary, read, Sec. 70-5 Compatibility assessment
+6. [La Plata County Code Ch. 73 Standards for Specific Uses](https://online.encodeplus.com/regs/laplata-co/doc-view.aspx?tocid=048) — primary, read, Sec. 73-3, 73-4, 73-18
+7. [Durango Herald: The long-term future of short-term rentals in SW Colorado](https://www.durangoherald.com/articles/news/the-long-term-future-of-short-term-rentals-in-sw-colorado/) — **secondary**, not read in full
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

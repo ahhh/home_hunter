@@ -9,14 +9,34 @@
 | County seat | Springfield |
 | Region | Eastern Plains |
 | Hipcamp signal | **Unclear**: No specific camping provision found yet |
+| Splitting land | **Unclear**: Not researched, or the rules weren't found online |
+| Cabin short-term rentals | **Allowed**: No STR rules found; renting a permitted dwelling is treated as a residential use |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
-| Evidence | Needs confirmation: from official pages and search summaries; code text not read |
-| Date checked | 2026-09-29 |
+| Evidence | Verified: every sourced claim was read in a primary source |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://www.bacacountyco.gov/government/county-commissioners/zoning-permits-and-land-use/>
+
+## Splitting land (subdivision)
+
+> Baca County has no zoning, land use or building permits (septic rules only), and requires a subdivision exemption application for splits under state law; details aren't online. A cabin short-term rental is effectively unregulated by the county, subject to septic permits.
+
+- A 2017 letter from the county commissioners says the county requires subdivision exemption applications under Colorado law. Divisions into parcels of 35 acres or more are exempt by statute (C.R.S. 30-28-101(10)). — [[2]](https://www.bacacountyco.gov/wp-content/uploads/2016/02/Permit-letter.doc) *(verified)*
+- No county subdivision regulations or exemption criteria (minimum lot size, limits on repeat splits) were found online. The county's land use page links lead to a 'content under maintenance' page. Ask the Commissioners' office (719-523-6532). — [[1]](https://www.bacacountyco.gov/government/county-commissioners/zoning-permits-and-land-use/) *(verified)*
+- Septic rules still apply and will limit how small a lot can usefully be. — [[2]](https://www.bacacountyco.gov/wp-content/uploads/2016/02/Permit-letter.doc) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- The county has no zoning or land use regulations except rules on septic tanks, septic fields and leach lines (2017 commissioners' letter). — [[2]](https://www.bacacountyco.gov/wp-content/uploads/2016/02/Permit-letter.doc) *(verified)*
+- The county requires no building permits or land use permits for construction. Permits are needed only for work in the public right-of-way and for oversize or overweight vehicles. — [[2]](https://www.bacacountyco.gov/wp-content/uploads/2016/02/Permit-letter.doc) *(verified)*
+- With no zoning, there are no dwelling-per-lot or ADU limits at the county level. State and federal rules, septic and well permits still apply. — [[2]](https://www.bacacountyco.gov/wp-content/uploads/2016/02/Permit-letter.doc) *(verified)*
 
 ## Private (non-commercial) camping
 
@@ -33,11 +53,14 @@
 ## RVs, tiny homes & structures
 
 - Not confirmed. Most Colorado counties treat RVs as temporary/recreational, not dwellings. See [Structures, Tiny Homes & RVs](../09-structures-tiny-homes-rvs.md).
-- **No building department.** DOH inspects foundations for manufactured, tiny and factory-built homes. State electrical and plumbing permits still apply. — [[2]](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) *(verified)*
+- **No building department.** DOH inspects foundations for manufactured, tiny and factory-built homes. State electrical and plumbing permits still apply. — [[3]](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) *(verified)*
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- The county has no short-term rental rules and no zoning, so short-term rental of a cabin is not regulated at the county level. — [[2]](https://www.bacacountyco.gov/wp-content/uploads/2016/02/Permit-letter.doc) *(verified)*
+- Several cabins on one parcel face no county land-use review, but septic permits apply to each system. State rules on retail food or lodging, and state and county sales and lodging taxes, may apply. — [[2]](https://www.bacacountyco.gov/wp-content/uploads/2016/02/Permit-letter.doc) *(verified)*
+- The letter dates from 2017. Confirm that no regulations have been adopted since. — *lead only, no source yet*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -82,8 +105,9 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 
 ## Sources
 
-1. [Baca County zoning permits and land use](https://www.bacacountyco.gov/government/county-commissioners/zoning-permits-and-land-use/) — primary, not read in full
-2. [Division of Housing: jurisdictions without building departments](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) — primary, read
+1. [Baca County zoning permits and land use](https://www.bacacountyco.gov/government/county-commissioners/zoning-permits-and-land-use/) — primary, read
+2. [Baca County Commissioners land use letter (Feb 22, 2017)](https://www.bacacountyco.gov/wp-content/uploads/2016/02/Permit-letter.doc) — primary, read
+3. [Division of Housing: jurisdictions without building departments](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) — primary, read
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

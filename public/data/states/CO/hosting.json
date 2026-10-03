@@ -103,6 +103,11 @@
             "rural": false
           }
         ]
+      },
+      "land": {
+        "subdivisionSignal": "Unclear",
+        "strSignal": "Unclear",
+        "summary": "Research unfinished: this county wasn't covered in the October 2026 pass."
       }
     },
     {
@@ -119,9 +124,15 @@
           "read": true
         },
         {
-          "title": "Campground/RV Park text amendment",
-          "url": "https://alamosacounty.org/DocumentCenter/View/183/Text-Amendment-RV-Park-Campground-Adopted-PDF",
-          "read": false
+          "title": "Alamosa County Land Use & Development Code (with 2026 amendments)",
+          "url": "https://www.alamosacounty.org/DocumentCenter/View/231",
+          "section": "Sec. 2.3, 3.1, 3.4.3, 3.6.3.D, 5.8, 5.9, 8.6.7",
+          "read": true
+        },
+        {
+          "title": "Alamosa County Land Use & Development page",
+          "url": "https://www.alamosacounty.org/180/Land-Use-Development",
+          "read": true
         }
       ],
       "incentives": {
@@ -143,6 +154,11 @@
             "rural": true
           }
         ]
+      },
+      "land": {
+        "subdivisionSignal": "Exemption path",
+        "strSignal": "Allowed",
+        "summary": "Alamosa allows a one-time Minor Subdivision of up to 4 lots (1-acre minimum in RU), plus a new 2026 administrative ag split of up to two 10-acre tracts per 80 irrigated acres. Water and location rules can block both. There are no STR rules, so the main house can apparently be an Airbnb, but a guest house can't be rented."
       }
     },
     {
@@ -203,20 +219,26 @@
             "rural": false
           }
         ]
+      },
+      "land": {
+        "subdivisionSignal": "Unclear",
+        "strSignal": "Unclear",
+        "summary": "Research unfinished: this county wasn't covered in the October 2026 pass."
       }
     },
     {
       "areaId": "08007",
       "signal": "Unclear",
       "summary": "RVs may be occupied up to 120 days a year with a Temporary Use Permit. Tent camping and paid camping aren't clearly addressed.",
-      "evidence": "unverified",
+      "evidence": "partial",
       "noBuildingDept": false,
       "wikiPath": "counties/archuleta.md",
       "sources": [
         {
           "title": "Archuleta County Land Use Regulations (updated Apr 2025)",
           "url": "https://www.archuletacounty.gov/wp-content/uploads/2024/11/archuleta-county-land-use-regulations-book.pdf",
-          "read": false
+          "section": "Sec. 2.1.2, Table 3, Table 4, 3.2.7, 4.1.2, 4.5, 4.9, 5.5.3-5.5.6",
+          "read": true
         },
         {
           "title": "Archuleta County RV Temporary Use Permit",
@@ -232,20 +254,30 @@
         "ruralJumpStart": "zone",
         "oz1Tracts": 1,
         "oz2Tracts": []
+      },
+      "land": {
+        "subdivisionSignal": "Exemption path",
+        "strSignal": "Permit",
+        "summary": "Splitting under 35 acres needs BOCC subdivision approval and must meet zone minimums (35 ac in AR, 5 ac in AE, 3 ac in RR). A cabin that is a legal dwelling can be an Airbnb with an annual Vacation Rental Permit; RVs, yurts and tiny homes need a Lodging permit instead."
       }
     },
     {
       "areaId": "08009",
       "signal": "Unclear",
       "summary": "No camping-specific rule found. No county building department.",
-      "evidence": "unverified",
+      "evidence": "verified",
       "noBuildingDept": true,
       "wikiPath": "counties/baca.md",
       "sources": [
         {
           "title": "Baca County zoning permits and land use",
           "url": "https://www.bacacountyco.gov/government/county-commissioners/zoning-permits-and-land-use/",
-          "read": false
+          "read": true
+        },
+        {
+          "title": "Baca County Commissioners land use letter (Feb 22, 2017)",
+          "url": "https://www.bacacountyco.gov/wp-content/uploads/2016/02/Permit-letter.doc",
+          "read": true
         }
       ],
       "incentives": {
@@ -256,20 +288,36 @@
         "ruralJumpStart": "eligible, not joined",
         "oz1Tracts": 1,
         "oz2Tracts": []
+      },
+      "land": {
+        "subdivisionSignal": "Unclear",
+        "strSignal": "Allowed",
+        "summary": "Baca County has no zoning, land use or building permits (septic rules only), and requires a subdivision exemption application for splits under state law; details aren't online. A cabin short-term rental is effectively unregulated by the county, subject to septic permits."
       }
     },
     {
       "areaId": "08011",
       "signal": "Unclear",
       "summary": "No camping-specific rule found online. Ask the Land Use Office for the Planning & Zoning Manual.",
-      "evidence": "unverified",
+      "evidence": "verified",
       "noBuildingDept": false,
       "wikiPath": "counties/bent.md",
       "sources": [
         {
           "title": "Bent County Land Use permits (Planning & Zoning Manual available from the office, 719-456-2223)",
           "url": "https://bentcounty.colorado.gov/government/land-use-permits",
-          "read": false
+          "read": true
+        },
+        {
+          "title": "Bent County Planning and Zoning Manual (zoning and subdivision regulations)",
+          "url": "https://bentcounty.colorado.gov/sites/g/files/lrnvjt686/files/documents/Planning%20and%20Zoning%20Manual%20complete.pdf",
+          "section": "Zoning 04.01.02-04.01.03; Subdivision 01.01.10",
+          "read": true
+        },
+        {
+          "title": "Bent County Application for Exemption from Definition of Subdivision (rev. 2024)",
+          "url": "https://bentcounty.colorado.gov/sites/g/files/lrnvjt686/files/documents/SUBDIVISION%20EXEMPTION-rev2024.pdf",
+          "read": true
         }
       ],
       "incentives": {
@@ -280,6 +328,11 @@
         "ruralJumpStart": "eligible, not joined",
         "oz1Tracts": 1,
         "oz2Tracts": []
+      },
+      "land": {
+        "subdivisionSignal": "Exemption path",
+        "strSignal": "Lodging review",
+        "summary": "Splitting is possible: the Board can exempt tracts down to 1 acre, up to four parcels per 1980 property. Short-term rental has no rules of its own; rental cabins on ag land would go through special review as a dude ranch or resort lodge, and even a non-farm house in A-1 needs special review."
       }
     },
     {
@@ -298,12 +351,14 @@
         {
           "title": "Boulder County Land Use Code Article 4 (Zoning), incl. 4-507 Lodging Uses",
           "url": "https://assets.bouldercounty.gov/wp-content/uploads/2017/02/land-use-code-article-04.pdf",
-          "read": false
+          "section": "Zoning Table; 4-507.E Vacation Rental; 4-516.H Accessory Dwelling; 4-516.Z Short-Term Rental",
+          "read": true
         },
         {
-          "title": "Boulder County Ordinance 2023-1 (fire bans and open burning)",
-          "url": "https://assets.bouldercounty.gov/wp-content/uploads/2023/07/Ordinance-2023-1-Fire-Bans-and-Open-Burning-7.12.23.pdf",
-          "read": false
+          "title": "Boulder County Land Use Code Excerpt: Exemption Plat (Art. 9-300 to 9-600)",
+          "url": "https://assets.bouldercounty.gov/wp-content/uploads/2017/03/exemption-plat-code-excerpt.pdf",
+          "section": "9-300, 9-301, 9-400",
+          "read": true
         }
       ],
       "incentives": {
@@ -325,6 +380,11 @@
             "rural": false
           }
         ]
+      },
+      "land": {
+        "subdivisionSignal": "Restrictive",
+        "strSignal": "Limited",
+        "summary": "Splitting below 35 acres is effectively blocked except through a large NUPUD cluster plan. A cabin can be a licensed whole-house Vacation Rental only in the Forestry/Mountain Institutional zones (one license per owner, max 8 guests); elsewhere STRs must be owner-occupied."
       }
     },
     {
@@ -349,13 +409,18 @@
         "ruralJumpStart": null,
         "oz1Tracts": 0,
         "oz2Tracts": []
+      },
+      "land": {
+        "subdivisionSignal": "Unclear",
+        "strSignal": "Unclear",
+        "summary": "Research unfinished: this county wasn't covered in the October 2026 pass."
       }
     },
     {
       "areaId": "08015",
       "signal": "Pathway",
       "summary": "Has a dedicated 'Commercial Private Lands Camping' license for agricultural properties: 5-acre minimum, 1 site per 5-10 ac, 2 sites per 10-20 ac, then about 1 per 20 ac, and a caretaker within 60 minutes.",
-      "evidence": "verified",
+      "evidence": "partial",
       "noBuildingDept": false,
       "wikiPath": "counties/chaffee.md",
       "sources": [
@@ -368,6 +433,12 @@
         {
           "title": "Resolution 2022-67, Exhibit A (original ordinance text, hosted by NACo)",
           "url": "https://www.naco.org/sites/default/files/attachments/Chaffee-County-Commercial-Camping-on-Private-Land-Oct.-2022%20%281%29.pdf",
+          "read": true
+        },
+        {
+          "title": "Resolution 2024-79, Short-Term Rental Licensing Program (LUC Appendix L)",
+          "url": "https://www.chaffeecounty.org/Documents/Departments/Planning%20&%20Zoning/Land%20Use%20Code/Appendix/appendix_L.pdf",
+          "section": "Sec. 2-14",
           "read": true
         }
       ],
@@ -385,20 +456,36 @@
             "rural": true
           }
         ]
+      },
+      "land": {
+        "subdivisionSignal": "Exemption path",
+        "strSignal": "Limited",
+        "summary": "Splitting is possible through administrative ag or heritage-water exemptions, a once-only minor subdivision, or a 35+ acre cluster, but AR land is zoned at 35 acres per home. A cabin can be an Airbnb only with one of 310 capped county licenses (one per property), so expect a waitlist."
       }
     },
     {
       "areaId": "08017",
       "signal": "Unclear",
       "summary": "No camping-specific rule found. No county building department.",
-      "evidence": "unverified",
+      "evidence": "verified",
       "noBuildingDept": true,
       "wikiPath": "counties/cheyenne.md",
       "sources": [
         {
           "title": "Cheyenne County Zoning & Planning",
           "url": "https://www.co.cheyenne.co.us/departments/zoning_planning.html",
-          "read": false
+          "read": true
+        },
+        {
+          "title": "Cheyenne County Comprehensive Plan and Zoning Ordinance (2022)",
+          "url": "https://www.co.cheyenne.co.us/assets/pdfs/zoning_comprehensive_plan_zoning_ordinance_2022.pdf",
+          "section": "Definitions; Secs. 2-101, 2-102; Part IV",
+          "read": true
+        },
+        {
+          "title": "Cheyenne County Subdivision Exemption Application (2020)",
+          "url": "https://www.co.cheyenne.co.us/assets/pdfs/land_use_subdivision_exemption_2020.pdf",
+          "read": true
         }
       ],
       "incentives": {
@@ -409,6 +496,11 @@
         "ruralJumpStart": "eligible, not joined",
         "oz1Tracts": 1,
         "oz2Tracts": []
+      },
+      "land": {
+        "subdivisionSignal": "Exemption path",
+        "strSignal": "Limited",
+        "summary": "Splits are cheap and fairly easy: the Board grants exemptions ($10) and the ag zones allow 1-acre lots. But guest houses can't be rented and non-farm homes need a Conditional Use Permit, so a rental cabin needs county approval."
       }
     },
     {
@@ -429,6 +521,12 @@
           "title": "Camping in Clear Creek County",
           "url": "https://www.clearcreekcounty.us/625/Camping",
           "read": true
+        },
+        {
+          "title": "Clear Creek County Ordinance No. 19, Licensing of Short-Term Rentals (Dec 2024)",
+          "url": "https://clearcreekcounty.us/DocumentCenter/View/15238/Ordinance-19",
+          "section": "Sec. 1-4, 7",
+          "read": true
         }
       ],
       "incentives": {
@@ -439,25 +537,36 @@
         "ruralJumpStart": "zone",
         "oz1Tracts": 1,
         "oz2Tracts": []
+      },
+      "land": {
+        "subdivisionSignal": "Exemption path",
+        "strSignal": "Limited",
+        "summary": "Splitting is possible through a hearing-based minor subdivision (4 or fewer lots) down to 2-5 acre zone minimums, except 35-acre MR-LT land. A cabin can be an Airbnb with a county license, but non-resident owners compete for 163 capped licenses (2026), and an ADU can only be rented if you live on site."
       }
     },
     {
       "areaId": "08021",
       "signal": "Unclear",
       "summary": "A secondary source says RVs aren't allowed on residential property. Confirm with the Land Use Office.",
-      "evidence": "unverified",
+      "evidence": "partial",
       "noBuildingDept": false,
       "wikiPath": "counties/conejos.md",
       "sources": [
         {
           "title": "Conejos County Land Use",
           "url": "https://conejoscounty.colorado.gov/land-use",
-          "read": false
+          "read": true
         },
         {
-          "title": "Conejos construction permit instructions (Nov 2023)",
-          "url": "https://conejoscounty.colorado.gov/sites/conejoscounty/files/documents/ConstructionPermitStepbyStepInstructions11-2023_ADA.pdf",
-          "read": false
+          "title": "Conejos County Land Use Code (2005, web ADA version)",
+          "url": "https://conejoscounty.colorado.gov/sites/g/files/lrnvjt1616/files/documents/2005%20Land%20Use%20Code%20-%20Web%20-%20ADA%20-%20Final.pdf",
+          "section": "Art. 2 defs; Sec. 4.100, 4.200, 4.300; Art. 10",
+          "read": true
+        },
+        {
+          "title": "Conejos County Division of Land (Subdivision Exemption) brochure (rev. 2-1-2020)",
+          "url": "https://conejoscounty.colorado.gov/sites/g/files/lrnvjt1616/files/documents/dol_-_brochure_-_pg_02-01-2020.pdf",
+          "read": true
         }
       ],
       "incentives": {
@@ -468,16 +577,27 @@
         "ruralJumpStart": "zone",
         "oz1Tracts": 0,
         "oz2Tracts": []
+      },
+      "land": {
+        "subdivisionSignal": "Exemption path",
+        "strSignal": "Allowed",
+        "summary": "Conejos is permissive: a 1-acre minimum lot, a two-lot Division of Land exemption, and 3-6 lot minor subdivisions, with 10-year limits on repeat splits. There are no STR rules and two homes per lot are allowed, so one or two permitted cabins can apparently be Airbnbs. Beyond that, it's a special-use 'Overnight Lodging' permit."
       }
     },
     {
       "areaId": "08023",
       "signal": "Restrictive",
       "summary": "Short-term camping is limited to 14 days in any 3 months. Longer RV stays need renewable 60-day permits, capped under 180 days a year.",
-      "evidence": "unverified",
+      "evidence": "partial",
       "noBuildingDept": true,
       "wikiPath": "counties/costilla.md",
       "sources": [
+        {
+          "title": "Costilla County Land Use Code, 2015 revision (copy hosted by CPR)",
+          "url": "https://wp-cpr.s3.amazonaws.com/uploads/2019/06/revised_land_use_code_2015.pdf",
+          "section": "Art. 5 (Sec. 5.10, use table), Art. 10, Art. 11 (Sec. 11.10-11.25)",
+          "read": true
+        },
         {
           "title": "Costilla County Land Use Code (2013, amended)",
           "url": "https://www.costillacounty.gov/media/2006",
@@ -492,6 +612,11 @@
         "ruralJumpStart": "zone",
         "oz1Tracts": 1,
         "oz2Tracts": []
+      },
+      "land": {
+        "subdivisionSignal": "Restrictive",
+        "strSignal": "Allowed",
+        "summary": "Costilla is restrictive on splitting: Rural Residential parcels can't go below 35 acres and Agricultural below 160. The only lighter paths are a family-transfer exemption or a 70+ acre cluster. There are no STR rules, so a single permitted cabin can apparently be an Airbnb. Multiple rental cabins need Overnight Lodging or Resort/Guest Ranch special-use review."
       }
     },
     {
@@ -516,30 +641,36 @@
         "ruralJumpStart": "eligible, not joined",
         "oz1Tracts": 1,
         "oz2Tracts": []
+      },
+      "land": {
+        "subdivisionSignal": "Unclear",
+        "strSignal": "Unclear",
+        "summary": "Research unfinished: this county wasn't covered in the October 2026 pass."
       }
     },
     {
       "areaId": "08027",
       "signal": "Unclear",
       "summary": "Camping rules weren't confirmed. The county has a short-term rental permit, and the Westcliffe area is a Dark Sky community.",
-      "evidence": "unverified",
+      "evidence": "verified",
       "noBuildingDept": true,
       "wikiPath": "counties/custer.md",
       "sources": [
         {
           "title": "Custer County Zoning Resolution (Dec 8, 2025)",
           "url": "https://custercounty-co.gov/wp-content/uploads/2026/04/Zoning-Resolution-2025-12-08-2.pdf",
-          "read": false
+          "section": "Sec. 4.4.C, 6.4.A, 7.1-7.2, 9.10",
+          "read": true
         },
         {
           "title": "Custer County Short-Term Rental Permit",
           "url": "https://custercounty-co.gov/wp-content/uploads/2026/02/Custer-County-Colorado-Short-Term-Rental-Permit-1.pdf",
-          "read": false
+          "read": true
         },
         {
-          "title": "Custer County Sheriff: guide to fire restrictions",
-          "url": "https://custersheriff.colorado.gov/sites/custersheriff/files/documents/Stage%20Restrictions%20Guide%20%281%29%20%281%29.pdf",
-          "read": false
+          "title": "Custer County Zoning Regulations page (document list)",
+          "url": "https://custercounty-co.gov/departments/planning-zoning/zoning-regulations/",
+          "read": true
         }
       ],
       "incentives": {
@@ -550,6 +681,11 @@
         "ruralJumpStart": "eligible, not joined",
         "oz1Tracts": 0,
         "oz2Tracts": []
+      },
+      "land": {
+        "subdivisionSignal": "Unclear",
+        "strSignal": "Limited",
+        "summary": "Splits can't go below the zone minimum (80, 35, 10 or 5 acres), and the subdivision regulations aren't online. A cabin can be an Airbnb only with a discretionary STR permit after 2 years of ownership: one dwelling only (no accessory cabins), with a small annual cap on new permits."
       }
     },
     {
@@ -563,6 +699,12 @@
         {
           "title": "Delta County Planning FAQ",
           "url": "https://www.deltacountyco.gov/789/Frequently-Asked-Questions-FAQs",
+          "read": true
+        },
+        {
+          "title": "2024 Delta County Land Use Code (PDF)",
+          "url": "https://www.deltacountyco.gov/DocumentCenter/View/16005/2024-Delta-County-Land-Use-Code",
+          "section": "Table 2.b; Ch. 2 Sec. 4.B.1, 4.B.5-6; Ch. 3 Sec. 1.A; Ch. 12 Sec. 1-2; Ch. 14 definitions",
           "read": true
         },
         {
@@ -585,6 +727,11 @@
             "rural": true
           }
         ]
+      },
+      "land": {
+        "subdivisionSignal": "Exemption path",
+        "strSignal": "Allowed",
+        "summary": "Yes to both, fairly easily. A 2-lot split is approved administratively (zone minimums 1-35 ac, with a variation path down to 1 ac), and up to 4 rentable rooms/cabins, including an ADU, are an allowed use with no STR permit."
       }
     },
     {
@@ -675,16 +822,32 @@
             "rural": false
           }
         ]
+      },
+      "land": {
+        "subdivisionSignal": "Unclear",
+        "strSignal": "Unclear",
+        "summary": "Research unfinished: this county wasn't covered in the October 2026 pass."
       }
     },
     {
       "areaId": "08033",
       "signal": "Unclear",
       "summary": "No camping-specific rule found online. No county building department.",
-      "evidence": "unverified",
+      "evidence": "partial",
       "noBuildingDept": true,
       "wikiPath": "counties/dolores.md",
       "sources": [
+        {
+          "title": "Dolores County Policy on Subdivision Exemptions & Application (amended Mar 7, 2005)",
+          "url": "https://dolocnty.colorado.gov/sites/g/files/lrnvjt3251/files/documents/2023-Subdivision-Exemption-Permit.pdf",
+          "section": "Para. 1.a-1.h, 3",
+          "read": true
+        },
+        {
+          "title": "Dolores County: Application for Subdivision Exemption",
+          "url": "https://dolocnty.colorado.gov/application-for-subdivision-exemption",
+          "read": true
+        },
         {
           "title": "Dolores County departments (Development and Land Use Regulations on request)",
           "url": "https://dolocnty.colorado.gov/departments",
@@ -699,25 +862,38 @@
         "ruralJumpStart": "zone",
         "oz1Tracts": 1,
         "oz2Tracts": []
+      },
+      "land": {
+        "subdivisionSignal": "Exemption path",
+        "strSignal": "Allowed",
+        "summary": "Splitting has historically been easy via a cheap BOCC subdivision exemption (about 3 acres per home), but new land-use and subdivision applications were paused in June 2026 while the code is rewritten. No county STR rules were found, so renting a legal cabin appears allowed."
       }
     },
     {
       "areaId": "08035",
       "signal": "Unclear",
       "summary": "The county camping ban covers county property, not private land. The private-land RV and camping rules are in the Zoning Resolution and weren't confirmed.",
-      "evidence": "unverified",
+      "evidence": "partial",
       "noBuildingDept": false,
       "wikiPath": "counties/douglas.md",
       "sources": [
         {
-          "title": "Douglas County Zoning Resolution",
-          "url": "https://www.douglasco.gov/planning/development-review-regulations/zoning/development-zoning-compliance/",
-          "read": false
+          "title": "Douglas County Subdivision Resolution Article 9: Exemptions (archived copy, Apr 2026)",
+          "url": "https://web.archive.org/web/20260417073017/https://www.douglasco.gov/documents/sd-article-9.pdf/",
+          "section": "902, 903, 905",
+          "read": true
         },
         {
-          "title": "Douglas County camping/tent ban ordinance (O-024-004)",
-          "url": "https://www.douglas.co.us/camping-tent-ban-ordinance/",
-          "read": false
+          "title": "Resolution R-025 (June 24, 2025) amending Zoning Resolution Secs. 3-7 and 36 (ADUs)",
+          "url": "https://douglascounty.legistar.com/View.ashx?GUID=5E58F97A-0AB7-40F9-96E8-0E4EC652C456&ID=14314097&M=F",
+          "section": "303, 304, 306, 325, 406, 506, Sec. 36 definitions",
+          "read": true
+        },
+        {
+          "title": "Douglas County Zoning Resolution index",
+          "url": "https://www.douglasco.gov/planning/development-review-regulations/zoning/development-zoning-compliance/",
+          "section": "Section 3A (repealed), 3B",
+          "read": true
         }
       ],
       "incentives": {
@@ -728,25 +904,37 @@
         "ruralJumpStart": null,
         "oz1Tracts": 0,
         "oz2Tracts": []
+      },
+      "land": {
+        "subdivisionSignal": "Exemption path",
+        "strSignal": "Permit",
+        "summary": "Splits below 35 acres need rezoning plus subdivision, though clustered lots at 1 home per 35 acres can go through an exemption. Cabin STRs are licensed and allowed in non-PD zones with no owner-occupancy rule; renting out a guest house/ADU is doubtful."
       }
     },
     {
       "areaId": "08037",
       "signal": "Unclear",
       "summary": "The land use regulations are being rewritten. A 2024 draft would limit RV occupancy to 5 days in 30. Check what's actually adopted.",
-      "evidence": "unverified",
+      "evidence": "partial",
       "noBuildingDept": false,
       "wikiPath": "counties/eagle.md",
       "sources": [
         {
-          "title": "Eagle County Land Use Regulations",
-          "url": "https://online.encodeplus.com/regs/eaglecounty-co/page/land-use-regulations",
-          "read": false
+          "title": "Eagle County Land Use Regulations, Article 3 Zone Districts",
+          "url": "https://cms5.revize.com/revize/eagle/Document%20Center/Departments%20&%20Services/Community%20Development/Planning/Land%20Use%20Regulations/Article%203%20-%20Zone%20Districts_Final.pdf",
+          "section": "Sec. 3-200, Table 3-300, 3-310.A, C, V",
+          "read": true
         },
         {
-          "title": "ECLUR Module 1 Preliminary Draft (May 27, 2024)",
-          "url": "https://go.boarddocs.com/co/eagleco/Board.nsf/files/D5RMAF5997D9/$file/ECLUR%20Module%201%20Preliminary%20Draft%205-27-2024.pdf",
-          "read": false
+          "title": "Eagle County Land Use Regulations, Article 5 Administration",
+          "url": "https://cms5.revize.com/revize/eagle/Document%20Center/Departments%20&%20Services/Community%20Development/Planning/Land%20Use%20Regulations/Article%205%20-%20Administration_Final.pdf",
+          "section": "Sec. 5-270, 5-290",
+          "read": true
+        },
+        {
+          "title": "Eagle County: Draft Short Term Rental Ordinance (status page)",
+          "url": "https://www.eaglecounty.us/government/draft_short_term_rental_ordinance.php",
+          "read": true
         }
       ],
       "incentives": {
@@ -757,13 +945,18 @@
         "ruralJumpStart": null,
         "oz1Tracts": 1,
         "oz2Tracts": []
+      },
+      "land": {
+        "subdivisionSignal": "Exemption path",
+        "strSignal": "Limited",
+        "summary": "Splitting needs a minor (Type A, up to 3 lots) subdivision meeting zone minimums, and much rural land is 35-acre Resource zoning, so small splits usually need clustering or rezoning. There's no county STR license, so the main house can be an Airbnb, but ADU cabins can't be rented for under 14 days."
       }
     },
     {
       "areaId": "08039",
       "signal": "Unclear",
       "summary": "RVs, including tiny houses on wheels, are temporary recreational units that can't be lived in year-round. Paid camping wasn't researched.",
-      "evidence": "verified",
+      "evidence": "partial",
       "noBuildingDept": false,
       "wikiPath": "counties/elbert.md",
       "sources": [
@@ -773,9 +966,15 @@
           "read": true
         },
         {
-          "title": "Elbert County Zoning Regulations",
-          "url": "https://www.elbertcounty-co.gov/464/Zoning-Regulations",
-          "read": false
+          "title": "Elbert County Zoning Regulations Art. V, Uses and Supplemental Standards (Amendment 5.1)",
+          "url": "https://www.elbertcounty-co.gov/DocumentCenter/View/5019/Article-V_51-Uses-and-Supplemental-Standards-PDF",
+          "section": "Art. V.E.2 (ADU), Art. V Sec. 28 (Short-Term Rentals)",
+          "read": true
+        },
+        {
+          "title": "Elbert County Zoning Regulations Art. V Land Use Table (Amendment 5.1)",
+          "url": "https://www.elbertcounty-co.gov/DocumentCenter/View/5020/Article-V_51-Land-Use-Table-PDF",
+          "read": true
         }
       ],
       "incentives": {
@@ -786,6 +985,11 @@
         "ruralJumpStart": null,
         "oz1Tracts": 0,
         "oz2Tracts": []
+      },
+      "land": {
+        "subdivisionSignal": "Exemption path",
+        "strSignal": "Allowed",
+        "summary": "Splitting is possible above each zone's minimum (35 acres in A, down to 2.5 acres in RA-2), with an administrative minor subdivision for up to four lots. Short-term rentals of a home or ADU are permitted in all agricultural and residential zones, so a house plus one ADU cabin works; more cabins need Special Use by Review as a guest ranch or resort."
       }
     },
     {
@@ -802,9 +1006,16 @@
           "read": true
         },
         {
-          "title": "El Paso County Land Development Code",
-          "url": "https://library.municode.com/co/el_paso_county/codes/land_development_code",
-          "read": false
+          "title": "El Paso County LDC Table 5-4 Density and Dimensional Standards",
+          "url": "https://planningdevelopment.elpasoco.com/wp-content/uploads/LandUseCode/LDC-Chap-5-ZoneDistrictsDimensionSetbacks.pdf",
+          "section": "Table 5-4",
+          "read": true
+        },
+        {
+          "title": "El Paso County LDC Chapter 5 Use and Dimensional Standards (2016 PDF, pages effective 2018)",
+          "url": "https://epc-assets.elpasoco.com/wp-content/uploads/sites/12/LandUseCode/EPC-Land-Use-Code-Chapter-5-2016.pdf",
+          "section": "5.1.22 Dwelling, Additional; 5.1.29 Guest House",
+          "read": true
         }
       ],
       "incentives": {
@@ -856,13 +1067,18 @@
             "rural": false
           }
         ]
+      },
+      "land": {
+        "subdivisionSignal": "Full subdivision",
+        "strSignal": "Limited",
+        "summary": "Splits below 35 acres need rezoning and at least a minor subdivision (4 or fewer lots) plat. A main-house cabin can be an Airbnb with no permit, and A-35 parcels may add one rentable second dwelling, but guest houses can't be rented without a variance."
       }
     },
     {
       "areaId": "08043",
       "signal": "Campground",
       "summary": "Tents and trailers can be occupied up to 3 months a year in R3 and 2 weeks in R1/R2/LDR/HDR, and not at all in business/industrial zones. Paid camping is a 'Campground' use.",
-      "evidence": "verified",
+      "evidence": "partial",
       "noBuildingDept": false,
       "wikiPath": "counties/fremont.md",
       "sources": [
@@ -871,6 +1087,17 @@
           "url": "https://fremontcountyco.gov/sites/default/files/FC_Zoning_Regulations.pdf",
           "section": "Sec. 3.07, 3.08; Ch. 1 def. 45",
           "read": true
+        },
+        {
+          "title": "Fremont County Subdivision Regulations (2000, amended 2006)",
+          "url": "https://fremontcountyco.gov/sites/default/files/Subdivision_Regs.pdf",
+          "section": "Sec. 12.A, 19.A, 21",
+          "read": true
+        },
+        {
+          "title": "Fremont County Minor Subdivision Application (2016)",
+          "url": "https://fremontcountyco.gov/sites/default/files/planning-and-zoning/application-forms/minor-subdivision-application-9-29-2016-dm.pdf",
+          "read": false
         }
       ],
       "incentives": {
@@ -892,6 +1119,11 @@
             "rural": true
           }
         ]
+      },
+      "land": {
+        "subdivisionSignal": "Exemption path",
+        "strSignal": "Allowed",
+        "summary": "Fremont allows a one-time Minor Subdivision of up to 3 lots, as long as each meets the zone minimum (4.5 acres in R2, 18 in R3). There's no STR permit program, so renting a permitted cabin appears allowed. Multiple rental cabins become a special-review guest ranch/resort use."
       }
     },
     {
@@ -909,9 +1141,16 @@
           "read": true
         },
         {
-          "title": "Garfield County Land Use and Development Code",
-          "url": "https://www.garfield-county.com/community-development/land-use-code/",
-          "read": false
+          "title": "Garfield County LUDC Article 3: Zoning (4-4-24)",
+          "url": "https://www.garfieldcountyco.gov/community-development/wp-content/uploads/sites/12/Article-3-4-4-24.pdf",
+          "section": "3-101, Table 3-201, Table 3-403",
+          "read": true
+        },
+        {
+          "title": "Garfield County LUDC Article 5: Divisions of Land",
+          "url": "https://www.garfieldcountyco.gov/community-development/wp-content/uploads/sites/12/Article-5-Updated.pdf",
+          "section": "5-101, 5-102, 5-201, 5-203, 5-301",
+          "read": true
         }
       ],
       "incentives": {
@@ -928,6 +1167,11 @@
             "rural": true
           }
         ]
+      },
+      "land": {
+        "subdivisionSignal": "Exemption path",
+        "strSignal": "Allowed",
+        "summary": "Splitting a Rural-zoned parcel into up to 3 lots of 2+ acres is an administrative Minor Subdivision if water and access are proven. Short-term rentals are a by-right use with no county permit (outside PUDs), so a house and its ADU can be Airbnbs."
       }
     },
     {
@@ -942,6 +1186,18 @@
           "title": "Gilpin County Planning & Zoning",
           "url": "https://gilpincounty.colorado.gov/departments-offices/community-development/planning-zoning",
           "read": true
+        },
+        {
+          "title": "Gilpin County Planning & Zoning FAQ (same page as pz)",
+          "url": "https://gilpincounty.colorado.gov/departments-offices/community-development/planning-zoning",
+          "section": "FAQ 1, 4, 6, 8",
+          "read": true
+        },
+        {
+          "title": "Gilpin County Zoning Regulations (2022)",
+          "url": "https://gilpinpublicdata.s3.us-west-1.amazonaws.com/Community-Development/Planning+Division/2022+Zoning+Regulations.pdf",
+          "section": "Sec. 5.3, 5.5, minor subdivision",
+          "read": true
         }
       ],
       "incentives": {
@@ -952,6 +1208,11 @@
         "ruralJumpStart": null,
         "oz1Tracts": 0,
         "oz2Tracts": []
+      },
+      "land": {
+        "subdivisionSignal": "Full subdivision",
+        "strSignal": "Limited",
+        "summary": "Below 35 acres you need a full subdivision meeting 20-acre (RR) or 5-acre (RS) minimums, so most RR land under 40 acres can't be split. A cabin can be an Airbnb with a county license; if you live on site it's uncapped (up to 2 units), otherwise you join a waitlist for the 155 capped licenses."
       }
     },
     {
@@ -967,6 +1228,17 @@
           "url": "https://www.co.grand.co.us/AgendaCenter/ViewFile/Item/251?fileID=7679",
           "section": "Sec. 11.8, 14.10",
           "read": true
+        },
+        {
+          "title": "Grand County Zoning Regulations (last amended July 28, 2026)",
+          "url": "https://www.co.grand.co.us/DocumentCenter/View/27506/Zoning-Regulations",
+          "section": "Sec. III, VI, X, XIII, 14.7",
+          "read": true
+        },
+        {
+          "title": "Grand County: Short Term Rentals",
+          "url": "https://www.co.grand.co.us/943/Short-Term-Rentals",
+          "read": true
         }
       ],
       "incentives": {
@@ -977,6 +1249,11 @@
         "ruralJumpStart": null,
         "oz1Tracts": 0,
         "oz2Tracts": []
+      },
+      "land": {
+        "subdivisionSignal": "Exemption path",
+        "strSignal": "Permit",
+        "summary": "Splitting is possible through a 3-lot subdivision exemption (2.4+ ac lots, 5 ac in rural F zoning). An existing house can be an Airbnb with an uncapped annual county permit, but on well water an ADU must be attached and can't be rented, so extra cabins mean the 'resort cabins' use in the F zone."
       }
     },
     {
@@ -996,7 +1273,12 @@
           "title": "Gunnison County Land Use Resolution (amended Mar 5, 2026)",
           "url": "https://gunnisoncounty.org/DocumentCenter/View/3157",
           "section": "Sec. 9-509",
-          "read": false
+          "read": true
+        },
+        {
+          "title": "Gunnison County Planning Commission agenda, Feb 5, 2026 (STR License LUR Amendments work session)",
+          "url": "https://gunnisoncounty.org/ArchiveCenter/ViewFile/Item/9803",
+          "read": true
         }
       ],
       "incentives": {
@@ -1013,20 +1295,36 @@
             "rural": true
           }
         ]
+      },
+      "land": {
+        "subdivisionSignal": "Full subdivision",
+        "strSignal": "Allowed",
+        "summary": "There's no zoning, but anything below 35 acres goes through Minor/Major Impact subdivision review that favors land near towns and lots matching neighbors. A cabin can be an Airbnb with no cap or owner-occupancy rule (a light license program was planned for mid-2026), and a detached secondary residence gets administrative review."
       }
     },
     {
       "areaId": "08053",
       "signal": "Unclear",
       "summary": "No private-land camping rule found online.",
-      "evidence": "unverified",
+      "evidence": "partial",
       "noBuildingDept": false,
       "wikiPath": "counties/hinsdale.md",
       "sources": [
         {
-          "title": "Hinsdale County Recreation Regulations 2024 (public facilities)",
-          "url": "https://hinsdalecounty.colorado.gov/sites/hinsdalecounty/files/documents/Recreation%20Regulations%202024.pdf",
-          "read": false
+          "title": "Hinsdale County Zoning & Development Regulations (1979 resolution, amended through 2021) (DOCX)",
+          "url": "https://hinsdalecounty.colorado.gov/sites/g/files/lrnvjt1826/files/documents/Zoning%20%26%20Development%20Regulations.docx",
+          "section": "Sec. 1.6, 2.5, 2.6, 2.7, 3.2-1, 8.9-17",
+          "read": true
+        },
+        {
+          "title": "Hinsdale County Building Department",
+          "url": "https://hinsdalecounty.colorado.gov/building-department-10",
+          "read": true
+        },
+        {
+          "title": "Hinsdale County Ordinances (2023-2025 lists)",
+          "url": "https://hinsdalecounty.colorado.gov/documents/ordinances",
+          "read": true
         }
       ],
       "incentives": {
@@ -1037,16 +1335,32 @@
         "ruralJumpStart": "eligible, not joined",
         "oz1Tracts": 0,
         "oz2Tracts": []
+      },
+      "land": {
+        "subdivisionSignal": "Full subdivision",
+        "strSignal": "Allowed",
+        "summary": "Lots can be as small as 1 acre in the rural districts, but every new lot under 35 acres needs a multi-step Small Subdivision with Planning Commission and BOCC review. There's no county STR permit, and in RAD 1 tourist cabins and lodges are allowed by right, so a cabin (or several) can be rented short-term."
       }
     },
     {
       "areaId": "08055",
       "signal": "Restrictive",
       "summary": "New countywide camping ordinance: staying more than 14 days in a 30-day period needs a permit. Longer camping permits require sanitation and water plans.",
-      "evidence": "unverified",
+      "evidence": "partial",
       "noBuildingDept": false,
       "wikiPath": "counties/huerfano.md",
       "sources": [
+        {
+          "title": "Huerfano County Code Ch. 11 Land Use (Municode, Supp. 2, through Res. 25-38)",
+          "url": "https://library.municode.com/co/huerfano_county/codes/code_of_ordinances?nodeId=COOR_CH11LAUS",
+          "section": "Sec. 11-15, 11-17 (Table 11-17), 11-49, 11-50, 11-615",
+          "read": true
+        },
+        {
+          "title": "Huerfano County Land Use and Building page (links to Municode)",
+          "url": "https://huerfano.us/departments/land-use/",
+          "read": true
+        },
         {
           "title": "Huerfano County Code (Municode, via county ordinances page)",
           "url": "https://huerfano.us/county-ordinances/",
@@ -1067,20 +1381,36 @@
             "rural": true
           }
         ]
+      },
+      "land": {
+        "subdivisionSignal": "Restrictive",
+        "strSignal": "Allowed",
+        "summary": "Agricultural land in Huerfano has a 35-acre minimum, and there's no lighter split process besides a conforming family transfer, so smaller lots mean rezoning plus full subdivision. There are no STR rules and up to two dwellings per parcel are allowed by right, so one or two permitted cabins can apparently be Airbnbs."
       }
     },
     {
       "areaId": "08057",
       "signal": "Unclear",
       "summary": "No camping-specific rule found.",
-      "evidence": "unverified",
+      "evidence": "verified",
       "noBuildingDept": false,
       "wikiPath": "counties/jackson.md",
       "sources": [
         {
           "title": "Jackson County Zoning Resolution",
           "url": "https://jacksoncounty.colorado.gov/sites/jacksoncounty/files/documents/FULL-ZONING-RESOLUTION.pdf",
-          "read": false
+          "read": true
+        },
+        {
+          "title": "Jackson County Zoning Resolution (amended to 11/23/2020), via Wayback Machine copy of the county PDF",
+          "url": "http://web.archive.org/web/20240719180106/https://jacksoncounty.colorado.gov/sites/jacksoncounty/files/documents/FULL-ZONING-RESOLUTION.pdf",
+          "section": "Art. IV Sec. 3; Table of Zoning Districts pp. 113-134",
+          "read": true
+        },
+        {
+          "title": "Jackson County Petition for Exemption form",
+          "url": "https://jacksoncounty.colorado.gov/sites/jacksoncounty/files/documents/petitionforexemption.new_.pdf",
+          "read": true
         }
       ],
       "incentives": {
@@ -1091,25 +1421,38 @@
         "ruralJumpStart": "eligible, not joined",
         "oz1Tracts": 0,
         "oz2Tracts": []
+      },
+      "land": {
+        "subdivisionSignal": "Exemption path",
+        "strSignal": "Allowed",
+        "summary": "Splitting is possible through a BOCC petition-for-exemption (no further splits allowed) down to 3-acre zone minimums, but non-ranch homes in the Ranching zone need a special use. There's no STR license outside the Walden-corridor overlay, and Forestry & Open zoning allows up to 5 dwellings, lodges or dude ranches by right."
       }
     },
     {
       "areaId": "08059",
       "signal": "Restrictive",
       "summary": "Camping on residential property is limited to 2 weeks a year unless the zone district allows it. RVs as dwellings only in Mobile Home Park or PD zones.",
-      "evidence": "unverified",
+      "evidence": "partial",
       "noBuildingDept": false,
       "wikiPath": "counties/jefferson.md",
       "sources": [
         {
-          "title": "Jeffco FAQ: Can I camp on my own property?",
-          "url": "https://www.jeffco.us/FAQ.aspx?QID=203",
-          "read": false
+          "title": "Jefferson County Land Development Regulation (edition June 10, 2025)",
+          "url": "https://www.jeffco.us/DocumentCenter/View/1842/Land-Development-Regulation-PDF",
+          "section": "Sec. 9 Rural Cluster; Sec. 10 Exemption",
+          "read": true
         },
         {
-          "title": "Jefferson County Zoning Resolution",
-          "url": "https://www.jeffco.us/2460/Zoning-Resolution",
-          "read": false
+          "title": "Jefferson County Zoning Resolution Section 33 Agricultural District",
+          "url": "https://www.jeffco.us/DocumentCenter/View/2467/",
+          "section": "Sec. 33 uses, lot sizes, special uses",
+          "read": true
+        },
+        {
+          "title": "Jefferson County Zoning Resolution Section 19 Accessory Uses (amended 03-10-26)",
+          "url": "https://www.jeffco.us/DocumentCenter/View/2485/Section-19-Accessory-Uses-PDF",
+          "section": "19.D Accessory Dwelling Units",
+          "read": true
         }
       ],
       "incentives": {
@@ -1146,20 +1489,36 @@
             "rural": false
           }
         ]
+      },
+      "land": {
+        "subdivisionSignal": "Full subdivision",
+        "strSignal": "Limited",
+        "summary": "Splitting below the zone minimum (5/10/35 ac) needs rezoning and a full plat; Rural Cluster needs 70+ acres. A non-resident owner can get one Investment STR license countywide (750-ft spacing, 1% fire-district cap, max 10 guests), and guest cabins can't be STRs unless they're an ADU with the owner living on site."
       }
     },
     {
       "areaId": "08061",
       "signal": "Unclear",
       "summary": "No camping-specific rule found. The county has 1041 regulations.",
-      "evidence": "unverified",
+      "evidence": "verified",
       "noBuildingDept": false,
       "wikiPath": "counties/kiowa.md",
       "sources": [
         {
           "title": "Kiowa County Land Use (incl. 1041 regulations)",
           "url": "https://kiowacounty.colorado.gov/government/departments/land-use",
-          "read": false
+          "read": true
+        },
+        {
+          "title": "Kiowa County P&Z Comprehensive Plan (incl. zoning regulations)",
+          "url": "https://drive.google.com/file/d/17njtVhpdoOOrYmdmGswRmm6oz-ZcjJiC/view?usp=sharing",
+          "section": "Definitions; Agricultural district B-C",
+          "read": true
+        },
+        {
+          "title": "Kiowa County Subdivision Exemption Instructions & Application",
+          "url": "https://drive.google.com/file/d/1glG09yu-PNVTkI7-gaaAPvT8SVAP4uIv/view?usp=drive_link",
+          "read": true
         }
       ],
       "incentives": {
@@ -1170,16 +1529,32 @@
         "ruralJumpStart": "zone",
         "oz1Tracts": 0,
         "oz2Tracts": []
+      },
+      "land": {
+        "subdivisionSignal": "Exemption path",
+        "strSignal": "Limited",
+        "summary": "Splits under 35 acres go through a $50 commissioner exemption, with a 5-acre minimum on the parcel sold. Guest houses can't be rented and non-farm homes need a Conditional Use permit, so a rental cabin needs county approval."
       }
     },
     {
       "areaId": "08063",
       "signal": "Unclear",
       "summary": "No camping-specific rule found. No county building department.",
-      "evidence": "unverified",
+      "evidence": "verified",
       "noBuildingDept": true,
       "wikiPath": "counties/kit-carson.md",
       "sources": [
+        {
+          "title": "Kit Carson County Land Use Code (2026)",
+          "url": "https://docs.a3s.app/static/Kit_Carson_County_Land_Use_Code_2026_final.html",
+          "section": "Secs. 2-103, 2-104, 3-101, 4-303, 5-102, 5-301, 5-401, Art. 5 Div. 5 (cluster)",
+          "read": true
+        },
+        {
+          "title": "Kit Carson County Land Use department page",
+          "url": "https://kitcarsoncounty.colorado.gov/departments/land-use",
+          "read": true
+        },
         {
           "title": "Kit Carson County Land Use Code (Mar 22, 2023)",
           "url": "https://kitcarsoncounty.colorado.gov/sites/kitcarsoncounty/files/documents/Kit%20Carson%20County%20Land%20Use%20Code%20-%20March%2022%202023.pdf",
@@ -1194,6 +1569,11 @@
         "ruralJumpStart": "zone",
         "oz1Tracts": 1,
         "oz2Tracts": []
+      },
+      "land": {
+        "subdivisionSignal": "Exemption path",
+        "strSignal": "Allowed",
+        "summary": "Splits of 35+ acres go through a simple exemption plat. Smaller lots need a full plat, a cluster development, or a Board exemption. There are no short-term rental rules, but several cabins would likely need a commercial land use permit."
       }
     },
     {
@@ -1210,9 +1590,16 @@
           "read": true
         },
         {
-          "title": "Lake County LDC Chapter 5: Use Regulations",
-          "url": "https://lakecountyco.com/DocumentCenter/View/215/Lake-County-Land-Development-Code-Chapter-5-Use-Regulations-PDF",
-          "read": false
+          "title": "Lake County Land Development Code Chapter 3: Development Review & Approval Procedures",
+          "url": "https://lakecountyco.gov/DocumentCenter/View/166/Chapter-3--Development-Review-and-Approval-Procedures-PDF",
+          "section": "Sec. 3.17, 3.18",
+          "read": true
+        },
+        {
+          "title": "Lake County Land Development Code Chapter 4: District Regulations",
+          "url": "https://www.lakecountyco.com/DocumentCenter/View/167/Chapter-4--District-Regulations-PDF",
+          "section": "Sec. 4.2, Table 4.1",
+          "read": true
         }
       ],
       "incentives": {
@@ -1223,6 +1610,11 @@
         "ruralJumpStart": "zone",
         "oz1Tracts": 1,
         "oz2Tracts": []
+      },
+      "land": {
+        "subdivisionSignal": "Exemption path",
+        "strSignal": "Limited",
+        "summary": "Splitting is possible: 35+ acre splits are exempt, and a minor subdivision makes up to 4 lots (3-5 ac rural minimums) if the parcel hasn't been split in 25 years. A cabin can be an Airbnb with a county license; absentee owners compete for 135 capped licenses, ADUs can only be rented by an on-site owner, and lodge/guest-ranch applications are paused by a 2026 moratorium."
       }
     },
     {
@@ -1239,9 +1631,16 @@
           "read": true
         },
         {
-          "title": "La Plata County Land Use Code",
-          "url": "https://www.lpcgov.org/services/community_development_services/planning/land_use_codes_and_plans/",
-          "read": false
+          "title": "La Plata County Code Ch. 67 Division of Land (encodeplus)",
+          "url": "https://online.encodeplus.com/regs/laplata-co/doc-view.aspx?tocid=042",
+          "section": "Sec. 67-1, 67-4, 67-6, 67-7",
+          "read": true
+        },
+        {
+          "title": "La Plata County Code Ch. 65 Animas Valley Zone Districts",
+          "url": "https://online.encodeplus.com/regs/laplata-co/doc-view.aspx?tocid=040",
+          "section": "Overview; Sec. 65-3",
+          "read": true
         }
       ],
       "incentives": {
@@ -1252,30 +1651,36 @@
         "ruralJumpStart": "zone",
         "oz1Tracts": 2,
         "oz2Tracts": []
+      },
+      "land": {
+        "subdivisionSignal": "Exemption path",
+        "strSignal": "Allowed",
+        "summary": "Splitting is possible with Planning Commission review (Minor Subdivision for up to 3 lots, or a 2-lot ag exemption on old or 70+ ac parcels); outside the Animas Valley there's no fixed minimum lot size, but new lots must match nearby density. The county has no STR regulations, so a legal cabin can be an Airbnb."
       }
     },
     {
       "areaId": "08069",
       "signal": "Campground",
       "summary": "The Land Use Code has a rewritten campground/RV park section with minimum campsite sanitation, and short-term rental rules. Read the current LUC for the thresholds.",
-      "evidence": "unverified",
+      "evidence": "partial",
       "noBuildingDept": false,
       "wikiPath": "counties/larimer.md",
       "sources": [
         {
           "title": "Larimer County Land Use Code",
           "url": "https://www.larimer.gov/planning/land-use-code",
-          "read": false
+          "read": true
         },
         {
-          "title": "LUC Phase 2: Campgrounds & RV Parks (adoption draft)",
-          "url": "https://www.larimer.org/sites/default/files/uploads/2021/attachment_c_proposed_adoption_draft_clean.pdf",
-          "read": false
+          "title": "Larimer County Land Use Code Article 5 Land Division Standards (eff. Dec 9, 2024)",
+          "url": "https://www.larimer.gov/sites/default/files/article-5-land-division-standards-clean.pdf",
+          "section": "5.6, 5.8, 5.9",
+          "read": true
         },
         {
-          "title": "Larimer County 'Tiny Houses' guidance",
-          "url": "https://www.larimer.gov/sites/default/files/uploads/2024/tiny_houses_2023_edits.pdf",
-          "read": false
+          "title": "Larimer County Minor Land Division handout",
+          "url": "https://www.larimer.gov/sites/default/files/uploads/2023/minor_land_division.pdf",
+          "read": true
         }
       ],
       "incentives": {
@@ -1307,20 +1712,31 @@
             "rural": false
           }
         ]
+      },
+      "land": {
+        "subdivisionSignal": "Full subdivision",
+        "strSignal": "Permit",
+        "summary": "Splitting below 35 acres requires full subdivision, Conservation Development, or the 70+ acre RLUP (1 home per 17.5 ac). One whole-house cabin STR per property is possible with Special Review (FO/A use a lighter admin review), 500-ft spacing and a license; guest units/ALAs can't be rented short-term."
       }
     },
     {
       "areaId": "08071",
       "signal": "Campground",
       "summary": "Campgrounds need a special use permit and must meet design standards.",
-      "evidence": "unverified",
+      "evidence": "verified",
       "noBuildingDept": false,
       "wikiPath": "counties/las-animas.md",
       "sources": [
         {
           "title": "Las Animas County Land Use Regulations (Jun 16, 2026)",
-          "url": "https://lasanimascounty.colorado.gov/sites/lasanimascounty/files/documents/2026-06-16%20LAC%20land%20use%20on%20web.pdf",
-          "read": false
+          "url": "https://lasanimascounty.colorado.gov/sites/g/files/lrnvjt3346/files/documents/2026-06-16%20LAC%20land%20use%20on%20web.pdf",
+          "section": "Sec. 3.02.02, 3.03, 4.07, 4.10-4.12",
+          "read": true
+        },
+        {
+          "title": "Las Animas County Land Use page",
+          "url": "https://lasanimascounty.colorado.gov/land-use",
+          "read": true
         }
       ],
       "incentives": {
@@ -1342,20 +1758,37 @@
             "rural": true
           }
         ]
+      },
+      "land": {
+        "subdivisionSignal": "Restrictive",
+        "strSignal": "Allowed",
+        "summary": "Rural Las Animas land is mostly 35-acre-minimum Agricultural zoning. 35-160 acre splits are exempt with a recorded plan, but smaller lots need rezoning, a family exemption or a cluster subdivision. There are no STR rules, so a permitted cabin can apparently be an Airbnb. Multiple rental cabins need a guest ranch/vacation lodge special use permit."
       }
     },
     {
       "areaId": "08073",
       "signal": "Unclear",
       "summary": "The whole county is zoned agricultural (160-acre conforming lots). Camping rules weren't confirmed.",
-      "evidence": "unverified",
+      "evidence": "partial",
       "noBuildingDept": false,
       "wikiPath": "counties/lincoln.md",
       "sources": [
         {
           "title": "Lincoln County Land Use",
           "url": "https://lincolncounty.colorado.gov/county-land-use",
-          "read": false
+          "read": true
+        },
+        {
+          "title": "Lincoln County Zoning Resolution (rev. 2017)",
+          "url": "https://lincolncounty.colorado.gov/sites/g/files/lrnvjt1881/files/documents/LC%20ZONING%20REV%2011-17.pdf",
+          "section": "Definitions; Secs. 2-100, 2-200, 2-220, 2-230",
+          "read": true
+        },
+        {
+          "title": "Lincoln County Subdivision Regulations (2022)",
+          "url": "https://lincolncounty.colorado.gov/sites/lincolncounty/files/documents/lincoln_county_subdivision_2022.pdf",
+          "section": "6-300; Ch. 9 (9-100 to 9-185)",
+          "read": true
         }
       ],
       "incentives": {
@@ -1372,21 +1805,35 @@
             "rural": true
           }
         ]
+      },
+      "land": {
+        "subdivisionSignal": "Restrictive",
+        "strSignal": "Lodging review",
+        "summary": "Hard to split: the 160-acre zone minimum, 35-acre subdivision lots, and a cap of one exemption per 35-acre tract make small parcels rare. Renting cabins short-term isn't a permitted use (guest houses can't be rented), so it would need a special-review Development Permit."
       }
     },
     {
       "areaId": "08075",
       "signal": "Campground",
       "summary": "'Camping Areas' (organized campgrounds) need a detailed site plan covering drainage, access, parking, sanitation, refuse and fire protection.",
-      "evidence": "unverified",
+      "evidence": "partial",
       "noBuildingDept": false,
       "wikiPath": "counties/logan.md",
       "sources": [
         {
-          "title": "Logan County Zoning Resolution (updated Aug 2019)",
-          "url": "https://logancounty.colorado.gov/sites/logancounty/files/Zoning%20Regulations%20%28Updated%20August%202019%29.pdf",
-          "section": "Sec. 7.2.I",
-          "read": false
+          "title": "Logan County Zoning Use Grid (rev. 9/2020)",
+          "url": "https://www.logancountyco.gov/DocumentCenter/View/1061/Zoning-Use-Grid-PDF",
+          "read": true
+        },
+        {
+          "title": "Logan County Subdivision Exemption Application (rev. 5/2026)",
+          "url": "https://www.logancountyco.gov/DocumentCenter/View/1170/Subdivision-Exemption-Application",
+          "read": true
+        },
+        {
+          "title": "Logan County Minor Subdivision Application (rev. 5/2026)",
+          "url": "https://www.logancountyco.gov/DocumentCenter/View/1293/Minor-Subdivision-Application",
+          "read": true
         }
       ],
       "incentives": {
@@ -1403,13 +1850,18 @@
             "rural": true
           }
         ]
+      },
+      "land": {
+        "subdivisionSignal": "Exemption path",
+        "strSignal": "Allowed",
+        "summary": "You can split off one lot under 35 acres per parcel through a subdivision exemption with a hearing, and the A zone's listed minimum is 5 acres. The use grid lists resort lodges and guest ranches as a use by right in the Agricultural zone, so a cabin rental operation looks feasible; confirm with Planning."
       }
     },
     {
       "areaId": "08077",
       "signal": "Restrictive",
       "summary": "One RV or temporary shelter per property, max 30 consecutive and 180 days a year, only in Rural/Urban Residential zones. Tents and RVs can't be vacation-rental accommodations. Paid camping needs a permitted campground.",
-      "evidence": "partial",
+      "evidence": "verified",
       "noBuildingDept": false,
       "wikiPath": "counties/mesa.md",
       "sources": [
@@ -1427,7 +1879,7 @@
         {
           "title": "Mesa County current Land Development Code (amended 4-23-24)",
           "url": "https://www.mesacounty.us/departments-and-services/community-development/planning/current-land-development-code",
-          "read": false
+          "read": true
         }
       ],
       "incentives": {
@@ -1454,16 +1906,27 @@
             "rural": false
           }
         ]
+      },
+      "land": {
+        "subdivisionSignal": "Exemption path",
+        "strSignal": "Permit",
+        "summary": "A 10+ acre AFT/AF-35 parcel can split off one extra lot (min 1 acre) through a staff-level Rural Land Division; other splits must meet 5-35 acre density. A house and its ADU can be vacation rentals after site plan review (a dedicated STR permit is proposed for late 2026), but extra cabins need a Conditional Use Permit."
       }
     },
     {
       "areaId": "08079",
       "signal": "Campground",
       "summary": "RV parks and campgrounds must be registered with the county and meet site standards. A camping-unit season (May-Nov) was reported for residential zones.",
-      "evidence": "unverified",
+      "evidence": "partial",
       "noBuildingDept": true,
       "wikiPath": "counties/mineral.md",
       "sources": [
+        {
+          "title": "Zoning Regulations of Mineral County (amended through Jan 2025)",
+          "url": "https://www.mineralcountycolorado.com/sites/g/files/vyhlif13131/files/media/land-use-office/file/3071/mineral_county_zoning_regulations_2025.pdf",
+          "section": "Sec. 1.6, 2.1-2.4, 2.10, Art. 12 defs",
+          "read": true
+        },
         {
           "title": "Mineral County Mobile Home Park / RV Park & Campground Regulations",
           "url": "https://www.mineralcountycolorado.com/media/466",
@@ -1489,25 +1952,37 @@
             "rural": true
           }
         ]
+      },
+      "land": {
+        "subdivisionSignal": "Restrictive",
+        "strSignal": "Limited",
+        "summary": "Rural Mineral County land has a 35-acre minimum for homes, so splits below that need rezoning. A minor subdivision of up to 8 lots exists, with a 15-year no-resplit rule. One cabin per property can be an Airbnb by right, but only one STR unit is allowed, and multiple rental cabins need Recreational Resort zoning."
       }
     },
     {
       "areaId": "08081",
       "signal": "Unclear",
       "summary": "A third-party comparison says the zoning code doesn't mention camping. Confirm with Planning.",
-      "evidence": "unverified",
+      "evidence": "partial",
       "noBuildingDept": false,
       "wikiPath": "counties/moffat.md",
       "sources": [
         {
-          "title": "Moffat County",
-          "url": "https://moffatcounty.colorado.gov/",
-          "read": false
+          "title": "Moffat County Zoning Resolution Sec. 400 District Regulations (amended 9-23-25)",
+          "url": "https://moffatcounty.colorado.gov/sites/g/files/lrnvjt1901/files/Moffat%20County%20Zoning%20Resolution%20Section%20400%20District%20regulations-%20amended%209-23-25.pdf",
+          "section": "Sec. 410, 415",
+          "read": true
         },
         {
-          "title": "Moffat County fire ordinance 2023-0822",
-          "url": "https://moffatcounty.colorado.gov/sites/moffatcounty/files/FireOrd2023-0822_1.pdf",
-          "read": false
+          "title": "Moffat County Zoning Resolution Sec. 200 Definitions (amended 3-11-25)",
+          "url": "https://moffatcounty.colorado.gov/sites/g/files/lrnvjt1901/files/MoCoZoninResoSect200Interpretation-Definitions-%20amdened%203-11-25.pdf",
+          "read": true
+        },
+        {
+          "title": "Moffat County Subdivision Regulations",
+          "url": "https://moffatcounty.colorado.gov/sites/g/files/lrnvjt1901/files/SubdRegs_1.pdf",
+          "section": "Sec. 2.011",
+          "read": true
         }
       ],
       "incentives": {
@@ -1524,25 +1999,36 @@
             "rural": true
           }
         ]
+      },
+      "land": {
+        "subdivisionSignal": "Exemption path",
+        "strSignal": "Allowed",
+        "summary": "Moffat is one of the easier counties to split: Agricultural land goes down to 5-acre lots, with a one-time $200 exemption for a single split and a short minor subdivision for up to 4 lots. There are no STR rules, so one permitted cabin can be an Airbnb. More dwellings or rental 'cabins' need a Conditional Use Permit."
       }
     },
     {
       "areaId": "08083",
       "signal": "Campground",
       "summary": "Campgrounds and RV parks are regulated uses under a performance-standards code. No residential building code, but permits are required.",
-      "evidence": "unverified",
+      "evidence": "partial",
       "noBuildingDept": true,
       "wikiPath": "counties/montezuma.md",
       "sources": [
         {
-          "title": "Montezuma County Planning & Zoning (Land Use Code, Resolution 5-2025)",
-          "url": "https://montezumacounty.gov/planning-zoning/",
-          "read": false
+          "title": "Montezuma County Planning FAQ",
+          "url": "https://montezumacounty.gov/wp-content/uploads/2020/09/Planning-FAQ.pdf",
+          "read": true
         },
         {
-          "title": "Montezuma County Planning FAQ",
-          "url": "https://montezumacounty.org/wp-content/uploads/2020/09/Planning-FAQ.pdf",
-          "read": false
+          "title": "Montezuma County Land Use Code (Resolution 29-2025, amended Nov 18, 2025)",
+          "url": "https://montezumacounty.gov/wp-content/uploads/2025/04/LAND_USE_CODE___Resolution_29-2025.pdf",
+          "section": "Sec. 3102, 3106.5, 3304-3310, 5101.9, 5202, 6101-6102",
+          "read": true
+        },
+        {
+          "title": "Montezuma County Rezoning FAQ",
+          "url": "https://montezumacounty.gov/wp-content/uploads/2020/09/Zoning-FAQ.pdf",
+          "read": true
         }
       ],
       "incentives": {
@@ -1564,6 +2050,11 @@
             "rural": true
           }
         ]
+      },
+      "land": {
+        "subdivisionSignal": "Full subdivision",
+        "strSignal": "Allowed",
+        "summary": "Splitting under 35 acres needs a multi-step plat review, and often a rezoning to a 3- or 10-acre zone first. The county has no STR rules yet (a permit has been in drafting since 2025), so a house or guest unit can currently be rented short-term."
       }
     },
     {
@@ -1581,9 +2072,16 @@
           "read": true
         },
         {
-          "title": "Montrose County Zoning Regulations & Maps",
-          "url": "https://www.montrosecounty.net/228/Zoning-Regulations-Maps",
-          "read": false
+          "title": "Montrose County Amended Zoning Regulations 2026 (remediated)",
+          "url": "https://www.montrosecounty.net/DocumentCenter/View/26347/Amended-Zoning-Regulations-2026-Remediated",
+          "section": "Sec. II.D (Tables T-II.2, T-II.3), III.A.9, III.C.2.a (Table T-III.1)",
+          "read": true
+        },
+        {
+          "title": "Montrose County Subdivision Regulations (amended Jul 2024)",
+          "url": "https://www.montrosecounty.net/DocumentCenter/View/24125/Amended-Subdivision-Regulations-7-2024",
+          "section": "Art. II (Minor Subdivision), Art. V, Sec. 10.4",
+          "read": true
         }
       ],
       "incentives": {
@@ -1605,21 +2103,32 @@
             "rural": true
           }
         ]
+      },
+      "land": {
+        "subdivisionSignal": "Exemption path",
+        "strSignal": "Permit",
+        "summary": "Splitting up to 3 lots (1-acre minimum in Ag) is possible via Minor Subdivision with Planning Commission and BOCC approval, or a Large Tract Exemption on 75+ acres. Cabins can be Airbnbs with a 3-year STR registration, and big Ag parcels can have several ADUs (1 per 10 acres over 20)."
       }
     },
     {
       "areaId": "08087",
       "signal": "Campground",
       "summary": "The zoning regulations have a full Campground & RV Park section (permits, site area, density, setbacks).",
-      "evidence": "unverified",
+      "evidence": "verified",
       "noBuildingDept": false,
       "wikiPath": "counties/morgan.md",
       "sources": [
         {
           "title": "Morgan County Zoning Regulations (updated through Mar 2026)",
-          "url": "https://morgancounty.colorado.gov/sites/morgancounty/files/documents/Zoning%20Regulations%20-%20032026.pdf",
+          "url": "https://morgancounty.colorado.gov/sites/g/files/lrnvjt1911/files/documents/Zoning%20Regulations%20-%20032026.pdf",
           "section": "Sec. 4-100 to 4-125",
-          "read": false
+          "read": true
+        },
+        {
+          "title": "Morgan County Subdivision Regulations (July 2025)",
+          "url": "https://morgancounty.colorado.gov/sites/g/files/lrnvjt1911/files/documents/Subdivision%20Regulations%20-%20July%202025.pdf",
+          "section": "Ch. 8 (8-110), Ch. 9 (9-110, 9-120)",
+          "read": true
         }
       ],
       "incentives": {
@@ -1636,16 +2145,32 @@
             "rural": true
           }
         ]
+      },
+      "land": {
+        "subdivisionSignal": "Exemption path",
+        "strSignal": "Lodging review",
+        "summary": "A 35-acre parcel can usually split off one smaller lot (down to 2.5 acres with well and septic) through a one-time exemption, and minor subdivisions allow up to four lots. There are no short-term rental rules; B&Bs need a Special Use permit and rental cabins would likely be treated as lodging."
       }
     },
     {
       "areaId": "08089",
       "signal": "Unclear",
       "summary": "No camping-specific rule found.",
-      "evidence": "unverified",
+      "evidence": "verified",
       "noBuildingDept": false,
       "wikiPath": "counties/otero.md",
       "sources": [
+        {
+          "title": "Otero County Land Use Code (as amended Mar 10, 2025)",
+          "url": "https://oterocounty.colorado.gov/sites/g/files/lrnvjt1386/files/documents/2025-Otero-County-Land-Use-Code_r.pdf",
+          "section": "Secs. 3-101, 3-302, 3-401, 3-402, 5-202, 5-301, 5-302, 7-601, 7-802, 7-904, Art. 16",
+          "read": true
+        },
+        {
+          "title": "Otero County Statutory Exemption application (2026)",
+          "url": "https://oterocounty.colorado.gov/sites/g/files/lrnvjt1386/files/documents/2026-Application-for-Statutory-Exemption_r.pdf",
+          "read": true
+        },
         {
           "title": "Otero County Code of Regulations",
           "url": "https://oterocounty.colorado.gov/code-of-regulations",
@@ -1666,6 +2191,11 @@
             "rural": true
           }
         ]
+      },
+      "land": {
+        "subdivisionSignal": "Exemption path",
+        "strSignal": "Lodging review",
+        "summary": "Splitting below 35 acres is workable through a minor subdivision (up to four new lots; half-acre zoning minimum, but well and septic rule in practice). There are no short-term rental rules; B&Bs and guest ranches need Major Impact Review, and ADUs are allowed by right."
       }
     },
     {
@@ -1682,14 +2212,16 @@
           "read": true
         },
         {
-          "title": "Ouray County LUC Section 5: Uses by Special Use Permit",
-          "url": "https://ouraycountyco.gov/DocumentCenter/View/532/Section-05-Uses-Allowed-by-Special-Use-Permit",
-          "read": false
+          "title": "Ouray County LUC Section 3: Zoning (rev. 12/17/19)",
+          "url": "https://ouraycountyco.gov/DocumentCenter/View/530/Section-03-Zoning",
+          "section": "Sec. 3.8 A-H",
+          "read": true
         },
         {
-          "title": "Ouray County Land Use Code (Section 11: campgrounds, RV parks)",
-          "url": "https://ouraycountyco.gov/214/Land-Use-Code",
-          "read": false
+          "title": "Ouray County LUC Section 2: Definitions",
+          "url": "https://ouraycountyco.gov/DocumentCenter/View/529/Section-02-Definitions",
+          "section": "Accessory Dwelling Unit; Guest Ranch",
+          "read": true
         }
       ],
       "incentives": {
@@ -1700,13 +2232,18 @@
         "ruralJumpStart": null,
         "oz1Tracts": 0,
         "oz2Tracts": []
+      },
+      "land": {
+        "subdivisionSignal": "Restrictive",
+        "strSignal": "Limited",
+        "summary": "Splitting is hard: rural zones have a 35-acre minimum, and smaller lots require a PUD (6-13 acres per home) or a discretionary BOCC exemption. STRs need a capped county permit (50 off-site-owner permits, often waitlisted), and only the house OR the ADU can be rented, never both."
       }
     },
     {
       "areaId": "08093",
       "signal": "Restrictive",
       "summary": "In Residential and Mining zones, and on Agricultural parcels under 35 acres, camping by anyone other than the owner and non-paying guests is prohibited. Camping units are limited by parcel size (1/2/4).",
-      "evidence": "verified",
+      "evidence": "partial",
       "noBuildingDept": false,
       "wikiPath": "counties/park.md",
       "sources": [
@@ -1721,9 +2258,10 @@
           "read": true
         },
         {
-          "title": "Park County fire ban ordinance 2021-04",
-          "url": "https://www.parkcountyco.gov/AgendaCenter/ViewFile/Item/10184?fileID=4934",
-          "read": false
+          "title": "Park County Land Use Regulations Article V - Zoning and Use Regulations (rev. 07/25)",
+          "url": "https://www.parkcountyco.gov/DocumentView.aspx?DID=264",
+          "section": "Sec. 5-301, 5-304, 5-714(B)",
+          "read": true
         }
       ],
       "incentives": {
@@ -1734,16 +2272,32 @@
         "ruralJumpStart": "eligible, not joined",
         "oz1Tracts": 0,
         "oz2Tracts": []
+      },
+      "land": {
+        "subdivisionSignal": "Exemption path",
+        "strSignal": "Permit",
+        "summary": "Splitting is possible: 35+ acre splits are exempt, and a once-only minor subdivision makes up to 8 lots meeting zone minimums. A cabin can be an Airbnb with an uncapped annual county license (Ordinance 2026-01), but RVs, yurts and tents can't be rented, and ADUs need 2+ acres."
       }
     },
     {
       "areaId": "08095",
       "signal": "Unclear",
       "summary": "The Land Use Code uses a three-tier land-use-change permit. Camping rules weren't confirmed.",
-      "evidence": "unverified",
+      "evidence": "partial",
       "noBuildingDept": true,
       "wikiPath": "counties/phillips.md",
       "sources": [
+        {
+          "title": "Phillips County Land Use Code (amended Apr 30, 2025)",
+          "url": "https://phillipscounty.colorado.gov/sites/g/files/lrnvjt1351/files/Phillips%20County%20Land%20Use%20Code_Amended.04.30.2025.pdf",
+          "section": "Secs. 2-102, 2-103, 4-103, 10-102, 10-105, definitions",
+          "read": true
+        },
+        {
+          "title": "Phillips County Subdivision Exemption Application (rev. Jul 2, 2025)",
+          "url": "https://phillipscounty.colorado.gov/sites/g/files/lrnvjt1351/files/Subdivision%20Exemption%20Application_Rev.07.02.25_0.pdf",
+          "read": true
+        },
         {
           "title": "Phillips County Land Use Code (adopted Jun 30, 2023)",
           "url": "https://phillipscounty.colorado.gov/sites/phillipscounty/files/Final%20Phillips%20County%20Land%20Use%20Code_Adopted.06.30.2023.pdf",
@@ -1758,6 +2312,11 @@
         "ruralJumpStart": "zone",
         "oz1Tracts": 1,
         "oz2Tracts": []
+      },
+      "land": {
+        "subdivisionSignal": "Exemption path",
+        "strSignal": "Unclear",
+        "summary": "Yes, you can split: the Board can approve up to four lots of 2.5 to 35 acres through a fairly simple exemption plat with a hearing, and 35-acre splits are free. There are no short-term rental rules, but purpose-built rental cabins would likely need a Major permit."
       }
     },
     {
@@ -1782,20 +2341,36 @@
         "ruralJumpStart": null,
         "oz1Tracts": 0,
         "oz2Tracts": []
+      },
+      "land": {
+        "subdivisionSignal": "Unclear",
+        "strSignal": "Unclear",
+        "summary": "Research unfinished: this county wasn't covered in the October 2026 pass."
       }
     },
     {
       "areaId": "08099",
       "signal": "Unclear",
       "summary": "Zoning permits are required for structures. Camping rules weren't confirmed.",
-      "evidence": "unverified",
+      "evidence": "partial",
       "noBuildingDept": true,
       "wikiPath": "counties/prowers.md",
       "sources": [
         {
-          "title": "Prowers County Zoning Regulations (rev. Dec 5, 2023)",
-          "url": "https://www.prowersco.gov/departments/landuse/ZoningRegulationsandInformation",
-          "read": false
+          "title": "Prowers County Subdivision Regulations",
+          "url": "https://www.prowersco.gov/media/land-use/Prowers_County_Subdivision_Regulations.pdf",
+          "section": "Definitions (Subdivision \u00a7D), VIII-2, VIII-3",
+          "read": true
+        },
+        {
+          "title": "Prowers County Zoning Permit Applications A-1/A-2/A-3 (rev. Jan 2014)",
+          "url": "https://www.prowersco.gov/media/zoning-permits/Zoning_Permit_A_2.pdf",
+          "read": true
+        },
+        {
+          "title": "Prowers County Permitting & Development Guide",
+          "url": "https://www.prowersco.gov/media/land-use/Prowers__County_Permitting_Guide.pdf",
+          "read": true
         }
       ],
       "incentives": {
@@ -1812,24 +2387,36 @@
             "rural": true
           }
         ]
+      },
+      "land": {
+        "subdivisionSignal": "Exemption path",
+        "strSignal": "Unclear",
+        "summary": "Splits under 35 acres are possible through a Board exemption or a minor subdivision of up to five lots, though the ag zones list a 35-acre-plus minimum with an unconfirmed exception. Short-term rental rules couldn't be confirmed; guest houses appear to be allowed by right, and commercial lodging likely needs a Special Use Permit."
       }
     },
     {
       "areaId": "08101",
       "signal": "Restrictive",
       "summary": "Outside RV parks, RVs can't be stored or lived in on vacant parcels. RVs are temporary housing only during permitted construction.",
-      "evidence": "unverified",
+      "evidence": "partial",
       "noBuildingDept": false,
       "wikiPath": "counties/pueblo.md",
       "sources": [
         {
-          "title": "Pueblo County Planning & Development FAQ (UDC 17.03.050(c), 17.03.020)",
-          "url": "https://county.pueblo.org/planning-and-development-department/planning-and-development-faq",
-          "read": false
+          "title": "Pueblo County Unified Development Code (adopted Oct 22, 2024)",
+          "url": "https://county.pueblo.org/sites/default/files/2024-10/PuebloCounty_UDC_Adopted10.22.24.pdf",
+          "section": "17.02.050-060; Table 17.03.1; 17.03.040(c),(f),(m); 17.04.060; 17.06.080",
+          "read": true
         },
         {
-          "title": "Pueblo County Ch. 8.24 Open Fire and Open Burning Restriction",
-          "url": "https://county.pueblo.org/county-attorney/chapter-824-open-fire-and-open-burning-restriction",
+          "title": "Pueblo County Code Title 16 Subdivisions (12-8-2022)",
+          "url": "https://www.pueblocounty.gov/sites/default/files/2025-08/Pueblo%20County%20Code%20Title%2016%20Subdivisions_12-8-2022.pdf",
+          "section": "16.04.040",
+          "read": true
+        },
+        {
+          "title": "Pueblo County Planning & Development FAQ (UDC 17.03.050(c), 17.03.020)",
+          "url": "https://county.pueblo.org/planning-and-development-department/planning-and-development-faq",
           "read": false
         }
       ],
@@ -1867,13 +2454,18 @@
             "rural": false
           }
         ]
+      },
+      "land": {
+        "subdivisionSignal": "Exemption path",
+        "strSignal": "Allowed",
+        "summary": "A2/A3/RR land can be split into 2-4 lots through administrative or minor subdivision, while A1 is 35-ac or 70+ ac cluster only. Cabin STRs are a by-right use in agricultural and rural zones with basic safety and local-contact standards and no license found."
       }
     },
     {
       "areaId": "08103",
       "signal": "Campground",
       "summary": "RVs may be occupied Apr 1-Nov 30. More than 120 days needs a Land Use Change Permit. Campgrounds (tent and RV) go through Limited Impact review.",
-      "evidence": "verified",
+      "evidence": "partial",
       "noBuildingDept": false,
       "wikiPath": "counties/rio-blanco.md",
       "sources": [
@@ -1881,6 +2473,12 @@
           "title": "Rio Blanco County Land Use Regulations (copy hosted by Colorado Agritourism)",
           "url": "https://coagritourismbiz.org/wp-content/uploads/2023/10/Land-Use-Code.Rio-Blanco.pdf",
           "section": "Use table; Sec. 7-602, 7-610",
+          "read": true
+        },
+        {
+          "title": "Rio Blanco County Land Use Regulations (June 2026)",
+          "url": "https://www.rbc.us/Documents/Departments/Community%20Development/Planning/RBC%20Land%20Use%20Regulations_June2026.pdf",
+          "section": "Art. 3 Div. 1-2 use table; Art. 5 Sec. 5-201, 5-202, 5-301, 5-302, 5-402; Art. 16 defs",
           "read": true
         },
         {
@@ -1903,24 +2501,35 @@
             "rural": true
           }
         ]
+      },
+      "land": {
+        "subdivisionSignal": "Exemption path",
+        "strSignal": "Allowed",
+        "summary": "Rio Blanco has a lighter Single Lot Creation path to carve one 2+ acre lot off land that keeps a 35+ acre remainder, though Agricultural land under 35 acres must be rezoned to RR. There are no STR rules and renting homes is explicitly not a 'lodging' use, so a permitted cabin can be an Airbnb. Multiple rental cabins need Limited Impact Review as a lodging establishment."
       }
     },
     {
       "areaId": "08105",
       "signal": "Restrictive",
       "summary": "2024 amendments effectively ban unimproved 'dry camping' for money. Paid camping must meet the full campground/RV park standards.",
-      "evidence": "unverified",
+      "evidence": "partial",
       "noBuildingDept": false,
       "wikiPath": "counties/rio-grande.md",
       "sources": [
         {
-          "title": "Rio Grande County Land Development Code",
-          "url": "https://riograndecounty.colorado.gov/sites/riograndecounty/files/documents/RGC%20Development%20Code.pdf",
-          "read": false
+          "title": "Rio Grande County Land Development Code (eff. Jan 1, 2020, rev. Jun 1, 2023)",
+          "url": "https://riograndecounty.colorado.gov/sites/g/files/lrnvjt3586/files/documents/RGC%20Development%20Code.pdf",
+          "section": "Sec. 2.03, Table T-2.2, Table T-2.3, 2.06.B.1, 2.07.B.2.d, 4.04, 4.06, 4.08, Art. 13",
+          "read": true
         },
         {
-          "title": "RV Park/Campground codebook amendments (Mar 15, 2024 hearing draft)",
-          "url": "https://www.alamosacitizen.com/wp-content/uploads/2024/04/RGC-_-RV-PARK-CAMPGROUND-REGULATIONS-3.15.24.pdf",
+          "title": "Rio Grande County Land Use page",
+          "url": "https://riograndecounty.colorado.gov/departments/land-use",
+          "read": true
+        },
+        {
+          "title": "Rio Grande County Land Development Code",
+          "url": "https://riograndecounty.colorado.gov/sites/riograndecounty/files/documents/RGC%20Development%20Code.pdf",
           "read": false
         }
       ],
@@ -1938,6 +2547,11 @@
             "rural": true
           }
         ]
+      },
+      "land": {
+        "subdivisionSignal": "Exemption path",
+        "strSignal": "Permit",
+        "summary": "Rio Grande lets you carve up to two lots of 2+ acres off a 35+ acre parcel with an administrative exempt division, and minor subdivisions allow up to 4 lots. Cabin Airbnbs are allowed in rural zones with an administrative vacation rental permit: local manager, safety equipment, lodging tax, annual renewal."
       }
     },
     {
@@ -1968,6 +2582,11 @@
         "ruralJumpStart": "zone",
         "oz1Tracts": 0,
         "oz2Tracts": []
+      },
+      "land": {
+        "subdivisionSignal": "Restrictive",
+        "strSignal": "Lodging review",
+        "summary": "Routt keeps rural land at one home per 35 acres. Smaller lots come only through a clustered Land Preservation Subdivision on 70+ acres. Cabin Airbnbs are banned in unincorporated Routt. The only paths are an owner-occupied B&B or a guest ranch on 105+ ranch acres."
       }
     },
     {
@@ -1982,6 +2601,16 @@
           "title": "Saguache County Land Use Documents (Land Development Code)",
           "url": "https://saguachecounty.colorado.gov/land-use-documents",
           "read": false
+        },
+        {
+          "title": "Saguache County Subdivision Exemption Application (2020)",
+          "url": "https://saguachecounty.colorado.gov/sites/saguachecounty/files/2021-04/subdivisionexemptionapplication2020.pdf",
+          "read": false
+        },
+        {
+          "title": "Saguache County Land Development Code, Appendix A Definitions (eff. May 19, 2020)",
+          "url": "https://saguachecounty.colorado.gov/sites/saguachecounty/files/2021-06/ldcdefdraft2021.pdf",
+          "read": false
         }
       ],
       "incentives": {
@@ -1992,19 +2621,29 @@
         "ruralJumpStart": "zone",
         "oz1Tracts": 1,
         "oz2Tracts": []
+      },
+      "land": {
+        "subdivisionSignal": "Exemption path",
+        "strSignal": "Lodging review",
+        "summary": "Saguache has a subdivision exemption process the BOCC uses often, but its size and frequency limits weren't confirmed online. STRs, including ADU rentals, appear to need a conditional use permit, and a new STR chapter was in the works in 2024, so confirm with Land Use before buying."
       }
     },
     {
       "areaId": "08111",
       "signal": "Unclear",
       "summary": "Reported: up to 20 days of camping a year without a permit. The Town of Silverton's rules are separate and still changing.",
-      "evidence": "unverified",
+      "evidence": "partial",
       "noBuildingDept": false,
       "wikiPath": "counties/san-juan.md",
       "sources": [
         {
           "title": "San Juan County Planning (Land Use Code revised Jul 10, 2023)",
           "url": "https://sanjuancounty.colorado.gov/planning",
+          "read": true
+        },
+        {
+          "title": "San Juan County Zoning and Land Use Regulations (rev. 7-10-23, scanned PDF)",
+          "url": "https://sanjuancounty.colorado.gov/sites/g/files/lrnvjt966/files/7-10-23%20Zoning%20and%20Land%20Use%20Regulations.pdf",
           "read": false
         }
       ],
@@ -2022,6 +2661,11 @@
             "rural": true
           }
         ]
+      },
+      "land": {
+        "subdivisionSignal": "Unclear",
+        "strSignal": "Permit",
+        "summary": "Couldn't verify the split rules: the county's 2023 code is only posted as a scanned PDF. A county vacation rental permit is reportedly required, with STRs allowed in all districts except Resource, Conservancy and Natural."
       }
     },
     {
@@ -2057,20 +2701,31 @@
             "rural": true
           }
         ]
+      },
+      "land": {
+        "subdivisionSignal": "Unclear",
+        "strSignal": "Unclear",
+        "summary": "Research unfinished: this county wasn't covered in the October 2026 pass."
       }
     },
     {
       "areaId": "08115",
       "signal": "Unclear",
       "summary": "No camping-specific rule found. No county building department.",
-      "evidence": "unverified",
+      "evidence": "verified",
       "noBuildingDept": true,
       "wikiPath": "counties/sedgwick.md",
       "sources": [
         {
-          "title": "Sedgwick County Zoning Regulations",
-          "url": "https://sedgwickcounty.colorado.gov/sites/sedgwickcounty/files/Zoning%20Regulations.pdf",
-          "read": false
+          "title": "Sedgwick County Zoning Regulations (rev. Mar 31, 2003, Res. 2003-07)",
+          "url": "https://sedgwickcounty.colorado.gov/sites/g/files/lrnvjt3351/files/Zoning%20Regulations.pdf",
+          "section": "Secs. 2.1, III-IX, XI, XIV",
+          "read": true
+        },
+        {
+          "title": "Sedgwick County Subdivision Exemption form PZ-SE-2024-01 (rev. Jul 2026)",
+          "url": "https://sedgwickcounty.colorado.gov/sites/g/files/lrnvjt3351/files/documents/pz-se-2024-01_subdivision_exemption_form_revised_07-2026.docx",
+          "read": true
         }
       ],
       "incentives": {
@@ -2087,6 +2742,11 @@
             "rural": true
           }
         ]
+      },
+      "land": {
+        "subdivisionSignal": "Exemption path",
+        "strSignal": "Allowed",
+        "summary": "Splitting is relatively easy: the Board routinely grants exemptions for lots of 2+ acres with septic approval. Most rural land is Unclassified (all lawful uses allowed) and there are no short-term rental rules, so a cabin rental appears to be allowed."
       }
     },
     {
@@ -2111,20 +2771,38 @@
         "ruralJumpStart": null,
         "oz1Tracts": 0,
         "oz2Tracts": []
+      },
+      "land": {
+        "subdivisionSignal": "Unclear",
+        "strSignal": "Unclear",
+        "summary": "Research unfinished: this county wasn't covered in the October 2026 pass."
       }
     },
     {
       "areaId": "08119",
       "signal": "Unclear",
       "summary": "Owners may camp up to 60 days a year. A $25 permit is needed for 14+ days on vacant land. Paid camping wasn't researched.",
-      "evidence": "unverified",
+      "evidence": "partial",
       "noBuildingDept": false,
       "wikiPath": "counties/teller.md",
       "sources": [
         {
-          "title": "Teller County Ordinance 20: Regulating Camping",
-          "url": "https://www.tellercounty.gov/DocumentCenter/View/837/Regulating-Camping-in-Teller-County---Ordinance-20-PDF",
-          "read": false
+          "title": "Teller County LUR Ch. 2, Section 2.6.1 A-1 Agricultural Zone District",
+          "url": "https://tellercounty.gov/DocumentCenter/View/1845/A-1-PDF",
+          "section": "2.6.1.A-B",
+          "read": true
+        },
+        {
+          "title": "Teller County LUR Chapter 2 Zoning (amended 04.24.25)",
+          "url": "https://www.tellercounty.gov/DocumentCenter/View/270",
+          "section": "2.5.B Accessory Dwelling Units; 2.5.B.7 A-1 restrictions",
+          "read": true
+        },
+        {
+          "title": "Teller County LUR Chapter 9 Subdivision (amended 05-12-22)",
+          "url": "https://www.tellercounty.gov/DocumentCenter/View/277",
+          "section": "9.4.B Special Exemption Plat; 9.11 Rural Land Protection Subdivision Exemption",
+          "read": true
         }
       ],
       "incentives": {
@@ -2135,19 +2813,34 @@
         "ruralJumpStart": null,
         "oz1Tracts": 0,
         "oz2Tracts": []
+      },
+      "land": {
+        "subdivisionSignal": "Restrictive",
+        "strSignal": "Limited",
+        "summary": "A-1 land can't be split below 35 acres without rezoning/subdivision; 70+ acre parcels can cluster at 1 home per 35 ac. From Dec 1, 2026 a cabin STR needs a license (A-1/R-1/RR/R1M only, 1-year ownership wait, 10% cap for non-owner-occupied), and only the main dwelling can be rented."
       }
     },
     {
       "areaId": "08121",
       "signal": "Unclear",
       "summary": "No camping-specific rule found. Land-use changes go through the Planning Commission and BOCC.",
-      "evidence": "unverified",
+      "evidence": "partial",
       "noBuildingDept": true,
       "wikiPath": "counties/washington.md",
       "sources": [
         {
           "title": "Washington County Planning and Zoning",
           "url": "https://washingtoncounty.colorado.gov/departments/administration/planning-and-zoning",
+          "read": true
+        },
+        {
+          "title": "Washington County Application for Exemption from Subdivision (rev. 3/2024)",
+          "url": "https://washingtoncounty.colorado.gov/sites/g/files/lrnvjt1191/files/Subdivision%20Exemption%20Application%20revised%203-2024.pdf",
+          "read": true
+        },
+        {
+          "title": "Washington County subdivision regulations (scanned PDF)",
+          "url": "https://washingtoncounty.colorado.gov/sites/g/files/lrnvjt1191/files/new%20subdivision%20.pdf",
           "read": false
         }
       ],
@@ -2159,24 +2852,36 @@
         "ruralJumpStart": "zone",
         "oz1Tracts": 1,
         "oz2Tracts": []
+      },
+      "land": {
+        "subdivisionSignal": "Exemption path",
+        "strSignal": "Lodging review",
+        "summary": "Small splits go through a Planning Commission and Board subdivision exemption ($500), which may limit the parcel to one home and no commercial use. There are no short-term rental rules online; commercial uses such as rental cabins need a Use by Special Review."
       }
     },
     {
       "areaId": "08123",
       "signal": "Campground",
       "summary": "'Camping' is capped at 7 consecutive nights. A 'campground' is commercial RV/tent use for the public. Check the zone-district use lists.",
-      "evidence": "unverified",
+      "evidence": "partial",
       "noBuildingDept": false,
       "wikiPath": "counties/weld.md",
       "sources": [
         {
-          "title": "Weld County Charter and County Code, Ch. 23 (Zoning)",
-          "url": "https://library.municode.com/co/weld_county/codes/charter_and_county_code",
-          "read": false
+          "title": "Weld County A (Agricultural) Zone District, outside subdivisions: information guide (05/2022)",
+          "url": "https://www.weld.gov/files/sharedassets/public/v/5/departments/planning-and-zoning/documents/code-compliance/ag-zone-outside-sub-townsite.pdf",
+          "section": "Secs. 23-3-20, 23-3-30, 23-3-35, 23-3-40",
+          "read": true
         },
         {
-          "title": "Weld County A-zone guide (lots outside subdivisions)",
-          "url": "https://www.weld.gov/files/sharedassets/public/v/5/departments/planning-and-zoning/documents/code-compliance/ag-zone-outside-sub-townsite.pdf",
+          "title": "Weld County Zoning Permit for a Second Single-Family Dwelling (ZPSD) checklist",
+          "url": "https://www.weld.gov/files/sharedassets/public/v/11/departments/planning-and-zoning/documents/land-use-applications/zpsd.pdf",
+          "section": "Sec. 23-4-600 criteria",
+          "read": true
+        },
+        {
+          "title": "Weld County Charter and County Code, Ch. 23 (Zoning)",
+          "url": "https://library.municode.com/co/weld_county/codes/charter_and_county_code",
           "read": false
         }
       ],
@@ -2204,20 +2909,26 @@
             "rural": true
           }
         ]
+      },
+      "land": {
+        "subdivisionSignal": "Exemption path",
+        "strSignal": "Unclear",
+        "summary": "Weld's Recorded Exemption lets you split an A-zone parcel into 2-4 lots with at least one under 35 acres, so splitting is comparatively easy. No county STR program was found; a cabin and a permitted second dwelling are likely rentable, but confirm with Planning."
       }
     },
     {
       "areaId": "08125",
       "signal": "Unclear",
       "summary": "The 2024 Land Use Code regulates RV storage and use in residential districts. Details not confirmed.",
-      "evidence": "unverified",
+      "evidence": "verified",
       "noBuildingDept": true,
       "wikiPath": "counties/yuma.md",
       "sources": [
         {
           "title": "Yuma County Land Use Code (2024)",
           "url": "https://yumacounty.net/wp-content/uploads/2025/10/2024-Yuma-County-Land-Use-Code.pdf",
-          "read": false
+          "section": "Secs. 2-102, 2-103, 3-102, Art. 5 Lot Size, Definitions",
+          "read": true
         }
       ],
       "incentives": {
@@ -2228,6 +2939,11 @@
         "ruralJumpStart": "zone",
         "oz1Tracts": 1,
         "oz2Tracts": []
+      },
+      "land": {
+        "subdivisionSignal": "Exemption path",
+        "strSignal": "Unclear",
+        "summary": "Splits of 35+ acres are free, and the county has its own exemption for up to 20 smaller lots through a Minor or Major permit, subject to water and the 2.5-acre septic floor. There are no short-term rental rules, but purpose-built rental cabins likely need a Major Land Use Permit."
       }
     }
   ]

@@ -9,22 +9,43 @@
 | County seat | Akron |
 | Region | Eastern Plains |
 | Hipcamp signal | **Unclear**: No specific camping provision found yet |
+| Splitting land | **Exemption path**: A lighter split process (exemption, minor subdivision, lot split) exists below 35 acres |
+| Cabin short-term rentals | **Lodging review**: Short-term guests only through a lodging, B&B or resort approval |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
-| Evidence | Needs confirmation: from official pages and search summaries; code text not read |
-| Date checked | 2026-09-29 |
+| Evidence | Partly verified: some claims read in primary sources; the rest need confirmation |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://washingtoncounty.colorado.gov/departments/administration/planning-and-zoning>
 
+## Splitting land (subdivision)
+
+> Small splits go through a Planning Commission and Board subdivision exemption ($500), which may limit the parcel to one home and no commercial use. There are no short-term rental rules online; commercial uses such as rental cabins need a Use by Special Review.
+
+- The county website lists 'Exemption from Subdivision' as a land use application and notes 'single residence is allowed' on an exempted parcel. — [[1]](https://washingtoncounty.colorado.gov/departments/administration/planning-and-zoning) *(verified)*
+- Exemptions go to the Planning Commission, then the Board of County Commissioners. They need a survey showing dwellings, access from a public road, wells and septic. The fee is $500 plus recording. — [[1]](https://washingtoncounty.colorado.gov/departments/administration/planning-and-zoning), [[2]](https://washingtoncounty.colorado.gov/sites/g/files/lrnvjt1191/files/Subdivision%20Exemption%20Application%20revised%203-2024.pdf) *(verified)*
+- The Board may attach conditions to an exemption, such as no commercial use or no additional residence on the parcel. — [[2]](https://washingtoncounty.colorado.gov/sites/g/files/lrnvjt1191/files/Subdivision%20Exemption%20Application%20revised%203-2024.pdf) *(verified)*
+- The full Subdivision Regulations are posted only as a scanned PDF that couldn't be text-searched. Lot-size minimums and limits on repeat exemptions weren't confirmed; ask Planning & Zoning (970-345-2701). — [[3]](https://washingtoncounty.colorado.gov/sites/g/files/lrnvjt1191/files/new%20subdivision%20.pdf) *(needs confirmation)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- The county appears to be zoned agricultural by default. The site describes extinguishing a Use by Special Review as reverting 'back to agricultural zoning.' No zoning resolution text is posted online. — [[1]](https://washingtoncounty.colorado.gov/departments/administration/planning-and-zoning) *(verified)*
+- Several homes on under 35 acres need a Use by Special Review and health-department septic approval. — [[1]](https://washingtoncounty.colorado.gov/departments/administration/planning-and-zoning) *(verified)*
+- Building permits are required for all residences, outbuildings and garages. Well and septic permits may be required before final approval. — [[1]](https://washingtoncounty.colorado.gov/departments/administration/planning-and-zoning) *(verified)*
+
 ## Private (non-commercial) camping
 
-- Not confirmed. More than one residence on under 35 acres needs health-department septic approval. — [[1]](https://washingtoncounty.colorado.gov/departments/administration/planning-and-zoning) *(needs confirmation)*
+- Not confirmed. More than one residence on under 35 acres needs health-department septic approval. — [[1]](https://washingtoncounty.colorado.gov/departments/administration/planning-and-zoning) *(verified)*
 
 ## Paid camping / campground pathway
 
-- Changes of land use go to the Planning Commission, then the BOCC. — [[1]](https://washingtoncounty.colorado.gov/departments/administration/planning-and-zoning) *(needs confirmation)*
+- Changes of land use go to the Planning Commission, then the BOCC. — [[1]](https://washingtoncounty.colorado.gov/departments/administration/planning-and-zoning) *(verified)*
 
 > County "camping on your own land" rules usually cover **non-commercial** use by the owner and their guests.
 > A paid Hipcamp booking is often a campground or commercial use instead. Ask Planning in writing:
@@ -33,11 +54,15 @@
 ## RVs, tiny homes & structures
 
 - Not confirmed. Most Colorado counties treat RVs as temporary/recreational, not dwellings. See [Structures, Tiny Homes & RVs](../09-structures-tiny-homes-rvs.md).
-- **No building department.** DOH inspects foundations for manufactured, tiny and factory-built homes. State electrical and plumbing permits still apply. — [[2]](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) *(verified)*
+- **No building department.** DOH inspects foundations for manufactured, tiny and factory-built homes. State electrical and plumbing permits still apply. — [[4]](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) *(verified)*
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- No short-term rental rules were found online. — [[1]](https://washingtoncounty.colorado.gov/departments/administration/planning-and-zoning) *(verified)*
+- The county routes any 'commercial use or special use of property' through Use by Special Review, which is the likely path for rental cabins or multi-cabin lodging. — [[1]](https://washingtoncounty.colorado.gov/departments/administration/planning-and-zoning) *(verified)*
+- Exemption parcels may carry recorded conditions barring commercial use or a second residence, which would block cabin rentals. Check the plat notes. — [[2]](https://washingtoncounty.colorado.gov/sites/g/files/lrnvjt1191/files/Subdivision%20Exemption%20Application%20revised%203-2024.pdf) *(verified)*
+- The county has had temporary moratoria on RV parks and several energy uses. None was found for lodging. — [[1]](https://washingtoncounty.colorado.gov/departments/administration/planning-and-zoning) *(verified)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -83,8 +108,10 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 
 ## Sources
 
-1. [Washington County Planning and Zoning](https://washingtoncounty.colorado.gov/departments/administration/planning-and-zoning) — primary, not read in full
-2. [Division of Housing: jurisdictions without building departments](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) — primary, read
+1. [Washington County Planning and Zoning](https://washingtoncounty.colorado.gov/departments/administration/planning-and-zoning) — primary, read
+2. [Washington County Application for Exemption from Subdivision (rev. 3/2024)](https://washingtoncounty.colorado.gov/sites/g/files/lrnvjt1191/files/Subdivision%20Exemption%20Application%20revised%203-2024.pdf) — primary, read
+3. [Washington County subdivision regulations (scanned PDF)](https://washingtoncounty.colorado.gov/sites/g/files/lrnvjt1191/files/new%20subdivision%20.pdf) — primary, not read in full
+4. [Division of Housing: jurisdictions without building departments](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) — primary, read
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

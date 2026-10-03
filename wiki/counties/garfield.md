@@ -9,14 +9,38 @@
 | County seat | Glenwood Springs |
 | Region | Western Slope |
 | Hipcamp signal | **Campground**: Paid camping handled as a campground/RV park or special use |
+| Splitting land | **Exemption path**: A lighter split process (exemption, minor subdivision, lot split) exists below 35 acres |
+| Cabin short-term rentals | **Allowed**: No STR rules found; renting a permitted dwelling is treated as a residential use |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
 | Evidence | Partly verified: some claims read in primary sources; the rest need confirmation |
-| Date checked | 2026-09-29 |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://www.garfield-county.com/community-development/>
+
+## Splitting land (subdivision)
+
+> Splitting a Rural-zoned parcel into up to 3 lots of 2+ acres is an administrative Minor Subdivision if water and access are proven. Short-term rentals are a by-right use with no county permit (outside PUDs), so a house and its ADU can be Airbnbs.
+
+- Any division into 2+ parcels is a Subdivision unless exempt. Divisions creating parcels of 35+ acres each are exempt by operation of law (C.R.S. 30-28-101(10)(b)) (LUDC 5-101, 5-201). — [[4]](https://www.garfieldcountyco.gov/community-development/wp-content/uploads/sites/12/Article-5-Updated.pdf) *(verified)*
+- A Minor Subdivision (no more than 3 parcels, served by private wells or a water provider, needing no new or improved county road) is approved by staff Administrative Review. A parcel may use it only once; further divisions of those lots go through Major Subdivision (5-301). — [[4]](https://www.garfieldcountyco.gov/community-development/wp-content/uploads/sites/12/Article-5-Updated.pdf) *(verified)*
+- Minor Subdivision lots need proof of a legal, physical, adequate and dependable water supply for each lot, legal access and adequate sewage disposal (5-301.C). — [[4]](https://www.garfieldcountyco.gov/community-development/wp-content/uploads/sites/12/Article-5-Updated.pdf) *(verified)*
+- The Rural Land Development Exemption (5-203) allows cluster lots on 35+ acre parcels: up to 1 lot per 17.5 acres (under 70 ac), single-family/ADU use only, with 80% of the parcel kept as contiguous open space. — [[4]](https://www.garfieldcountyco.gov/community-development/wp-content/uploads/sites/12/Article-5-Updated.pdf) *(verified)*
+- Zone minimum lot sizes still apply: 2 acres in Rural (R); 35 acres in the Resource Lands zones (RLP, RLE, RLTS, RLGS) (Table 3-201). — [[3]](https://www.garfieldcountyco.gov/community-development/wp-content/uploads/sites/12/Article-3-4-4-24.pdf) *(verified)*
+- Bottom line: possible with review. Splitting a Rural-zoned parcel into up to 3 lots of 2+ acres is an administrative process if water and access are proven. — [[3]](https://www.garfieldcountyco.gov/community-development/wp-content/uploads/sites/12/Article-3-4-4-24.pdf), [[4]](https://www.garfieldcountyco.gov/community-development/wp-content/uploads/sites/12/Article-5-Updated.pdf) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- The main rural zone is Rural (R), with a 2-acre minimum lot size. The Resource Lands zones (Plateau, Escarpment, Talus Slopes, Gentle Slopes) have 35-acre minimums (Table 3-201). — [[3]](https://www.garfieldcountyco.gov/community-development/wp-content/uploads/sites/12/Article-3-4-4-24.pdf) *(verified)*
+- A lot may have one single-unit dwelling plus EITHER an Accessory Dwelling Unit (up to 1,200 sq ft, by right) OR a Secondary Dwelling Unit (up to 1,500 sq ft on lots under 4 ac, 3,000 sq ft on 4+ ac; administrative review; 2-acre minimum lot), but not both (LUDC 7-701). — [[1]](https://www.garfieldcountyco.gov/community-development/wp-content/uploads/sites/12/Article-7-Updated.pdf), [[3]](https://www.garfieldcountyco.gov/community-development/wp-content/uploads/sites/12/Article-3-4-4-24.pdf) *(verified)*
+- ADUs and Secondary Dwelling Units can be leased (leasehold interest only) but not sold separately. — [[1]](https://www.garfieldcountyco.gov/community-development/wp-content/uploads/sites/12/Article-7-Updated.pdf), [[4]](https://www.garfieldcountyco.gov/community-development/wp-content/uploads/sites/12/Article-5-Updated.pdf) *(verified)*
+- A 'Cabin' (max 1,200 sq ft, personal use up to 6 months a year, one per lot with no other dwelling) is allowed by right in R, but the definition says it is 'not to be used for commercial purposes'. — [[3]](https://www.garfieldcountyco.gov/community-development/wp-content/uploads/sites/12/Article-3-4-4-24.pdf), [[5]](https://www.garfieldcountyco.gov/community-development/wp-content/uploads/sites/12/Article-15-Updated.pdf) *(verified)*
 
 ## Private (non-commercial) camping
 
@@ -38,7 +62,12 @@
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- Short Term Rentals are a by-right use in all standard zone districts (Table 3-403), adopted Dec 2015. No land use permit or county STR license is required; you need a state sales tax license. — [[6]](https://www.garfieldcountyco.gov/community-development/short-term-home-rentals/), [[3]](https://www.garfieldcountyco.gov/community-development/wp-content/uploads/sites/12/Article-3-4-4-24.pdf) *(verified)*
+- STRs are not automatically allowed in PUDs; check the PUD guide. — [[6]](https://www.garfieldcountyco.gov/community-development/short-term-home-rentals/) *(verified)*
+- The STR definition covers a residential dwelling unit, including 'portions of homes consisting of 2 or fewer independent lodging units', so an ADU or Secondary Dwelling Unit, which are dwelling units, appears eligible. The county page doesn't address ADUs explicitly. — [[5]](https://www.garfieldcountyco.gov/community-development/wp-content/uploads/sites/12/Article-15-Updated.pdf) *(verified)*
+- A stand-alone 'Cabin' use (no house on the lot) is defined as non-commercial, personal use only, so it can't be an STR; build it as a permitted single-unit dwelling instead. — [[5]](https://www.garfieldcountyco.gov/community-development/wp-content/uploads/sites/12/Article-15-Updated.pdf) *(verified)*
+- More units than the house + ADU/SDU become 'Lodging Facilities' (resort lodge, guest ranch, B&B), which need Limited Impact Review in R (Table 3-403). A Small Camping Facility (10+ acres) is an Administrative Review use. — [[3]](https://www.garfieldcountyco.gov/community-development/wp-content/uploads/sites/12/Article-3-4-4-24.pdf), [[1]](https://www.garfieldcountyco.gov/community-development/wp-content/uploads/sites/12/Article-7-Updated.pdf) *(verified)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -89,6 +118,10 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 
 1. [Garfield County LUDC Article 7 (Standards)](https://www.garfieldcountyco.gov/community-development/wp-content/uploads/sites/12/Article-7-Updated.pdf) — primary, read, 7-905, 7-906
 2. [Garfield County Land Use and Development Code](https://www.garfield-county.com/community-development/land-use-code/) — primary, not read in full
+3. [Garfield County LUDC Article 3: Zoning (4-4-24)](https://www.garfieldcountyco.gov/community-development/wp-content/uploads/sites/12/Article-3-4-4-24.pdf) — primary, read, 3-101, Table 3-201, Table 3-403
+4. [Garfield County LUDC Article 5: Divisions of Land](https://www.garfieldcountyco.gov/community-development/wp-content/uploads/sites/12/Article-5-Updated.pdf) — primary, read, 5-101, 5-102, 5-201, 5-203, 5-301
+5. [Garfield County LUDC Article 15: Definitions](https://www.garfieldcountyco.gov/community-development/wp-content/uploads/sites/12/Article-15-Updated.pdf) — primary, read, Cabin; Lodging Facility; Short Term Rentals
+6. [Garfield County: Short term home rentals](https://www.garfieldcountyco.gov/community-development/short-term-home-rentals/) — primary, read
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

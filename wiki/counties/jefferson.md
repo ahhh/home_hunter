@@ -9,14 +9,37 @@
 | County seat | Golden |
 | Region | Front Range |
 | Hipcamp signal | **Restrictive**: A rule found limits paid camping, RV occupancy or camping-unit rentals |
+| Splitting land | **Full subdivision**: Any split below 35 acres goes through full subdivision review |
+| Cabin short-term rentals | **Limited**: Caps, owner-occupancy, zone bans or accessory-structure bans that matter for cabins |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
-| Evidence | Needs confirmation: from official pages and search summaries; code text not read |
-| Date checked | 2026-09-29 |
+| Evidence | Partly verified: some claims read in primary sources; the rest need confirmation |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://www.jeffco.us/2460/Zoning-Resolution>
+
+## Splitting land (subdivision)
+
+> Splitting below the zone minimum (5/10/35 ac) needs rezoning and a full plat; Rural Cluster needs 70+ acres. A non-resident owner can get one Investment STR license countywide (750-ft spacing, 1% fire-district cap, max 10 guests), and guest cabins can't be STRs unless they're an ADU with the owner living on site.
+
+- Agricultural minimum lot sizes are 5 acres (A-1), 10 acres (A-2) and 35 acres (A-35); a split must meet the zone minimum or the land must be rezoned (ZR Sec. 33). — [[4]](https://www.jeffco.us/DocumentCenter/View/2467/) *(verified)*
+- Normal splits below 35 acres go through the Preliminary and Final Plat process with Planning Commission and Board hearings (LDR Secs. 6-8). — [[3]](https://www.jeffco.us/DocumentCenter/View/1842/Land-Development-Regulation-PDF) *(verified)*
+- The Exemption Process can't be used for ordinary lot splits. It covers only one-time correction of an improper division, or splitting residential land owned continuously since before May 5, 1972 into at most 3 lots of at least 10 acres each (LDR Sec. 10.B). — [[3]](https://www.jeffco.us/DocumentCenter/View/1842/Land-Development-Regulation-PDF) *(verified)*
+- The Rural Cluster process needs at least 70 contiguous acres (35 if the open space has public value). It allows up to 2 homes per 35 acres (only 1 per 35 in A-35) with at least 2/3 of the land kept as permanent open area, after Planning Commission and Board hearings (LDR Sec. 9.B). — [[3]](https://www.jeffco.us/DocumentCenter/View/1842/Land-Development-Regulation-PDF) *(verified)*
+- Bottom line: below the zone minimum, splitting means rezoning plus platting; small sub-35-acre exemptions are effectively unavailable to new buyers. — [[3]](https://www.jeffco.us/DocumentCenter/View/1842/Land-Development-Regulation-PDF), [[4]](https://www.jeffco.us/DocumentCenter/View/2467/) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- A-1, A-2 and A-35 allow a single-family dwelling plus farming by right; lot minimums are 5, 10 and 35 acres (Sec. 33). — [[4]](https://www.jeffco.us/DocumentCenter/View/2467/) *(verified)*
+- One ADU per single-family detached lot is allowed in all agricultural and residential zones. The owner must live in one of the units, and the well permit must cover the ADU (Sec. 19.D). — [[5]](https://www.jeffco.us/DocumentCenter/View/2485/Section-19-Accessory-Uses-PDF) *(verified)*
+- ADU size is capped at 1,200 sq ft or 40% of the main house; a detached ADU needs at least a 1-acre lot (Sec. 19.D Table 1). — [[5]](https://www.jeffco.us/DocumentCenter/View/2485/Section-19-Accessory-Uses-PDF) *(verified)*
+- 'Camps, campgrounds, picnic grounds, and lodges or other similar facilities' are Special Uses in A-1, A-2 and A-35, with occupancy terms set in the approval (Sec. 33). — [[4]](https://www.jeffco.us/DocumentCenter/View/2467/) *(verified)*
 
 ## Private (non-commercial) camping
 
@@ -37,7 +60,13 @@
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- Since Dec 16, 2025, every STR needs an annual county STR License under Zoning Resolution Sec. 46. Only one STR license per property. — [[6]](https://www.jeffco.us/DocumentCenter/View/55056/Section-46-Short-Term-Rentals-PDF), [[7]](https://www.jeffco.us/DocumentCenter/View/55533/Short-Term-Rental-Application-Process-Guide-PDF?bidId=) *(verified)*
+- Two license types: Primary Residence STRs, and Investment Property STRs, limited to one per owner countywide. New investment STRs must be 750+ ft from another permitted STR, and STRs are capped at 1% of dwellings in each fire protection district (Sec. 46.B-D). — [[6]](https://www.jeffco.us/DocumentCenter/View/55056/Section-46-Short-Term-Rentals-PDF) *(verified)*
+- Occupancy is 2 per bedroom or the septic limit, max 10; an ADU STR is max 3 guests, and only if the owner lives in the main house (Sec. 46.B.12-14). — [[6]](https://www.jeffco.us/DocumentCenter/View/55056/Section-46-Short-Term-Rentals-PDF) *(verified)*
+- STRs aren't allowed in RVs, 'Detached Living Space' or any accessory structure that isn't a permitted ADU (Sec. 46.B.22). — [[6]](https://www.jeffco.us/DocumentCenter/View/55056/Section-46-Short-Term-Rentals-PDF) *(verified)*
+- Other rules: no wood or charcoal outdoor fires, a local representative within 30 minutes, annual septic inspection, a fire-district letter, $500k liability insurance, and access from a county road or an engineer-certified private road (Sec. 46; application guide). — [[6]](https://www.jeffco.us/DocumentCenter/View/55056/Section-46-Short-Term-Rentals-PDF), [[7]](https://www.jeffco.us/DocumentCenter/View/55533/Short-Term-Rental-Application-Process-Guide-PDF?bidId=) *(verified)*
+- Several rental cabins on one parcel would have to go through Special Use as a lodge or camp (Sec. 33). — [[4]](https://www.jeffco.us/DocumentCenter/View/2467/) *(verified)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -98,6 +127,11 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 
 1. [Jeffco FAQ: Can I camp on my own property?](https://www.jeffco.us/FAQ.aspx?QID=203) — primary, not read in full
 2. [Jefferson County Zoning Resolution](https://www.jeffco.us/2460/Zoning-Resolution) — primary, not read in full
+3. [Jefferson County Land Development Regulation (edition June 10, 2025)](https://www.jeffco.us/DocumentCenter/View/1842/Land-Development-Regulation-PDF) — primary, read, Sec. 9 Rural Cluster; Sec. 10 Exemption
+4. [Jefferson County Zoning Resolution Section 33 Agricultural District](https://www.jeffco.us/DocumentCenter/View/2467/) — primary, read, Sec. 33 uses, lot sizes, special uses
+5. [Jefferson County Zoning Resolution Section 19 Accessory Uses (amended 03-10-26)](https://www.jeffco.us/DocumentCenter/View/2485/Section-19-Accessory-Uses-PDF) — primary, read, 19.D Accessory Dwelling Units
+6. [Jefferson County Zoning Resolution Section 46 Short-Term Rentals (orig. 12-16-25)](https://www.jeffco.us/DocumentCenter/View/55056/Section-46-Short-Term-Rentals-PDF) — primary, read, 46.B-E
+7. [Jefferson County Short-Term Rental Application Process Guide (rev. 02-24-2026)](https://www.jeffco.us/DocumentCenter/View/55533/Short-Term-Rental-Application-Process-Guide-PDF?bidId=) — primary, read
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

@@ -9,18 +9,43 @@
 | County seat | Hugo |
 | Region | Eastern Plains |
 | Hipcamp signal | **Unclear**: No specific camping provision found yet |
+| Splitting land | **Restrictive**: Large zone minimums or county rules make splitting rare, even at 35+ acres |
+| Cabin short-term rentals | **Lodging review**: Short-term guests only through a lodging, B&B or resort approval |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
-| Evidence | Needs confirmation: from official pages and search summaries; code text not read |
-| Date checked | 2026-09-29 |
+| Evidence | Partly verified: some claims read in primary sources; the rest need confirmation |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://lincolncounty.colorado.gov/county-land-use>
 
+## Splitting land (subdivision)
+
+> Hard to split: the 160-acre zone minimum, 35-acre subdivision lots, and a cap of one exemption per 35-acre tract make small parcels rare. Renting cabins short-term isn't a permitted use (guest houses can't be rented), so it would need a special-review Development Permit.
+
+- The whole county is in the Agricultural District, which has a 160-acre minimum lot size (Sec. 2-200.C.3). — [[2]](https://lincolncounty.colorado.gov/sites/g/files/lrnvjt1881/files/documents/LC%20ZONING%20REV%2011-17.pdf) *(verified)*
+- Any residential development with a lot under 160 acres needs a Rural Design Development overlay approved by Development Permit. If any lot would be under 35 acres, the RDD must also be platted under the subdivision regulations (Sec. 2-230). — [[2]](https://lincolncounty.colorado.gov/sites/g/files/lrnvjt1881/files/documents/LC%20ZONING%20REV%2011-17.pdf) *(verified)*
+- Lots in a platted subdivision must be at least 35 acres (Subdivision Regs 6-300). — [[3]](https://lincolncounty.colorado.gov/sites/lincolncounty/files/documents/lincoln_county_subdivision_2022.pdf) *(verified)*
+- A subdivision exemption can split off a lot under 35 acres after Land Use Board and county commissioner meetings, but the county allows only one per 35-acre tract (or per parcel over 35 acres) and at most four per quarter section. The applicant must show a present need (Secs. 9-120, 9-180). — [[3]](https://lincolncounty.colorado.gov/sites/lincolncounty/files/documents/lincoln_county_subdivision_2022.pdf) *(verified)*
+- Exempted land can't be divided again by any process, and an exemption can't be taken from land that was already exempted (Secs. 9-180.H, 9-185). — [[3]](https://lincolncounty.colorado.gov/sites/lincolncounty/files/documents/lincoln_county_subdivision_2022.pdf) *(verified)*
+- Exemptions also require an adequate water supply, health-department-approved septic and consolidated legal access to a public road (Sec. 9-180). — [[3]](https://lincolncounty.colorado.gov/sites/lincolncounty/files/documents/lincoln_county_subdivision_2022.pdf) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- The county has one base zone, Agricultural (160-acre minimum, 65-foot setbacks, 30-foot residential height limit), plus Airport and Community overlays. — [[2]](https://lincolncounty.colorado.gov/sites/g/files/lrnvjt1881/files/documents/LC%20ZONING%20REV%2011-17.pdf) *(verified)*
+- The Agricultural District allows a single-family home occupied by the owner, operator or manager of the farm, plus two auxiliary units for employees or family tied to the farm. — [[2]](https://lincolncounty.colorado.gov/sites/g/files/lrnvjt1881/files/documents/LC%20ZONING%20REV%2011-17.pdf) *(verified)*
+- The definition of ranch dwellings covers guest houses only if they are 'not rented or otherwise conducted as a business.' — [[2]](https://lincolncounty.colorado.gov/sites/g/files/lrnvjt1881/files/documents/LC%20ZONING%20REV%2011-17.pdf) *(verified)*
+- Any use not listed in a district needs a Development Permit through special review (Sec. 2-220). — [[2]](https://lincolncounty.colorado.gov/sites/g/files/lrnvjt1881/files/documents/LC%20ZONING%20REV%2011-17.pdf) *(verified)*
+- Resolution 1161 (residential development permits) is posted only as a scanned image that couldn't be read. Ask Land Use what it changed. — [[4]](https://lincolncounty.colorado.gov/sites/g/files/lrnvjt1881/files/documents/SIGNED%20RES%231161.pdf) *(needs confirmation)*
+
 ## Private (non-commercial) camping
 
-- Not confirmed. All agricultural zoning. Lots under 160 acres need a Development permit, and 35 acres is the minimum reviewable. — [[1]](https://lincolncounty.colorado.gov/county-land-use) *(needs confirmation)*
+- Not confirmed. All agricultural zoning. Lots under 160 acres need a Development permit, and 35 acres is the minimum reviewable. — [[1]](https://lincolncounty.colorado.gov/county-land-use) *(verified)*
 
 ## Paid camping / campground pathway
 
@@ -37,7 +62,11 @@
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- The 2017 Zoning Resolution has no short-term rental rules. — [[2]](https://lincolncounty.colorado.gov/sites/g/files/lrnvjt1881/files/documents/LC%20ZONING%20REV%2011-17.pdf) *(verified)*
+- Guest houses are allowed only when not rented, so renting a guest cabin isn't a permitted use. — [[2]](https://lincolncounty.colorado.gov/sites/g/files/lrnvjt1881/files/documents/LC%20ZONING%20REV%2011-17.pdf) *(verified)*
+- Short-term lodging isn't a listed use, so it would need a Development Permit by special review. Any development with commercial uses must also be approved as a Rural Design Development (Secs. 2-220, 2-230). — [[2]](https://lincolncounty.colorado.gov/sites/g/files/lrnvjt1881/files/documents/LC%20ZONING%20REV%2011-17.pdf) *(verified)*
+- Whether a short-term rental of the main farm home is treated the same way isn't stated. Ask Land Use (719-743-2337). — *lead only, no source yet*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -85,7 +114,10 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 
 ## Sources
 
-1. [Lincoln County Land Use](https://lincolncounty.colorado.gov/county-land-use) — primary, not read in full
+1. [Lincoln County Land Use](https://lincolncounty.colorado.gov/county-land-use) — primary, read
+2. [Lincoln County Zoning Resolution (rev. 2017)](https://lincolncounty.colorado.gov/sites/g/files/lrnvjt1881/files/documents/LC%20ZONING%20REV%2011-17.pdf) — primary, read, Definitions; Secs. 2-100, 2-200, 2-220, 2-230
+3. [Lincoln County Subdivision Regulations (2022)](https://lincolncounty.colorado.gov/sites/lincolncounty/files/documents/lincoln_county_subdivision_2022.pdf) — primary, read, 6-300; Ch. 9 (9-100 to 9-185)
+4. [Lincoln County Resolution 1161, Residential Development Permits](https://lincolncounty.colorado.gov/sites/g/files/lrnvjt1881/files/documents/SIGNED%20RES%231161.pdf) — primary, not read in full
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

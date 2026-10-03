@@ -9,14 +9,34 @@
 | County seat | Walsenburg |
 | Region | Southern Mountains |
 | Hipcamp signal | **Restrictive**: A rule found limits paid camping, RV occupancy or camping-unit rentals |
+| Splitting land | **Restrictive**: Large zone minimums or county rules make splitting rare, even at 35+ acres |
+| Cabin short-term rentals | **Allowed**: No STR rules found; renting a permitted dwelling is treated as a residential use |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
-| Evidence | Needs confirmation: from official pages and search summaries; code text not read |
-| Date checked | 2026-09-29 |
+| Evidence | Partly verified: some claims read in primary sources; the rest need confirmation |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://huerfano.us/>
+
+## Splitting land (subdivision)
+
+> Agricultural land in Huerfano has a 35-acre minimum, and there's no lighter split process besides a conforming family transfer, so smaller lots mean rezoning plus full subdivision. There are no STR rules and up to two dwellings per parcel are allowed by right, so one or two permitted cabins can apparently be Airbnbs.
+
+- The Agricultural (A) district has a 35-acre minimum lot area. Rural Residential (RR) allows 2 acres and Urbanizing Residential (UR) half an acre, so going below 35 acres on ag land means rezoning first (Sec. 11-15). — [[3]](https://library.municode.com/co/huerfano_county/codes/code_of_ordinances?nodeId=COOR_CH11LAUS) *(verified)*
+- Divisions creating parcels of 35+ acres are exempt from subdivision review. Parcels under 160 acres still need a surveyed plat recorded with the Clerk (Sec. 11-49(4)). — [[3]](https://library.municode.com/co/huerfano_county/codes/code_of_ordinances?nodeId=COOR_CH11LAUS) *(verified)*
+- A Family Transaction Exemption allows a gift or sale between parent and child (or to a grandparent), but the new parcel must conform to zoning, so no lots under 35 acres in A (Sec. 11-49(1)). — [[3]](https://library.municode.com/co/huerfano_county/codes/code_of_ordinances?nodeId=COOR_CH11LAUS) *(verified)*
+- Other exemptions only cover lot line revisions and survey corrections that don't add parcels. Any other split goes through regular subdivision (sketch, preliminary, final plat). The Planning Commission can waive the sketch plan (Sec. 11-49(2), 11-50). — [[3]](https://library.municode.com/co/huerfano_county/codes/code_of_ordinances?nodeId=COOR_CH11LAUS) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- Districts: A (35-acre minimum lot, 40-acre minimum district), RR (2 acres), UR (half an acre), Commercial and Industrial. Minimum dwelling size is 600 sq ft, with a variance possible for smaller (Sec. 11-15). — [[3]](https://library.municode.com/co/huerfano_county/codes/code_of_ordinances?nodeId=COOR_CH11LAUS) *(verified)*
+- Up to two dwelling units on one parcel are allowed by right in A, RR, UR and C. Three to six units need a conditional use in A and RR (Table 11-17 items .01-.02). — [[3]](https://library.municode.com/co/huerfano_county/codes/code_of_ordinances?nodeId=COOR_CH11LAUS) *(verified)*
 
 ## Private (non-commercial) camping
 
@@ -38,7 +58,11 @@
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- The Huerfano County Code (Ch. 11 Land Use, codified through Nov 2025) has no short-term rental permit, license or definition. A code search for 'short-term rental' returns nothing. — [[3]](https://library.municode.com/co/huerfano_county/codes/code_of_ordinances?nodeId=COOR_CH11LAUS), [[4]](https://huerfano.us/departments/land-use/) *(verified)*
+- With no STR regime, renting a permitted dwelling short-term appears to be treated as residential use. Up to two dwellings per parcel are by right, so two rental cabins may fit without a lodging permit. You still need building permits and septic. Confirm with Land Use. — [[3]](https://library.municode.com/co/huerfano_county/codes/code_of_ordinances?nodeId=COOR_CH11LAUS) *(verified)*
+- Bed & breakfasts and 'guest ranches and vacation lodges' are conditional uses in A, RR, UR and C (Table 11-17 items .07-.08). More than two rental units on a parcel would likely land here. — [[3]](https://library.municode.com/co/huerfano_county/codes/code_of_ordinances?nodeId=COOR_CH11LAUS) *(verified)*
+- A 2025 camping ordinance limits RV/tent stays (more than 14 days in 30 needs a permit), so tent or RV rentals aren't a substitute for cabins. — [[2]](https://citizenportal.ai/articles/8731620/colorado/huerfano-county/county-approves-ordinance-to-regulate-camping-allowing-citation-or-civil-suits-for-enforcement) *(needs confirmation)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -88,6 +112,8 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 
 1. [Huerfano County Code (Municode, via county ordinances page)](https://huerfano.us/county-ordinances/) — primary, not read in full
 2. [Citizen Portal: county approves camping ordinance](https://citizenportal.ai/articles/8731620/colorado/huerfano-county/county-approves-ordinance-to-regulate-camping-allowing-citation-or-civil-suits-for-enforcement) — **secondary**, not read in full
+3. [Huerfano County Code Ch. 11 Land Use (Municode, Supp. 2, through Res. 25-38)](https://library.municode.com/co/huerfano_county/codes/code_of_ordinances?nodeId=COOR_CH11LAUS) — primary, read, Sec. 11-15, 11-17 (Table 11-17), 11-49, 11-50, 11-615
+4. [Huerfano County Land Use and Building page (links to Municode)](https://huerfano.us/departments/land-use/) — primary, read
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

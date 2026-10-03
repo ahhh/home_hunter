@@ -9,14 +9,34 @@
 | County seat | Alamosa |
 | Region | San Luis Valley |
 | Hipcamp signal | **Campground**: Paid camping handled as a campground/RV park or special use |
+| Splitting land | **Exemption path**: A lighter split process (exemption, minor subdivision, lot split) exists below 35 acres |
+| Cabin short-term rentals | **Allowed**: No STR rules found; renting a permitted dwelling is treated as a residential use |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
 | Evidence | Partly verified: some claims read in primary sources; the rest need confirmation |
-| Date checked | 2026-09-29 |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://alamosacounty.colorado.gov/departments/land-use-and-building>
+
+## Splitting land (subdivision)
+
+> Alamosa allows a one-time Minor Subdivision of up to 4 lots (1-acre minimum in RU), plus a new 2026 administrative ag split of up to two 10-acre tracts per 80 irrigated acres. Water and location rules can block both. There are no STR rules, so the main house can apparently be an Airbnb, but a guest house can't be rented.
+
+- Any division creating lots under 35 acres goes through subdivision. A Minor Subdivision ($600, 60-90 days, Planning Commission and BOCC hearings) creates up to 4 lots total (3 new). It's allowed once per parcel, and only on land not subdivided in the past 15 years (LUDC Sec. 5.8.1, 8.6.7). — [[3]](https://www.alamosacounty.org/DocumentCenter/View/231), [[4]](https://www.alamosacounty.org/180/Land-Use-Development) *(verified)*
+- Minor subdivision lots need public-road access and adequate potable water, and can't be in geologic hazard, floodplain or critical wildlife areas. The county says minor subdivisions are generally discouraged more than 3 miles outside the City of Alamosa (Sec. 5.8.1). — [[3]](https://www.alamosacounty.org/DocumentCenter/View/231), [[4]](https://www.alamosacounty.org/180/Land-Use-Development) *(verified)*
+- New in 2026: an administrative Agricultural Subdivision on Rural (RU) land of 80+ acres with active irrigation water rights and county-road frontage. It allows up to two small tracts of 10 acres or less per 80 acres, each with an exempt domestic well (Sec. 5.9, adopted Mar 11, 2026). — [[3]](https://www.alamosacounty.org/DocumentCenter/View/231) *(verified)*
+- Major subdivisions (more than 4 lots) were under a moratorium until the July 2025 comprehensive plan. A Sept 2025 amendment tightened water-supply and road standards (TA 25-002). — [[5]](https://www.alamosacounty.org/AgendaCenter/ViewFile/Item/902?fileID=1001) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- Rural (RU) is the main rural zone: max density 3 units per 35 acres, 1-acre minimum lot, 200-ft lot width, 50-ft front setback. Rural Estate (RE) is 1 unit per 5 acres (Art. 3 dimensional table). — [[3]](https://www.alamosacounty.org/DocumentCenter/View/231) *(verified)*
+- A guest house is allowed as an accessory use only for the occasional housing of the occupants' guests. It can't be used commercially and no charge may be made (Sec. 3.6.3.D). — [[3]](https://www.alamosacounty.org/DocumentCenter/View/231) *(verified)*
 
 ## Private (non-commercial) camping
 
@@ -40,7 +60,11 @@
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- The Land Use & Development Code (amended through Mar 2026) has no short-term rental permit, license or definition, and none was found on the county site. — [[3]](https://www.alamosacounty.org/DocumentCenter/View/231), [[4]](https://www.alamosacounty.org/180/Land-Use-Development) *(verified)*
+- With no STR regime, renting a permitted single-family dwelling short-term appears to be treated as residential use. You still need a building permit and septic. Confirm with Land Use. — *lead only, no source yet*
+- A guest house or accessory cabin can't be rented, since the code bars charging for guest-house use (Sec. 3.6.3.D). A second rental unit would need to be a separately permitted dwelling, within RU density. — [[3]](https://www.alamosacounty.org/DocumentCenter/View/231) *(verified)*
+- A Bed and breakfast (max 6 guestrooms, operator must live full time in the dwelling) is allowed in some districts and a special use in others. A hotel/motel is a special use outside Commercial (Sec. 2.3 use table, 3.4.3). — [[3]](https://www.alamosacounty.org/DocumentCenter/View/231) *(verified)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -92,6 +116,9 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 
 1. [Alamosa County FAQ: Camping & RV Occupancy](https://www.alamosacounty.org/Faq.aspx?TID=23) — primary, read
 2. [Campground/RV Park text amendment](https://alamosacounty.org/DocumentCenter/View/183/Text-Amendment-RV-Park-Campground-Adopted-PDF) — primary, not read in full
+3. [Alamosa County Land Use & Development Code (with 2026 amendments)](https://www.alamosacounty.org/DocumentCenter/View/231) — primary, read, Sec. 2.3, 3.1, 3.4.3, 3.6.3.D, 5.8, 5.9, 8.6.7
+4. [Alamosa County Land Use & Development page](https://www.alamosacounty.org/180/Land-Use-Development) — primary, read
+5. [Alamosa County Text Amendment TA 25-002 (Major Subdivisions, Sept 2025)](https://www.alamosacounty.org/AgendaCenter/ViewFile/Item/902?fileID=1001) — primary, read
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

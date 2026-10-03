@@ -95,7 +95,8 @@ Only a **legal lot** can get land-use permits. In Colorado that generally means 
 **September 1, 1972** (when the state subdivision law took effect), created through county subdivision review,
 or created by an exemption. Parcels of **35 acres or more** fall outside the statutory definition of
 "subdivision" ([C.R.S. 30-28-101(10)](https://law.justia.com/codes/colorado/2022/title-30/article-28/part-1/section-30-28-101/)). Archuleta County says outright that it issues land use permits only for
-a legal lot. **Reported.** Illegally split parcels are common in rural Colorado. Check before you buy.
+a legal lot. **Reported.** Illegally split parcels are common in rural Colorado. Check before you buy. For splitting a parcel yourself, and what
+each county allows, see [Subdividing, Zoning & Short-Term Rentals](19-subdivision-zoning-short-term-rentals.md).
 
 ## Hipcamp's view
 

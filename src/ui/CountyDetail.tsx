@@ -6,6 +6,8 @@ import type {
   HostingSummary,
   RegulationTopic,
   SearchState,
+  StrSignal,
+  SubdivisionSignal,
 } from "../domain/types";
 import { daysSince } from "../listings/collection";
 import type { StateData } from "../services/data";
@@ -41,6 +43,21 @@ const SIGNAL_LABELS: Record<HostingSignal, string> = {
   Restrictive: "Restrictive for paid camping",
   Paused: "New applications paused",
   Unclear: "Rules unclear",
+};
+
+const SUBDIVISION_LABELS: Record<SubdivisionSignal, string> = {
+  "Exemption path": "Splits: exemption path under 35 ac",
+  "Full subdivision": "Splits: full subdivision under 35 ac",
+  Restrictive: "Splits: restrictive",
+  Unclear: "Splits: rules unclear",
+};
+
+const STR_LABELS: Record<StrSignal, string> = {
+  Permit: "Cabin STR: county permit",
+  Allowed: "Cabin STR: no county STR rules",
+  Limited: "Cabin STR: limited",
+  "Lodging review": "Cabin STR: lodging approval",
+  Unclear: "Cabin STR: rules unclear",
 };
 
 const EVIDENCE_LABELS: Record<HostingSummary["evidence"], string> = {
@@ -142,6 +159,33 @@ export function CountyDetail({ area, data, search, listingCount, dispatch, onClo
             <li>
               <a href={data.hostingMeta.wikiBase + "04-property-worksheet.md"} target="_blank" rel="noopener noreferrer">
                 Parcel worksheet: can we host here?
+              </a>
+            </li>
+          </ul>
+        </section>
+      )}
+
+      {hosting && (
+        <section className="detail-section" aria-labelledby="land-h">
+          <h3 id="land-h">Splitting land &amp; cabin rentals</h3>
+          <p className="signal-row">
+            <span className={`signal signal-${hosting.land.subdivisionSignal.toLowerCase().replace(" ", "-")}`}>
+              {SUBDIVISION_LABELS[hosting.land.subdivisionSignal]}
+            </span>{" "}
+            <span className={`signal signal-${hosting.land.strSignal.toLowerCase().replace(" ", "-")}`}>
+              {STR_LABELS[hosting.land.strSignal]}
+            </span>
+          </p>
+          {hosting.land.summary && <p>{hosting.land.summary}</p>}
+          <ul className="link-list">
+            <li>
+              <a href={`${data.hostingMeta.wikiBase}${hosting.wikiPath}#splitting-land-subdivision`} target="_blank" rel="noopener noreferrer">
+                {area.name} subdivision, zoning and STR rules, with sources
+              </a>
+            </li>
+            <li>
+              <a href={`${data.hostingMeta.wikiBase}19-subdivision-zoning-short-term-rentals.md`} target="_blank" rel="noopener noreferrer">
+                Colorado's 35-acre rule, wells on split lots and STR law
               </a>
             </li>
           </ul>

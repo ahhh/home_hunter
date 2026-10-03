@@ -9,14 +9,38 @@
 | County seat | Salida |
 | Region | Central Mountains |
 | Hipcamp signal | **Pathway**: Explicit small-scale private-land camping permit |
+| Splitting land | **Exemption path**: A lighter split process (exemption, minor subdivision, lot split) exists below 35 acres |
+| Cabin short-term rentals | **Limited**: Caps, owner-occupancy, zone bans or accessory-structure bans that matter for cabins |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
-| Evidence | Verified: every sourced claim was read in a primary source |
-| Date checked | 2026-09-29 |
+| Evidence | Partly verified: some claims read in primary sources; the rest need confirmation |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://www.chaffeecounty.org/departments/community_planning_natural_resources/land_use_code.php>
+
+## Splitting land (subdivision)
+
+> Splitting is possible through administrative ag or heritage-water exemptions, a once-only minor subdivision, or a 35+ acre cluster, but AR land is zoned at 35 acres per home. A cabin can be an Airbnb only with one of 310 capped county licenses (one per property), so expect a waitlist.
+
+- Under the 2025 Land Use Code the Agriculture/Ranching (AR) zone allows 1 dwelling per 35 acres and Residential Rural (RR) 1 per 5 acres, so a lot split must fit that density. — [[1]](https://www.chaffeecounty.org/Documents/Departments/Planning%20&%20Zoning/Land%20Use%20Code/Chaffee%20County%20Land%20Use%20Code%20-%20Amended%209-16-25.pdf) *(verified)*
+- An Agricultural Subdivision Exemption (administrative) creates one new lot from land in ag/ranch use, leaving a 35+ acre ag tract. It can be used up to three times per property, once per calendar year. — [[1]](https://www.chaffeecounty.org/Documents/Departments/Planning%20&%20Zoning/Land%20Use%20Code/Chaffee%20County%20Land%20Use%20Code%20-%20Amended%209-16-25.pdf) *(verified)*
+- A Heritage Water Subdivision Exemption lets an owner with a pre-June 1, 1972 exempt well split off one lot (administrative); the result can't use further exemptions. — [[1]](https://www.chaffeecounty.org/Documents/Departments/Planning%20&%20Zoning/Land%20Use%20Code/Chaffee%20County%20Land%20Use%20Code%20-%20Amended%209-16-25.pdf) *(verified)*
+- Minor Subdivision (up to 4 lots, no public improvements) is a streamlined administrative plat review, usable once per property; further splitting needs major subdivision. Water supply adequacy must be shown. — [[1]](https://www.chaffeecounty.org/Documents/Departments/Planning%20&%20Zoning/Land%20Use%20Code/Chaffee%20County%20Land%20Use%20Code%20-%20Amended%209-16-25.pdf) *(verified)*
+- Rural Land Use Cluster (35+ acres, statutory C.R.S. 30-28-401 process) allows 1 unit per 17.5 ac with 67% open space; the Rural Open Space Incentive (ROSI) in AR allows 1 per 8.75 ac with 67% open space. — [[1]](https://www.chaffeecounty.org/Documents/Departments/Planning%20&%20Zoning/Land%20Use%20Code/Chaffee%20County%20Land%20Use%20Code%20-%20Amended%209-16-25.pdf) *(verified)*
+- Bottom line: below 35 acres in AR, you split via ag exemption, cluster or ROSI; in RR 5-acre lots are possible through minor subdivision. — [[1]](https://www.chaffeecounty.org/Documents/Departments/Planning%20&%20Zoning/Land%20Use%20Code/Chaffee%20County%20Land%20Use%20Code%20-%20Amended%209-16-25.pdf) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- Rural districts are AR (Agriculture/Ranching, 35 ac per unit) and RR (Residential Rural, 5 ac per unit). Single-unit detached and duplex are use-by-right in both. — [[1]](https://www.chaffeecounty.org/Documents/Departments/Planning%20&%20Zoning/Land%20Use%20Code/Chaffee%20County%20Land%20Use%20Code%20-%20Amended%209-16-25.pdf) *(verified)*
+- One ADU per property is allowed (a second only with public water and sewer). In AR/RR a detached ADU may be up to 1,500 sq ft or the main house's size, whichever is smaller. — [[1]](https://www.chaffeecounty.org/Documents/Departments/Planning%20&%20Zoning/Land%20Use%20Code/Chaffee%20County%20Land%20Use%20Code%20-%20Amended%209-16-25.pdf) *(verified)*
+- An ADU on a pre-2025 lot of record in AR or RR doesn't count toward density. — [[1]](https://www.chaffeecounty.org/Documents/Departments/Planning%20&%20Zoning/Land%20Use%20Code/Chaffee%20County%20Land%20Use%20Code%20-%20Amended%209-16-25.pdf) *(verified)*
+- Commercial Lodging is prohibited in AR and RR; Campground/RV Park (which can include camp cabins) is a Conditional Use in AR and RR. — [[1]](https://www.chaffeecounty.org/Documents/Departments/Planning%20&%20Zoning/Land%20Use%20Code/Chaffee%20County%20Land%20Use%20Code%20-%20Amended%209-16-25.pdf) *(verified)*
 
 ## Private (non-commercial) camping
 
@@ -45,7 +69,13 @@
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- Every STR (<30 days) in unincorporated Chaffee County needs an annual county Short-Term Rental License (Resolution 2024-79, LUC Appendix L). — [[4]](https://www.chaffeecounty.org/Documents/Departments/Planning%20&%20Zoning/Land%20Use%20Code/Appendix/appendix_L.pdf), [[1]](https://www.chaffeecounty.org/Documents/Departments/Planning%20&%20Zoning/Land%20Use%20Code/Chaffee%20County%20Land%20Use%20Code%20-%20Amended%209-16-25.pdf) *(verified)*
+- Licenses are capped at 310 per year with a first-come waitlist; the BOCC can revise the cap by Nov 1 each year. About 286 were active in fall 2026. — [[4]](https://www.chaffeecounty.org/Documents/Departments/Planning%20&%20Zoning/Land%20Use%20Code/Appendix/appendix_L.pdf), [[5]](https://citizenportal.ai/articles/9991390/Colorado/Chaffee-County/County-shortterm-rental-program-reports-286-active-licenses-of-a-310-cap-manager-proposes-new-authority-for-takedowns) *(needs confirmation)*
+- Only one dwelling per property may be licensed (house or ADU, not both) unless the property is an approved Agritourism use; agritourism STR units still need licenses but don't count toward the cap. — [[4]](https://www.chaffeecounty.org/Documents/Departments/Planning%20&%20Zoning/Land%20Use%20Code/Appendix/appendix_L.pdf) *(verified)*
+- Requirements: a Certificate of Occupancy, septic sized for max occupants, local agent responding within 1 hour to emergencies, inspection, sales/lodging tax license. Occupancy is set per CDPHE standards. Licenses don't transfer on sale. No events. — [[4]](https://www.chaffeecounty.org/Documents/Departments/Planning%20&%20Zoning/Land%20Use%20Code/Appendix/appendix_L.pdf) *(verified)*
+- The 2024 resolution has no owner-residency rule; a 2021 ordinance's residency/3-year long-term-rental requirement is reported in secondary sources. Confirm with Planning. — [[4]](https://www.chaffeecounty.org/Documents/Departments/Planning%20&%20Zoning/Land%20Use%20Code/Appendix/appendix_L.pdf), [[6]](https://arkvalleyvoice.com/chaffee-county-approves-short-term-rental-ordinance-with-6-percent-cap/) *(needs confirmation)*
+- Multiple rental cabins would be a Campground/RV Park (camp cabins, conditional use in AR/RR, up to 20 per acre) or Agritourism; Commercial Lodging is not allowed in AR/RR. County lodging tax is 1.9%. — [[1]](https://www.chaffeecounty.org/Documents/Departments/Planning%20&%20Zoning/Land%20Use%20Code/Chaffee%20County%20Land%20Use%20Code%20-%20Amended%209-16-25.pdf), [[7]](https://www.chaffeecounty.org/government/lodgingtax.php) *(needs confirmation)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -95,6 +125,10 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 1. [Chaffee County Land Use Code (eff. 1-1-2025, amended 9-16-2025)](https://www.chaffeecounty.org/Documents/Departments/Planning%20&%20Zoning/Land%20Use%20Code/Chaffee%20County%20Land%20Use%20Code%20-%20Amended%209-16-25.pdf) — primary, read, Sec. 2.3.5.1, 2.3.7.2
 2. [Resolution 2022-67, Exhibit A (original ordinance text, hosted by NACo)](https://www.naco.org/sites/default/files/attachments/Chaffee-County-Commercial-Camping-on-Private-Land-Oct.-2022%20%281%29.pdf) — primary, read
 3. [NACo: Chaffee camping ordinance](https://www.naco.org/articles/colorado-county-new-camping-ordinance-opens-doors-private-landowners) — **secondary**, read
+4. [Resolution 2024-79, Short-Term Rental Licensing Program (LUC Appendix L)](https://www.chaffeecounty.org/Documents/Departments/Planning%20&%20Zoning/Land%20Use%20Code/Appendix/appendix_L.pdf) — primary, read, Sec. 2-14
+5. [Citizen Portal: County STR program reports 286 active licenses of a 310 cap](https://citizenportal.ai/articles/9991390/Colorado/Chaffee-County/County-shortterm-rental-program-reports-286-active-licenses-of-a-310-cap-manager-proposes-new-authority-for-takedowns) — **secondary**, not read in full
+6. [Ark Valley Voice: Chaffee County approves STR ordinance with 6 percent cap](https://arkvalleyvoice.com/chaffee-county-approves-short-term-rental-ordinance-with-6-percent-cap/) — **secondary**, not read in full
+7. [Chaffee County Lodging Tax](https://www.chaffeecounty.org/government/lodgingtax.php) — primary, not read in full
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

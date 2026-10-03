@@ -9,14 +9,38 @@
 | County seat | Colorado Springs |
 | Region | Front Range |
 | Hipcamp signal | **Restrictive**: A rule found limits paid camping, RV occupancy or camping-unit rentals |
+| Splitting land | **Full subdivision**: Any split below 35 acres goes through full subdivision review |
+| Cabin short-term rentals | **Limited**: Caps, owner-occupancy, zone bans or accessory-structure bans that matter for cabins |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
 | Evidence | Partly verified: some claims read in primary sources; the rest need confirmation |
-| Date checked | 2026-09-29 |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://planningdevelopment.elpasoco.com/>
+
+## Splitting land (subdivision)
+
+> Splits below 35 acres need rezoning and at least a minor subdivision (4 or fewer lots) plat. A main-house cabin can be an Airbnb with no permit, and A-35 parcels may add one rentable second dwelling, but guest houses can't be rented without a variance.
+
+- Rural zone minimum lot sizes: A-35 is 35 acres; A-5, F-5 and RR-5 are 5 acres (4.75 acres when the lot fronts a section-line county road); RR-2.5 is 2.5 acres (LDC Table 5-4). — [[3]](https://planningdevelopment.elpasoco.com/wp-content/uploads/LandUseCode/LDC-Chap-5-ZoneDistrictsDimensionSetbacks.pdf) *(verified)*
+- Splitting off lots smaller than 35 acres needs a subdivision. A 'Minor Subdivision' (4 or fewer lots with limited impact) combines the preliminary plan and final plat into one review, but it must still meet all preliminary plan and final plat criteria (LDC 7.2.1(C)(1)). — [[5]](https://epc-assets.elpasoco.com/wp-content/uploads/sites/12/LandUseCode/EPC-Land-Use-Code-Chapter-7-2015.pdf) *(verified)*
+- The county will push applicants into full subdivision if it sees serial minor subdivisions or replats of the same property (LDC 7.2.1(C)(1)(e)). — [[5]](https://epc-assets.elpasoco.com/wp-content/uploads/sites/12/LandUseCode/EPC-Land-Use-Code-Chapter-7-2015.pdf) *(verified)*
+- Subdivision exemptions cover only rights-of-way, utilities, open space, boundary-line adjustments between unplatted parcels, condos, mergers, and public-use parcels; there is no lot-split exemption for homesites. The Rural Land Use Plan overlay (a cluster option) was repealed in 2015 (LDC 7.2.2). — [[5]](https://epc-assets.elpasoco.com/wp-content/uploads/sites/12/LandUseCode/EPC-Land-Use-Code-Chapter-7-2015.pdf) *(verified)*
+- Parcels of 35+ acres that don't leave a remainder under 35 acres are exempt from subdivision, as the statute says. — [[5]](https://epc-assets.elpasoco.com/wp-content/uploads/sites/12/LandUseCode/EPC-Land-Use-Code-Chapter-7-2015.pdf) *(verified)*
+- Splitting below 35 acres also needs the right zoning; A-35 land must be rezoned (e.g. to RR-5) first. The LDC is being rewritten (public drafts in 2026), so check for changes. — [[3]](https://planningdevelopment.elpasoco.com/wp-content/uploads/LandUseCode/LDC-Chap-5-ZoneDistrictsDimensionSetbacks.pdf), [[7]](https://gazette.com/2026/08/31/el-paso-county-to-update-its-land-use-code/) *(needs confirmation)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- A-35 (35 ac), A-5/F-5/RR-5 (5 ac) and RR-2.5 (2.5 ac) are the main rural districts (Table 5-4). — [[3]](https://planningdevelopment.elpasoco.com/wp-content/uploads/LandUseCode/LDC-Chap-5-ZoneDistrictsDimensionSetbacks.pdf) *(verified)*
+- In A-35, one additional single-family dwelling is allowed per lot, and it may be used by family or 'for rental purposes' (LDC 5.1.22). — [[4]](https://epc-assets.elpasoco.com/wp-content/uploads/sites/12/LandUseCode/EPC-Land-Use-Code-Chapter-5-2016.pdf) *(verified)*
+- One guest house is allowed per lot (max 1,500 sq ft, no larger than the main house, no separate meters). It is for non-paying guests only and may not be leased or rented; a kitchen needs a recorded no-rent affidavit (LDC 5.1.29). — [[4]](https://epc-assets.elpasoco.com/wp-content/uploads/sites/12/LandUseCode/EPC-Land-Use-Code-Chapter-5-2016.pdf) *(verified)*
+- A guest house used as a rental counts as a second dwelling and needs variance of use approval (LDC 5.1.29(G)). — [[4]](https://epc-assets.elpasoco.com/wp-content/uploads/sites/12/LandUseCode/EPC-Land-Use-Code-Chapter-5-2016.pdf) *(verified)*
 
 ## Private (non-commercial) camping
 
@@ -37,7 +61,12 @@
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- The county has no STR ordinance and needs no permit or license to short-term rent the principal dwelling. — [[6]](https://planningdevelopment.elpasoco.com/short-term-rentals/) *(verified)*
+- If an accessory structure (guest house, cabin) will be a short-term rental, zoning approval is required; the code bars renting guest houses, so that means a variance of use. — [[6]](https://planningdevelopment.elpasoco.com/short-term-rentals/), [[4]](https://epc-assets.elpasoco.com/wp-content/uploads/sites/12/LandUseCode/EPC-Land-Use-Code-Chapter-5-2016.pdf) *(verified)*
+- Commercial events, and advertising the property as an event venue, are prohibited at STRs. — [[6]](https://planningdevelopment.elpasoco.com/short-term-rentals/) *(verified)*
+- On A-35 land, the code-allowed 'additional dwelling' may be rented, which may allow a second cabin as an STR. Confirm with the Planner of the Day (719-520-6944). — [[4]](https://epc-assets.elpasoco.com/wp-content/uploads/sites/12/LandUseCode/EPC-Land-Use-Code-Chapter-5-2016.pdf), [[6]](https://planningdevelopment.elpasoco.com/short-term-rentals/) *(verified)*
+- Several cabins rented on one parcel would be a lodging or commercial use; that review path wasn't confirmed in the use tables. — *lead only, no source yet*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -102,6 +131,11 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 
 1. [El Paso County Code Enforcement](https://planningdevelopment.elpasoco.com/el-paso-county-code-enforcement-2/) — primary, read
 2. [El Paso County Land Development Code](https://library.municode.com/co/el_paso_county/codes/land_development_code) — primary, not read in full
+3. [El Paso County LDC Table 5-4 Density and Dimensional Standards](https://planningdevelopment.elpasoco.com/wp-content/uploads/LandUseCode/LDC-Chap-5-ZoneDistrictsDimensionSetbacks.pdf) — primary, read, Table 5-4
+4. [El Paso County LDC Chapter 5 Use and Dimensional Standards (2016 PDF, pages effective 2018)](https://epc-assets.elpasoco.com/wp-content/uploads/sites/12/LandUseCode/EPC-Land-Use-Code-Chapter-5-2016.pdf) — primary, read, 5.1.22 Dwelling, Additional; 5.1.29 Guest House
+5. [El Paso County LDC Chapter 7 Rules Governing Divisions of Land (eff. 2016/2017 PDF)](https://epc-assets.elpasoco.com/wp-content/uploads/sites/12/LandUseCode/EPC-Land-Use-Code-Chapter-7-2015.pdf) — primary, read, 7.2.1, 7.2.2
+6. [El Paso County Planning: Short Term Rentals](https://planningdevelopment.elpasoco.com/short-term-rentals/) — primary, read
+7. [The Gazette: El Paso County to update its land use code (Aug 31, 2026)](https://gazette.com/2026/08/31/el-paso-county-to-update-its-land-use-code/) — **secondary**, not read in full
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

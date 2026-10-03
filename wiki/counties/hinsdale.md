@@ -9,14 +9,39 @@
 | County seat | Lake City |
 | Region | Southwest |
 | Hipcamp signal | **Unclear**: No specific camping provision found yet |
+| Splitting land | **Full subdivision**: Any split below 35 acres goes through full subdivision review |
+| Cabin short-term rentals | **Allowed**: No STR rules found; renting a permitted dwelling is treated as a residential use |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
-| Evidence | Needs confirmation: from official pages and search summaries; code text not read |
-| Date checked | 2026-09-29 |
+| Evidence | Partly verified: some claims read in primary sources; the rest need confirmation |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://hinsdalecounty.colorado.gov/>
+
+## Splitting land (subdivision)
+
+> Lots can be as small as 1 acre in the rural districts, but every new lot under 35 acres needs a multi-step Small Subdivision with Planning Commission and BOCC review. There's no county STR permit, and in RAD 1 tourist cabins and lodges are allowed by right, so a cabin (or several) can be rented short-term.
+
+- Subdivision follows the state definition: divisions creating parcels of 35+ acres each are exempt (Sec. 8.9-2 / 2.5 definitions). — [[2]](https://hinsdalecounty.colorado.gov/sites/g/files/lrnvjt1826/files/documents/Zoning%20%26%20Development%20Regulations.docx) *(verified)*
+- The county 'Exemption' (Sec. 8.9-17.A) only covers transfers to an adjoining parcel and boundary adjustments. It can't create new lots. — [[2]](https://hinsdalecounty.colorado.gov/sites/g/files/lrnvjt1826/files/documents/Zoning%20%26%20Development%20Regulations.docx) *(verified)*
+- A 'Small Subdivision' (Sec. 8.9-17.B) splits one parcel into 3 or fewer lots, each meeting zone acreage. It is abbreviated but still requires sketch plan, 60-day neighbor notice, preliminary plan and final plat with Planning Commission and BOCC review. — [[2]](https://hinsdalecounty.colorado.gov/sites/g/files/lrnvjt1826/files/documents/Zoning%20%26%20Development%20Regulations.docx) *(verified)*
+- Development proposals in Rural Area Districts must include physiographic studies (soils, slope, geology, water availability, sewage) (Sec. 3.2-1.A / 8.10-9.A). — [[2]](https://hinsdalecounty.colorado.gov/sites/g/files/lrnvjt1826/files/documents/Zoning%20%26%20Development%20Regulations.docx) *(verified)*
+- In the Upper Piedra District the minimum is 35 acres, or 25 acres per lot through a Cluster Development exemption that preserves at least 67% open space (Sec. 2.5). — [[2]](https://hinsdalecounty.colorado.gov/sites/g/files/lrnvjt1826/files/documents/Zoning%20%26%20Development%20Regulations.docx) *(verified)*
+- Bottom line: possible with review. RAD 1/RAD 2 lots can be as small as 1 acre, but any new lot under 35 ac needs the multi-step Small Subdivision or full subdivision process. — [[2]](https://hinsdalecounty.colorado.gov/sites/g/files/lrnvjt1826/files/documents/Zoning%20%26%20Development%20Regulations.docx) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- Most of the county is Rural Area District 1 (RAD 1), with a 1-acre minimum lot size. RAD 2 (Lake San Cristobal, Henson Creek, Capitol City areas) also has a 1-acre minimum. The Upper Piedra District has a 35-acre minimum (Sec. 1.6, 2.2-2, 2.5-2.C, 2.6-4, 2.7-3). — [[2]](https://hinsdalecounty.colorado.gov/sites/g/files/lrnvjt1826/files/documents/Zoning%20%26%20Development%20Regulations.docx) *(verified)*
+- RAD 1 allows single- and two-family dwellings, tourist cabins, motels, lodges and guest ranches by right. The number of primary structures per lot is limited only by health/safety standards, setbacks and separations (Sec. 1.6-1.5, 2.6-1). — [[2]](https://hinsdalecounty.colorado.gov/sites/g/files/lrnvjt1826/files/documents/Zoning%20%26%20Development%20Regulations.docx) *(verified)*
+- RAD 2 allows single-family dwellings by right; cluster residences and recreation facilities need a special use permit (Sec. 2.7). — [[2]](https://hinsdalecounty.colorado.gov/sites/g/files/lrnvjt1826/files/documents/Zoning%20%26%20Development%20Regulations.docx) *(verified)*
+- In the Upper Piedra District, one ADU per single-family home is allowed (max 50% of the home or 1,000 sq ft, capped at 2,500 sq ft; can't be sold separately). Guest ranches, lodges and campgrounds there are special uses capped at 1 unit per 5 acres. — [[2]](https://hinsdalecounty.colorado.gov/sites/g/files/lrnvjt1826/files/documents/Zoning%20%26%20Development%20Regulations.docx) *(verified)*
+- Hinsdale County has a building department; building permits and OWTS permits are required. — [[3]](https://hinsdalecounty.colorado.gov/building-department-10) *(verified)*
 
 ## Private (non-commercial) camping
 
@@ -37,7 +62,11 @@
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- No county short-term rental license or regulation was found. The Zoning & Development Regulations (as amended through 2021) contain no STR provisions, and no STR ordinance appears in the county's 2023-2025 ordinance lists. The Town of Lake City has its own STR permit; it doesn't apply to county land. — [[2]](https://hinsdalecounty.colorado.gov/sites/g/files/lrnvjt1826/files/documents/Zoning%20%26%20Development%20Regulations.docx), [[4]](https://hinsdalecounty.colorado.gov/documents/ordinances) *(verified)*
+- In RAD 1 (most private land), 'Tourist Cabins, Motels and Lodges' and 'Guest Ranch' are uses allowed by right, so even multiple rental cabins on one parcel appear allowed without special review, subject to setbacks, health standards, building and septic permits. — [[2]](https://hinsdalecounty.colorado.gov/sites/g/files/lrnvjt1826/files/documents/Zoning%20%26%20Development%20Regulations.docx) *(verified)*
+- In RAD 2, lodging uses aren't listed by right. Renting a single-family dwelling short-term isn't addressed; ask the county. In Upper Piedra, B&Bs are conditional (max 5 bedrooms, on-site manager) and guest ranches/lodges are special uses. — [[2]](https://hinsdalecounty.colorado.gov/sites/g/files/lrnvjt1826/files/documents/Zoning%20%26%20Development%20Regulations.docx) *(verified)*
+- Hinsdale County has a Lodging Tax Board, so a county lodging tax applies to short-term stays; confirm the rate. — [[5]](https://hinsdalecounty.colorado.gov/lodging-tax-board) *(needs confirmation)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -80,6 +109,10 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 ## Sources
 
 1. [Hinsdale County Recreation Regulations 2024 (public facilities)](https://hinsdalecounty.colorado.gov/sites/hinsdalecounty/files/documents/Recreation%20Regulations%202024.pdf) — primary, not read in full
+2. [Hinsdale County Zoning & Development Regulations (1979 resolution, amended through 2021) (DOCX)](https://hinsdalecounty.colorado.gov/sites/g/files/lrnvjt1826/files/documents/Zoning%20%26%20Development%20Regulations.docx) — primary, read, Sec. 1.6, 2.5, 2.6, 2.7, 3.2-1, 8.9-17
+3. [Hinsdale County Building Department](https://hinsdalecounty.colorado.gov/building-department-10) — primary, read
+4. [Hinsdale County Ordinances (2023-2025 lists)](https://hinsdalecounty.colorado.gov/documents/ordinances) — primary, read
+5. [Hinsdale County Lodging Tax Board](https://hinsdalecounty.colorado.gov/lodging-tax-board) — primary, not read in full
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

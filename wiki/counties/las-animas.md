@@ -9,14 +9,36 @@
 | County seat | Trinidad |
 | Region | Southern Mountains |
 | Hipcamp signal | **Campground**: Paid camping handled as a campground/RV park or special use |
+| Splitting land | **Restrictive**: Large zone minimums or county rules make splitting rare, even at 35+ acres |
+| Cabin short-term rentals | **Allowed**: No STR rules found; renting a permitted dwelling is treated as a residential use |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
-| Evidence | Needs confirmation: from official pages and search summaries; code text not read |
-| Date checked | 2026-09-29 |
+| Evidence | Verified: every sourced claim was read in a primary source |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://lasanimascounty.colorado.gov/land-use>
+
+## Splitting land (subdivision)
+
+> Rural Las Animas land is mostly 35-acre-minimum Agricultural zoning. 35-160 acre splits are exempt with a recorded plan, but smaller lots need rezoning, a family exemption or a cluster subdivision. There are no STR rules, so a permitted cabin can apparently be an Airbnb. Multiple rental cabins need a guest ranch/vacation lodge special use permit.
+
+- The Agricultural (A) district, which covers most rural land, has a 35-acre minimum lot area. Ranchette (RA) is 5 acres, and Rural Residential (RR) is 12,500 sq ft along Hwy 12 and the Trinidad fringe (Sec. 3.02.02). Going below 35 acres in A generally means rezoning plus subdivision. — [[1]](https://lasanimascounty.colorado.gov/sites/g/files/lrnvjt3346/files/documents/2026-06-16%20LAC%20land%20use%20on%20web.pdf) *(verified)*
+- Splits into parcels of 35-160 acres are exempt from subdivision review, but you must record a plan with the Clerk showing boundaries and a 30-ft access easement to a public road for parcels not on a county road (Sec. 4.11). — [[1]](https://lasanimascounty.colorado.gov/sites/g/files/lrnvjt3346/files/documents/2026-06-16%20LAC%20land%20use%20on%20web.pdf) *(verified)*
+- Minor subdivision (up to 5 lots) applies only when every lot fronts a dedicated public street and all required improvements already exist, so it rarely fits raw land (Sec. 4.10). — [[1]](https://lasanimascounty.colorado.gov/sites/g/files/lrnvjt3346/files/documents/2026-06-16%20LAC%20land%20use%20on%20web.pdf) *(verified)*
+- A Family Transaction Exemption covers a gift or sale between parent and child or grandchild, but the new parcel must fully conform to zoning, including the 35-acre minimum in A (Sec. 4.07). — [[1]](https://lasanimascounty.colorado.gov/sites/g/files/lrnvjt3346/files/documents/2026-06-16%20LAC%20land%20use%20on%20web.pdf) *(verified)*
+- A Cluster Subdivision (C.R.S. 30-28-401) allows up to 2 units per 35 acres with at least two-thirds of the tract kept as open space. It needs Planning Commission and BOCC hearings, plus a water augmentation plan above 1 acre-foot per 35 acres (Sec. 4.12). — [[1]](https://lasanimascounty.colorado.gov/sites/g/files/lrnvjt3346/files/documents/2026-06-16%20LAC%20land%20use%20on%20web.pdf) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- Districts: A (35 ac min), RA Ranchette (5 ac), RR (12,500 sq ft), UR (7,500 sq ft), plus PUD. Minimum dwelling size is 600 sq ft (Sec. 3.02.02). — [[1]](https://lasanimascounty.colorado.gov/sites/g/files/lrnvjt3346/files/documents/2026-06-16%20LAC%20land%20use%20on%20web.pdf) *(verified)*
+- A single-family dwelling and an individual mobile home are uses by right in all districts. A duplex is a special use in A and RA (Sec. 3.03 use table). — [[1]](https://lasanimascounty.colorado.gov/sites/g/files/lrnvjt3346/files/documents/2026-06-16%20LAC%20land%20use%20on%20web.pdf) *(verified)*
+- No ADU, guest-house or second-dwelling provisions were found. Unlisted uses are treated as special uses, so ask Planning (719-845-2577) before planning a second home. — [[1]](https://lasanimascounty.colorado.gov/sites/g/files/lrnvjt3346/files/documents/2026-06-16%20LAC%20land%20use%20on%20web.pdf) *(verified)*
 
 ## Private (non-commercial) camping
 
@@ -24,7 +46,7 @@
 
 ## Paid camping / campground pathway
 
-- Campgrounds and mobile home parks need a special use permit and must meet design standards. A separate special events permit exists. — [[1]](https://lasanimascounty.colorado.gov/sites/lasanimascounty/files/documents/2026-06-16%20LAC%20land%20use%20on%20web.pdf) *(needs confirmation)*
+- Campgrounds and mobile home parks need a special use permit and must meet design standards. A separate special events permit exists. — [[1]](https://lasanimascounty.colorado.gov/sites/g/files/lrnvjt3346/files/documents/2026-06-16%20LAC%20land%20use%20on%20web.pdf) *(verified)*
 
 > County "camping on your own land" rules usually cover **non-commercial** use by the owner and their guests.
 > A paid Hipcamp booking is often a campground or commercial use instead. Ask Planning in writing:
@@ -37,7 +59,10 @@
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- No short-term rental regulations, permit or license were found in the Land Use Regulations (Jun 2026) or on the county land use page. — [[1]](https://lasanimascounty.colorado.gov/sites/g/files/lrnvjt3346/files/documents/2026-06-16%20LAC%20land%20use%20on%20web.pdf), [[2]](https://lasanimascounty.colorado.gov/land-use) *(verified)*
+- Without an STR regime, renting a permitted single-family dwelling short-term appears to be treated as residential use. You still need a land use/building permit and an approved septic. Confirm with Planning. — *lead only, no source yet*
+- Several rental cabins on one parcel would fall under 'Guest ranches and vacation lodges' or 'Hotels, motels and vacation lodges', both special uses (S) in every district (Sec. 3.03 items .07, .36). — [[1]](https://lasanimascounty.colorado.gov/sites/g/files/lrnvjt3346/files/documents/2026-06-16%20LAC%20land%20use%20on%20web.pdf) *(verified)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -88,7 +113,8 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 
 ## Sources
 
-1. [Las Animas County Land Use Regulations (Jun 16, 2026)](https://lasanimascounty.colorado.gov/sites/lasanimascounty/files/documents/2026-06-16%20LAC%20land%20use%20on%20web.pdf) — primary, not read in full
+1. [Las Animas County Land Use Regulations (Jun 16, 2026)](https://lasanimascounty.colorado.gov/sites/g/files/lrnvjt3346/files/documents/2026-06-16%20LAC%20land%20use%20on%20web.pdf) — primary, read, Sec. 3.02.02, 3.03, 4.07, 4.10-4.12
+2. [Las Animas County Land Use page](https://lasanimascounty.colorado.gov/land-use) — primary, read
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

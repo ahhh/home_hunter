@@ -9,14 +9,37 @@
 | County seat | Eagle |
 | Region | Central Mountains |
 | Hipcamp signal | **Unclear**: No specific camping provision found yet |
+| Splitting land | **Exemption path**: A lighter split process (exemption, minor subdivision, lot split) exists below 35 acres |
+| Cabin short-term rentals | **Limited**: Caps, owner-occupancy, zone bans or accessory-structure bans that matter for cabins |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
-| Evidence | Needs confirmation: from official pages and search summaries; code text not read |
-| Date checked | 2026-09-29 |
+| Evidence | Partly verified: some claims read in primary sources; the rest need confirmation |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://www.eaglecounty.us/departments___services/community_development/planning/land_use_regulations.php>
+
+## Splitting land (subdivision)
+
+> Splitting needs a minor (Type A, up to 3 lots) subdivision meeting zone minimums, and much rural land is 35-acre Resource zoning, so small splits usually need clustering or rezoning. There's no county STR license, so the main house can be an Airbnb, but ADU cabins can't be rented for under 14 days.
+
+- Minor Type A Subdivision creates up to 3 lots on land never platted before (or any number via a Conservation Subdivision); it goes to a BOCC decision. — [[4]](https://cms5.revize.com/revize/eagle/Document%20Center/Departments%20&%20Services/Community%20Development/Planning/Land%20Use%20Regulations/Article%205%20-%20Administration_Final.pdf) *(verified)*
+- Subdivision Exemptions (Sec. 5-270) are mainly for pre-May 5, 1972 lots, lot line adjustments (25% max shift), open space and condemnation, not for creating new building lots from a single parcel. — [[4]](https://cms5.revize.com/revize/eagle/Document%20Center/Departments%20&%20Services/Community%20Development/Planning/Land%20Use%20Regulations/Article%205%20-%20Administration_Final.pdf) *(verified)*
+- New lots must meet zone minimums: RR 2 ac, AL 5 ac, AR 10 ac, RL 20 ac, Resource (R) 35 ac, Resource Preservation 80 ac. Cluster development can reduce lot sizes if the rest stays open space. — [[3]](https://cms5.revize.com/revize/eagle/Document%20Center/Departments%20&%20Services/Community%20Development/Planning/Land%20Use%20Regulations/Article%203%20-%20Zone%20Districts_Final.pdf) *(verified)*
+- Most rural land is zoned Resource (35 ac), so splitting below 35 acres usually needs rezoning, a cluster/conservation subdivision, or a PUD. — [[3]](https://cms5.revize.com/revize/eagle/Document%20Center/Departments%20&%20Services/Community%20Development/Planning/Land%20Use%20Regulations/Article%203%20-%20Zone%20Districts_Final.pdf) *(verified)*
+- A full rewrite of the land use regulations (ECLUR) is in BOCC work sessions in fall 2026 and not yet adopted; zone districts and processes may change. — [[6]](https://www.eaglecounty.us/departments___services/community_development/planning/land_use_rewrite_project_.php) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- Rural zone minimums: Rural Residential 2 ac, Agricultural Limited 5 ac, Agricultural Residential 10 ac, Resource Limited 20 ac, Resource 35 ac. — [[3]](https://cms5.revize.com/revize/eagle/Document%20Center/Departments%20&%20Services/Community%20Development/Planning/Land%20Use%20Regulations/Article%203%20-%20Zone%20Districts_Final.pdf) *(verified)*
+- One single-family dwelling is a use by right in these zones, plus at most one ADU. — [[3]](https://cms5.revize.com/revize/eagle/Document%20Center/Departments%20&%20Services/Community%20Development/Planning/Land%20Use%20Regulations/Article%203%20-%20Zone%20Districts_Final.pdf) *(verified)*
+- ADUs are use-by-right on conforming Resource lots and Limited Review in RL, AR, AL, RR and RSL. Max size: R 1,800 sq ft, RL 1,200, AR 1,000, AL/RR 850. In R, RL and AR the ADU may be a separate detached building. — [[3]](https://cms5.revize.com/revize/eagle/Document%20Center/Departments%20&%20Services/Community%20Development/Planning/Land%20Use%20Regulations/Article%203%20-%20Zone%20Districts_Final.pdf) *(verified)*
+- Short-term rental of an ADU (less than 14 days) is not allowed under Sec. 3-310.A.3. — [[3]](https://cms5.revize.com/revize/eagle/Document%20Center/Departments%20&%20Services/Community%20Development/Planning/Land%20Use%20Regulations/Article%203%20-%20Zone%20Districts_Final.pdf) *(verified)*
 
 ## Private (non-commercial) camping
 
@@ -37,7 +60,11 @@
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- Eagle County has no county STR license: on May 13, 2025 the BOCC decided not to create a county STR ordinance, leaving rules to metro districts and HOAs. — [[5]](https://www.eaglecounty.us/government/draft_short_term_rental_ordinance.php) *(verified)*
+- So a permitted main house in unincorporated Eagle County can be rented short-term without a county license (check HOA covenants, sales/lodging tax, building permit and septic). — [[5]](https://www.eaglecounty.us/government/draft_short_term_rental_ordinance.php) *(verified)*
+- An ADU/guest cabin can't be rented for stays under 14 days (Sec. 3-310.A.3), which rules out a separate Airbnb cabin next to your house. — [[3]](https://cms5.revize.com/revize/eagle/Document%20Center/Departments%20&%20Services/Community%20Development/Planning/Land%20Use%20Regulations/Article%203%20-%20Zone%20Districts_Final.pdf) *(verified)*
+- Bed and Breakfast (owner lives on site, max 6 guest units) is a Special Use in some rural zones. A Resort Recreational Facility with up to 12 units/48 beds is possible only by special use in Resource and Backcountry zones. — [[3]](https://cms5.revize.com/revize/eagle/Document%20Center/Departments%20&%20Services/Community%20Development/Planning/Land%20Use%20Regulations/Article%203%20-%20Zone%20Districts_Final.pdf) *(verified)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -82,6 +109,10 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 
 1. [Eagle County Land Use Regulations](https://online.encodeplus.com/regs/eaglecounty-co/page/land-use-regulations) — primary, not read in full
 2. [ECLUR Module 1 Preliminary Draft (May 27, 2024)](https://go.boarddocs.com/co/eagleco/Board.nsf/files/D5RMAF5997D9/$file/ECLUR%20Module%201%20Preliminary%20Draft%205-27-2024.pdf) — primary, not read in full
+3. [Eagle County Land Use Regulations, Article 3 Zone Districts](https://cms5.revize.com/revize/eagle/Document%20Center/Departments%20&%20Services/Community%20Development/Planning/Land%20Use%20Regulations/Article%203%20-%20Zone%20Districts_Final.pdf) — primary, read, Sec. 3-200, Table 3-300, 3-310.A, C, V
+4. [Eagle County Land Use Regulations, Article 5 Administration](https://cms5.revize.com/revize/eagle/Document%20Center/Departments%20&%20Services/Community%20Development/Planning/Land%20Use%20Regulations/Article%205%20-%20Administration_Final.pdf) — primary, read, Sec. 5-270, 5-290
+5. [Eagle County: Draft Short Term Rental Ordinance (status page)](https://www.eaglecounty.us/government/draft_short_term_rental_ordinance.php) — primary, read
+6. [Eagle County Land Use Regulations Rewrite Project](https://www.eaglecounty.us/departments___services/community_development/planning/land_use_rewrite_project_.php) — primary, read
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

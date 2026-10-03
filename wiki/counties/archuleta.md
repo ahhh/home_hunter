@@ -9,20 +9,44 @@
 | County seat | Pagosa Springs |
 | Region | Southwest |
 | Hipcamp signal | **Unclear**: No specific camping provision found yet |
+| Splitting land | **Exemption path**: A lighter split process (exemption, minor subdivision, lot split) exists below 35 acres |
+| Cabin short-term rentals | **Permit**: County short-term rental permit or license program |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
-| Evidence | Needs confirmation: from official pages and search summaries; code text not read |
-| Date checked | 2026-09-29 |
+| Evidence | Partly verified: some claims read in primary sources; the rest need confirmation |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://www.archuletacounty.gov/county-government/development-services/planning-department/>
 
+## Splitting land (subdivision)
+
+> Splitting under 35 acres needs BOCC subdivision approval and must meet zone minimums (35 ac in AR, 5 ac in AE, 3 ac in RR). A cabin that is a legal dwelling can be an Airbnb with an annual Vacation Rental Permit; RVs, yurts and tiny homes need a Lodging permit instead.
+
+- Any division of land into parcels under 35 acres needs Board of County Commissioners approval; 35+ acre parcels are exempt per state law. — [[1]](https://www.archuletacounty.gov/wp-content/uploads/2024/11/archuleta-county-land-use-regulations-book.pdf) *(verified)*
+- A Minor Subdivision (3 or fewer lots) uses Sketch Plan plus Final Plat, but only if every lot is served by existing improved roads and utilities; needing new or improved roads pushes it to Major Subdivision (Sketch, Preliminary, Final). — [[1]](https://www.archuletacounty.gov/wp-content/uploads/2024/11/archuleta-county-land-use-regulations-book.pdf) *(verified)*
+- A Subdivision Exemption (Sec. 4.9) is a public-hearing BOCC process meant for 'very limited circumstances', chiefly ranching/farming families. Criteria: same public-road access, no more than one home on the new tract and two on the remainder; the 35-acre AR minimum may be waived once for a ranching family. — [[1]](https://www.archuletacounty.gov/wp-content/uploads/2024/11/archuleta-county-land-use-regulations-book.pdf) *(verified)*
+- A Rural Land Use Process subdivision (Sec. 4.5) implements C.R.S. 30-28-401 for clustered lots on larger tracts. — [[1]](https://www.archuletacounty.gov/wp-content/uploads/2024/11/archuleta-county-land-use-regulations-book.pdf) *(verified)*
+- Lots must still meet the zone minimum: 160 ac in AF, 35 ac in AR, 5 ac in AE, 3 ac in RR (with water or sewer). Parcels under 35 acres created after May 23, 2006 without approval are Illegal Lots. — [[1]](https://www.archuletacounty.gov/wp-content/uploads/2024/11/archuleta-county-land-use-regulations-book.pdf) *(verified)*
+- Bottom line: splitting below the zone minimum is not possible without rezoning; within AE/RR it is possible with Minor Subdivision review if roads/utilities already exist. — [[1]](https://www.archuletacounty.gov/wp-content/uploads/2024/11/archuleta-county-land-use-regulations-book.pdf) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- Rural zones and minimum lot sizes (Table 4): Agricultural Forestry (AF) 160 acres, Agricultural Ranching (AR) 35 acres, Agricultural Estate (AE) 5 acres, Rural Residential (RR) 3 acres with water or sewer. — [[1]](https://www.archuletacounty.gov/wp-content/uploads/2024/11/archuleta-county-land-use-regulations-book.pdf) *(verified)*
+- AR, AE and RR allow a maximum density of 2 dwelling units per parcel. — [[1]](https://www.archuletacounty.gov/wp-content/uploads/2024/11/archuleta-county-land-use-regulations-book.pdf) *(verified)*
+- One single-family home is exempt from a land use permit; a second detached home is also exempt if the lot is 3 acres or more (Sec. 2.1.2.4-2.1.2.5). — [[1]](https://www.archuletacounty.gov/wp-content/uploads/2024/11/archuleta-county-land-use-regulations-book.pdf) *(verified)*
+- A Dwelling Density Bonus allows 1 extra deed-restricted Affordable Workforce Housing Unit on 1+ acre lots (2 on 10+ acres). While all bonus units stay workforce-rented, the other dwellings on the parcel may be Vacation Rentals. — [[1]](https://www.archuletacounty.gov/wp-content/uploads/2024/11/archuleta-county-land-use-regulations-book.pdf) *(verified)*
+
 ## Private (non-commercial) camping
 
 - With a Temporary Use Permit, an RV (including many tiny homes on wheels) may be occupied up to 120 consecutive days per calendar year on residential property. — [[2]](https://www.archuletacounty.gov/county-government/development-services/code-enforcement/temporary-use-permit-rv-tup/) *(needs confirmation)*
 - Tent camping on private property isn't addressed in the regulations. The commission has discussed adding rules. — [[3]](https://www.pagosasun.com/stories/commission-looks-to-address-tent-camping-on-private-property,16081) *(needs confirmation)*
-- Land use permits are only issued for a legal lot (created before Sep 1, 1972, or by subdivision review or exemption). — [[1]](https://www.archuletacounty.gov/wp-content/uploads/2024/11/archuleta-county-land-use-regulations-book.pdf) *(needs confirmation)*
+- Land use permits are only issued for a legal lot (created before Sep 1, 1972, or by subdivision review or exemption). — [[1]](https://www.archuletacounty.gov/wp-content/uploads/2024/11/archuleta-county-land-use-regulations-book.pdf) *(verified)*
 
 ## Paid camping / campground pathway
 
@@ -39,7 +63,12 @@
 
 ## Short-term rental / lodging rules
 
-- The county has a short-term rental permit program. Check whether guest structures need one. — [[1]](https://www.archuletacounty.gov/wp-content/uploads/2024/11/archuleta-county-land-use-regulations-book.pdf) *(needs confirmation)*
+- Renting any dwelling unit for under 30 days requires an annual Vacation Rental Permit (Sec. 3.2.7, added 2021, amended 2024). It does not run with the land; new owners must reapply. — [[1]](https://www.archuletacounty.gov/wp-content/uploads/2024/11/archuleta-county-land-use-regulations-book.pdf) *(verified)*
+- Vacation Rental is permitted (with a VRP) in every zone where a dwelling is allowed, including AF, AR, AE, RR and PUDs. Both owner-occupied and non-owner-occupied rentals are allowed; no cap was found. — [[1]](https://www.archuletacounty.gov/wp-content/uploads/2024/11/archuleta-county-land-use-regulations-book.pdf) *(verified)*
+- Guest limit: 2 overnight guests per bedroom, also limited by septic (OWTS) capacity; no overflow guests on septic. A 24/7 emergency contact living within 30 minutes and neighbor/HOA mail notification are required. — [[1]](https://www.archuletacounty.gov/wp-content/uploads/2024/11/archuleta-county-land-use-regulations-book.pdf) *(verified)*
+- RVs, tents, yurts, tipis and park-model tiny homes cannot be Vacation Rentals; they can be short-term rented only with a Lodging Conditional Use Permit (Sec. 5.5.6). — [[1]](https://www.archuletacounty.gov/wp-content/uploads/2024/11/archuleta-county-land-use-regulations-book.pdf) *(verified)*
+- A second legal dwelling (allowed on 3+ acres) can be a Vacation Rental with its own permit. Additional cabins beyond the 2-dwelling density are 'Lodging Units' (3 or fewer / 4 or more), allowed by right or conditional use depending on zone (Table 3, Sec. 5.5.3); a Dude Ranch/Wilderness Lodging needs 20+ acres (Sec. 5.5.4). — [[1]](https://www.archuletacounty.gov/wp-content/uploads/2024/11/archuleta-county-land-use-regulations-book.pdf) *(verified)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -85,7 +114,7 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 
 ## Sources
 
-1. [Archuleta County Land Use Regulations (updated Apr 2025)](https://www.archuletacounty.gov/wp-content/uploads/2024/11/archuleta-county-land-use-regulations-book.pdf) — primary, not read in full
+1. [Archuleta County Land Use Regulations (updated Apr 2025)](https://www.archuletacounty.gov/wp-content/uploads/2024/11/archuleta-county-land-use-regulations-book.pdf) — primary, read, Sec. 2.1.2, Table 3, Table 4, 3.2.7, 4.1.2, 4.5, 4.9, 5.5.3-5.5.6
 2. [Archuleta County RV Temporary Use Permit](https://www.archuletacounty.gov/county-government/development-services/code-enforcement/temporary-use-permit-rv-tup/) — primary, not read in full
 3. [Pagosa Springs Sun: tent camping on private property](https://www.pagosasun.com/stories/commission-looks-to-address-tent-camping-on-private-property,16081) — **secondary**, not read in full
 

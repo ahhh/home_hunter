@@ -9,14 +9,38 @@
 | County seat | La Junta |
 | Region | Eastern Plains |
 | Hipcamp signal | **Unclear**: No specific camping provision found yet |
+| Splitting land | **Exemption path**: A lighter split process (exemption, minor subdivision, lot split) exists below 35 acres |
+| Cabin short-term rentals | **Lodging review**: Short-term guests only through a lodging, B&B or resort approval |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
-| Evidence | Needs confirmation: from official pages and search summaries; code text not read |
-| Date checked | 2026-09-29 |
+| Evidence | Verified: every sourced claim was read in a primary source |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://oterocounty.colorado.gov/departments/land-use>
+
+## Splitting land (subdivision)
+
+> Splitting below 35 acres is workable through a minor subdivision (up to four new lots; half-acre zoning minimum, but well and septic rule in practice). There are no short-term rental rules; B&Bs and guest ranches need Major Impact Review, and ADUs are allowed by right.
+
+- Divisions into parcels of 35 acres or more are statutory exemptions, filed on the county's Statutory Exemption application ($200 plus $43 recording) (Sec. 5-301.A). — [[2]](https://oterocounty.colorado.gov/sites/g/files/lrnvjt1386/files/documents/2025-Otero-County-Land-Use-Code_r.pdf), [[3]](https://oterocounty.colorado.gov/sites/g/files/lrnvjt1386/files/documents/2026-Application-for-Statutory-Exemption_r.pdf) *(verified)*
+- A minor subdivision creates four or fewer new lots plus the parent lot through a shortened review process. Five or more new lots is a major subdivision (Secs. 5-202, 5-203, 5-401). — [[2]](https://oterocounty.colorado.gov/sites/g/files/lrnvjt1386/files/documents/2025-Otero-County-Land-Use-Code_r.pdf) *(verified)*
+- Minor subdivision lots need a legal and dependable water supply, adequate wastewater and legal access (Sec. 7-904). — [[2]](https://oterocounty.colorado.gov/sites/g/files/lrnvjt1386/files/documents/2025-Otero-County-Land-Use-Code_r.pdf) *(verified)*
+- The A-1 Agriculture and A-2 Fragile Lands zones have a half-acre minimum lot area, so zoning doesn't block small lots. Septic and well rules govern in practice (Sec. 3-402). — [[2]](https://oterocounty.colorado.gov/sites/g/files/lrnvjt1386/files/documents/2025-Otero-County-Land-Use-Code_r.pdf) *(verified)*
+- Rural Land Use Cluster Developments are exempt, and lots with both a well and septic must be at least 3 acres (Secs. 5-302, 7-601.D.2). — [[2]](https://oterocounty.colorado.gov/sites/g/files/lrnvjt1386/files/documents/2025-Otero-County-Land-Use-Code_r.pdf) *(verified)*
+- The code has no discretionary Board exemption for splits under 35 acres. Smaller lots go through minor subdivision. — [[2]](https://oterocounty.colorado.gov/sites/g/files/lrnvjt1386/files/documents/2025-Otero-County-Land-Use-Code_r.pdf) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- Rural zones are A-1 Agriculture and A-2 Fragile Lands, both with a half-acre minimum lot, 30-foot front setback and 45-foot non-farm height limit (Sec. 3-402). — [[2]](https://oterocounty.colorado.gov/sites/g/files/lrnvjt1386/files/documents/2025-Otero-County-Land-Use-Code_r.pdf) *(verified)*
+- A single-family home and an accessory dwelling unit (ADU) are both uses by right in A-1 (Sec. 3-101.A.2). — [[2]](https://oterocounty.colorado.gov/sites/g/files/lrnvjt1386/files/documents/2025-Otero-County-Land-Use-Code_r.pdf) *(verified)*
+- An ADU must be subordinate to the main home and clustered near it, though in A-1 it may sit where the farm operation needs it. It doesn't count toward density limits (Secs. 3-302, 7-802). — [[2]](https://oterocounty.colorado.gov/sites/g/files/lrnvjt1386/files/documents/2025-Otero-County-Land-Use-Code_r.pdf) *(verified)*
+- The code doesn't say whether an ADU may be rented. — [[2]](https://oterocounty.colorado.gov/sites/g/files/lrnvjt1386/files/documents/2025-Otero-County-Land-Use-Code_r.pdf) *(verified)*
 
 ## Private (non-commercial) camping
 
@@ -37,7 +61,11 @@
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- The Land Use Code (amended Mar 2025) has no short-term or vacation rental rules. — [[2]](https://oterocounty.colorado.gov/sites/g/files/lrnvjt1386/files/documents/2025-Otero-County-Land-Use-Code_r.pdf) *(verified)*
+- Bed & Breakfasts and 'Resort, Lodge, Conference Center or Guest Ranch' uses need Major Impact Review in A-1, A-2, R-1 and R-2 (Sec. 3-401 Use Table). — [[2]](https://oterocounty.colorado.gov/sites/g/files/lrnvjt1386/files/documents/2025-Otero-County-Land-Use-Code_r.pdf) *(verified)*
+- The guest ranch definition covers dude ranches, hunting or fishing camps and similar facilities that provide lodging, which is the likely category for several rental cabins. — [[2]](https://oterocounty.colorado.gov/sites/g/files/lrnvjt1386/files/documents/2025-Otero-County-Land-Use-Code_r.pdf) *(verified)*
+- Any use not in the use table is a use by review requiring Major Impact Review. Ask Land Use (719-383-3035) whether short-term rental of a single home or ADU counts as residential use. — [[2]](https://oterocounty.colorado.gov/sites/g/files/lrnvjt1386/files/documents/2025-Otero-County-Land-Use-Code_r.pdf) *(verified)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -86,6 +114,8 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 ## Sources
 
 1. [Otero County Code of Regulations](https://oterocounty.colorado.gov/code-of-regulations) — primary, not read in full
+2. [Otero County Land Use Code (as amended Mar 10, 2025)](https://oterocounty.colorado.gov/sites/g/files/lrnvjt1386/files/documents/2025-Otero-County-Land-Use-Code_r.pdf) — primary, read, Secs. 3-101, 3-302, 3-401, 3-402, 5-202, 5-301, 5-302, 7-601, 7-802, 7-904, Art. 16
+3. [Otero County Statutory Exemption application (2026)](https://oterocounty.colorado.gov/sites/g/files/lrnvjt1386/files/documents/2026-Application-for-Statutory-Exemption_r.pdf) — primary, read
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

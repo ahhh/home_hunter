@@ -9,14 +9,36 @@
 | County seat | Greeley |
 | Region | Front Range |
 | Hipcamp signal | **Campground**: Paid camping handled as a campground/RV park or special use |
+| Splitting land | **Exemption path**: A lighter split process (exemption, minor subdivision, lot split) exists below 35 acres |
+| Cabin short-term rentals | **Unclear**: Not researched, or the rules weren't found online |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
-| Evidence | Needs confirmation: from official pages and search summaries; code text not read |
-| Date checked | 2026-09-29 |
+| Evidence | Partly verified: some claims read in primary sources; the rest need confirmation |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://www.weld.gov/Government/Departments/Planning-and-Zoning>
+
+## Splitting land (subdivision)
+
+> Weld's Recorded Exemption lets you split an A-zone parcel into 2-4 lots with at least one under 35 acres, so splitting is comparatively easy. No county STR program was found; a cabin and a permitted second dwelling are likely rentable, but confirm with Planning.
+
+- Unplatted land in the A (Agricultural) zone has a 35-acre minimum lot size, and transfers of parcels of 35+ acres are not subject to county subdivision review. — [[8]](https://www.lyonsgaddis.com/weld-county-land-use-changes-2020/) *(needs confirmation)*
+- A Recorded Exemption divides a lot into 2, 3 or 4 lots and is available only when at least one resulting parcel is under 35 gross acres (Code Sec. 24-8-20). — [[5]](http://www.weldcounty-co.elaws.us/code/cacc_ch24_artviii_sec24-8-20) *(needs confirmation)*
+- For a 3-lot Recorded Exemption, two lots are under 35 acres and the third must be at least 120 acres; a 2-lot exemption has special rules for 160-acre / quarter-section ownerships (Sec. 24-8-20). Read the full section for parcel-history limits. — [[5]](http://www.weldcounty-co.elaws.us/code/cacc_ch24_artviii_sec24-8-20) *(needs confirmation)*
+- A Minor Subdivision process (Ch. 24 Art. V) and Lot Line Adjustments also exist; land removed by a lot line adjustment that isn't added to a neighboring lot must be at least 35 acres net (Ch. 24 Art. X). — [[6]](https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH24SU_ARTVMISU_S24-5-80FIPLRE), [[7]](https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH24SU_ARTXLOLIAD_S24-10-10OV) *(needs confirmation)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- On A-zone lots outside subdivisions and townsites, one single-family dwelling per legal lot is allowed by right (Sec. 23-3-20.K). — [[3]](https://www.weld.gov/files/sharedassets/public/v/5/departments/planning-and-zoning/documents/code-compliance/ag-zone-outside-sub-townsite.pdf) *(verified)*
+- A second single-family dwelling per legal lot is allowed by a Zoning Permit (ZPSD) on lots of at least 2.5 acres with well water (1 acre with public water), on a permanent foundation; one per lot (Secs. 23-3-35.R, 23-4-600). — [[3]](https://www.weld.gov/files/sharedassets/public/v/5/departments/planning-and-zoning/documents/code-compliance/ag-zone-outside-sub-townsite.pdf), [[4]](https://www.weld.gov/files/sharedassets/public/v/11/departments/planning-and-zoning/documents/land-use-applications/zpsd.pdf) *(verified)*
+- No rule limiting who may live in the second dwelling was found in the permit criteria. Auxiliary Quarters need a certificate of compliance (23-3-35.D). — [[4]](https://www.weld.gov/files/sharedassets/public/v/11/departments/planning-and-zoning/documents/land-use-applications/zpsd.pdf), [[3]](https://www.weld.gov/files/sharedassets/public/v/5/departments/planning-and-zoning/documents/code-compliance/ag-zone-outside-sub-townsite.pdf) *(verified)*
+- Bed and Breakfasts, agritourism and Hunting Lodges are allowed by land use permit (23-3-35); Campgrounds and Commercial Recreational Facilities need a Use by Special Review (23-3-40). — [[3]](https://www.weld.gov/files/sharedassets/public/v/5/departments/planning-and-zoning/documents/code-compliance/ag-zone-outside-sub-townsite.pdf) *(verified)*
 
 ## Private (non-commercial) camping
 
@@ -37,7 +59,10 @@
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- No Weld County STR license, permit or STR-specific zoning rule was found online for unincorporated land. — *lead only, no source yet*
+- The A-zone use lists don't name 'short-term rental'. Renting a permitted dwelling short-term is probably treated as residential use, but confirm with Planning (970-400-6100). — [[3]](https://www.weld.gov/files/sharedassets/public/v/5/departments/planning-and-zoning/documents/code-compliance/ag-zone-outside-sub-townsite.pdf) *(verified)*
+- A permitted second single-family dwelling (ZPSD) looks like the most promising route to a second rental cabin, since no occupancy restriction was found; several cabins would likely need a B&B/agritourism permit or a Use by Special Review (resort/recreational use). — [[4]](https://www.weld.gov/files/sharedassets/public/v/11/departments/planning-and-zoning/documents/land-use-applications/zpsd.pdf), [[3]](https://www.weld.gov/files/sharedassets/public/v/5/departments/planning-and-zoning/documents/code-compliance/ag-zone-outside-sub-townsite.pdf) *(verified)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -97,6 +122,12 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 
 1. [Weld County Charter and County Code, Ch. 23 (Zoning)](https://library.municode.com/co/weld_county/codes/charter_and_county_code) — primary, not read in full
 2. [Weld County A-zone guide (lots outside subdivisions)](https://www.weld.gov/files/sharedassets/public/v/5/departments/planning-and-zoning/documents/code-compliance/ag-zone-outside-sub-townsite.pdf) — primary, not read in full
+3. [Weld County A (Agricultural) Zone District, outside subdivisions: information guide (05/2022)](https://www.weld.gov/files/sharedassets/public/v/5/departments/planning-and-zoning/documents/code-compliance/ag-zone-outside-sub-townsite.pdf) — primary, read, Secs. 23-3-20, 23-3-30, 23-3-35, 23-3-40
+4. [Weld County Zoning Permit for a Second Single-Family Dwelling (ZPSD) checklist](https://www.weld.gov/files/sharedassets/public/v/11/departments/planning-and-zoning/documents/land-use-applications/zpsd.pdf) — primary, read, Sec. 23-4-600 criteria
+5. [Weld County Code Sec. 24-8-20 Recorded exemption](http://www.weldcounty-co.elaws.us/code/cacc_ch24_artviii_sec24-8-20) — primary, not read in full
+6. [Weld County Code Ch. 24 Article V Minor Subdivision](https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH24SU_ARTVMISU_S24-5-80FIPLRE) — primary, not read in full
+7. [Weld County Code Ch. 24 Article X Lot Line Adjustment](https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH24SU_ARTXLOLIAD_S24-10-10OV) — primary, not read in full
+8. [Lyons Gaddis: Weld County Land Use Changes (2020)](https://www.lyonsgaddis.com/weld-county-land-use-changes-2020/) — **secondary**, not read in full
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

@@ -9,14 +9,37 @@
 | County seat | Montrose |
 | Region | Western Slope |
 | Hipcamp signal | **Campground**: Paid camping handled as a campground/RV park or special use |
+| Splitting land | **Exemption path**: A lighter split process (exemption, minor subdivision, lot split) exists below 35 acres |
+| Cabin short-term rentals | **Permit**: County short-term rental permit or license program |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
 | Evidence | Verified: every sourced claim was read in a primary source |
-| Date checked | 2026-09-29 |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://www.montrosecounty.net/228/Zoning-Regulations-Maps>
+
+## Splitting land (subdivision)
+
+> Splitting up to 3 lots (1-acre minimum in Ag) is possible via Minor Subdivision with Planning Commission and BOCC approval, or a Large Tract Exemption on 75+ acres. Cabins can be Airbnbs with a 3-year STR registration, and big Ag parcels can have several ADUs (1 per 10 acres over 20).
+
+- A Minor Subdivision creates up to 3 lots under 35 acres. Staff review, a Planning Commission recommendation and Board approval at a public meeting are required, plus proof of potable water (tap or well permit) and sewage disposal for each lot (Subdivision Regs Art. V). — [[4]](https://www.montrosecounty.net/DocumentCenter/View/24125/Amended-Subdivision-Regulations-7-2024) *(verified)*
+- Minor Subdivision lots need 200 ft of road frontage and must adjoin by a common line; private access easements are allowed (Sec. 3.30). — [[4]](https://www.montrosecounty.net/DocumentCenter/View/24125/Amended-Subdivision-Regulations-7-2024) *(verified)*
+- A Large Tract Exemption (Sec. 10.4.C) lets an owner of 75+ contiguous acres zoned General Agricultural (A) create up to 3 lots of at least 1 acre each by BOCC plat and resolution. Road frontage isn't required; it can be used once per ownership. — [[4]](https://www.montrosecounty.net/DocumentCenter/View/24125/Amended-Subdivision-Regulations-7-2024) *(verified)*
+- The General Agricultural (A) zone has a 1-acre minimum lot size, so lot size rarely blocks a split; water, septic and access proof are the real hurdles. — [[3]](https://www.montrosecounty.net/DocumentCenter/View/26347/Amended-Zoning-Regulations-2026-Remediated) *(verified)*
+- Bottom line: possible with review. Up to 3 lots via Minor Subdivision or a Large Tract Exemption on 75+ acres. — [[4]](https://www.montrosecounty.net/DocumentCenter/View/24125/Amended-Subdivision-Regulations-7-2024) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- Most rural land is General Agricultural (A): 1-contiguous-acre minimum lot size, 25-ft front and 10-ft side/rear setbacks (Table T-II.3). Single-family dwellings, ADUs and short-term rentals are uses by right. — [[3]](https://www.montrosecounty.net/DocumentCenter/View/26347/Amended-Zoning-Regulations-2026-Remediated) *(verified)*
+- ADUs in the A district: 1 on parcels under 20 acres; on 20+ acres, 1 for the first 20 acres plus 1 more per additional 10 contiguous acres in the same ownership (Table T-III.1). ADUs can't be sold separately and need adequate water/septic and 1-2 parking spaces. — [[3]](https://www.montrosecounty.net/DocumentCenter/View/26347/Amended-Zoning-Regulations-2026-Remediated) *(verified)*
+- In other districts, 1 ADU per lot (max 1,100 sq ft under 1 acre). ADUs aren't allowed with duplexes. — [[3]](https://www.montrosecounty.net/DocumentCenter/View/26347/Amended-Zoning-Regulations-2026-Remediated) *(verified)*
+- The county issues building permits, and they must conform to the zoning regulations (Sec. I.A.8). — [[3]](https://www.montrosecounty.net/DocumentCenter/View/26347/Amended-Zoning-Regulations-2026-Remediated) *(verified)*
 
 ## Private (non-commercial) camping
 
@@ -39,7 +62,12 @@
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- Short-term rentals need an STR registration from Planning & Development, valid 3 years and non-transferable (Zoning Regs Sec. III.A.9, 2026 amended version). STR is a use by right in the A and residential districts. — [[3]](https://www.montrosecounty.net/DocumentCenter/View/26347/Amended-Zoning-Regulations-2026-Remediated) *(verified)*
+- STRs are allowed only in a legally approved single-family dwelling, duplex or ADU. Because the A zone allows extra ADUs on 20+ acres, a large parcel could host several rentable ADU cabins, each needing registration. — [[3]](https://www.montrosecounty.net/DocumentCenter/View/26347/Amended-Zoning-Regulations-2026-Remediated) *(verified)*
+- Occupancy is limited by septic (OWTS) capacity; a local 24-hour contact is required if the owner doesn't live on site; an access permit is required; neighbors within 500 ft are notified; guests must park on site; quiet hours start at 10:30 pm. — [[3]](https://www.montrosecounty.net/DocumentCenter/View/26347/Amended-Zoning-Regulations-2026-Remediated) *(verified)*
+- Registration can be revoked after 3 written complaints in a year, with a 1-year wait to reapply. No cap or owner-occupancy rule. — [[3]](https://www.montrosecounty.net/DocumentCenter/View/26347/Amended-Zoning-Regulations-2026-Remediated) *(verified)*
+- Rental cabins beyond the ADU allowance would fall under 'Campground', a Special Use in A. A campground is mainly for visitors' own shelter but may include rental cabins; the 2022 standards require 2+ acres and 12+ sites (Sec. III.A.1, definitions). — [[3]](https://www.montrosecounty.net/DocumentCenter/View/26347/Amended-Zoning-Regulations-2026-Remediated), [[1]](https://montrosecounty.granicus.com/DocumentViewer.php?file=montrosecounty_96fd53ac9fb3dacd77ce6339a4a502c2.pdf) *(verified)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -92,6 +120,8 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 
 1. [Montrose County Zoning Regulations (2022 version, Granicus)](https://montrosecounty.granicus.com/DocumentViewer.php?file=montrosecounty_96fd53ac9fb3dacd77ce6339a4a502c2.pdf) — primary, read, Sec. III.A.1, III.A.7, temporary uses (6)
 2. [Montrose County Zoning Regulations & Maps](https://www.montrosecounty.net/228/Zoning-Regulations-Maps) — primary, not read in full
+3. [Montrose County Amended Zoning Regulations 2026 (remediated)](https://www.montrosecounty.net/DocumentCenter/View/26347/Amended-Zoning-Regulations-2026-Remediated) — primary, read, Sec. II.D (Tables T-II.2, T-II.3), III.A.9, III.C.2.a (Table T-III.1)
+4. [Montrose County Subdivision Regulations (amended Jul 2024)](https://www.montrosecounty.net/DocumentCenter/View/24125/Amended-Subdivision-Regulations-7-2024) — primary, read, Art. II (Minor Subdivision), Art. V, Sec. 10.4
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

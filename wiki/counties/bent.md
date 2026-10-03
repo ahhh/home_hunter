@@ -9,14 +9,37 @@
 | County seat | Las Animas |
 | Region | Eastern Plains |
 | Hipcamp signal | **Unclear**: No specific camping provision found yet |
+| Splitting land | **Exemption path**: A lighter split process (exemption, minor subdivision, lot split) exists below 35 acres |
+| Cabin short-term rentals | **Lodging review**: Short-term guests only through a lodging, B&B or resort approval |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
-| Evidence | Needs confirmation: from official pages and search summaries; code text not read |
-| Date checked | 2026-09-29 |
+| Evidence | Verified: every sourced claim was read in a primary source |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://bentcounty.colorado.gov/government/land-use-permits>
+
+## Splitting land (subdivision)
+
+> Splitting is possible: the Board can exempt tracts down to 1 acre, up to four parcels per 1980 property. Short-term rental has no rules of its own; rental cabins on ag land would go through special review as a dude ranch or resort lodge, and even a non-farm house in A-1 needs special review.
+
+- The Board of County Commissioners can grant a subdivision exemption on the Land Use Administrator's recommendation, with or without a hearing (Subdivision Regs 01.01.10). — [[2]](https://bentcounty.colorado.gov/sites/g/files/lrnvjt686/files/documents/Planning%20and%20Zoning%20Manual%20complete.pdf) *(verified)*
+- Exempted tracts in the A-1 Agriculture District must be at least 1 acre. The application fee is $25 plus recording. — [[3]](https://bentcounty.colorado.gov/sites/g/files/lrnvjt686/files/documents/SUBDIVISION%20EXEMPTION-rev2024.pdf) *(verified)*
+- A property can't be split into more than four parcels this way, counted from how it existed on Jan 17, 1980. Parcels already divided into four under the exemption, or in a subdivision, aren't eligible. — [[3]](https://bentcounty.colorado.gov/sites/g/files/lrnvjt686/files/documents/SUBDIVISION%20EXEMPTION-rev2024.pdf) *(verified)*
+- Exemptions require legal access meeting county road standards, a water statement, and perc tests and borings for septic on lots of 5 acres or less. A subdivision improvements agreement may be required. — [[2]](https://bentcounty.colorado.gov/sites/g/files/lrnvjt686/files/documents/Planning%20and%20Zoning%20Manual%20complete.pdf), [[3]](https://bentcounty.colorado.gov/sites/g/files/lrnvjt686/files/documents/SUBDIVISION%20EXEMPTION-rev2024.pdf) *(verified)*
+- Lots next to an existing subdivision must be at least as large as its lots. — [[2]](https://bentcounty.colorado.gov/sites/g/files/lrnvjt686/files/documents/Planning%20and%20Zoning%20Manual%20complete.pdf), [[3]](https://bentcounty.colorado.gov/sites/g/files/lrnvjt686/files/documents/SUBDIVISION%20EXEMPTION-rev2024.pdf) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- The A-1 Agricultural District allows farming and ranching and buildings for them by right. It has a 1-acre minimum site area and 50-foot front and rear setbacks (Sec. 04.01.02). — [[2]](https://bentcounty.colorado.gov/sites/g/files/lrnvjt686/files/documents/Planning%20and%20Zoning%20Manual%20complete.pdf) *(verified)*
+- Non-farm 'residential housing' in A-1 needs special review, and the applicant must show the land hasn't been farmed for five years or is unsuitable for farming (Sec. 04.01.02, Special Review Use 7). — [[2]](https://bentcounty.colorado.gov/sites/g/files/lrnvjt686/files/documents/Planning%20and%20Zoning%20Manual%20complete.pdf) *(verified)*
+- R-1 Rural Residential allows single-family homes by right on a 1-acre minimum site. Multi-family needs special review (Sec. 04.01.03). — [[2]](https://bentcounty.colorado.gov/sites/g/files/lrnvjt686/files/documents/Planning%20and%20Zoning%20Manual%20complete.pdf) *(verified)*
+- The Planning & Zoning Manual doesn't address ADUs or guest houses. — [[2]](https://bentcounty.colorado.gov/sites/g/files/lrnvjt686/files/documents/Planning%20and%20Zoning%20Manual%20complete.pdf) *(verified)*
 
 ## Private (non-commercial) camping
 
@@ -37,7 +60,10 @@
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- The Planning & Zoning Manual has no short-term or vacation rental rules. — [[2]](https://bentcounty.colorado.gov/sites/g/files/lrnvjt686/files/documents/Planning%20and%20Zoning%20Manual%20complete.pdf) *(verified)*
+- In the A-1 district, dude ranches, private and public clubs, and resort lodges are special review uses, which is the likely path for several rental cabins (Sec. 04.01.02). — [[2]](https://bentcounty.colorado.gov/sites/g/files/lrnvjt686/files/documents/Planning%20and%20Zoning%20Manual%20complete.pdf) *(verified)*
+- Whether renting a single permitted home short-term needs review isn't addressed. Ask the Land Use Office (719-456-2223). — *lead only, no source yet*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -82,7 +108,9 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 
 ## Sources
 
-1. [Bent County Land Use permits (Planning & Zoning Manual available from the office, 719-456-2223)](https://bentcounty.colorado.gov/government/land-use-permits) — primary, not read in full
+1. [Bent County Land Use permits (Planning & Zoning Manual available from the office, 719-456-2223)](https://bentcounty.colorado.gov/government/land-use-permits) — primary, read
+2. [Bent County Planning and Zoning Manual (zoning and subdivision regulations)](https://bentcounty.colorado.gov/sites/g/files/lrnvjt686/files/documents/Planning%20and%20Zoning%20Manual%20complete.pdf) — primary, read, Zoning 04.01.02-04.01.03; Subdivision 01.01.10
+3. [Bent County Application for Exemption from Definition of Subdivision (rev. 2024)](https://bentcounty.colorado.gov/sites/g/files/lrnvjt686/files/documents/SUBDIVISION%20EXEMPTION-rev2024.pdf) — primary, read
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

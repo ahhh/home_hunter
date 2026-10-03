@@ -9,14 +9,35 @@
 | County seat | Eads |
 | Region | Eastern Plains |
 | Hipcamp signal | **Unclear**: No specific camping provision found yet |
+| Splitting land | **Exemption path**: A lighter split process (exemption, minor subdivision, lot split) exists below 35 acres |
+| Cabin short-term rentals | **Limited**: Caps, owner-occupancy, zone bans or accessory-structure bans that matter for cabins |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
-| Evidence | Needs confirmation: from official pages and search summaries; code text not read |
-| Date checked | 2026-09-29 |
+| Evidence | Verified: every sourced claim was read in a primary source |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://kiowacounty.colorado.gov/government/departments/land-use>
+
+## Splitting land (subdivision)
+
+> Splits under 35 acres go through a $50 commissioner exemption, with a 5-acre minimum on the parcel sold. Guest houses can't be rented and non-farm homes need a Conditional Use permit, so a rental cabin needs county approval.
+
+- The commissioners may approve an exemption from subdivision for parcels under 35 acres. The fee is $50, a survey is required, the Planning Commission recommends, and processing takes about four weeks. — [[3]](https://drive.google.com/file/d/1glG09yu-PNVTkI7-gaaAPvT8SVAP4uIv/view?usp=drive_link) *(verified)*
+- The exemption application states a five-acre minimum for the parcel being sold. — [[3]](https://drive.google.com/file/d/1glG09yu-PNVTkI7-gaaAPvT8SVAP4uIv/view?usp=drive_link) *(verified)*
+- The Agricultural district's own minimum is 1 acre, with 100-foot width and depth (P&Z Comprehensive Plan/Zoning). — [[2]](https://drive.google.com/file/d/17njtVhpdoOOrYmdmGswRmm6oz-ZcjJiC/view?usp=sharing) *(verified)*
+- No limit on repeat exemptions appears in the posted application. Ask Land Use (719-438-5810). — [[3]](https://drive.google.com/file/d/1glG09yu-PNVTkI7-gaaAPvT8SVAP4uIv/view?usp=drive_link) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- The Agricultural district allows ranch and farm dwellings. Non-farm single- and multiple-family dwellings need a Conditional Use permit, as do home occupations and public campgrounds (Agricultural district §B). — [[2]](https://drive.google.com/file/d/17njtVhpdoOOrYmdmGswRmm6oz-ZcjJiC/view?usp=sharing) *(verified)*
+- Ranch and farm dwellings include guest houses only if they are 'not rented or otherwise conducted as a business' (Definitions). — [[2]](https://drive.google.com/file/d/17njtVhpdoOOrYmdmGswRmm6oz-ZcjJiC/view?usp=sharing) *(verified)*
+- Building permits and zoning certificates are required. The county adopted the 2018 IBC (Res. 2023-06). — [[2]](https://drive.google.com/file/d/17njtVhpdoOOrYmdmGswRmm6oz-ZcjJiC/view?usp=sharing) *(verified)*
 
 ## Private (non-commercial) camping
 
@@ -37,7 +58,9 @@
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- The posted Planning & Zoning document has no short-term rental rules. — [[2]](https://drive.google.com/file/d/17njtVhpdoOOrYmdmGswRmm6oz-ZcjJiC/view?usp=sharing) *(verified)*
+- A guest house can't be rented under the farm-dwelling definition, so a rental guest cabin isn't an allowed accessory use. A cabin rental would likely need a Conditional Use permit or rezoning. Confirm with Land Use. — [[2]](https://drive.google.com/file/d/17njtVhpdoOOrYmdmGswRmm6oz-ZcjJiC/view?usp=sharing) *(verified)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -74,7 +97,9 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 
 ## Sources
 
-1. [Kiowa County Land Use (incl. 1041 regulations)](https://kiowacounty.colorado.gov/government/departments/land-use) — primary, not read in full
+1. [Kiowa County Land Use (incl. 1041 regulations)](https://kiowacounty.colorado.gov/government/departments/land-use) — primary, read
+2. [Kiowa County P&Z Comprehensive Plan (incl. zoning regulations)](https://drive.google.com/file/d/17njtVhpdoOOrYmdmGswRmm6oz-ZcjJiC/view?usp=sharing) — primary, read, Definitions; Agricultural district B-C
+3. [Kiowa County Subdivision Exemption Instructions & Application](https://drive.google.com/file/d/1glG09yu-PNVTkI7-gaaAPvT8SVAP4uIv/view?usp=drive_link) — primary, read
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

@@ -9,14 +9,39 @@
 | County seat | Delta |
 | Region | Western Slope |
 | Hipcamp signal | **Unclear**: No specific camping provision found yet |
+| Splitting land | **Exemption path**: A lighter split process (exemption, minor subdivision, lot split) exists below 35 acres |
+| Cabin short-term rentals | **Allowed**: No STR rules found; renting a permitted dwelling is treated as a residential use |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
 | Evidence | Verified: every sourced claim was read in a primary source |
-| Date checked | 2026-09-29 |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://www.deltacountyco.gov/680/Land-Use-Regulations>
+
+## Splitting land (subdivision)
+
+> Yes to both, fairly easily. A 2-lot split is approved administratively (zone minimums 1-35 ac, with a variation path down to 1 ac), and up to 4 rentable rooms/cabins, including an ADU, are an allowed use with no STR permit.
+
+- Divisions creating parcels of 35+ acres each are exempt from subdivision review, per C.R.S. 30-28-101(10). — [[3]](https://www.deltacountyco.gov/DocumentCenter/View/16005/2024-Delta-County-Land-Use-Code), [[1]](https://www.deltacountyco.gov/789/Frequently-Asked-Questions-FAQs) *(verified)*
+- A Minor Plat (a 2-lot subdivision) is approved administratively by the Planning Director; 3+ lots go through Preliminary Plat review. Re-subdividing a Minor Plat within 2 years is processed as a Preliminary Plat. — [[3]](https://www.deltacountyco.gov/DocumentCenter/View/16005/2024-Delta-County-Land-Use-Code) *(verified)*
+- Minor Plats must meet county road standards and may require right-of-way dedication plus access, electric service and a water meter for each new lot. — [[3]](https://www.deltacountyco.gov/DocumentCenter/View/16005/2024-Delta-County-Land-Use-Code) *(verified)*
+- Minimum lot sizes (Table 3.a): A35 = 35 ac, A20 = 20 ac, A5 = 5 ac, A-2.5 = 2.5 ac, RI/C = 2 ac, RES-1.0 = 1 ac. — [[3]](https://www.deltacountyco.gov/DocumentCenter/View/16005/2024-Delta-County-Land-Use-Code) *(verified)*
+- A 'Variation to Lot Size' (Ch. 3 Sec. 1.A.3) lets the county approve a new lot smaller than the zone minimum (at least 1 acre) if water, access, septic and floodplain standards are met and irrigated ag land is protected; the plat is noted that no further variance is allowed for 10 years. Cluster subdivisions are also allowed. — [[3]](https://www.deltacountyco.gov/DocumentCenter/View/16005/2024-Delta-County-Land-Use-Code) *(verified)*
+- Bottom line: possible with review. A 2-lot split is administrative, and a 1-acre-plus lot can be carved out of an ag parcel by variation. — [[3]](https://www.deltacountyco.gov/DocumentCenter/View/16005/2024-Delta-County-Land-Use-Code) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- Rural zones: A35 (35 ac min), A20 (20 ac), A5 (5 ac), A-2.5 (2.5 ac), RI/C (2 ac), RES-1.0 (1 ac). — [[3]](https://www.deltacountyco.gov/DocumentCenter/View/16005/2024-Delta-County-Land-Use-Code) *(verified)*
+- One single-family home plus one ADU per minimum acreage of the zone are allowed uses (no permit review) in every zone. — [[3]](https://www.deltacountyco.gov/DocumentCenter/View/16005/2024-Delta-County-Land-Use-Code), [[1]](https://www.deltacountyco.gov/789/Frequently-Asked-Questions-FAQs) *(verified)*
+- An ADU may be separately rented but not sold separately; it can't exceed the main house's floor area; one ADU per lot. — [[3]](https://www.deltacountyco.gov/DocumentCenter/View/16005/2024-Delta-County-Land-Use-Code) *(verified)*
+- Additional Residences beyond that density need a Limited Use Permit (site plan review) with proof of non-hauled water, access, wastewater and power. The number isn't capped. — [[3]](https://www.deltacountyco.gov/DocumentCenter/View/16005/2024-Delta-County-Land-Use-Code) *(verified)*
+- Unincorporated Delta County has no adopted building code (per the state Division of Housing list; not re-checked here). — *lead only, no source yet*
 
 ## Private (non-commercial) camping
 
@@ -33,7 +58,7 @@
 ## RVs, tiny homes & structures
 
 - One dwelling unit plus one ADU are Allowed Uses. A dwelling unit may be a house, cabin, mobile home or RV connected to permanent water, wastewater and electricity. — [[1]](https://www.deltacountyco.gov/789/Frequently-Asked-Questions-FAQs) *(verified)*
-- **No building department.** DOH inspects foundations for manufactured, tiny and factory-built homes. State electrical and plumbing permits still apply. — [[3]](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) *(verified)*
+- **No building department.** DOH inspects foundations for manufactured, tiny and factory-built homes. State electrical and plumbing permits still apply. — [[5]](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) *(verified)*
 
 ## Water
 
@@ -41,7 +66,11 @@
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- There is no STR license or permit program in the county Land Use Code. 'Up to 4 Rentable Rooms (e.g., Bed & Breakfast, Short-Term/Vacation Rental)' is an Allowed use with no review in every zone (Table 2.b). — [[3]](https://www.deltacountyco.gov/DocumentCenter/View/16005/2024-Delta-County-Land-Use-Code) *(verified)*
+- The code defines a Short-Term (Vacation) Rental as a primary dwelling OR accessory dwelling structure rented for under 30 consecutive days, so an ADU/guest cabin can be an STR. — [[3]](https://www.deltacountyco.gov/DocumentCenter/View/16005/2024-Delta-County-Land-Use-Code) *(verified)*
+- 5-10 rentable rooms or cabins (e.g., guest ranch, lodging) need a Limited Use Permit in all zones. More than 10 is a Conditional Use in A35 and a Limited Use (with notice) elsewhere. Parking: 1 space per rentable room or cabin. — [[3]](https://www.deltacountyco.gov/DocumentCenter/View/16005/2024-Delta-County-Land-Use-Code) *(verified)*
+- You still need OWTS (septic) and well permits. — [[3]](https://www.deltacountyco.gov/DocumentCenter/View/16005/2024-Delta-County-Land-Use-Code) *(verified)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -92,7 +121,9 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 
 1. [Delta County Planning FAQ](https://www.deltacountyco.gov/789/Frequently-Asked-Questions-FAQs) — primary, read
 2. [Delta County Land Use Regulations](https://www.deltacountyco.gov/680/Land-Use-Regulations) — primary, not read in full
-3. [Division of Housing: jurisdictions without building departments](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) — primary, read
+3. [2024 Delta County Land Use Code (PDF)](https://www.deltacountyco.gov/DocumentCenter/View/16005/2024-Delta-County-Land-Use-Code) — primary, read, Table 2.b; Ch. 2 Sec. 4.B.1, 4.B.5-6; Ch. 3 Sec. 1.A; Ch. 12 Sec. 1-2; Ch. 14 definitions
+4. [Delta County Land Use Code (online, current)](https://hosting.civiclinq.com/deltacountyco/books/land-use-code/preface) — primary, not read in full
+5. [Division of Housing: jurisdictions without building departments](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) — primary, read
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

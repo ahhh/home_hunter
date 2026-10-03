@@ -9,14 +9,38 @@
 | County seat | Sterling |
 | Region | Eastern Plains |
 | Hipcamp signal | **Campground**: Paid camping handled as a campground/RV park or special use |
+| Splitting land | **Exemption path**: A lighter split process (exemption, minor subdivision, lot split) exists below 35 acres |
+| Cabin short-term rentals | **Allowed**: No STR rules found; renting a permitted dwelling is treated as a residential use |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
-| Evidence | Needs confirmation: from official pages and search summaries; code text not read |
-| Date checked | 2026-09-29 |
+| Evidence | Partly verified: some claims read in primary sources; the rest need confirmation |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://logancounty.colorado.gov/>
+
+## Splitting land (subdivision)
+
+> You can split off one lot under 35 acres per parcel through a subdivision exemption with a hearing, and the A zone's listed minimum is 5 acres. The use grid lists resort lodges and guest ranches as a use by right in the Agricultural zone, so a cabin rental operation looks feasible; confirm with Planning.
+
+- A subdivision exemption can create one additional lot under 35 acres while the remaining lot stays over 35 acres, if no more than one exemption has been granted before. All parcels need consolidated legal access to a public road. — [[3]](https://www.logancountyco.gov/DocumentCenter/View/1170/Subdivision-Exemption-Application) *(verified)*
+- Exemptions need a Planning Commission public hearing (newspaper notice 30 days ahead, posted sign, notice to owners within 500 feet), then Board of County Commissioners approval. The fee is $100 plus $43 recording. — [[3]](https://www.logancountyco.gov/DocumentCenter/View/1170/Subdivision-Exemption-Application) *(verified)*
+- A Minor Subdivision application exists for small plats. It also requires a Planning Commission hearing and Board approval ($100 fee). — [[4]](https://www.logancountyco.gov/DocumentCenter/View/1293/Minor-Subdivision-Application) *(verified)*
+- The Agricultural (A) zone's minimum lot size is listed as 5 acres (with a footnote not shown on the permit sheet), versus 35 acres in Environmental Protection (EP) without public water or sewer. — [[5]](https://www.logancountyco.gov/DocumentCenter/View/1397/Building-Permit-Application-) *(verified)*
+- The full Subdivision Regulations PDF is image-only and couldn't be searched. — *lead only, no source yet*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- The zone districts are EP (Environmental Protection), A (Agricultural), RE, RS and RM residential, CC and CH commercial, and I (Industrial) (Sec. 2.6). — [[6]](https://www.logancountyco.gov/DocumentCenter/View/197/Logan-County-Zoning-Regulations-Updated-8-2019-PDF) *(verified)*
+- Minimum lots without public water or sewer are 5 acres in A, 35 acres in EP and 5 acres in RE. A-zone setbacks are 70 feet front and 25 feet side and rear. — [[5]](https://www.logancountyco.gov/DocumentCenter/View/1397/Building-Permit-Application-) *(verified)*
+- Single-family homes and living quarters for hired personnel are uses by right in A and EP (Zoning Use Grid). — [[2]](https://www.logancountyco.gov/DocumentCenter/View/1061/Zoning-Use-Grid-PDF) *(verified)*
+- A manufactured home for a farm employee on a farm of 40+ acres needs a $30 Zoning Use Permit, and no space may be rented (Res. 2010-23). — [[6]](https://www.logancountyco.gov/DocumentCenter/View/197/Logan-County-Zoning-Regulations-Updated-8-2019-PDF) *(verified)*
+- Any use not expressly permitted in a district is excluded (Sec. 3.1). — [[6]](https://www.logancountyco.gov/DocumentCenter/View/197/Logan-County-Zoning-Regulations-Updated-8-2019-PDF) *(verified)*
 
 ## Private (non-commercial) camping
 
@@ -37,7 +61,11 @@
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- The Zoning Resolution has no short-term or vacation rental rules. — [[6]](https://www.logancountyco.gov/DocumentCenter/View/197/Logan-County-Zoning-Regulations-Updated-8-2019-PDF) *(verified)*
+- 'Resort lodges and guest ranches' are a use by right in the Agricultural zone and a conditional use in EP, per the 2020 Zoning Use Grid (column position read from the PDF layout; confirm with Planning). — [[2]](https://www.logancountyco.gov/DocumentCenter/View/1061/Zoning-Use-Grid-PDF) *(verified)*
+- 'Tourist home' is listed only in Commercial Highway, and hotels and motels only in commercial and industrial zones. A single-home short-term rental in A isn't directly addressed; ask Planning (970-522-7879). — [[2]](https://www.logancountyco.gov/DocumentCenter/View/1061/Zoning-Use-Grid-PDF) *(verified)*
+- Because unlisted uses are excluded, a multi-cabin rental in A would most safely be permitted as a 'guest ranch.' A building permit and septic are still needed. — [[6]](https://www.logancountyco.gov/DocumentCenter/View/197/Logan-County-Zoning-Regulations-Updated-8-2019-PDF), [[2]](https://www.logancountyco.gov/DocumentCenter/View/1061/Zoning-Use-Grid-PDF) *(verified)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -88,6 +116,11 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 ## Sources
 
 1. [Logan County Zoning Resolution (updated Aug 2019)](https://logancounty.colorado.gov/sites/logancounty/files/Zoning%20Regulations%20%28Updated%20August%202019%29.pdf) — primary, not read in full, Sec. 7.2.I
+2. [Logan County Zoning Use Grid (rev. 9/2020)](https://www.logancountyco.gov/DocumentCenter/View/1061/Zoning-Use-Grid-PDF) — primary, read
+3. [Logan County Subdivision Exemption Application (rev. 5/2026)](https://www.logancountyco.gov/DocumentCenter/View/1170/Subdivision-Exemption-Application) — primary, read
+4. [Logan County Minor Subdivision Application (rev. 5/2026)](https://www.logancountyco.gov/DocumentCenter/View/1293/Minor-Subdivision-Application) — primary, read
+5. [Logan County Building Permit Application and zoning requirements (rev. 9/2026)](https://www.logancountyco.gov/DocumentCenter/View/1397/Building-Permit-Application-) — primary, read, Zoning Requirements tables
+6. [Logan County Zoning Regulations (updated Aug 2019)](https://www.logancountyco.gov/DocumentCenter/View/197/Logan-County-Zoning-Regulations-Updated-8-2019-PDF) — primary, read, Secs. 2.6, 3.1; Res. 2010-23
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

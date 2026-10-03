@@ -9,14 +9,36 @@
 | County seat | Walden |
 | Region | Northern Mountains |
 | Hipcamp signal | **Unclear**: No specific camping provision found yet |
+| Splitting land | **Exemption path**: A lighter split process (exemption, minor subdivision, lot split) exists below 35 acres |
+| Cabin short-term rentals | **Allowed**: No STR rules found; renting a permitted dwelling is treated as a residential use |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
-| Evidence | Needs confirmation: from official pages and search summaries; code text not read |
-| Date checked | 2026-09-29 |
+| Evidence | Verified: every sourced claim was read in a primary source |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://jacksoncounty.colorado.gov/>
+
+## Splitting land (subdivision)
+
+> Splitting is possible through a BOCC petition-for-exemption (no further splits allowed) down to 3-acre zone minimums, but non-ranch homes in the Ranching zone need a special use. There's no STR license outside the Walden-corridor overlay, and Forestry & Open zoning allows up to 5 dwellings, lodges or dude ranches by right.
+
+- The county takes Petitions for Exemption ($350 per tract): the BOCC can exempt a division by resolution under C.R.S. 30-28-101(10)(d) if it's outside the purpose of subdivision rules. — [[3]](https://jacksoncounty.colorado.gov/sites/jacksoncounty/files/documents/petitionforexemption.new_.pdf) *(verified)*
+- The petitioner must agree that neither they nor successors will further subdivide the tract(s), and must give a scaled map, vicinity map, access, and water and sewage statements. — [[3]](https://jacksoncounty.colorado.gov/sites/jacksoncounty/files/documents/petitionforexemption.new_.pdf) *(verified)*
+- Zoning minimums are small: 3 acres for dwellings in Ranching (R), Rural Residence (RR), Forest Recreation (FR) and Forestry & Open (FO, unsewered), increased if septic rules require. — [[2]](http://web.archive.org/web/20240719180106/https://jacksoncounty.colorado.gov/sites/jacksoncounty/files/documents/FULL-ZONING-RESOLUTION.pdf) *(verified)*
+- The Jackson County Subdivision Resolution itself wasn't found online; ask the county for it. — *lead only, no source yet*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- In the Ranching (R) district a home is a use by right only if it relates to a ranch or farmstead. A non-ranch 'Seasonal Home' needs a Special Use permit. Minimum lot is 3 acres. — [[2]](http://web.archive.org/web/20240719180106/https://jacksoncounty.colorado.gov/sites/jacksoncounty/files/documents/FULL-ZONING-RESOLUTION.pdf) *(verified)*
+- Rural Residence (RR): single-family dwellings by right on 3-acre lots. Forest Recreation (FR): ranch-related homes by right; other single, two-family and seasonal dwellings by special use. — [[2]](http://web.archive.org/web/20240719180106/https://jacksoncounty.colorado.gov/sites/jacksoncounty/files/documents/FULL-ZONING-RESOLUTION.pdf) *(verified)*
+- Forestry & Open (FO): single-family or multi-family dwellings of up to 5 units, lodges, dude ranches and modern campgrounds are uses by right (3 acres unsewered, 1,500 sq ft per unit). Forest Resort (FRS) allows lodges, motels and condos by right. — [[2]](http://web.archive.org/web/20240719180106/https://jacksoncounty.colorado.gov/sites/jacksoncounty/files/documents/FULL-ZONING-RESOLUTION.pdf) *(verified)*
+- No ADU/guest-house rule was found; the Ranching district allows accessory structures related to ranching. The resolution read was amended through Nov 23, 2020. — [[2]](http://web.archive.org/web/20240719180106/https://jacksoncounty.colorado.gov/sites/jacksoncounty/files/documents/FULL-ZONING-RESOLUTION.pdf) *(verified)*
 
 ## Private (non-commercial) camping
 
@@ -37,7 +59,11 @@
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- No county STR license or STR rules were found for most unincorporated land; renting a permitted dwelling appears to be treated as a residential use (still needs a building permit/CO and septic). — [[2]](http://web.archive.org/web/20240719180106/https://jacksoncounty.colorado.gov/sites/jacksoncounty/files/documents/FULL-ZONING-RESOLUTION.pdf) *(verified)*
+- Exception: in the 2022 Urban Residential overlay along Hwy 125/14 and CR 12 near Walden, short-term rentals are a Special Use (permit only). — [[4]](https://jacksoncounty.colorado.gov/sites/jacksoncounty/files/documents/Zoning-Overlay-Resolution.22.pdf) *(verified)*
+- Bed and Breakfast is a use by right in Ranching. Dude ranches are conditional in Ranching and by right in Forestry & Open, which also allows lodges and up to 5 dwelling units, a practical route for several rental cabins. — [[2]](http://web.archive.org/web/20240719180106/https://jacksoncounty.colorado.gov/sites/jacksoncounty/files/documents/FULL-ZONING-RESOLUTION.pdf) *(verified)*
+- Confirm with the county, since the zoning text predates the STR era and the county site blocks automated access. — *lead only, no source yet*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -73,7 +99,10 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 
 ## Sources
 
-1. [Jackson County Zoning Resolution](https://jacksoncounty.colorado.gov/sites/jacksoncounty/files/documents/FULL-ZONING-RESOLUTION.pdf) — primary, not read in full
+1. [Jackson County Zoning Resolution](https://jacksoncounty.colorado.gov/sites/jacksoncounty/files/documents/FULL-ZONING-RESOLUTION.pdf) — primary, read
+2. [Jackson County Zoning Resolution (amended to 11/23/2020), via Wayback Machine copy of the county PDF](http://web.archive.org/web/20240719180106/https://jacksoncounty.colorado.gov/sites/jacksoncounty/files/documents/FULL-ZONING-RESOLUTION.pdf) — primary, read, Art. IV Sec. 3; Table of Zoning Districts pp. 113-134
+3. [Jackson County Petition for Exemption form](https://jacksoncounty.colorado.gov/sites/jacksoncounty/files/documents/petitionforexemption.new_.pdf) — primary, read
+4. [Jackson County Resolution 2022-xi-03 (Urban Residential and Commercial zoning overlays)](https://jacksoncounty.colorado.gov/sites/jacksoncounty/files/documents/Zoning-Overlay-Resolution.22.pdf) — primary, read
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

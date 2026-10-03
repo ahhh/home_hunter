@@ -9,14 +9,37 @@
 | County seat | Grand Junction |
 | Region | Western Slope |
 | Hipcamp signal | **Restrictive**: A rule found limits paid camping, RV occupancy or camping-unit rentals |
+| Splitting land | **Exemption path**: A lighter split process (exemption, minor subdivision, lot split) exists below 35 acres |
+| Cabin short-term rentals | **Permit**: County short-term rental permit or license program |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
-| Evidence | Partly verified: some claims read in primary sources; the rest need confirmation |
-| Date checked | 2026-09-29 |
+| Evidence | Verified: every sourced claim was read in a primary source |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://www.mesacounty.us/departments-and-services/community-development/planning>
+
+## Splitting land (subdivision)
+
+> A 10+ acre AFT/AF-35 parcel can split off one extra lot (min 1 acre) through a staff-level Rural Land Division; other splits must meet 5-35 acre density. A house and its ADU can be vacation rentals after site plan review (a dedicated STR permit is proposed for late 2026), but extra cabins need a Conditional Use Permit.
+
+- The LDC offers several land-division types (Table 4-1): Agricultural Division, Minor Subdivision, Major Subdivision, Physical/Legal Separation, Rural Land Division and Subdivision for Public Purposes. 35-acre statutory divisions are exempt. — [[4]](https://www.mesacounty.us/sites/default/files/2024-10/Land%20Development%20Code%20-%202020%20%28Amended%2004-23-24%29.pdf) *(verified)*
+- A Rural Land Division (4.10 H) lets a parcel of 10+ acres in the AFT or AF-35 zone create ONE additional lot (minimum 1 acre), once per parcel, decided by the Community Development Director with notice. It isn't subject to density. — [[4]](https://www.mesacounty.us/sites/default/files/2024-10/Land%20Development%20Code%20-%202020%20%28Amended%2004-23-24%29.pdf) *(verified)*
+- An Agricultural Division (4.10 C) allows 1 new lot (1-5 acres) per 25 acres owned, for AFT tracts of 50+ acres owned 5+ years and assessed agricultural for 5 years. — [[4]](https://www.mesacounty.us/sites/default/files/2024-10/Land%20Development%20Code%20-%202020%20%28Amended%2004-23-24%29.pdf) *(verified)*
+- A Minor Subdivision (up to 6 lots) is decided by the Director, but lots must meet zone density; in AFT the density is set by Sec. 7.02 (an average of 1 lot per 5 acres, or 10/17/20/35 acres depending on Future Land Use area). — [[4]](https://www.mesacounty.us/sites/default/files/2024-10/Land%20Development%20Code%20-%202020%20%28Amended%2004-23-24%29.pdf) *(verified)*
+- Bottom line: possible with review, and easy for a single extra lot (Rural Land Division) on 10+ acres in AFT/AF-35. — [[4]](https://www.mesacounty.us/sites/default/files/2024-10/Land%20Development%20Code%20-%202020%20%28Amended%2004-23-24%29.pdf) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- Rural zones: AF-35 (1 unit per 35 acres, 35-acre minimum lot), AFT (density per Table 7-1: base 1 per 5 acres in Rural Residential areas; 10, 17, 20 or 35 acres per unit in Rural/Ag areas), RSF-R (1 unit per 5 acres, 5-acre minimum), RSF-E (1-acre minimum). — [[4]](https://www.mesacounty.us/sites/default/files/2024-10/Land%20Development%20Code%20-%202020%20%28Amended%2004-23-24%29.pdf) *(verified)*
+- Only one attached or detached accessory dwelling is allowed per parcel, only with a single-family home, reviewed as a residential site plan. Max size on 1+ acre lots is 1,500 sq ft or 50% of the main home, whichever is greater (6.04 E). — [[4]](https://www.mesacounty.us/sites/default/files/2024-10/Land%20Development%20Code%20-%202020%20%28Amended%2004-23-24%29.pdf) *(verified)*
+- If the owner doesn't occupy the house or ADU, a local property manager who is a county resident must be available whenever it's rented (6.04 E.2.d). — [[4]](https://www.mesacounty.us/sites/default/files/2024-10/Land%20Development%20Code%20-%202020%20%28Amended%2004-23-24%29.pdf) *(verified)*
+- An LDC amendment was scheduled for Planning Commission on Oct 15, 2026 and the BOCC on Nov 17, 2026. — [[3]](https://www.mesacounty.us/departments-and-services/community-development/planning/current-land-development-code) *(verified)*
 
 ## Private (non-commercial) camping
 
@@ -26,7 +49,7 @@
 
 ## Paid camping / campground pathway
 
-- Paid camping points to a permitted campground. Check the use table in the current LDC (another amendment was up for hearings in Oct-Nov 2026). — [[3]](https://www.mesacounty.us/departments-and-services/community-development/planning/current-land-development-code) *(needs confirmation)*
+- Paid camping points to a permitted campground. Check the use table in the current LDC (another amendment was up for hearings in Oct-Nov 2026). — [[3]](https://www.mesacounty.us/departments-and-services/community-development/planning/current-land-development-code) *(verified)*
 
 > County "camping on your own land" rules usually cover **non-commercial** use by the owner and their guests.
 > A paid Hipcamp booking is often a campground or commercial use instead. Ask Planning in writing:
@@ -39,7 +62,12 @@
 
 ## Short-term rental / lodging rules
 
-- Vacation rentals: only permitted single-family homes, townhomes, ADUs and owner-occupied duplexes. 'Tents, recreational vehicles, temporary shelters and other provisions intended for temporary occupancy are not allowed as guest accommodations.' Stays under 30 days, a local representative available at all times, and CO/smoke alarms required. — [[2]](https://www.mesacounty.us/departments-and-services/community-development/hot-topics-community-development/vacation-rentals) *(verified)*
+- Vacation Rentals are an Allowed use (A) in all rural and residential zones but need Site Plan Review approval (Table 6-1, Sec. 6.02 BB). — [[4]](https://www.mesacounty.us/sites/default/files/2024-10/Land%20Development%20Code%20-%202020%20%28Amended%2004-23-24%29.pdf), [[2]](https://www.mesacounty.us/departments-and-services/community-development/hot-topics-community-development/vacation-rentals) *(verified)*
+- Allowed in single-family homes, townhomes, ADUs and owner-occupied duplexes, for stays under 30 days. Tents, RVs and temporary shelters can't be rented. — [[4]](https://www.mesacounty.us/sites/default/files/2024-10/Land%20Development%20Code%20-%202020%20%28Amended%2004-23-24%29.pdf), [[2]](https://www.mesacounty.us/departments-and-services/community-development/hot-topics-community-development/vacation-rentals) *(verified)*
+- Rules: occupancy set at site plan approval by bedrooms and parking; 1 parking space per sleeping room + 1; a local county-resident representative available at all times; revocable after 3 verified complaints in a year. — [[4]](https://www.mesacounty.us/sites/default/files/2024-10/Land%20Development%20Code%20-%202020%20%28Amended%2004-23-24%29.pdf) *(verified)*
+- Because only one house and one ADU are allowed per parcel, more rental cabins become 'Resorts, Cabins, and Lodges', a Conditional Use (CUP) in AFT/AF-35 and RSF-R (Table 6-1). — [[4]](https://www.mesacounty.us/sites/default/files/2024-10/Land%20Development%20Code%20-%202020%20%28Amended%2004-23-24%29.pdf) *(verified)*
+- The 2026 draft amendment would replace site plan review with a 'Short-term Rental Permit' and cap occupancy at 2 per bedroom + 2, max 16. Not yet adopted as of the Oct-Nov 2026 hearings. — [[5]](https://www.mesacounty.us/sites/default/files/2026-07/mesa_county_2020_land_development_code_showing_additions_and_deletions_-_revision_7-24-26.pdf) *(verified)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -100,7 +128,9 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 
 1. [Mesa County 2020 Land Development Code (amended Jun 28, 2022)](https://www.mesacounty.us/sites/default/files/2022-12/land-development-code-mesa-county-2020-land-development-code-amended-june-28-2022.pdf) — primary, read, Sec. 6.04 F (Camping)
 2. [Mesa County: Vacation rentals](https://www.mesacounty.us/departments-and-services/community-development/hot-topics-community-development/vacation-rentals) — primary, read
-3. [Mesa County current Land Development Code (amended 4-23-24)](https://www.mesacounty.us/departments-and-services/community-development/planning/current-land-development-code) — primary, not read in full
+3. [Mesa County current Land Development Code (amended 4-23-24)](https://www.mesacounty.us/departments-and-services/community-development/planning/current-land-development-code) — primary, read
+4. [Mesa County 2020 Land Development Code (Amended 04-23-24)](https://www.mesacounty.us/sites/default/files/2024-10/Land%20Development%20Code%20-%202020%20%28Amended%2004-23-24%29.pdf) — primary, read, Table 4-1; 4.10 C, E, H; 5.01-5.02; Table 6-1; 6.02 BB; 6.04 E; 7.02
+5. [Mesa County 2020 LDC proposed draft showing additions/deletions (revision 7-24-26)](https://www.mesacounty.us/sites/default/files/2026-07/mesa_county_2020_land_development_code_showing_additions_and_deletions_-_revision_7-24-26.pdf) — primary, read, 6.02 AA Short-term Rental
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

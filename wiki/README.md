@@ -76,6 +76,7 @@ county defines it, it may also be (c). It isn't (a), even if the guest sleeps in
 | 16 | [Emergency & Incident Plan](16-emergency-incident-plan.md) | The onsite plan to print and post |
 | 17 | [Sources, Contacts & Change Log](17-sources-and-changelog.md) | Where every claim came from, and when to re-check it |
 | 18 | [Tax-Credit Zones](18-incentive-zones.md) | Is the land in an enterprise zone, opportunity zone or Rural Jump-Start zone, and what would that pay for? |
+| 19 | [Subdividing, Zoning & Short-Term Rentals](19-subdivision-zoning-short-term-rentals.md) | Can we split the parcel? What does the zoning allow? Can a cabin be rented on Airbnb/VRBO? |
 
 ## Evidence standard
 

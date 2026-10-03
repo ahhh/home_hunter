@@ -9,14 +9,32 @@
 | County seat | Silverton |
 | Region | Southwest |
 | Hipcamp signal | **Unclear**: No specific camping provision found yet |
+| Splitting land | **Unclear**: Not researched, or the rules weren't found online |
+| Cabin short-term rentals | **Permit**: County short-term rental permit or license program |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
-| Evidence | Needs confirmation: from official pages and search summaries; code text not read |
-| Date checked | 2026-09-29 |
+| Evidence | Partly verified: some claims read in primary sources; the rest need confirmation |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://sanjuancounty.colorado.gov/planning>
+
+## Splitting land (subdivision)
+
+> Couldn't verify the split rules: the county's 2023 code is only posted as a scanned PDF. A county vacation rental permit is reportedly required, with STRs allowed in all districts except Resource, Conservancy and Natural.
+
+- The county's Zoning and Land Use Regulations (revised Jul 10, 2023) are posted only as a 172-page scanned image PDF with no text layer, so the subdivision and exemption rules couldn't be read in this pass. Ask Planning. — [[2]](https://sanjuancounty.colorado.gov/sites/g/files/lrnvjt966/files/7-10-23%20Zoning%20and%20Land%20Use%20Regulations.pdf) *(needs confirmation)*
+- Most private land outside Silverton is patented mining claims in high alpine terrain, which typically limits splitting more than the code does (lead, not verified). — *lead only, no source yet*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- The county uses Land Use Districts (reportedly including Resource, Conservancy and Natural districts), defined in the 2023 Zoning and Land Use Regulations. District minimums weren't verified because the PDF is a scan. — [[2]](https://sanjuancounty.colorado.gov/sites/g/files/lrnvjt966/files/7-10-23%20Zoning%20and%20Land%20Use%20Regulations.pdf), [[3]](https://www.strprofitmap.com/regulations/CO/silverton) *(needs confirmation)*
+- Development needs a county Land Use Permit and an Improvement Permit (application forms on the Planning page). — [[1]](https://sanjuancounty.colorado.gov/planning) *(verified)*
 
 ## Private (non-commercial) camping
 
@@ -37,7 +55,10 @@
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- Reported (secondary source): unincorporated San Juan County requires a county vacation rental permit, and vacation rentals are allowed in all Land Use Districts except Resource, Conservancy and Natural. Verify in the regulations. — [[3]](https://www.strprofitmap.com/regulations/CO/silverton) *(needs confirmation)*
+- The Town of Silverton runs its own separate STR licensing; it doesn't apply to county land. — [[3]](https://www.strprofitmap.com/regulations/CO/silverton) *(needs confirmation)*
+- Not found: caps, owner-occupancy, or whether ADUs/multiple cabins can be rented. Ask Planning. — *lead only, no source yet*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -84,7 +105,9 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 
 ## Sources
 
-1. [San Juan County Planning (Land Use Code revised Jul 10, 2023)](https://sanjuancounty.colorado.gov/planning) — primary, not read in full
+1. [San Juan County Planning (Land Use Code revised Jul 10, 2023)](https://sanjuancounty.colorado.gov/planning) — primary, read
+2. [San Juan County Zoning and Land Use Regulations (rev. 7-10-23, scanned PDF)](https://sanjuancounty.colorado.gov/sites/g/files/lrnvjt966/files/7-10-23%20Zoning%20and%20Land%20Use%20Regulations.pdf) — primary, not read in full
+3. [STR Profit Map: Silverton, Colorado STR regulations guide](https://www.strprofitmap.com/regulations/CO/silverton) — **secondary**, not read in full
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

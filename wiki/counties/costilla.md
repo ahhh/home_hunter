@@ -9,14 +9,35 @@
 | County seat | San Luis |
 | Region | San Luis Valley |
 | Hipcamp signal | **Restrictive**: A rule found limits paid camping, RV occupancy or camping-unit rentals |
+| Splitting land | **Restrictive**: Large zone minimums or county rules make splitting rare, even at 35+ acres |
+| Cabin short-term rentals | **Allowed**: No STR rules found; renting a permitted dwelling is treated as a residential use |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
-| Evidence | Needs confirmation: from official pages and search summaries; code text not read |
-| Date checked | 2026-09-29 |
+| Evidence | Partly verified: some claims read in primary sources; the rest need confirmation |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://www.costillacounty.gov/>
+
+## Splitting land (subdivision)
+
+> Costilla is restrictive on splitting: Rural Residential parcels can't go below 35 acres and Agricultural below 160. The only lighter paths are a family-transfer exemption or a 70+ acre cluster. There are no STR rules, so a single permitted cabin can apparently be an Airbnb. Multiple rental cabins need Overnight Lodging or Resort/Guest Ranch special-use review.
+
+- Minimum lot sizes: Agricultural 160 acres, Rural Residential 35 acres, Estate Residential 1 acre (Sec. 5.10). The A zone allows no more than 1 dwelling per 160 acres, and RR no more than 1 per 35 acres (Art. 5 district purposes). — [[3]](https://wp-cpr.s3.amazonaws.com/uploads/2019/06/revised_land_use_code_2015.pdf) *(verified)*
+- Subdivision exemptions cover only boundary/lot line revisions, consolidations, and family transactions (parent-child gift or sale), and the family parcel must conform to zoning. The Land Use Administrator decides, with appeal to the BOCC (Sec. 11.10-11.13). — [[3]](https://wp-cpr.s3.amazonaws.com/uploads/2019/06/revised_land_use_code_2015.pdf) *(verified)*
+- Exemptions need adequate access, potable water and sewage treatment, and must fit the county's goal of preserving agricultural and forestry lands (Sec. 11.13). — [[3]](https://wp-cpr.s3.amazonaws.com/uploads/2019/06/revised_land_use_code_2015.pdf) *(verified)*
+- A Rural Land Use Process/Cluster Subdivision (C.R.S. 30-28-401) is available on 70+ acres: single-family only, two-thirds kept as open space, max 2 units per 35 acres (1 per 17.5 acres), via Special Review (Sec. 11.20-11.24). — [[3]](https://wp-cpr.s3.amazonaws.com/uploads/2019/06/revised_land_use_code_2015.pdf) *(verified)*
+- Other divisions under 35 acres go through Minor or Major Subdivision review (Art. 10). Divisions where every parcel is 35+ acres are outside the subdivision regulations (Div. 2 intro). — [[3]](https://wp-cpr.s3.amazonaws.com/uploads/2019/06/revised_land_use_code_2015.pdf) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- Zones: Agricultural (160-acre minimum, 1 dwelling per 160 acres), Rural Residential (35-acre minimum, 1 dwelling per 35 acres; covers the big 35-acre subdivisions), Estate Residential (1-acre minimum, 1 dwelling per parcel on 5 acres or less), plus Commercial, Industrial and Urban Residential (Art. 5, Sec. 5.10). — [[3]](https://wp-cpr.s3.amazonaws.com/uploads/2019/06/revised_land_use_code_2015.pdf) *(verified)*
+- Single-family dwellings need a 1-year Land Use Permit, at least 600 sq ft, and 1+ acre. The 'Accessory Dwelling' row in the use table is marked '(Delete)', so ask P&Z (719-937-7668) whether a second unit is allowed at all. — [[3]](https://wp-cpr.s3.amazonaws.com/uploads/2019/06/revised_land_use_code_2015.pdf) *(verified)*
 
 ## Private (non-commercial) camping
 
@@ -35,11 +56,15 @@
 ## RVs, tiny homes & structures
 
 - Not confirmed. Most Colorado counties treat RVs as temporary/recreational, not dwellings. See [Structures, Tiny Homes & RVs](../09-structures-tiny-homes-rvs.md).
-- **No building department.** DOH inspects foundations for manufactured, tiny and factory-built homes. State electrical and plumbing permits still apply. — [[3]](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) *(verified)*
+- **No building department.** DOH inspects foundations for manufactured, tiny and factory-built homes. State electrical and plumbing permits still apply. — [[4]](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) *(verified)*
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- The Land Use Code (2015 revision read) has no short-term rental permit, license or definition. The current amended code on the county site couldn't be fetched (bot-blocked), so confirm with Planning & Zoning. — [[3]](https://wp-cpr.s3.amazonaws.com/uploads/2019/06/revised_land_use_code_2015.pdf), [[1]](https://www.costillacounty.gov/media/2006) *(needs confirmation)*
+- With no STR regime, renting a permitted single-family dwelling appears to be treated as residential use, but only one dwelling is allowed per lot in most rural zones. — [[3]](https://wp-cpr.s3.amazonaws.com/uploads/2019/06/revised_land_use_code_2015.pdf) *(verified)*
+- 'Overnight Lodging' (transient lodging to the public) is a Special Use in Agricultural, Rural Residential and Estate Residential. 'Resort Lodge/Guest Ranch' (including resort cabins) is a Special Use in A, RR and Commercial. A Bed and Breakfast (owner-occupied) is administrative in A and limited review in RR and ER (use table). — [[3]](https://wp-cpr.s3.amazonaws.com/uploads/2019/06/revised_land_use_code_2015.pdf) *(verified)*
+- Camping limits (14 days per 3 months, long-term RV permits) make tent or RV stays a poor substitute for a permitted cabin. — [[1]](https://www.costillacounty.gov/media/2006) *(needs confirmation)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -87,7 +112,8 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 
 1. [Costilla County Land Use Code (2013, amended)](https://www.costillacounty.gov/media/2006) — primary, not read in full
 2. [American Tiny House Assoc.: Costilla long-term camping change](https://americantinyhouseassociation.org/costilla-county-colorado-long-term-camping-on-private-land-is-no-longer-allowed/) — **secondary**, not read in full
-3. [Division of Housing: jurisdictions without building departments](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) — primary, read
+3. [Costilla County Land Use Code, 2015 revision (copy hosted by CPR)](https://wp-cpr.s3.amazonaws.com/uploads/2019/06/revised_land_use_code_2015.pdf) — primary, read, Art. 5 (Sec. 5.10, use table), Art. 10, Art. 11 (Sec. 11.10-11.25)
+4. [Division of Housing: jurisdictions without building departments](https://doh.colorado.gov/jurisdictions-without-building-departments-tiny-homes) — primary, read
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

@@ -139,6 +139,18 @@ export interface HostingSummary {
   /** Primary (government) sources, the ones actually read first. */
   sources: { title: string; url: string; section?: string; read: boolean }[];
   incentives: IncentiveSummary;
+  land: LandSummary;
+}
+
+export type SubdivisionSignal = "Exemption path" | "Full subdivision" | "Restrictive" | "Unclear";
+export type StrSignal = "Permit" | "Allowed" | "Limited" | "Lodging review" | "Unclear";
+
+/** Splitting a parcel and renting a cabin short-term in a county. Built from pipelines/hosting/counties.json. */
+export interface LandSummary {
+  subdivisionSignal: SubdivisionSignal;
+  strSignal: StrSignal;
+  /** Empty until the county has been researched. */
+  summary: string;
 }
 
 /** Location-based tax-credit programs in a county. Built from pipelines/incentives by pipelines/hosting. */

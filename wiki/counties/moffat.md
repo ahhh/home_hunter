@@ -9,14 +9,35 @@
 | County seat | Craig |
 | Region | Northwest |
 | Hipcamp signal | **Unclear**: No specific camping provision found yet |
+| Splitting land | **Exemption path**: A lighter split process (exemption, minor subdivision, lot split) exists below 35 acres |
+| Cabin short-term rentals | **Allowed**: No STR rules found; renting a permitted dwelling is treated as a residential use |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
-| Evidence | Needs confirmation: from official pages and search summaries; code text not read |
-| Date checked | 2026-09-29 |
+| Evidence | Partly verified: some claims read in primary sources; the rest need confirmation |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://moffatcounty.colorado.gov/>
+
+## Splitting land (subdivision)
+
+> Moffat is one of the easier counties to split: Agricultural land goes down to 5-acre lots, with a one-time $200 exemption for a single split and a short minor subdivision for up to 4 lots. There are no STR rules, so one permitted cabin can be an Airbnb. More dwellings or rental 'cabins' need a Conditional Use Permit.
+
+- Parcels of 35+ acres can be divided without subdivision review. The Agriculture (A) zone allows lots down to 5 acres (Zoning Sec. 410, 410.5). — [[8]](https://moffatcounty.colorado.gov/sites/g/files/lrnvjt1901/files/PropDivInfoSheet_0.pdf), [[3]](https://moffatcounty.colorado.gov/sites/g/files/lrnvjt1901/files/Moffat%20County%20Zoning%20Resolution%20Section%20400%20District%20regulations-%20amended%209-23-25.pdf) *(verified)*
+- An Exemption from Subdivision Regulations ($200; Planning Commission then BOCC) splits one parcel of 5+ acres off a parcel, with no more than two parcels resulting. It's allowed only once per tract and once per 12 months per applicant (Subdivision Regs. Sec. 2.011). — [[7]](https://moffatcounty.colorado.gov/sites/g/files/lrnvjt1901/files/Exemption%20application%20with%20procedures.pdf), [[8]](https://moffatcounty.colorado.gov/sites/g/files/lrnvjt1901/files/PropDivInfoSheet_0.pdf), [[5]](https://moffatcounty.colorado.gov/sites/g/files/lrnvjt1901/files/SubdRegs_1.pdf) *(verified)*
+- Eligible parcels: a sub-35-acre parcel that existed in its current shape on Aug 23, 1972; a 35+ acre parcel legally created after that date; or a 1972 parcel already split by a road or waterway. Lots in platted or minor subdivisions can't use the exemption. Exempt parcels need access to a public road (Sec. 2.011). — [[5]](https://moffatcounty.colorado.gov/sites/g/files/lrnvjt1901/files/SubdRegs_1.pdf) *(verified)*
+- Bona fide agricultural residents (with IRS Form 1040F) can get additional exemptions to convey land to family, who must hold it 3 years before selling outside the family (Sec. 2.011). — [[5]](https://moffatcounty.colorado.gov/sites/g/files/lrnvjt1901/files/SubdRegs_1.pdf) *(verified)*
+- A Minor Subdivision makes up to 4 lots of 5+ acres with road access, takes about 2 months and costs $550. A Major Subdivision allows unlimited 5-acre lots. Both need a Colorado Geological Survey review ($485-$585). Rural Residential has 3-acre lots but no exemption option. — [[8]](https://moffatcounty.colorado.gov/sites/g/files/lrnvjt1901/files/PropDivInfoSheet_0.pdf), [[6]](https://moffatcounty.colorado.gov/sites/g/files/lrnvjt1901/files/MinorSubdRegs_0.pdf) *(needs confirmation)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- Agriculture (A): 5-acre minimum lot, single-family homes and mobile homes outside urban growth boundaries allowed by right, 200 sq ft minimum dwelling size (Sec. 410.1, 410.5). — [[3]](https://moffatcounty.colorado.gov/sites/g/files/lrnvjt1901/files/Moffat%20County%20Zoning%20Resolution%20Section%20400%20District%20regulations-%20amended%209-23-25.pdf) *(verified)*
+- One dwelling per parcel. More dwellings need a Conditional Use Permit (Sec. 410.5.2, amended 2025). Rural Residential (R-R) has a 3-acre minimum and the same one-dwelling rule (Sec. 415.5). — [[3]](https://moffatcounty.colorado.gov/sites/g/files/lrnvjt1901/files/Moffat%20County%20Zoning%20Resolution%20Section%20400%20District%20regulations-%20amended%209-23-25.pdf) *(verified)*
 
 ## Private (non-commercial) camping
 
@@ -37,7 +58,11 @@
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- The zoning resolution (Sections 200 and 400, amended 2025) has no short-term rental definition, permit or license. — [[3]](https://moffatcounty.colorado.gov/sites/g/files/lrnvjt1901/files/Moffat%20County%20Zoning%20Resolution%20Section%20400%20District%20regulations-%20amended%209-23-25.pdf), [[4]](https://moffatcounty.colorado.gov/sites/g/files/lrnvjt1901/files/MoCoZoninResoSect200Interpretation-Definitions-%20amdened%203-11-25.pdf) *(verified)*
+- With no STR regime, renting a permitted single-family dwelling short-term appears to be treated as residential use. You still need a building permit and septic. Confirm with Planning (970-824-9148). — *lead only, no source yet*
+- A Bed & Breakfast Inn (owner-operated, lodging and meals) is a Conditional Use in A (Sec. 410.3.6). 'Motel, cabins, travel trailer park and campgrounds' that serve the traveling public or short-term recreation are a Conditional Use in A when isolated from conflicting uses (Sec. 410.3.30). — [[3]](https://moffatcounty.colorado.gov/sites/g/files/lrnvjt1901/files/Moffat%20County%20Zoning%20Resolution%20Section%20400%20District%20regulations-%20amended%209-23-25.pdf), [[4]](https://moffatcounty.colorado.gov/sites/g/files/lrnvjt1901/files/MoCoZoninResoSect200Interpretation-Definitions-%20amdened%203-11-25.pdf) *(verified)*
+- A second rental cabin on the same parcel needs a Conditional Use Permit for the extra dwelling (Sec. 410.5.2), or the 'cabins' conditional use. — [[3]](https://moffatcounty.colorado.gov/sites/g/files/lrnvjt1901/files/Moffat%20County%20Zoning%20Resolution%20Section%20400%20District%20regulations-%20amended%209-23-25.pdf) *(verified)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -86,6 +111,12 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 
 1. [Moffat County](https://moffatcounty.colorado.gov/) — primary, not read in full
 2. [Moffat County fire ordinance 2023-0822](https://moffatcounty.colorado.gov/sites/moffatcounty/files/FireOrd2023-0822_1.pdf) — primary, not read in full
+3. [Moffat County Zoning Resolution Sec. 400 District Regulations (amended 9-23-25)](https://moffatcounty.colorado.gov/sites/g/files/lrnvjt1901/files/Moffat%20County%20Zoning%20Resolution%20Section%20400%20District%20regulations-%20amended%209-23-25.pdf) — primary, read, Sec. 410, 415
+4. [Moffat County Zoning Resolution Sec. 200 Definitions (amended 3-11-25)](https://moffatcounty.colorado.gov/sites/g/files/lrnvjt1901/files/MoCoZoninResoSect200Interpretation-Definitions-%20amdened%203-11-25.pdf) — primary, read
+5. [Moffat County Subdivision Regulations](https://moffatcounty.colorado.gov/sites/g/files/lrnvjt1901/files/SubdRegs_1.pdf) — primary, read, Sec. 2.011
+6. [Moffat County Minor Subdivision Regulations](https://moffatcounty.colorado.gov/sites/g/files/lrnvjt1901/files/MinorSubdRegs_0.pdf) — primary, not read in full
+7. [Moffat County Application for Exemption from Subdivision Regulations (with procedures)](https://moffatcounty.colorado.gov/sites/g/files/lrnvjt1901/files/Exemption%20application%20with%20procedures.pdf) — primary, read
+8. [Moffat County Property Division Information Sheet](https://moffatcounty.colorado.gov/sites/g/files/lrnvjt1901/files/PropDivInfoSheet_0.pdf) — primary, read
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

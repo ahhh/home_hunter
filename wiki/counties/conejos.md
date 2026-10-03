@@ -9,14 +9,35 @@
 | County seat | Conejos |
 | Region | San Luis Valley |
 | Hipcamp signal | **Unclear**: No specific camping provision found yet |
+| Splitting land | **Exemption path**: A lighter split process (exemption, minor subdivision, lot split) exists below 35 acres |
+| Cabin short-term rentals | **Allowed**: No STR rules found; renting a permitted dwelling is treated as a residential use |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
-| Evidence | Needs confirmation: from official pages and search summaries; code text not read |
-| Date checked | 2026-09-29 |
+| Evidence | Partly verified: some claims read in primary sources; the rest need confirmation |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://conejoscounty.colorado.gov/land-use>
+
+## Splitting land (subdivision)
+
+> Conejos is permissive: a 1-acre minimum lot, a two-lot Division of Land exemption, and 3-6 lot minor subdivisions, with 10-year limits on repeat splits. There are no STR rules and two homes per lot are allowed, so one or two permitted cabins can apparently be Airbnbs. Beyond that, it's a special-use 'Overnight Lodging' permit.
+
+- A Division of Land (Subdivision Exemption) creates two lots from one, e.g. a homesite split off ag or rural land, without the full subdivision procedure (Land Use Code Art. 10, Div. 10.7). — [[4]](https://conejoscounty.colorado.gov/sites/g/files/lrnvjt1616/files/documents/dol_-_brochure_-_pg_02-01-2020.pdf), [[3]](https://conejoscounty.colorado.gov/sites/g/files/lrnvjt1616/files/documents/2005%20Land%20Use%20Code%20-%20Web%20-%20ADA%20-%20Final.pdf) *(verified)*
+- A parcel divided by exemption in the previous 10 years (counted from the code's June 2, 2005 adoption) isn't eligible again, and lots in platted minor or major subdivisions can't use the exemption (Div. 10.7). — [[4]](https://conejoscounty.colorado.gov/sites/g/files/lrnvjt1616/files/documents/dol_-_brochure_-_pg_02-01-2020.pdf) *(verified)*
+- A Minor Subdivision creates 3-6 lots ($750 + $100 per lot; Planning Commission and BOCC hearings). It's presumed to be evasion if the same subdivider adds more minor-subdivision lots within 1/4 mile within 10 years (Div. 10.3). — [[5]](https://conejoscounty.colorado.gov/sites/g/files/lrnvjt1616/files/documents/minor_sd_-_brochure_rev_1-11-2022.pdf) *(verified)*
+- Lots must meet zoning (1-acre minimum in A and RU), have public-road access, and show legal and physical water and wastewater capacity (Div. 10.5; Art. 13). — [[5]](https://conejoscounty.colorado.gov/sites/g/files/lrnvjt1616/files/documents/minor_sd_-_brochure_rev_1-11-2022.pdf), [[3]](https://conejoscounty.colorado.gov/sites/g/files/lrnvjt1616/files/documents/2005%20Land%20Use%20Code%20-%20Web%20-%20ADA%20-%20Final.pdf) *(verified)*
+- Divisions where every parcel is 35+ acres go through a separate Large Lot Development process instead of subdivision review. — [[5]](https://conejoscounty.colorado.gov/sites/g/files/lrnvjt1616/files/documents/minor_sd_-_brochure_rev_1-11-2022.pdf) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- Agricultural (A) and Rural (RU) both have a 1-acre minimum lot area and allow two single-family residences per lot, subject to the Art. 13 water and sewer requirements (Sec. 4.200.A-B). — [[3]](https://conejoscounty.colorado.gov/sites/g/files/lrnvjt1616/files/documents/2005%20Land%20Use%20Code%20-%20Web%20-%20ADA%20-%20Final.pdf) *(verified)*
+- The code defines an Accessory Dwelling as a second complete independent living unit on the same parcel as the principal use (Art. 2 definitions). — [[3]](https://conejoscounty.colorado.gov/sites/g/files/lrnvjt1616/files/documents/2005%20Land%20Use%20Code%20-%20Web%20-%20ADA%20-%20Final.pdf) *(verified)*
 
 ## Private (non-commercial) camping
 
@@ -37,7 +58,10 @@
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- The 2005 Land Use Code has no short-term rental permit, license or definition, and none appears on the county land use page. — [[3]](https://conejoscounty.colorado.gov/sites/g/files/lrnvjt1616/files/documents/2005%20Land%20Use%20Code%20-%20Web%20-%20ADA%20-%20Final.pdf), [[1]](https://conejoscounty.colorado.gov/land-use) *(verified)*
+- With no STR regime, renting a permitted single-family dwelling appears to be treated as residential use. Two residences per lot are allowed in A and RU, so two rental cabins may fit. You still need a Land Use Construction Permit and septic. Confirm with the Land Use Office (719-376-2014). — [[3]](https://conejoscounty.colorado.gov/sites/g/files/lrnvjt1616/files/documents/2005%20Land%20Use%20Code%20-%20Web%20-%20ADA%20-%20Final.pdf) *(verified)*
+- 'Overnight Lodging' (hotel/motel, resort lodge, guest ranch, B&B, boarding house) is a Special Use in A, RU, R and C/T, and administrative in Commercial (Sec. 4.300 Land Use Table). More than two rental cabins would likely be treated this way. — [[3]](https://conejoscounty.colorado.gov/sites/g/files/lrnvjt1616/files/documents/2005%20Land%20Use%20Code%20-%20Web%20-%20ADA%20-%20Final.pdf) *(verified)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -74,8 +98,11 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 
 ## Sources
 
-1. [Conejos County Land Use](https://conejoscounty.colorado.gov/land-use) — primary, not read in full
+1. [Conejos County Land Use](https://conejoscounty.colorado.gov/land-use) — primary, read
 2. [Conejos construction permit instructions (Nov 2023)](https://conejoscounty.colorado.gov/sites/conejoscounty/files/documents/ConstructionPermitStepbyStepInstructions11-2023_ADA.pdf) — primary, not read in full
+3. [Conejos County Land Use Code (2005, web ADA version)](https://conejoscounty.colorado.gov/sites/g/files/lrnvjt1616/files/documents/2005%20Land%20Use%20Code%20-%20Web%20-%20ADA%20-%20Final.pdf) — primary, read, Art. 2 defs; Sec. 4.100, 4.200, 4.300; Art. 10
+4. [Conejos County Division of Land (Subdivision Exemption) brochure (rev. 2-1-2020)](https://conejoscounty.colorado.gov/sites/g/files/lrnvjt1616/files/documents/dol_-_brochure_-_pg_02-01-2020.pdf) — primary, read
+5. [Conejos County Minor Subdivision brochure (rev. 1-11-2022)](https://conejoscounty.colorado.gov/sites/g/files/lrnvjt1616/files/documents/minor_sd_-_brochure_rev_1-11-2022.pdf) — primary, read
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

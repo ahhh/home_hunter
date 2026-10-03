@@ -9,14 +9,36 @@
 | County seat | Steamboat Springs |
 | Region | Northern Mountains |
 | Hipcamp signal | **Campground**: Paid camping handled as a campground/RV park or special use |
+| Splitting land | **Restrictive**: Large zone minimums or county rules make splitting rare, even at 35+ acres |
+| Cabin short-term rentals | **Lodging review**: Short-term guests only through a lodging, B&B or resort approval |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
 | Evidence | Verified: every sourced claim was read in a primary source |
-| Date checked | 2026-09-29 |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://www.co.routt.co.us/189/Planning>
+
+## Splitting land (subdivision)
+
+> Routt keeps rural land at one home per 35 acres. Smaller lots come only through a clustered Land Preservation Subdivision on 70+ acres. Cabin Airbnbs are banned in unincorporated Routt. The only paths are an owner-occupied B&B or a guest ranch on 105+ ranch acres.
+
+- The Agriculture/Forestry (AF) zone has a 35-acre minimum lot size, except through the Land Preservation Subdivision (LPS) process (Table 2.4.B-1). — [[1]](https://www.co.routt.co.us/DocumentCenter/View/16306/Routt-County-UDC) *(verified)*
+- A Minor LPS needs at least 70 contiguous AF acres. You get one buildable lot per 35 acres, clustered as 5-7 acre lots, with the rest kept as a remainder parcel and density capped by a development agreement. Example: 100 acres gives two 5-acre lots plus a 90-acre remainder (Sec. 4.54). — [[1]](https://www.co.routt.co.us/DocumentCenter/View/16306/Routt-County-UDC) *(verified)*
+- A Major LPS needs at least 140 acres and a remainder of at least 100 acres. It earns one bonus lot per 100 acres in the remainder (Sec. 4.55). — [[1]](https://www.co.routt.co.us/DocumentCenter/View/16306/Routt-County-UDC) *(verified)*
+- An administrative Minor Subdivision (up to 2 more lots, no variances) is available only inside the TO-2/TO-3 Targeted Growth Overlay zones, not on typical rural land (Sec. 4.52.B). — [[1]](https://www.co.routt.co.us/DocumentCenter/View/16306/Routt-County-UDC) *(verified)*
+- 35-acre platted divisions must still go through road review: grading permit, fire district approval and common-road standards (Sec. 4.51.H). — [[1]](https://www.co.routt.co.us/DocumentCenter/View/16306/Routt-County-UDC) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- AF is the main rural zone: 35-acre minimum, 50-ft setbacks, 40-ft height limit and a 7,500 sq ft maximum house size (Table 2.4.B-1). — [[1]](https://www.co.routt.co.us/DocumentCenter/View/16306/Routt-County-UDC) *(verified)*
+- A Secondary Dwelling Unit is allowed with standards: max 850 sq ft (under 2 bedrooms) or 1,000 sq ft, within 200 ft of the main house (300 ft on 35+ acres), sharing one access, and on at least 5 acres without central water and sewer (Sec. 2.43). — [[1]](https://www.co.routt.co.us/DocumentCenter/View/16306/Routt-County-UDC) *(verified)*
+- On parcels of 70+ acres, more secondary units are possible at one dwelling per 35 acres, with a recorded agreement against splitting off the extra density (Sec. 2.43.C). — [[1]](https://www.co.routt.co.us/DocumentCenter/View/16306/Routt-County-UDC) *(verified)*
 
 ## Private (non-commercial) camping
 
@@ -40,7 +62,11 @@
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- Short-term rentals (under 30 days, including Airbnb/VRBO) aren't allowed anywhere in unincorporated Routt County unless a Special or Conditional Use permit is issued for a use the code expressly authorizes, such as a Bed and Breakfast (Sec. 2.80). — [[1]](https://www.co.routt.co.us/DocumentCenter/View/16306/Routt-County-UDC) *(verified)*
+- A Bed and Breakfast must be in an owner-occupied single-family home with the owner living there full time. Max 4 guest bedrooms inside the main house, hot breakfast daily, no guest-room kitchens, commercial well permit, and the approval code in all ads (Sec. 2.32). — [[1]](https://www.co.routt.co.us/DocumentCenter/View/16306/Routt-County-UDC) *(verified)*
+- A Guest Ranch (Conditional use in AF) can have up to 6 rooms or cabins and 20 overnight guests. It needs 105+ contiguous acres with active ranching, and must stay secondary to the agricultural use (Sec. 2.51). — [[1]](https://www.co.routt.co.us/DocumentCenter/View/16306/Routt-County-UDC) *(verified)*
+- A cabin, ADU or second dwelling can't be rented as a standalone Airbnb. The legal paths are B&B (rooms in the owner's house) or a guest ranch on a working ranch. — [[1]](https://www.co.routt.co.us/DocumentCenter/View/16306/Routt-County-UDC) *(verified)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities

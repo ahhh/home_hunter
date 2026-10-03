@@ -9,14 +9,36 @@
 | County seat | Meeker |
 | Region | Northwest |
 | Hipcamp signal | **Campground**: Paid camping handled as a campground/RV park or special use |
+| Splitting land | **Exemption path**: A lighter split process (exemption, minor subdivision, lot split) exists below 35 acres |
+| Cabin short-term rentals | **Allowed**: No STR rules found; renting a permitted dwelling is treated as a residential use |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
-| Evidence | Verified: every sourced claim was read in a primary source |
-| Date checked | 2026-09-29 |
+| Evidence | Partly verified: some claims read in primary sources; the rest need confirmation |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://www.rbc.us/314/Planning>
+
+## Splitting land (subdivision)
+
+> Rio Blanco has a lighter Single Lot Creation path to carve one 2+ acre lot off land that keeps a 35+ acre remainder, though Agricultural land under 35 acres must be rezoned to RR. There are no STR rules and renting homes is explicitly not a 'lodging' use, so a permitted cabin can be an Airbnb. Multiple rental cabins need Limited Impact Review as a lodging establishment.
+
+- Single Lot Creation is a shortened review that lets you split one lot of 2+ acres off an unplatted parcel, as long as the remainder stays 35 acres or larger (Sec. 5-201, 5-401). — [[3]](https://www.rbc.us/Documents/Departments/Community%20Development/Planning/RBC%20Land%20Use%20Regulations_June2026.pdf) *(verified)*
+- A Minor Subdivision covers 2-5 lots, including the remainder if it's under 35 acres. Once recorded, any further division goes through subdivision review again (Sec. 5-202, 5-402). — [[3]](https://www.rbc.us/Documents/Departments/Community%20Development/Planning/RBC%20Land%20Use%20Regulations_June2026.pdf) *(verified)*
+- In the Agricultural (A) zone, creating any parcel under 35 acres also needs a rezoning to Rural Residential (RR, 2-acre minimum) (Sec. 5-201, 5-202). — [[3]](https://www.rbc.us/Documents/Departments/Community%20Development/Planning/RBC%20Land%20Use%20Regulations_June2026.pdf) *(verified)*
+- Boundary/lot line adjustments between unplatted parcels are exempt only if they don't add parcels or create lots under 35 acres. Otherwise Single Lot Creation or Minor Subdivision applies (Sec. 5-301.A, 5-302). — [[3]](https://www.rbc.us/Documents/Departments/Community%20Development/Planning/RBC%20Land%20Use%20Regulations_June2026.pdf) *(verified)*
+- Divisions that aren't a 'subdivision' under C.R.S. 30-28-101(10), such as 35+ acre parcels, fall outside the subdivision regulations (Art. 5, Div. 3). — [[3]](https://www.rbc.us/Documents/Departments/Community%20Development/Planning/RBC%20Land%20Use%20Regulations_June2026.pdf) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- Agricultural (A): 35-acre minimum, 1 dwelling per lot. A lot can skip road frontage if an 18-ft access easement to a county road is recorded. Rural Residential (RR): 2-acre minimum, 1 dwelling. Leisure Recreation (LR) is 5 acres and lists 'lodges, cabins' as typical structures (Art. 3, Div. 1). — [[3]](https://www.rbc.us/Documents/Departments/Community%20Development/Planning/RBC%20Land%20Use%20Regulations_June2026.pdf) *(verified)*
+- Additional and accessory dwellings are allowed through Limited Impact Review in A, RR, LR, C and I (use table; Sec. 4-204). — [[3]](https://www.rbc.us/Documents/Departments/Community%20Development/Planning/RBC%20Land%20Use%20Regulations_June2026.pdf) *(verified)*
+- A building-permit 'Recreational Cabin Exemption' reportedly needs 35+ acres and limits the cabin to owner recreation or ranching use, no more than 180 days a year and no commercial use. That would rule out renting an exempt cabin. — [[4]](https://rbc.us/665/Exemptions) *(needs confirmation)*
 
 ## Private (non-commercial) camping
 
@@ -38,7 +60,11 @@
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- The Land Use Regulations have no short-term rental permit or license. — [[3]](https://www.rbc.us/Documents/Departments/Community%20Development/Planning/RBC%20Land%20Use%20Regulations_June2026.pdf) *(verified)*
+- 'Lodging Establishments' (resort lodge, guest/dude ranch, B&B, motel, etc.) expressly exclude 'seasonal rental of homes' and lock-outs of 2 or fewer independent lodging units. Renting a dwelling therefore isn't a lodging use (Art. 16 definitions). — [[3]](https://www.rbc.us/Documents/Departments/Community%20Development/Planning/RBC%20Land%20Use%20Regulations_June2026.pdf) *(verified)*
+- A Lodging Establishment (e.g., several rental cabins or a guest ranch) needs Limited Impact Review in A and LR and is permitted by right in Commercial and Industrial. A Bed and breakfast inn is Limited Impact in A, RR and LR (Art. 3 use table). — [[3]](https://www.rbc.us/Documents/Departments/Community%20Development/Planning/RBC%20Land%20Use%20Regulations_June2026.pdf) *(verified)*
+- A cabin built under the Recreational Cabin building-permit exemption likely can't be rented, since that exemption bars commercial use. Build to code with a permit if you plan to rent. — [[4]](https://rbc.us/665/Exemptions) *(needs confirmation)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -88,6 +114,8 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 
 1. [Rio Blanco County Land Use Regulations (copy hosted by Colorado Agritourism)](https://coagritourismbiz.org/wp-content/uploads/2023/10/Land-Use-Code.Rio-Blanco.pdf) — primary, read, Use table; Sec. 7-602, 7-610
 2. [Rio Blanco County Planning Division](https://www.rbc.us/314/Planning) — primary, not read in full
+3. [Rio Blanco County Land Use Regulations (June 2026)](https://www.rbc.us/Documents/Departments/Community%20Development/Planning/RBC%20Land%20Use%20Regulations_June2026.pdf) — primary, read, Art. 3 Div. 1-2 use table; Art. 5 Sec. 5-201, 5-202, 5-301, 5-302, 5-402; Art. 16 defs
+4. [Rio Blanco County Building: Exemptions (Recreational Cabin Exemption)](https://rbc.us/665/Exemptions) — primary, not read in full
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read

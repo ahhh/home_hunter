@@ -9,14 +9,36 @@
 | County seat | Central City |
 | Region | Central Mountains |
 | Hipcamp signal | **Campground**: Paid camping handled as a campground/RV park or special use |
+| Splitting land | **Full subdivision**: Any split below 35 acres goes through full subdivision review |
+| Cabin short-term rentals | **Limited**: Caps, owner-occupancy, zone bans or accessory-structure bans that matter for cabins |
 | Municipality check required? | **Yes.** If the parcel is inside a city or town, that municipality's zoning applies instead of the county's. Check the assessor record for the tax district. |
 | Evidence | Verified: every sourced claim was read in a primary source |
-| Date checked | 2026-09-29 |
+| Date checked | 2026-09-29 (camping); 2026-10-03 (splitting, zoning, STR) |
 | Next review | 2027-03-29 |
 
 ## Planning & zoning
 
 - Department: <https://gilpincounty.colorado.gov/departments-offices/community-development/planning-zoning>
+
+## Splitting land (subdivision)
+
+> Below 35 acres you need a full subdivision meeting 20-acre (RR) or 5-acre (RS) minimums, so most RR land under 40 acres can't be split. A cabin can be an Airbnb with a county license; if you live on site it's uncapped (up to 2 units), otherwise you join a waitlist for the 155 capped licenses.
+
+- Splits where every resulting parcel is 35+ acres are allowed by right (statutory exemption). — [[2]](https://gilpincounty.colorado.gov/departments-offices/community-development/planning-zoning), [[3]](https://gilpinpublicdata.s3.us-west-1.amazonaws.com/Community-Development/Planning+Division/2022+Zoning+Regulations.pdf) *(verified)*
+- Below 35 acres you must go through the subdivision regulations and meet the zone minimum: 20 acres in RR (Resource Residential), 5 acres in RS (Residential Subdivision). — [[2]](https://gilpincounty.colorado.gov/departments-offices/community-development/planning-zoning) *(verified)*
+- The county says most RR parcels under 20 acres, including mining claims, won't be subdividable; access and topography also limit feasibility and need a topo survey. — [[2]](https://gilpincounty.colorado.gov/departments-offices/community-development/planning-zoning) *(verified)*
+- Exemptions are only for boundary line eliminations/adjustments (no new parcels) and the Rural Development Exemption for parcels over 160 acres (max 1 unit per 20 ac, with open space or a 50% density cut), decided by the BOCC. — [[3]](https://gilpinpublicdata.s3.us-west-1.amazonaws.com/Community-Development/Planning+Division/2022+Zoning+Regulations.pdf) *(verified)*
+- A minor subdivision (sketch plan plus final plat) is limited to dividing parcels under 20 acres into 4 or fewer lots. — [[3]](https://gilpinpublicdata.s3.us-west-1.amazonaws.com/Community-Development/Planning+Division/2022+Zoning+Regulations.pdf) *(verified)*
+
+> State law leaves splits into parcels of **35 acres or more** out of "subdivision". Smaller parcels need county
+> review or an exemption, and wells on them are usually limited to in-house use. See
+> [Subdividing, Zoning & Short-Term Rentals](../19-subdivision-zoning-short-term-rentals.md).
+
+## Zoning basics
+
+- Most private land is zoned RR (Resource Residential, 20-acre minimum lot) or RS (Residential Subdivision, 5-acre minimum). — [[2]](https://gilpincounty.colorado.gov/departments-offices/community-development/planning-zoning) *(verified)*
+- Both zones allow one primary home plus one accessory dwelling unit per parcel; no duplexes or multifamily. The house must be built before accessory structures. — [[2]](https://gilpincounty.colorado.gov/departments-offices/community-development/planning-zoning) *(verified)*
+- Lot coverage of all structures can't exceed 25%. The zoning regulations are being comprehensively rewritten (2026). — [[2]](https://gilpincounty.colorado.gov/departments-offices/community-development/planning-zoning), [[4]](https://gilpincounty.colorado.gov/departments-offices/community-development/planning-division/short-term-rentals) *(verified)*
 
 ## Private (non-commercial) camping
 
@@ -39,7 +61,13 @@
 
 ## Short-term rental / lodging rules
 
-- Not researched. If you offer a cabin, yurt or other structure, check for an STR/vacation-rental permit.
+- A county STR Operating License is required. Ordinance 26-01, adopted Sept 22, 2026, replaced Ordinance 22-04. — [[4]](https://gilpincounty.colorado.gov/departments-offices/community-development/planning-division/short-term-rentals), [[5]](https://gilpinpublicdata.s3.us-west-1.amazonaws.com/Community-Development/Short+Term+Rentals/Ordinance+26-01+-+Short+Term+Rental+Regulations%2C+Repealing+and+Replacing+Ord.+22-04+-+Final+Draft+as+Adopted+Pending+Signature+for+Webpage.pdf) *(verified)*
+- Tier 1 (owner lives on the property as their primary residence at the same time) is uncapped. Tier 2 (commercial/absentee) is capped at the lesser of 5% of housing units or 155. The cap is full, with about 21 on the waitlist (July 2026). — [[4]](https://gilpincounty.colorado.gov/departments-offices/community-development/planning-division/short-term-rentals), [[5]](https://gilpinpublicdata.s3.us-west-1.amazonaws.com/Community-Development/Short+Term+Rentals/Ordinance+26-01+-+Short+Term+Rental+Regulations%2C+Repealing+and+Replacing+Ord.+22-04+-+Final+Draft+as+Adopted+Pending+Signature+for+Webpage.pdf) *(verified)*
+- Licenses can be issued for a single-family home, an ADU, or attached/multifamily units, but no more than 2 STR units per property and no more than 2 per applicant. — [[5]](https://gilpinpublicdata.s3.us-west-1.amazonaws.com/Community-Development/Short+Term+Rentals/Ordinance+26-01+-+Short+Term+Rental+Regulations%2C+Repealing+and+Replacing+Ord.+22-04+-+Final+Draft+as+Adopted+Pending+Signature+for+Webpage.pdf) *(verified)*
+- So an owner living on site could rent the main house's spare space and the ADU cabin (Tier 1). An absentee buyer would need a waitlisted Tier 2 license. — [[5]](https://gilpinpublicdata.s3.us-west-1.amazonaws.com/Community-Development/Short+Term+Rentals/Ordinance+26-01+-+Short+Term+Rental+Regulations%2C+Repealing+and+Replacing+Ord.+22-04+-+Final+Draft+as+Adopted+Pending+Signature+for+Webpage.pdf) *(verified)*
+- No licenses for temporary structures (yurts, tiny homes, tents) or anything without a Certificate of Occupancy. Occupancy is capped by septic design, with a recent septic inspection, legal water supply and 1 parking space per rented bedroom. — [[5]](https://gilpinpublicdata.s3.us-west-1.amazonaws.com/Community-Development/Short+Term+Rentals/Ordinance+26-01+-+Short+Term+Rental+Regulations%2C+Repealing+and+Replacing+Ord.+22-04+-+Final+Draft+as+Adopted+Pending+Signature+for+Webpage.pdf), [[2]](https://gilpincounty.colorado.gov/departments-offices/community-development/planning-zoning) *(verified)*
+- Rental campsites/RV parks need a Special Use in RR or commercial zones. — [[2]](https://gilpincounty.colorado.gov/departments-offices/community-development/planning-zoning) *(verified)*
+- A cabin rented to guests generally has to be a permitted dwelling (or an approved lodging unit), with a septic system sized for its bedrooms.
 - Lodging taxes: Hipcamp collects state, county lodging and local marketing district taxes. Check for a **home-rule city** tax if the parcel is inside a municipality. See [Taxes](../10-taxes-and-licensing.md).
 
 ## Health, fire & other authorities
@@ -75,6 +103,10 @@ Sources: [OEDIT EZ administrators](https://oedit.colorado.gov/local-enterprise-z
 ## Sources
 
 1. [Gilpin County Planning & Zoning](https://gilpincounty.colorado.gov/departments-offices/community-development/planning-zoning) — primary, read
+2. [Gilpin County Planning & Zoning FAQ (same page as pz)](https://gilpincounty.colorado.gov/departments-offices/community-development/planning-zoning) — primary, read, FAQ 1, 4, 6, 8
+3. [Gilpin County Zoning Regulations (2022)](https://gilpinpublicdata.s3.us-west-1.amazonaws.com/Community-Development/Planning+Division/2022+Zoning+Regulations.pdf) — primary, read, Sec. 5.3, 5.5, minor subdivision
+4. [Gilpin County: Short Term Rentals](https://gilpincounty.colorado.gov/departments-offices/community-development/planning-division/short-term-rentals) — primary, read
+5. [Gilpin County Ordinance 26-01, Short-Term Rental Regulations (adopted Sept 22, 2026; final draft pending signature)](https://gilpinpublicdata.s3.us-west-1.amazonaws.com/Community-Development/Short+Term+Rentals/Ordinance+26-01+-+Short+Term+Rental+Regulations%2C+Repealing+and+Replacing+Ord.+22-04+-+Final+Draft+as+Adopted+Pending+Signature+for+Webpage.pdf) — primary, read, Sec. 3, 5, 6, 7
 
 "Verified" means the cited text was read in the government's own document on the date checked. "Needs confirmation"
 means the claim came from an official page or a search summary, or from a secondary source, and the text wasn't read
